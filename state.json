@@ -104,8 +104,113 @@
       "url": "https://github.com/AdguardTeam/AdGuardHome",
       "source": "Trending (TypeScript)",
       "posted": false
+    },
+    "langchain-ai/deepagents": {
+      "date": "2026-10-31",
+      "stars": 30814,
+      "url": "https://github.com/langchain-ai/deepagents",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "QwenLM/qwen-code": {
+      "date": "2026-10-31",
+      "stars": 28842,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "EveryInc/compound-engineering-plugin": {
+      "date": "2026-10-31",
+      "stars": 25792,
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "NVIDIA-NeMo/Speech": {
+      "date": "2026-10-31",
+      "stars": 18661,
+      "url": "https://github.com/NVIDIA-NeMo/Speech",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Renhuai123/ziwei-doushu": {
+      "date": "2026-10-31",
+      "stars": 11439,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "togg53192-cmd/jailbreaks": {
+      "date": "2026-10-31",
+      "stars": 11371,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "CopilotKit/OpenBot": {
+      "date": "2026-10-31",
+      "stars": 8893,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "milind-soni/OpenMausBot": {
+      "date": "2026-10-31",
+      "stars": 8838,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "JetBrains/thinkrail": {
+      "date": "2026-10-31",
+      "stars": 6650,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "macro-inc/macro": {
+      "date": "2026-10-31",
+      "stars": 5915,
+      "url": "https://github.com/macro-inc/macro",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "kirodotdev/KiroCrew": {
+      "date": "2026-10-31",
+      "stars": 4674,
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "nightly-labs/openbot": {
+      "date": "2026-10-31",
+      "stars": 4257,
+      "url": "https://github.com/nightly-labs/openbot",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "anhao/ai-pose-gallery-zh": {
+      "date": "2026-10-31",
+      "stars": 4099,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "expo/skills": {
+      "date": "2026-10-31",
+      "stars": 3918,
+      "url": "https://github.com/expo/skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "interplains/Zero-Breach-Toolkit": {
+      "date": "2026-10-31",
+      "stars": 3894,
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "source": "Search API (New Spikes)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-10-30T21:49:15.909999"
+  "last_run": "2026-10-31T04:51:24.432042"
 }

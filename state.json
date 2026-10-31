@@ -1,0 +1,111 @@
+{
+  "seen": {
+    "openclaw/openclaw": {
+      "date": "2026-10-30",
+      "stars": 393499,
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "obra/superpowers": {
+      "date": "2026-10-30",
+      "stars": 309528,
+      "url": "https://github.com/obra/superpowers",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "mattpocock/skills": {
+      "date": "2026-10-30",
+      "stars": 307603,
+      "url": "https://github.com/mattpocock/skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "n8n-io/n8n": {
+      "date": "2026-10-30",
+      "stars": 209160,
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "anthropics/skills": {
+      "date": "2026-10-30",
+      "stars": 185439,
+      "url": "https://github.com/anthropics/skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "thedotmack/claude-mem": {
+      "date": "2026-10-30",
+      "stars": 106532,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "pbakaus/impeccable": {
+      "date": "2026-10-30",
+      "stars": 97267,
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "MemPalace/mempalace": {
+      "date": "2026-10-30",
+      "stars": 60167,
+      "url": "https://github.com/MemPalace/mempalace",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "vectorize-io/hindsight": {
+      "date": "2026-10-30",
+      "stars": 56711,
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "HKUDS/DeepTutor": {
+      "date": "2026-10-30",
+      "stars": 51920,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "KeygraphHQ/shannon": {
+      "date": "2026-10-30",
+      "stars": 50604,
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Crosstalk-Solutions/project-nomad": {
+      "date": "2026-10-30",
+      "stars": 41408,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "lfnovo/open-notebook": {
+      "date": "2026-10-30",
+      "stars": 41020,
+      "url": "https://github.com/lfnovo/open-notebook",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "lightpanda-io/browser": {
+      "date": "2026-10-30",
+      "stars": 38535,
+      "url": "https://github.com/lightpanda-io/browser",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "AdguardTeam/AdGuardHome": {
+      "date": "2026-10-30",
+      "stars": 37984,
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    }
+  },
+  "posted": {},
+  "last_run": "2026-10-30T21:49:15.909999"
+}

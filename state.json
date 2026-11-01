@@ -209,8 +209,113 @@
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "source": "Search API (New Spikes)",
       "posted": false
+    },
+    "github/spec-kit": {
+      "date": "2026-11-01",
+      "stars": 144556,
+      "url": "https://github.com/github/spec-kit",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Graphify-Labs/graphify": {
+      "date": "2026-11-01",
+      "stars": 140147,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "stablyai/orca": {
+      "date": "2026-11-01",
+      "stars": 111901,
+      "url": "https://github.com/stablyai/orca",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "paperclipai/paperclip": {
+      "date": "2026-11-01",
+      "stars": 109610,
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "bregman-arie/devops-exercises": {
+      "date": "2026-11-01",
+      "stars": 86138,
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "calesthio/OpenMontage": {
+      "date": "2026-11-01",
+      "stars": 74087,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "paperless-ngx/paperless-ngx": {
+      "date": "2026-11-01",
+      "stars": 47479,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "tashfeenahmed/freellmapi": {
+      "date": "2026-11-01",
+      "stars": 45292,
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "THU-MAIC/OpenMAIC": {
+      "date": "2026-11-01",
+      "stars": 42287,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "Yeachan-Heo/oh-my-claudecode": {
+      "date": "2026-11-01",
+      "stars": 40470,
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "vorssaint/vorssaint-utils": {
+      "date": "2026-11-01",
+      "stars": 32061,
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "Donchitos/Claude-Code-Game-Studios": {
+      "date": "2026-11-01",
+      "stars": 31393,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "The-PR-Agent/pr-agent": {
+      "date": "2026-11-01",
+      "stars": 13848,
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "OpenCTI-Platform/opencti": {
+      "date": "2026-11-01",
+      "stars": 10236,
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "sngyai/Sequoia-X": {
+      "date": "2026-11-01",
+      "stars": 8429,
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-10-31T04:51:24.432042"
+  "last_run": "2026-11-01T07:12:48.392393"
 }

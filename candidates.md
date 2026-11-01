@@ -4,6 +4,103 @@
 
 ---
 
+# GitHub 热度急剧上升开源项目精选 (2026-11-01)
+
+> 自动收录于 2026-11-01 07:12:48。今日精选 15 个爆发新星项目。
+
+### 1. [github/spec-kit](https://github.com/github/spec-kit)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **144556** (154 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: 💫 Toolkit to help you get started with SDD or any other process!
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Agithub/spec-kit%0A%0A%F0%9F%92%A1%20%F0%9F%92%AB%20Toolkit%20to%20help%20you%20get%20started%20with%20SDD%20or%20any%20other%20process%21%0A%E2%AD%90%20Stars%3A%20144556%20%28154%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/github/spec-kit%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 2. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **140147** (660 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AGraphify-Labs/graphify%0A%0A%F0%9F%92%A1%20Turn%20any%20codebase%2C%20with%20its%20docs%2C%20SQL%20schemas%2C%20configs%2C%20and%20PDFs%2C%20into%20a%20queryable%20know...%0A%E2%AD%90%20Stars%3A%20140147%20%28660%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/Graphify-Labs/graphify%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 3. [stablyai/orca](https://github.com/stablyai/orca)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **111901** (728 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Astablyai/orca%0A%0A%F0%9F%92%A1%20Orca%20is%20the%20place%20for%20working%20with%20a%20fleet%20of%20agents%20%28e.g.%20Grok%20Bot%2C%20Claude%20Code%29.%20Run%20...%0A%E2%AD%90%20Stars%3A%20111901%20%28728%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/stablyai/orca%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 4. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **109610** (401 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: The open-source app everyone uses to manage agents at work
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Apaperclipai/paperclip%0A%0A%F0%9F%92%A1%20The%20open-source%20app%20everyone%20uses%20to%20manage%20agents%20at%20work%0A%E2%AD%90%20Stars%3A%20109610%20%28401%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/paperclipai/paperclip%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 5. [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- **分类领域**: `🛠️ 开发者工具 & 架构` | **主要语言**: `Python`
+- **热度表现**: ⭐ **86138** (342 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Abregman-arie/devops-exercises%0A%0A%F0%9F%92%A1%20Linux%2C%20Jenkins%2C%20AWS%2C%20SRE%2C%20Prometheus%2C%20Docker%2C%20Python%2C%20Ansible%2C%20Git%2C%20Kubernetes%2C%20Terrafo...%0A%E2%AD%90%20Stars%3A%2086138%20%28342%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9B%A0%EF%B8%8F%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%20%26%20%E6%9E%B6%E6%9E%84%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/bregman-arie/devops-exercises%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 6. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **74087** (583 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Acalesthio/OpenMontage%0A%0A%F0%9F%92%A1%20World%27s%20first%20open-source%2C%20agentic%20video%20production%20system.%2012%20production%20pipelines%2C%2010...%0A%E2%AD%90%20Stars%3A%2074087%20%28583%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/calesthio/OpenMontage%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 7. [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **47479** (80 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: A community-supported supercharged document management system: scan, index and archive all your documents
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Apaperless-ngx/paperless-ngx%0A%0A%F0%9F%92%A1%20A%20community-supported%20supercharged%20document%20management%20system%3A%20scan%2C%20index%20and%20archive%20...%0A%E2%AD%90%20Stars%3A%2047479%20%2880%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/paperless-ngx/paperless-ngx%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **45292** (593 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Atashfeenahmed/freellmapi%0A%0A%F0%9F%92%A1%207.4%20billion%20tokens%20per%20month.%2034%20free%20LLM%20providers.%20635%20free%20model%20endpoints.%20All%20behi...%0A%E2%AD%90%20Stars%3A%2045292%20%28593%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/tashfeenahmed/freellmapi%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 9. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **42287** (116 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9ATHU-MAIC/OpenMAIC%0A%0A%F0%9F%92%A1%20Open%20Multi-Agent%20Interactive%20Classroom%20%E2%80%94%20Get%20an%20immersive%2C%20multi-agent%20learning%20experie...%0A%E2%AD%90%20Stars%3A%2042287%20%28116%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/THU-MAIC/OpenMAIC%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 10. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **40470** (36 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Teams-first Multi-agent orchestration for Claude Code
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AYeachan-Heo/oh-my-claudecode%0A%0A%F0%9F%92%A1%20Teams-first%20Multi-agent%20orchestration%20for%20Claude%20Code%0A%E2%AD%90%20Stars%3A%2040470%20%2836%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/Yeachan-Heo/oh-my-claudecode%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 11. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Swift`
+- **热度表现**: ⭐ **32061** (501 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Free and open-source macOS menu bar toolkit.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Avorssaint/vorssaint-utils%0A%0A%F0%9F%92%A1%20Free%20and%20open-source%20macOS%20menu%20bar%20toolkit.%0A%E2%AD%90%20Stars%3A%2032061%20%28501%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/vorssaint/vorssaint-utils%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 12. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Shell`
+- **热度表现**: ⭐ **31393** (742 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9ADonchitos/Claude-Code-Game-Studios%0A%0A%F0%9F%92%A1%20Turn%20Claude%20Code%20into%20a%20full%20game%20dev%20studio%20%E2%80%94%2049%20AI%20agents%2C%2072%20workflow%20skills%2C%20and%20a%20...%0A%E2%AD%90%20Stars%3A%2031393%20%28742%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/Donchitos/Claude-Code-Game-Studios%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 13. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **13848** (122 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AThe-PR-Agent/pr-agent%0A%0A%F0%9F%92%A1%20%F0%9F%9A%80%20PR%20Agent%3A%20The%20Original%20Open-Source%20PR%20Reviewer.%20This%20project%20is%20not%20the%20Qodo%20free%20tier.%0A%E2%AD%90%20Stars%3A%2013848%20%28122%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/The-PR-Agent/pr-agent%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 14. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **10236** (9 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Open Cyber Threat Intelligence Platform
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AOpenCTI-Platform/opencti%0A%0A%F0%9F%92%A1%20Open%20Cyber%20Threat%20Intelligence%20Platform%0A%E2%AD%90%20Stars%3A%2010236%20%289%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/OpenCTI-Platform/opencti%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 15. [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **8429** (29 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Asngyai/Sequoia-X%0A%0A%F0%9F%92%A1%20A%E8%82%A1%E8%87%AA%E5%8A%A8%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F%20%E2%80%94%20%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E5%BD%A2%E6%80%81%E8%87%AA%E5%8A%A8%E6%89%AB%E6%8F%8F%EF%BC%8C%E6%94%B6%E7%9B%98%E5%90%8E%E8%87%AA%E5%8A%A8%E8%BF%90%E8%A1%8C%E5%B9%B6%E6%8E%A8%E9%80%81%E9%A3%9E%E4%B9%A6%0A%E2%AD%90%20Stars%3A%208429%20%2829%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/sngyai/Sequoia-X%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+
+---
+
 # GitHub 热度急剧上升开源项目精选 (2026-10-31)
 
 > 自动收录于 2026-10-31 04:51:24。今日精选 15 个爆发新星项目。

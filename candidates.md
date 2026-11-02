@@ -4,6 +4,103 @@
 
 ---
 
+# GitHub 热度急剧上升开源项目精选 (2026-11-02)
+
+> 自动收录于 2026-11-02 07:25:41。今日精选 15 个爆发新星项目。
+
+### 1. [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **495029** (324 stars today) | 来源: `Trending (All)`
+- **官方介绍**: A collective list of free APIs
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Apublic-apis/public-apis%0A%0A%F0%9F%92%A1%20A%20collective%20list%20of%20free%20APIs%0A%E2%AD%90%20Stars%3A%20495029%20%28324%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/public-apis/public-apis%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 2. [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **154209** (140 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aanthropics/claude-code%0A%0A%F0%9F%92%A1%20Claude%20Code%20is%20an%20agentic%20coding%20tool%20that%20lives%20in%20your%20terminal%2C%20understands%20your%20cod...%0A%E2%AD%90%20Stars%3A%20154209%20%28140%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/anthropics/claude-code%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 3. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+- **分类领域**: `🛠️ 开发者工具 & 架构` | **主要语言**: `Python`
+- **热度表现**: ⭐ **91962** (892 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AD4Vinci/Scrapling%0A%0A%F0%9F%92%A1%20%F0%9F%95%B7%EF%B8%8F%20The%20BEST%20Web%20Scraping%20framework%20that%20handles%20everything%20from%20a%20single%20request%20to%20a%20f...%0A%E2%AD%90%20Stars%3A%2091962%20%28892%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9B%A0%EF%B8%8F%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%20%26%20%E6%9E%B6%E6%9E%84%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/D4Vinci/Scrapling%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 4. [python/cpython](https://github.com/python/cpython)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **77791** (40 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: The Python programming language
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Apython/cpython%0A%0A%F0%9F%92%A1%20The%20Python%20programming%20language%0A%E2%AD%90%20Stars%3A%2077791%20%2840%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/python/cpython%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 5. [upscayl/upscayl](https://github.com/upscayl/upscayl)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **51605** (124 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aupscayl/upscayl%0A%0A%F0%9F%92%A1%20%F0%9F%86%99%20Upscayl%20-%20%231%20Free%20and%20Open%20Source%20AI%20Image%20Upscaler%20for%20Linux%2C%20MacOS%20and%20Windows.%0A%E2%AD%90%20Stars%3A%2051605%20%28124%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/upscayl/upscayl%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 6. [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **46632** (47 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9ALibreChat-AI/LibreChat%0A%0A%F0%9F%92%A1%20Enhanced%20ChatGPT%20Clone%3A%20Features%20Agents%2C%20MCP%2C%20Skills%2C%20DeepSeek%2C%20Anthropic%2C%20AWS%2C%20OpenAI%2C...%0A%E2%AD%90%20Stars%3A%2046632%20%2847%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/LibreChat-AI/LibreChat%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 7. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `Python`
+- **热度表现**: ⭐ **45610** (630 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Kronos: A Foundation Model for the Language of Financial Markets
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ashiyu-coder/Kronos%0A%0A%F0%9F%92%A1%20Kronos%3A%20A%20Foundation%20Model%20for%20the%20Language%20of%20Financial%20Markets%0A%E2%AD%90%20Stars%3A%2045610%20%28630%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/shiyu-coder/Kronos%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 8. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **42745** (1,584 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aifixai-ai/iFixAi%0A%0A%F0%9F%92%A1%20Independent%20Auditing%20of%20AI%20Agents.%20Run%20by%20human%20or%20the%20agent%20itself%2C%20to%20answer%20the%20most...%0A%E2%AD%90%20Stars%3A%2042745%20%281%2C584%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/ifixai-ai/iFixAi%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 9. [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Jupyter Notebook`
+- **热度表现**: ⭐ **40615** (1,191 stars today) | 来源: `Trending (All)`
+- **官方介绍**: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Apatchy631/ai-engineering-hub%0A%0A%F0%9F%92%A1%20In-depth%20tutorials%20on%20LLMs%2C%20RAGs%20and%20real-world%20AI%20agent%20applications.%0A%E2%AD%90%20Stars%3A%2040615%20%281%2C191%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/patchy631/ai-engineering-hub%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 10. [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **40011** (18 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Asiddharthvaddem/openscreen%0A%0A%F0%9F%92%A1%20Create%20stunning%20demos%20for%20free.%20Open-source%2C%20no%20subscriptions%2C%20no%20watermarks%2C%20and%20free%20...%0A%E2%AD%90%20Stars%3A%2040011%20%2818%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/siddharthvaddem/openscreen%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 11. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `C++`
+- **热度表现**: ⭐ **39525** (38 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ahyprwm/Hyprland%0A%0A%F0%9F%92%A1%20Hyprland%20is%20an%20independent%2C%20highly%20customizable%2C%20dynamic%20tiling%20Wayland%20compositor%20that...%0A%E2%AD%90%20Stars%3A%2039525%20%2838%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/hyprwm/Hyprland%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 12. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **38407** (112 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Clone any website with one command using AI coding agents
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AJCodesMore/ai-website-cloner-template%0A%0A%F0%9F%92%A1%20Clone%20any%20website%20with%20one%20command%20using%20AI%20coding%20agents%0A%E2%AD%90%20Stars%3A%2038407%20%28112%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/JCodesMore/ai-website-cloner-template%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 13. [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **37957** (53 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Vane is an AI-powered answering engine.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AItzCrazyKns/Vane%0A%0A%F0%9F%92%A1%20Vane%20is%20an%20AI-powered%20answering%20engine.%0A%E2%AD%90%20Stars%3A%2037957%20%2853%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/ItzCrazyKns/Vane%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 14. [cjpais/Handy](https://github.com/cjpais/Handy)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **主要语言**: `Rust`
+- **热度表现**: ⭐ **36844** (339 stars today) | 来源: `Trending (All)`
+- **官方介绍**: A free, open source, and extensible speech-to-text application that works completely offline.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Acjpais/Handy%0A%0A%F0%9F%92%A1%20A%20free%2C%20open%20source%2C%20and%20extensible%20speech-to-text%20application%20that%20works%20completely%20of...%0A%E2%AD%90%20Stars%3A%2036844%20%28339%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%8E%AC%20AI%20%E8%A7%86%E9%A2%91%20/%20%E8%A7%86%E8%A7%89%E4%B8%8E%E5%A4%9A%E5%AA%92%E4%BD%93%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/cjpais/Handy%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 15. [motiondivision/motion](https://github.com/motiondivision/motion)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **34790** (57 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: A modern animation library for React and JavaScript
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amotiondivision/motion%0A%0A%F0%9F%92%A1%20A%20modern%20animation%20library%20for%20React%20and%20JavaScript%0A%E2%AD%90%20Stars%3A%2034790%20%2857%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%8E%AC%20AI%20%E8%A7%86%E9%A2%91%20/%20%E8%A7%86%E8%A7%89%E4%B8%8E%E5%A4%9A%E5%AA%92%E4%BD%93%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/motiondivision/motion%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+
+---
+
 # GitHub 热度急剧上升开源项目精选 (2026-11-01)
 
 > 自动收录于 2026-11-01 07:12:48。今日精选 15 个爆发新星项目。

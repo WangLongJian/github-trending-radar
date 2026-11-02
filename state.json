@@ -314,8 +314,113 @@
       "url": "https://github.com/sngyai/Sequoia-X",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "public-apis/public-apis": {
+      "date": "2026-11-02",
+      "stars": 495029,
+      "url": "https://github.com/public-apis/public-apis",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "anthropics/claude-code": {
+      "date": "2026-11-02",
+      "stars": 154209,
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "D4Vinci/Scrapling": {
+      "date": "2026-11-02",
+      "stars": 91962,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "python/cpython": {
+      "date": "2026-11-02",
+      "stars": 77791,
+      "url": "https://github.com/python/cpython",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "upscayl/upscayl": {
+      "date": "2026-11-02",
+      "stars": 51605,
+      "url": "https://github.com/upscayl/upscayl",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "LibreChat-AI/LibreChat": {
+      "date": "2026-11-02",
+      "stars": 46632,
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "shiyu-coder/Kronos": {
+      "date": "2026-11-02",
+      "stars": 45610,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "ifixai-ai/iFixAi": {
+      "date": "2026-11-02",
+      "stars": 42745,
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "patchy631/ai-engineering-hub": {
+      "date": "2026-11-02",
+      "stars": 40615,
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "siddharthvaddem/openscreen": {
+      "date": "2026-11-02",
+      "stars": 40011,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "hyprwm/Hyprland": {
+      "date": "2026-11-02",
+      "stars": 39525,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "JCodesMore/ai-website-cloner-template": {
+      "date": "2026-11-02",
+      "stars": 38407,
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "ItzCrazyKns/Vane": {
+      "date": "2026-11-02",
+      "stars": 37957,
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "cjpais/Handy": {
+      "date": "2026-11-02",
+      "stars": 36844,
+      "url": "https://github.com/cjpais/Handy",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "motiondivision/motion": {
+      "date": "2026-11-02",
+      "stars": 34790,
+      "url": "https://github.com/motiondivision/motion",
+      "source": "Trending (TypeScript)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-01T07:12:48.392393"
+  "last_run": "2026-11-02T07:25:41.375300"
 }

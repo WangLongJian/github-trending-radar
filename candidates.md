@@ -4,6 +4,103 @@
 
 ---
 
+# GitHub 热度急剧上升开源项目精选 (2026-11-03)
+
+> 自动收录于 2026-11-03 07:40:58。今日精选 15 个爆发新星项目。
+
+### 1. [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **90043** (87 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Akoala73/worldmonitor%0A%0A%F0%9F%92%A1%20Real-time%20global%20intelligence%20dashboard.%20AI-powered%20news%20aggregation%2C%20geopolitical%20moni...%0A%E2%AD%90%20Stars%3A%2090043%20%2887%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/koala73/worldmonitor%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 2. [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **84058** (402 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Acheaper-inference/OmniRoute%0A%0A%F0%9F%92%A1%20Never%20stop%20coding.%20Free%20MIT%20AI%20gateway%3A%20one%20endpoint%2C%20375%20providers%20%28150%2B%20free%29%2C%201%2C400%2B...%0A%E2%AD%90%20Stars%3A%2084058%20%28402%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/cheaper-inference/OmniRoute%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 3. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **70000** (294 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9ANanmiCoder/MediaCrawler%0A%0A%F0%9F%92%A1%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%AC%94%E8%AE%B0%20%7C%20%E8%AF%84%E8%AE%BA%E7%88%AC%E8%99%AB%E3%80%81%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%20%7C%20%E8%AF%84%E8%AE%BA%E7%88%AC%E8%99%AB%E3%80%81%E5%BF%AB%E6%89%8B%E8%A7%86%E9%A2%91%20%7C%20%E8%AF%84%E8%AE%BA%E7%88%AC%E8%99%AB%E3%80%81B%20%E7%AB%99%E8%A7%86%E9%A2%91%20%EF%BD%9C%20%E8%AF%84%E8%AE%BA%E7%88%AC%E8%99%AB%E3%80%81%E5%BE%AE%E5%8D%9A%E5%B8%96%E5%AD%90%20%EF%BD%9C%20%E8%AF%84%E8%AE%BA%E7%88%AC%E8%99%AB%E3%80%81%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%B8%96%E5%AD%90%20%EF%BD%9C%20%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E8%AF%84%E8%AE%BA%E5%9B%9E%E5%A4%8D%E7%88%AC%E8%99%AB%20%7C%20%E7%9F%A5%E4%B9%8E%E9%97%AE...%0A%E2%AD%90%20Stars%3A%2070000%20%28294%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/NanmiCoder/MediaCrawler%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 4. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **66403** (136 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amvanhorn/last30days-skill%0A%0A%F0%9F%92%A1%20AI%20agent%20skill%20that%20researches%20any%20topic%20across%20Reddit%2C%20X%2C%20YouTube%2C%20HN%2C%20Polymarket%2C%20and...%0A%E2%AD%90%20Stars%3A%2066403%20%28136%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/mvanhorn/last30days-skill%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 5. [karpathy/nanochat](https://github.com/karpathy/nanochat)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **60057** (321 stars today) | 来源: `Trending (All)`
+- **官方介绍**: The best ChatGPT that $100 can buy.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Akarpathy/nanochat%0A%0A%F0%9F%92%A1%20The%20best%20ChatGPT%20that%20%24100%20can%20buy.%0A%E2%AD%90%20Stars%3A%2060057%20%28321%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/karpathy/nanochat%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 6. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `C`
+- **热度表现**: ⭐ **46789** (675 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AJustVugg/colibri%0A%0A%F0%9F%92%A1%20Run%20frontier%20MoE%20models%20on%20hardware%20you%20already%20own%20%E2%80%94%20pure%20C%2C%20zero%20deps%2C%20experts%20stream...%0A%E2%AD%90%20Stars%3A%2046789%20%28675%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/JustVugg/colibri%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 7. [p-e-w/heretic](https://github.com/p-e-w/heretic)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `Python`
+- **热度表现**: ⭐ **38299** (420 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ap-e-w/heretic%0A%0A%F0%9F%92%A1%20Training-free%20language%20model%20modification%3A%20Remove%20censorship%2C%20suppress%20slop%2C%20reduce%20syc...%0A%E2%AD%90%20Stars%3A%2038299%20%28420%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/p-e-w/heretic%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 8. [vercel-labs/skills](https://github.com/vercel-labs/skills)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **37854** (244 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: The open agent skills tool - npx skills
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Avercel-labs/skills%0A%0A%F0%9F%92%A1%20The%20open%20agent%20skills%20tool%20-%20npx%20skills%0A%E2%AD%90%20Stars%3A%2037854%20%28244%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/vercel-labs/skills%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 9. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **33317** (151 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amksglu/context-mode%0A%0A%F0%9F%92%A1%20Free%2C%20local%20plugin%20that%20keeps%20tool%20output%20out%20of%20your%20coding%20agent%27s%20context%20window.%20Sa...%0A%E2%AD%90%20Stars%3A%2033317%20%28151%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/mksglu/context-mode%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 10. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `Python`
+- **热度表现**: ⭐ **16299** (653 stars today) | 来源: `Trending (All)`
+- **官方介绍**: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AFlashML-org/FreeToken%0A%0A%F0%9F%92%A1%20FreeToken%20brings%20datacenter-scale%20model%20serving%20to%20your%20desktop.%20Run%20massive%20models%20loc...%0A%E2%AD%90%20Stars%3A%2016299%20%28653%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/FlashML-org/FreeToken%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 11. [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **14680** (~14680 (7天内新建)) | 来源: `Search API (New Spikes)`
+- **官方介绍**: Towards a More Autonomous Agent System
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Adeepseek-ai/dsh-superagent-prototype%0A%0A%F0%9F%92%A1%20Towards%20a%20More%20Autonomous%20Agent%20System%0A%E2%AD%90%20Stars%3A%2014680%20%28~14680%20%287%E5%A4%A9%E5%86%85%E6%96%B0%E5%BB%BA%29%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/deepseek-ai/dsh-superagent-prototype%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 12. [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **13785** (17 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amealie-recipes/mealie%0A%0A%F0%9F%92%A1%20Mealie%20is%20a%20self%20hosted%20recipe%20manager%20and%20meal%20planner%20with%20a%20RestAPI%20backend%20and%20a%20re...%0A%E2%AD%90%20Stars%3A%2013785%20%2817%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/mealie-recipes/mealie%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 13. [kornia/kornia](https://github.com/kornia/kornia)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **12238** (412 stars today) | 来源: `Trending (All)`
+- **官方介绍**: 🐍 Geometric Computer Vision Library for Spatial AI
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Akornia/kornia%0A%0A%F0%9F%92%A1%20%F0%9F%90%8D%20Geometric%20Computer%20Vision%20Library%20for%20Spatial%20AI%0A%E2%AD%90%20Stars%3A%2012238%20%28412%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/kornia/kornia%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 14. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Rust`
+- **热度表现**: ⭐ **10910** (2,275 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Computer use CLI for AI agents
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Avercel-labs/agent-desktop%0A%0A%F0%9F%92%A1%20Computer%20use%20CLI%20for%20AI%20agents%0A%E2%AD%90%20Stars%3A%2010910%20%282%2C275%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/vercel-labs/agent-desktop%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 15. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Rust`
+- **热度表现**: ⭐ **10168** (77 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amax-sixty/worktrunk%0A%0A%F0%9F%92%A1%20Worktrunk%20is%20a%20CLI%20for%20Git%20worktree%20management%2C%20designed%20for%20parallel%20AI%20agent%20workflows%0A%E2%AD%90%20Stars%3A%2010168%20%2877%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/max-sixty/worktrunk%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+
+---
+
 # GitHub 热度急剧上升开源项目精选 (2026-11-02)
 
 > 自动收录于 2026-11-02 07:25:41。今日精选 15 个爆发新星项目。

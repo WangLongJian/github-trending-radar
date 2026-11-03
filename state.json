@@ -419,8 +419,113 @@
       "url": "https://github.com/motiondivision/motion",
       "source": "Trending (TypeScript)",
       "posted": false
+    },
+    "koala73/worldmonitor": {
+      "date": "2026-11-03",
+      "stars": 90043,
+      "url": "https://github.com/koala73/worldmonitor",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "cheaper-inference/OmniRoute": {
+      "date": "2026-11-03",
+      "stars": 84058,
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "NanmiCoder/MediaCrawler": {
+      "date": "2026-11-03",
+      "stars": 70000,
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "mvanhorn/last30days-skill": {
+      "date": "2026-11-03",
+      "stars": 66403,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "karpathy/nanochat": {
+      "date": "2026-11-03",
+      "stars": 60057,
+      "url": "https://github.com/karpathy/nanochat",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "JustVugg/colibri": {
+      "date": "2026-11-03",
+      "stars": 46789,
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "p-e-w/heretic": {
+      "date": "2026-11-03",
+      "stars": 38299,
+      "url": "https://github.com/p-e-w/heretic",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "vercel-labs/skills": {
+      "date": "2026-11-03",
+      "stars": 37854,
+      "url": "https://github.com/vercel-labs/skills",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "mksglu/context-mode": {
+      "date": "2026-11-03",
+      "stars": 33317,
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "FlashML-org/FreeToken": {
+      "date": "2026-11-03",
+      "stars": 16299,
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "deepseek-ai/dsh-superagent-prototype": {
+      "date": "2026-11-03",
+      "stars": 14680,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "mealie-recipes/mealie": {
+      "date": "2026-11-03",
+      "stars": 13785,
+      "url": "https://github.com/mealie-recipes/mealie",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "kornia/kornia": {
+      "date": "2026-11-03",
+      "stars": 12238,
+      "url": "https://github.com/kornia/kornia",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "vercel-labs/agent-desktop": {
+      "date": "2026-11-03",
+      "stars": 10910,
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "max-sixty/worktrunk": {
+      "date": "2026-11-03",
+      "stars": 10168,
+      "url": "https://github.com/max-sixty/worktrunk",
+      "source": "Trending (All)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-02T07:25:41.375300"
+  "last_run": "2026-11-03T07:40:58.636693"
 }

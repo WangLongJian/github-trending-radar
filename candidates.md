@@ -4,6 +4,104 @@
 
 ---
 
+# GitHub 热度急剧上升开源项目精选 (2026-11-04)
+
+> 自动收录于 2026-11-04 07:20:05。今日精选 15 个爆发新星项目。
+
+### 1. [immich-app/immich](https://github.com/immich-app/immich)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **118176** (104 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: High performance self-hosted photo and video management solution.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aimmich-app/immich%0A%0A%F0%9F%92%A1%20High%20performance%20self-hosted%20photo%20and%20video%20management%20solution.%0A%E2%AD%90%20Stars%3A%20118176%20%28104%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%8E%AC%20AI%20%E8%A7%86%E9%A2%91%20/%20%E8%A7%86%E8%A7%89%E4%B8%8E%E5%A4%9A%E5%AA%92%E4%BD%93%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/immich-app/immich%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 2. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **73863** (117 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Spec-driven development (SDD) for AI coding assistants.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AFission-AI/OpenSpec%0A%0A%F0%9F%92%A1%20Spec-driven%20development%20%28SDD%29%20for%20AI%20coding%20assistants.%0A%E2%AD%90%20Stars%3A%2073863%20%28117%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/Fission-AI/OpenSpec%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 3. [blader/humanizer](https://github.com/blader/humanizer)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **64533** (407 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Agent skill that removes signs of AI-generated writing from text
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ablader/humanizer%0A%0A%F0%9F%92%A1%20Agent%20skill%20that%20removes%20signs%20of%20AI-generated%20writing%20from%20text%0A%E2%AD%90%20Stars%3A%2064533%20%28407%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/blader/humanizer%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 4. [floci-io/floci](https://github.com/floci-io/floci)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Java`
+- **热度表现**: ⭐ **29060** (482 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Light, fluffy, and always free - The AWS Local Emulator alternative
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Afloci-io/floci%0A%0A%F0%9F%92%A1%20Light%2C%20fluffy%2C%20and%20always%20free%20-%20The%20AWS%20Local%20Emulator%20alternative%0A%E2%AD%90%20Stars%3A%2029060%20%28482%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/floci-io/floci%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 5. [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **19706** (44 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Agent Zero AI framework
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aagent0ai/agent-zero%0A%0A%F0%9F%92%A1%20Agent%20Zero%20AI%20framework%0A%E2%AD%90%20Stars%3A%2019706%20%2844%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/agent0ai/agent-zero%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 6. [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Python`
+- **热度表现**: ⭐ **16820** (228 stars today) | 来源: `Trending (All)`
+- **官方介绍**: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AUsagi-org/ai-goofish-monitor%0A%0A%F0%9F%92%A1%20%E5%9F%BA%E4%BA%8E%20Playwright%20%E5%92%8CAI%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%97%B2%E9%B1%BC%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AE%9E%E6%97%B6/%E5%AE%9A%E6%97%B6%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%99%BA%E8%83%BD%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E9%85%8D%E5%A4%87%E4%BA%86%E5%8A%9F%E8%83%BD%E5%AE%8C%E5%96%84%E7%9A%84%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86UI%E3%80%82%E5%B8%AE%E5%8A%A9%E7%94%A8%E6%88%B7%E4%BB%8E%E9%97%B2%E9%B1%BC%E6%B5%B7%E9%87%8F%E5%95%86%E5%93%81%E4%B8%AD%EF%BC%8C%E6%89%BE%E5%88%B0%E5%BF%83%E4%BB%AA%E4%BA%A7%E5%93%81%E3%80%82%0A%E2%AD%90%20Stars%3A%2016820%20%28228%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/Usagi-org/ai-goofish-monitor%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 7. [github/copilot-cli](https://github.com/github/copilot-cli)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Python`
+- **热度表现**: ⭐ **11343** (13 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Agithub/copilot-cli%0A%0A%F0%9F%92%A1%20GitHub%20Copilot%20CLI%20brings%20the%20power%20of%20Copilot%20coding%20agent%20directly%20to%20your%20terminal.%0A%E2%AD%90%20Stars%3A%2011343%20%2813%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/github/copilot-cli%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 8. [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `Python`
+- **热度表现**: ⭐ **10113** (111 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9AMakazhanAlpamys/Soup%0A%0A%F0%9F%92%A1%20Fine-tune%20LLMs%20from%20one%20YAML.%20Layer%20streaming%20trains%20an%208B%20model%20on%20a%204%20GB%20laptop%20GPU.%0A%E2%AD%90%20Stars%3A%2010113%20%28111%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/MakazhanAlpamys/Soup%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 9. [storytold/craft-anything](https://github.com/storytold/craft-anything)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `Rust`
+- **热度表现**: ⭐ **9291** (~9291 (7天内新建)) | 来源: `Search API (New Spikes)`
+- **官方介绍**: Craft Anything: understand how any software works, and craft your own.
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Astorytold/craft-anything%0A%0A%F0%9F%92%A1%20Craft%20Anything%3A%20understand%20how%20any%20software%20works%2C%20and%20craft%20your%20own.%0A%E2%AD%90%20Stars%3A%209291%20%28~9291%20%287%E5%A4%A9%E5%86%85%E6%96%B0%E5%BB%BA%29%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/storytold/craft-anything%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 10. [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **8824** (31 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Amattpocock/sandcastle%0A%0A%F0%9F%92%A1%20Orchestrate%20sandboxed%20coding%20agents%20in%20TypeScript%20with%20sandcastle.run%28%29%0A%E2%AD%90%20Stars%3A%208824%20%2831%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/mattpocock/sandcastle%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 11. [heydamir/unslop](https://github.com/heydamir/unslop)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `JavaScript`
+- **热度表现**: ⭐ **7773** (~7773 (7天内新建)) | 来源: `Search API (New Spikes)`
+- **官方介绍**: A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aheydamir/unslop%0A%0A%F0%9F%92%A1%20A%20Claude%20skill%20that%20turns%20vibecoded%2C%20AI-looking%20UI%20into%20a%20designed%20interface%0A%E2%AD%90%20Stars%3A%207773%20%28~7773%20%287%E5%A4%A9%E5%86%85%E6%96%B0%E5%BB%BA%29%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/heydamir/unslop%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 12. [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)
+- **分类领域**: `🧠 大模型与算法前沿` | **主要语言**: `Python`
+- **热度表现**: ⭐ **7002** (92 stars today) | 来源: `Trending (Python)`
+- **官方介绍**: TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ashy3130/tick-stock-panel%0A%0A%F0%9F%92%A1%20TSP%E8%87%AA%E6%89%98%E7%AE%A1%E3%80%81%E9%9B%B6%E8%BF%90%E7%BB%B4%E7%9A%84%20A%20%E8%82%A1%E3%80%8C%E8%87%AA%E5%BB%BA%E7%AD%96%E7%95%A5%20%2B%20%E7%9B%91%E6%8E%A7%20%2B%20%E5%9B%9E%E6%B5%8B%E3%80%8D%E9%87%8F%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%8F%B0%20%7C%20LLM%E8%83%BD%E5%8A%9B%E9%A9%B1%E4%BD%BF%E7%AD%96%E7%95%A5%E5%AE%9A%E5%88%B6%2B%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90%2B%E5%A4%8D%E7%9B%98%20%7C%20%E8%87%AA%E7%94%B1%E6%8E%A5%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E6%95%B0%E6%8D%AE%E6%BA%90%E4%B8%8E%E4%B8%AA%E6%80%A7%E5%8C%96%E6%89%A9%E5%B1%95%E6%95%B0%E6%8D%AE%20%7C%20%E4%B8%AA%E4%BA%BA%E5%BC%80%E6%BA%90%0A%E2%AD%90%20Stars%3A%207002%20%2892%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A7%A0%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%AE%97%E6%B3%95%E5%89%8D%E6%B2%BF%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/shy3130/tick-stock-panel%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 13. [wangzan101/Mika](https://github.com/wangzan101/Mika)
+- **分类领域**: `🤖 AI & Agent Skills` | **主要语言**: `Kotlin`
+- **热度表现**: ⭐ **6219** (~6219 (7天内新建)) | 来源: `Search API (New Spikes)`
+- **官方介绍**: An on-device AI agent for Android that operates apps and the web to get things done for you.
+- **标签**: `accessibility`, `ai-agent`, `android`, `automation`, `jetpack-compose`, `kotlin`
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Awangzan101/Mika%0A%0A%F0%9F%92%A1%20An%20on-device%20AI%20agent%20for%20Android%20that%20operates%20apps%20and%20the%20web%20to%20get%20things%20done%20for...%0A%E2%AD%90%20Stars%3A%206219%20%28~6219%20%287%E5%A4%A9%E5%86%85%E6%96%B0%E5%BB%BA%29%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%A4%96%20AI%20%26%20Agent%20Skills%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/wangzan101/Mika%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 14. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
+- **分类领域**: `🚀 优质开源精选` | **主要语言**: `TypeScript`
+- **热度表现**: ⭐ **5604** (74 stars today) | 来源: `Trending (TypeScript)`
+- **官方介绍**: Email for professionals and teams
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Ahieunc229/mailflare%0A%0A%F0%9F%92%A1%20Email%20for%20professionals%20and%20teams%0A%E2%AD%90%20Stars%3A%205604%20%2874%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%9A%80%20%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E7%B2%BE%E9%80%89%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/hieunc229/mailflare%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+### 15. [anomalyco/hex](https://github.com/anomalyco/hex)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **主要语言**: `Rust`
+- **热度表现**: ⭐ **4768** (410 stars today) | 来源: `Trending (All)`
+- **官方介绍**: Local voice dictation for mac, windows and linux
+- **快速发推**: [👉 点击直接在 X 打开并预填发推内容](https://twitter.com/intent/tweet?text=%F0%9F%94%A5%20GitHub%20%E7%83%AD%E7%82%B9%E5%8F%91%E7%8E%B0%EF%BC%9Aanomalyco/hex%0A%0A%F0%9F%92%A1%20Local%20voice%20dictation%20for%20mac%2C%20windows%20and%20linux%0A%E2%AD%90%20Stars%3A%204768%20%28410%20stars%20today%29%0A%F0%9F%8F%B7%EF%B8%8F%20%E5%88%86%E7%B1%BB%3A%20%F0%9F%8E%AC%20AI%20%E8%A7%86%E9%A2%91%20/%20%E8%A7%86%E8%A7%89%E4%B8%8E%E5%A4%9A%E5%AA%92%E4%BD%93%0A%0A%F0%9F%94%97%20%E4%BC%A0%E9%80%81%E9%97%A8%3A%20https%3A//github.com/anomalyco/hex%0A%23GitHubTrending%20%23OpenSource%20%23AI)
+
+
+---
+
 # GitHub 热度急剧上升开源项目精选 (2026-11-03)
 
 > 自动收录于 2026-11-03 07:40:58。今日精选 15 个爆发新星项目。

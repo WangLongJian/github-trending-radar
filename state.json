@@ -524,8 +524,113 @@
       "url": "https://github.com/max-sixty/worktrunk",
       "source": "Trending (All)",
       "posted": false
+    },
+    "immich-app/immich": {
+      "date": "2026-11-04",
+      "stars": 118176,
+      "url": "https://github.com/immich-app/immich",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Fission-AI/OpenSpec": {
+      "date": "2026-11-04",
+      "stars": 73863,
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "blader/humanizer": {
+      "date": "2026-11-04",
+      "stars": 64533,
+      "url": "https://github.com/blader/humanizer",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "floci-io/floci": {
+      "date": "2026-11-04",
+      "stars": 29060,
+      "url": "https://github.com/floci-io/floci",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "agent0ai/agent-zero": {
+      "date": "2026-11-04",
+      "stars": 19706,
+      "url": "https://github.com/agent0ai/agent-zero",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Usagi-org/ai-goofish-monitor": {
+      "date": "2026-11-04",
+      "stars": 16820,
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "github/copilot-cli": {
+      "date": "2026-11-04",
+      "stars": 11343,
+      "url": "https://github.com/github/copilot-cli",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "MakazhanAlpamys/Soup": {
+      "date": "2026-11-04",
+      "stars": 10113,
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "storytold/craft-anything": {
+      "date": "2026-11-04",
+      "stars": 9291,
+      "url": "https://github.com/storytold/craft-anything",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "mattpocock/sandcastle": {
+      "date": "2026-11-04",
+      "stars": 8824,
+      "url": "https://github.com/mattpocock/sandcastle",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "heydamir/unslop": {
+      "date": "2026-11-04",
+      "stars": 7773,
+      "url": "https://github.com/heydamir/unslop",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "shy3130/tick-stock-panel": {
+      "date": "2026-11-04",
+      "stars": 7002,
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "wangzan101/Mika": {
+      "date": "2026-11-04",
+      "stars": 6219,
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "hieunc229/mailflare": {
+      "date": "2026-11-04",
+      "stars": 5604,
+      "url": "https://github.com/hieunc229/mailflare",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "anomalyco/hex": {
+      "date": "2026-11-04",
+      "stars": 4768,
+      "url": "https://github.com/anomalyco/hex",
+      "source": "Trending (All)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-03T07:40:58.636693"
+  "last_run": "2026-11-04T07:20:05.106228"
 }

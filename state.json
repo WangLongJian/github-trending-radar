@@ -629,8 +629,113 @@
       "url": "https://github.com/anomalyco/hex",
       "source": "Trending (All)",
       "posted": false
+    },
+    "garrytan/gstack": {
+      "date": "2026-11-05",
+      "stars": 139520,
+      "url": "https://github.com/garrytan/gstack",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "harry0703/MoneyPrinterTurbo": {
+      "date": "2026-11-05",
+      "stars": 139339,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "mermaid-js/mermaid": {
+      "date": "2026-11-05",
+      "stars": 91017,
+      "url": "https://github.com/mermaid-js/mermaid",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "labmlai/annotated_deep_learning_paper_implementations": {
+      "date": "2026-11-05",
+      "stars": 67692,
+      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "davila7/claude-code-templates": {
+      "date": "2026-11-05",
+      "stars": 33132,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "MichaelCade/90DaysOfDevOps": {
+      "date": "2026-11-05",
+      "stars": 30635,
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "openobserve/openobserve": {
+      "date": "2026-11-05",
+      "stars": 22804,
+      "url": "https://github.com/openobserve/openobserve",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "handsomestWei/patent-disclosure-skill": {
+      "date": "2026-11-05",
+      "stars": 12924,
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Thysrael/Horizon": {
+      "date": "2026-11-05",
+      "stars": 12734,
+      "url": "https://github.com/Thysrael/Horizon",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "FareedKhan-dev/kimi-k3-in-c": {
+      "date": "2026-11-05",
+      "stars": 10535,
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "elie222/rakazo": {
+      "date": "2026-11-05",
+      "stars": 7074,
+      "url": "https://github.com/elie222/rakazo",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Anil-matcha/open-duet": {
+      "date": "2026-11-05",
+      "stars": 6789,
+      "url": "https://github.com/Anil-matcha/open-duet",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "vercel-labs/scriptc": {
+      "date": "2026-11-05",
+      "stars": 6501,
+      "url": "https://github.com/vercel-labs/scriptc",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "NVIDIA/auto-ontology": {
+      "date": "2026-11-05",
+      "stars": 5867,
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "melgarafael/DeskcommCRM": {
+      "date": "2026-11-05",
+      "stars": 5154,
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "source": "Trending (TypeScript)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-04T07:20:05.106228"
+  "last_run": "2026-11-05T07:46:52.996823"
 }

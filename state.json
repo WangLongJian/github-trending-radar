@@ -734,8 +734,113 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "Trending (TypeScript)",
       "posted": false
+    },
+    "microsoft/VibeVoice": {
+      "date": "2026-11-06",
+      "stars": 56250,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "vercel-labs/agent-browser": {
+      "date": "2026-11-06",
+      "stars": 46115,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "google-research/timesfm": {
+      "date": "2026-11-06",
+      "stars": 35258,
+      "url": "https://github.com/google-research/timesfm",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "harvard-edge/cs249r_book": {
+      "date": "2026-11-06",
+      "stars": 29986,
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "mihomo-party-org/clash-party": {
+      "date": "2026-11-06",
+      "stars": 27145,
+      "url": "https://github.com/mihomo-party-org/clash-party",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "google/skills": {
+      "date": "2026-11-06",
+      "stars": 22531,
+      "url": "https://github.com/google/skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "github/docs": {
+      "date": "2026-11-06",
+      "stars": 21318,
+      "url": "https://github.com/github/docs",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "ConardLi/garden-skills": {
+      "date": "2026-11-06",
+      "stars": 14346,
+      "url": "https://github.com/ConardLi/garden-skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "tester-army/e2e": {
+      "date": "2026-11-06",
+      "stars": 13353,
+      "url": "https://github.com/tester-army/e2e",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "lz4/lz4": {
+      "date": "2026-11-06",
+      "stars": 12477,
+      "url": "https://github.com/lz4/lz4",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "cordiverse/cordis": {
+      "date": "2026-11-06",
+      "stars": 9710,
+      "url": "https://github.com/cordiverse/cordis",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "awslabs/aidlc-workflows": {
+      "date": "2026-11-06",
+      "stars": 5780,
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "NVIDIA/Model-Optimizer": {
+      "date": "2026-11-06",
+      "stars": 5543,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "google-gemini/gemini-skills": {
+      "date": "2026-11-06",
+      "stars": 4409,
+      "url": "https://github.com/google-gemini/gemini-skills",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "sandbox-quantum/switch": {
+      "date": "2026-11-06",
+      "stars": 3983,
+      "url": "https://github.com/sandbox-quantum/switch",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-05T07:46:52.996823"
+  "last_run": "2026-11-06T07:45:39.783504"
 }

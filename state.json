@@ -839,8 +839,113 @@
       "url": "https://github.com/sandbox-quantum/switch",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "react/react": {
+      "date": "2026-11-07",
+      "stars": 252308,
+      "url": "https://github.com/react/react",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "vuejs/vue": {
+      "date": "2026-11-07",
+      "stars": 212625,
+      "url": "https://github.com/vuejs/vue",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "microsoft/vscode": {
+      "date": "2026-11-07",
+      "stars": 195083,
+      "url": "https://github.com/microsoft/vscode",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "rust-lang/rust": {
+      "date": "2026-11-07",
+      "stars": 121526,
+      "url": "https://github.com/rust-lang/rust",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "angular/angular": {
+      "date": "2026-11-07",
+      "stars": 101423,
+      "url": "https://github.com/angular/angular",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "sherlock-project/sherlock": {
+      "date": "2026-11-07",
+      "stars": 98864,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "tailwindlabs/tailwindcss": {
+      "date": "2026-11-07",
+      "stars": 98169,
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "zed-industries/zed": {
+      "date": "2026-11-07",
+      "stars": 93834,
+      "url": "https://github.com/zed-industries/zed",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "django/django": {
+      "date": "2026-11-07",
+      "stars": 91671,
+      "url": "https://github.com/django/django",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "lobehub/lobehub": {
+      "date": "2026-11-07",
+      "stars": 84276,
+      "url": "https://github.com/lobehub/lobehub",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "vitejs/vite": {
+      "date": "2026-11-07",
+      "stars": 83848,
+      "url": "https://github.com/vitejs/vite",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "prometheus/prometheus": {
+      "date": "2026-11-07",
+      "stars": 67242,
+      "url": "https://github.com/prometheus/prometheus",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "cloudflare/security-audit-skill": {
+      "date": "2026-11-07",
+      "stars": 64445,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "withastro/astro": {
+      "date": "2026-11-07",
+      "stars": 63796,
+      "url": "https://github.com/withastro/astro",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "rails/rails": {
+      "date": "2026-11-07",
+      "stars": 59059,
+      "url": "https://github.com/rails/rails",
+      "source": "Trending (All)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-06T07:45:39.783504"
+  "last_run": "2026-11-07T06:53:32.508271"
 }

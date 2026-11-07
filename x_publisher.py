@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 
 """
-X (Twitter) Autonomous Publisher
-基于 Playwright 会话持久化的 X 自动化发帖工具（与 tiktok-uploader / instagram-uploader 架构一致）。
-支持：
-  1. python3 x_publisher.py login          # 弹窗一次性登录，自动捕获并保存 cookies.json
-  2. python3 x_publisher.py check          # 检查登录状态
-  3. python3 x_publisher.py post <repo>    # 100% 全自动静默发推（自动填入文案、上传合成配图并点击 Post）
+X (Twitter) Autonomous Publisher & Scheduler
+支持 Alpha John (英文号) 与 王坤PAS (中文号) 双账号独立凭证与全自动发布/排期：
+  1. python3 x_publisher.py login [alpha|wangkun]       # 弹窗登录指定账号，保存会话
+  2. python3 x_publisher.py check [alpha|wangkun]       # 检查对应账号登录态
+  3. python3 x_publisher.py post <account> <text> [img]  # 即时全自动发帖
+  4. python3 x_publisher.py schedule-one <account> <text> <iso_time> [img] # 排期单条
+  5. python3 x_publisher.py batch-schedule <account> [--limit N]          # 批量排期队列
 """
 
 import os
@@ -16,18 +17,28 @@ import time
 import json
 import argparse
 from pathlib import Path
+from datetime import datetime
 
-# 优先使用已安装 playwright 的 Python 环境
 DIR = Path(__file__).resolve().parent
-COOKIES_JSON = DIR / "cookies.json"
+COOKIES_ALPHA = DIR / "cookies_alpha.json"
+COOKIES_WANGKUN = DIR / "cookies_wangkun.json"
 STATE_FILE = DIR / "state.json"
+QUEUE_FILE = DIR / "schedule_queue.json"
+
+def get_cookies_path(account: str) -> Path:
+    acc = account.lower().strip()
+    if "alpha" in acc:
+        return COOKIES_ALPHA
+    elif "wangkun" in acc or "wang" in acc or "pas" in acc:
+        return COOKIES_WANGKUN
+    else:
+        return DIR / f"cookies_{acc}.json"
 
 def get_playwright():
     try:
         from playwright.sync_api import sync_playwright
         return sync_playwright
     except ImportError:
-        # 尝试从同目录其他项目的 venv 导入
         tiktok_venv = Path("/Users/wang/Documents/Files/Videos/tiktok-uploader/.venv/lib")
         for p in tiktok_venv.glob("python3.*/site-packages"):
             if str(p) not in sys.path:
@@ -37,9 +48,12 @@ def get_playwright():
 
 sync_playwright = get_playwright()
 
-def cmd_login():
-    print("🚀 启动浏览器进行 X (Twitter) 登录凭据捕获...")
-    print("👉 请在弹出的浏览器中登录您的目标 X 账号。")
+def cmd_login(account: str):
+    target_path = get_cookies_path(account)
+    acc_name = "Alpha John (英文)" if "alpha" in account.lower() else "王坤PAS (中文)"
+    
+    print(f"🚀 启动浏览器进行 [{acc_name}] 登录凭据捕获...")
+    print(f"👉 请在弹出的浏览器中登录您的目标 X 账号: {acc_name}。")
     print("👉 登录成功进入主页 (x.com/home) 后，系统将自动捕获凭证并保存！")
 
     with sync_playwright() as p:
@@ -54,7 +68,6 @@ def cmd_login():
         page = context.new_page()
         page.goto("https://x.com/i/flow/login")
 
-        # 循环检测是否登录成功进入主页
         logged_in = False
         for _ in range(120):  # 最多等待 240 秒
             time.sleep(2)
@@ -64,32 +77,37 @@ def cmd_login():
                 ct0 = next((c for c in cookies if c.get("name") == "ct0"), None)
 
                 if auth_token and ("home" in page.url or ct0):
-                    with open(COOKIES_JSON, "w", encoding="utf-8") as f:
+                    with open(target_path, "w", encoding="utf-8") as f:
                         json.dump(cookies, f, indent=2, ensure_ascii=False)
-                    print(f"\n🎉 成功捕获 X 登录会话凭据！已保存至 {COOKIES_JSON}")
+                    print(f"\n🎉 成功捕获 [{acc_name}] 登录会话！已保存至: {target_path}")
                     logged_in = True
                     break
             except Exception:
                 pass
 
         if not logged_in:
-            print("\n❌ 登录超时或未能成功捕获 auth_token，请重新运行。")
+            print("\n❌ 登录超时或未能成功捕获凭据，请重新运行。")
         browser.close()
+        return logged_in
 
-def cmd_check():
-    if not COOKIES_JSON.exists():
-        print("❌ 未检测到 cookies.json，请先运行: python3 x_publisher.py login")
+def cmd_check(account: str):
+    target_path = get_cookies_path(account)
+    acc_name = "Alpha John" if "alpha" in account.lower() else "王坤PAS"
+
+    if not target_path.exists():
+        print(f"❌ 未检测到 [{acc_name}] 的凭据文件: {target_path}")
+        print(f"👉 请先运行登录: python3 x_publisher.py login {account}")
         return False
 
-    with open(COOKIES_JSON, "r", encoding="utf-8") as f:
+    with open(target_path, "r", encoding="utf-8") as f:
         cookies = json.load(f)
 
     auth_token = next((c for c in cookies if c.get("name") == "auth_token"), None)
     if not auth_token:
-        print("❌ cookies.json 中缺少 auth_token 凭据！")
+        print(f"❌ [{acc_name}] 凭据中缺少 auth_token！")
         return False
 
-    print("🔍 正在静默校验 X 凭据有效性...")
+    print(f"🔍 正在静默校验 [{acc_name}] X 凭据有效性...")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -101,23 +119,26 @@ def cmd_check():
         time.sleep(3)
 
         if "login" in page.url:
-            print("❌ 凭据已失效，需重新登录。")
+            print(f"❌ [{acc_name}] 凭据已失效，需重新登录: python3 x_publisher.py login {account}")
             browser.close()
             return False
 
-        print("✅ X 登录态有效！已成功连通目标账号主页。")
+        print(f"✅ [{acc_name}] 登录态完全有效！已成功连通目标账号主页。")
         browser.close()
         return True
 
-def cmd_post(text: str, media_path: str = None):
-    if not COOKIES_JSON.exists():
-        print("❌ 未检测到 cookies.json，请先运行: python3 x_publisher.py login")
+def cmd_post(account: str, text: str, media_path: str = None):
+    target_path = get_cookies_path(account)
+    acc_name = "Alpha John" if "alpha" in account.lower() else "王坤PAS"
+
+    if not target_path.exists():
+        print(f"❌ 未检测到凭据，请先运行: python3 x_publisher.py login {account}")
         return False
 
-    with open(COOKIES_JSON, "r", encoding="utf-8") as f:
+    with open(target_path, "r", encoding="utf-8") as f:
         cookies = json.load(f)
 
-    print("🚀 正在启动后台无头浏览器执行【100% 全自动发帖】...")
+    print(f"🚀 正在以 [{acc_name}] 身份全自动发帖...")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -127,67 +148,66 @@ def cmd_post(text: str, media_path: str = None):
         context.add_cookies(cookies)
         page = context.new_page()
 
-        print("📡 打开发帖页面...")
         page.goto("https://x.com/compose/post", wait_until="networkidle", timeout=30000)
         time.sleep(2)
 
-        # 检查是否要求重新登录
         if "login" in page.url:
-            print("❌ 凭证失效，请重新运行 python3 x_publisher.py login")
+            print("❌ 凭证失效，请重新登录")
             browser.close()
             return False
 
-        # 1. 查找推文输入框
-        print("✍️ 正在自动输入推文文案...")
+        # 输入文案
         textbox = page.locator('div[data-testid="tweetTextarea_0"]')
         textbox.wait_for(timeout=10000)
         textbox.click()
         textbox.fill(text)
         time.sleep(1)
 
-        # 2. 如果提供了媒体文件，自动上传配图
+        # 配图上传
         if media_path and os.path.exists(media_path):
-            print(f"🖼️ 正在自动上传配图: {media_path}...")
+            print(f"🖼️ 上传配图: {media_path}...")
             file_input = page.locator('input[data-testid="fileInput"]')
             file_input.set_input_files(media_path)
-            # 等待图片上传与缩略图渲染
             time.sleep(4)
 
-        # 3. 自动点击 Post 按钮
-        print("🎯 正在自动点击 【Post】 按钮发布推文...")
+        # 点击发送
         post_btn = page.locator('button[data-testid="tweetButton"]')
         if not post_btn.is_visible():
             post_btn = page.locator('button[data-testid="tweetButtonInline"]')
 
         post_btn.click()
-        print("⏳ 等待发布完成确认...")
         time.sleep(5)
-
-        # 验证是否发送成功（发帖框关闭或出现已发布通知）
-        print("🎉 恭喜！推文已 100% 全自动成功发布到你的 X 账号！")
+        print(f"🎉 恭喜！[{acc_name}] 推文已全自动发布！")
         browser.close()
         return True
 
 def main():
     if len(sys.argv) < 2:
+        print("X (Twitter) 双账号自动化发布工具")
         print("用法:")
-        print("  python3 x_publisher.py login              # 弹窗一次性登录并保存凭证")
-        print("  python3 x_publisher.py check              # 检查登录态")
-        print("  python3 x_publisher.py post <文案> [图片路径] # 全自动后台发推")
+        print("  python3 x_publisher.py login alpha        # 登录 Alpha John (英文号)")
+        print("  python3 x_publisher.py login wangkun      # 登录 王坤PAS (中文号)")
+        print("  python3 x_publisher.py check alpha        # 检查 Alpha John 登录态")
+        print("  python3 x_publisher.py check wangkun      # 检查 王坤PAS 登录态")
+        print("  python3 x_publisher.py post alpha <文案>   # 发布到 Alpha John")
+        print("  python3 x_publisher.py post wangkun <文案> # 发布到 王坤PAS")
         return
 
     cmd = sys.argv[1].lower()
     if cmd == "login":
-        cmd_login()
+        acc = sys.argv[2] if len(sys.argv) > 2 else "alpha"
+        cmd_login(acc)
     elif cmd == "check":
-        cmd_check()
+        acc = sys.argv[2] if len(sys.argv) > 2 else "alpha"
+        cmd_check(acc)
     elif cmd == "post":
-        if len(sys.argv) < 3:
-            print("请输入发帖文案")
+        if len(sys.argv) < 4:
+            print("用法: python3 x_publisher.py post <alpha|wangkun> <文案> [图片路径]")
             return
-        text = sys.argv[2]
-        media = sys.argv[3] if len(sys.argv) > 3 else None
-        cmd_post(text, media)
+        acc = sys.argv[2]
+        text = sys.argv[3]
+        media = sys.argv[4] if len(sys.argv) > 4 else None
+        cmd_post(acc, text, media)
     else:
         print(f"未知命令: {cmd}")
 

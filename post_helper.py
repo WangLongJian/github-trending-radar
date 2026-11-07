@@ -365,17 +365,25 @@ def main():
         if len(sys.argv) < 3:
             print("请指定项目编号或名称")
             return
-        lang = "en"
-        if len(sys.argv) > 3 and sys.argv[3] in ["zh", "cn"]:
-            lang = "zh"
+        target_account = "alpha"
+        if len(sys.argv) > 3:
+            arg = sys.argv[3].lower()
+            if any(k in arg for k in ["wangkun", "zh", "cn", "wang"]):
+                target_account = "wangkun"
+        lang = "zh" if target_account == "wangkun" else "en"
+        print(f"🎯 正在为账号 【{'王坤PAS (中文)' if lang == 'zh' else 'Alpha John (English)'}】 生成推文...")
         cmd_tweet(sys.argv[2], lang=lang)
     elif cmd in ["auto", "auto-post", "autopost"]:
         if len(sys.argv) < 3:
             print("请指定项目编号或名称")
             return
-        lang = "en"
-        if len(sys.argv) > 3 and sys.argv[3] in ["zh", "cn"]:
-            lang = "zh"
+        target_account = "alpha"
+        if len(sys.argv) > 3:
+            arg = sys.argv[3].lower()
+            if any(k in arg for k in ["wangkun", "zh", "cn", "wang"]):
+                target_account = "wangkun"
+        lang = "zh" if target_account == "wangkun" else "en"
+        print(f"🎯 正在为账号 【{'王坤PAS (中文)' if lang == 'zh' else 'Alpha John (English)'}】 执行自动发布...")
         cmd_autopost(sys.argv[2], lang=lang)
     elif cmd in ["mark", "mark-posted"]:
         if len(sys.argv) < 3:

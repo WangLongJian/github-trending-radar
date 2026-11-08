@@ -1049,8 +1049,113 @@
       "url": "https://github.com/python-poetry/poetry",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "morluto/rea": {
+      "date": "2026-11-08",
+      "stars": 441664,
+      "url": "https://github.com/morluto/rea",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "EbookFoundation/free-programming-books": {
+      "date": "2026-11-08",
+      "stars": 401238,
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "donnemartin/system-design-primer": {
+      "date": "2026-11-08",
+      "stars": 377287,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "jamiepine/voicebox": {
+      "date": "2026-11-08",
+      "stars": 60029,
+      "url": "https://github.com/jamiepine/voicebox",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "spotDL/spotify-downloader": {
+      "date": "2026-11-08",
+      "stars": 26743,
+      "url": "https://github.com/spotDL/spotify-downloader",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "bobeff/open-source-games": {
+      "date": "2026-11-08",
+      "stars": 17839,
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "meta/astryx": {
+      "date": "2026-11-08",
+      "stars": 14775,
+      "url": "https://github.com/meta/astryx",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "Unleash/unleash": {
+      "date": "2026-11-08",
+      "stars": 14199,
+      "url": "https://github.com/Unleash/unleash",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "elder-plinius/OBLITERATUS": {
+      "date": "2026-11-08",
+      "stars": 9290,
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "actions/checkout": {
+      "date": "2026-11-08",
+      "stars": 9009,
+      "url": "https://github.com/actions/checkout",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "elder-plinius/T3MP3ST": {
+      "date": "2026-11-08",
+      "stars": 6981,
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Marker-Inc-Korea/AutoRAG": {
+      "date": "2026-11-08",
+      "stars": 5406,
+      "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "chaitin/MonkeyCode": {
+      "date": "2026-11-08",
+      "stars": 5092,
+      "url": "https://github.com/chaitin/MonkeyCode",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "ranxianglei/billion-context": {
+      "date": "2026-11-08",
+      "stars": 4731,
+      "url": "https://github.com/ranxianglei/billion-context",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "KKKKhazix/agent-autoloop": {
+      "date": "2026-11-08",
+      "stars": 4005,
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "Search API (New Spikes)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-07T07:23:29.269530"
+  "last_run": "2026-11-08T06:58:39.467725"
 }

@@ -1259,8 +1259,113 @@
       "url": "https://github.com/Th0rgal/satmux",
       "source": "Search API (New Spikes)",
       "posted": false
+    },
+    "debpalash/VoiceStudio": {
+      "date": "2026-11-10",
+      "stars": 106547,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ruvnet/RuView": {
+      "date": "2026-11-10",
+      "stars": 103701,
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "OpenCut-app/OpenCut": {
+      "date": "2026-11-10",
+      "stars": 97974,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "rohitg00/ai-engineering-from-scratch": {
+      "date": "2026-11-10",
+      "stars": 78191,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "date": "2026-11-10",
+      "stars": 69296,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "anthropics/claude-plugins-official": {
+      "date": "2026-11-10",
+      "stars": 46684,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "OpenBMB/VoxCPM": {
+      "date": "2026-11-10",
+      "stars": 42152,
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "soxoj/maigret": {
+      "date": "2026-11-10",
+      "stars": 39924,
+      "url": "https://github.com/soxoj/maigret",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "garrytan/gbrain": {
+      "date": "2026-11-10",
+      "stars": 32333,
+      "url": "https://github.com/garrytan/gbrain",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "virattt/dexter": {
+      "date": "2026-11-10",
+      "stars": 27807,
+      "url": "https://github.com/virattt/dexter",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "snarktank/ralph": {
+      "date": "2026-11-10",
+      "stars": 22198,
+      "url": "https://github.com/snarktank/ralph",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "hummingbot/hummingbot": {
+      "date": "2026-11-10",
+      "stars": 21137,
+      "url": "https://github.com/hummingbot/hummingbot",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "kortix-ai/CompanyOS": {
+      "date": "2026-11-10",
+      "stars": 20619,
+      "url": "https://github.com/kortix-ai/CompanyOS",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "anthropics/claude-quickstarts": {
+      "date": "2026-11-10",
+      "stars": 20179,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "vercel-labs/json-render": {
+      "date": "2026-11-10",
+      "stars": 19533,
+      "url": "https://github.com/vercel-labs/json-render",
+      "source": "Trending (TypeScript)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-09T07:43:44.822167"
+  "last_run": "2026-11-10T08:04:31.081715"
 }

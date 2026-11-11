@@ -1364,8 +1364,113 @@
       "url": "https://github.com/vercel-labs/json-render",
       "source": "Trending (TypeScript)",
       "posted": false
+    },
+    "addyosmani/agent-skills": {
+      "date": "2026-11-11",
+      "stars": 115397,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "Imbad0202/academic-research-skills": {
+      "date": "2026-11-11",
+      "stars": 56404,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ashishpatel26/500-AI-Agents-Projects": {
+      "date": "2026-11-11",
+      "stars": 39675,
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "every-app/open-seo": {
+      "date": "2026-11-11",
+      "stars": 27243,
+      "url": "https://github.com/every-app/open-seo",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "fosrl/pangolin": {
+      "date": "2026-11-11",
+      "stars": 23576,
+      "url": "https://github.com/fosrl/pangolin",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "google-deepmind/mujoco": {
+      "date": "2026-11-11",
+      "stars": 17502,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "opensandbox-group/OpenSandbox": {
+      "date": "2026-11-11",
+      "stars": 17169,
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "we-promise/sure": {
+      "date": "2026-11-11",
+      "stars": 12272,
+      "url": "https://github.com/we-promise/sure",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "backnotprop/plannotator": {
+      "date": "2026-11-11",
+      "stars": 10020,
+      "url": "https://github.com/backnotprop/plannotator",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "a-ghorbani/pocketpal-ai": {
+      "date": "2026-11-11",
+      "stars": 9202,
+      "url": "https://github.com/a-ghorbani/pocketpal-ai",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "google-labs-code/stitch-skills": {
+      "date": "2026-11-11",
+      "stars": 8731,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "tokio-rs/topcoat": {
+      "date": "2026-11-11",
+      "stars": 6983,
+      "url": "https://github.com/tokio-rs/topcoat",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "homeassistant-ai/ha-mcp": {
+      "date": "2026-11-11",
+      "stars": 6838,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "huamidev/GestaltX": {
+      "date": "2026-11-11",
+      "stars": 5485,
+      "url": "https://github.com/huamidev/GestaltX",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "rlaope/oh-my-hermes": {
+      "date": "2026-11-11",
+      "stars": 5409,
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-10T08:04:31.081715"
+  "last_run": "2026-11-11T07:34:12.633499"
 }

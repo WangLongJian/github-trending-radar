@@ -1469,8 +1469,113 @@
       "url": "https://github.com/rlaope/oh-my-hermes",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "krahets/hello-algo": {
+      "date": "2026-11-12",
+      "stars": 132243,
+      "url": "https://github.com/krahets/hello-algo",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "browser-use/browser-use": {
+      "date": "2026-11-12",
+      "stars": 120786,
+      "url": "https://github.com/browser-use/browser-use",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Alishahryar1/free-claude-code": {
+      "date": "2026-11-12",
+      "stars": 68774,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "TheAlgorithms/Java": {
+      "date": "2026-11-12",
+      "stars": 67158,
+      "url": "https://github.com/TheAlgorithms/Java",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "LibreSpark/LibreTV": {
+      "date": "2026-11-12",
+      "stars": 24522,
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "saleor/saleor": {
+      "date": "2026-11-12",
+      "stars": 23555,
+      "url": "https://github.com/saleor/saleor",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "dream-num/univer": {
+      "date": "2026-11-12",
+      "stars": 23344,
+      "url": "https://github.com/dream-num/univer",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "experientiallabs/experiential": {
+      "date": "2026-11-12",
+      "stars": 16624,
+      "url": "https://github.com/experientiallabs/experiential",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "NapNeko/NapCatQQ": {
+      "date": "2026-11-12",
+      "stars": 12729,
+      "url": "https://github.com/NapNeko/NapCatQQ",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "openai/codex-security": {
+      "date": "2026-11-12",
+      "stars": 11953,
+      "url": "https://github.com/openai/codex-security",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "shadcn/improve": {
+      "date": "2026-11-12",
+      "stars": 11205,
+      "url": "https://github.com/shadcn/improve",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "ever-co/ever-gauzy": {
+      "date": "2026-11-12",
+      "stars": 8789,
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "dmunozv04/iSponsorBlockTV": {
+      "date": "2026-11-12",
+      "stars": 7118,
+      "url": "https://github.com/dmunozv04/iSponsorBlockTV",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "nab138/iloader": {
+      "date": "2026-11-12",
+      "stars": 4824,
+      "url": "https://github.com/nab138/iloader",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "AminBlg/SimpleEnglish": {
+      "date": "2026-11-12",
+      "stars": 4377,
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-11T07:34:12.633499"
+  "last_run": "2026-11-12T08:00:53.604986"
 }

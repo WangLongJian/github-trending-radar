@@ -1574,8 +1574,113 @@
       "url": "https://github.com/AminBlg/SimpleEnglish",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "TheAlgorithms/Python": {
+      "date": "2026-11-13",
+      "stars": 226071,
+      "url": "https://github.com/TheAlgorithms/Python",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "huggingface/transformers": {
+      "date": "2026-11-13",
+      "stars": 168937,
+      "url": "https://github.com/huggingface/transformers",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ggml-org/llama.cpp": {
+      "date": "2026-11-13",
+      "stars": 134730,
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "nodejs/node": {
+      "date": "2026-11-13",
+      "stars": 123657,
+      "url": "https://github.com/nodejs/node",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "supabase/supabase": {
+      "date": "2026-11-13",
+      "stars": 114950,
+      "url": "https://github.com/supabase/supabase",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "openai/whisper": {
+      "date": "2026-11-13",
+      "stars": 112624,
+      "url": "https://github.com/openai/whisper",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "fastapi/fastapi": {
+      "date": "2026-11-13",
+      "stars": 104677,
+      "url": "https://github.com/fastapi/fastapi",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "nvm-sh/nvm": {
+      "date": "2026-11-13",
+      "stars": 96066,
+      "url": "https://github.com/nvm-sh/nvm",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "appwrite/appwrite": {
+      "date": "2026-11-13",
+      "stars": 58075,
+      "url": "https://github.com/appwrite/appwrite",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "date": "2026-11-13",
+      "stars": 55187,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "RocketChat/Rocket.Chat": {
+      "date": "2026-11-13",
+      "stars": 46504,
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "gitroomhq/postiz-app": {
+      "date": "2026-11-13",
+      "stars": 41496,
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "NVIDIA/SkillSpector": {
+      "date": "2026-11-13",
+      "stars": 25745,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "elder-plinius/G0DM0D3": {
+      "date": "2026-11-13",
+      "stars": 12256,
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Qiskit/qiskit": {
+      "date": "2026-11-13",
+      "stars": 7970,
+      "url": "https://github.com/Qiskit/qiskit",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-12T08:00:53.604986"
+  "last_run": "2026-11-13T07:40:34.762181"
 }

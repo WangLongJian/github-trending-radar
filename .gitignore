@@ -5,3 +5,6 @@ venv/
 .DS_Store
 .env
 assets/
+cookies*.json
+.chrome_profile*
+test_*.py

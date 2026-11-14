@@ -140,18 +140,16 @@ def build_schedule_queues():
             "topics": []
         }
 
-        # 如果已有专版文案直接使用，没有则生成专属高情绪文案
-        if p["alpha_draft"]:
-            alpha_text = p["alpha_draft"]
-        else:
-            drafts = generate_fallback_drafts(repo_dict, p["tag"])
-            alpha_text = drafts["alpha_full"]
+        # 使用精炼版文案，确保不超过 X 平台标准发推字符限制 (280 字符)
+        drafts = generate_fallback_drafts(repo_dict, p["tag"])
+        alpha_text = drafts["alpha_intent"].strip()
+        wangkun_text = drafts["wangkun_intent"].strip()
 
-        if p["wangkun_draft"]:
-            wangkun_text = p["wangkun_draft"]
-        else:
-            drafts = generate_fallback_drafts(repo_dict, p["tag"])
-            wangkun_text = drafts["wangkun_full"]
+        # 安全修剪防止超长
+        if len(alpha_text) > 270:
+            alpha_text = alpha_text[:265] + "..."
+        if len(wangkun_text) > 270:
+            wangkun_text = wangkun_text[:265] + "..."
 
         alpha_queue.append({
             "repo": p["full_name"],

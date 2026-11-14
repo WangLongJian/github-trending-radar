@@ -30,20 +30,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Trending Collector
+      - name: Run Trending Collector & Auto-Scheduler
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python collector.py
+          python scheduler.py
 
       - name: Commit and push changes if updated
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --exit-code candidates.md state.json candidates/; then
-            git add candidates.md state.json candidates/
-            git commit -m "Auto-collect daily GitHub trending candidates [skip ci]"
+          if ! git diff --exit-code candidates.md state.json candidates/ schedule_queue.json; then
+            git add candidates.md state.json candidates/ schedule_queue.json
+            git commit -m "Auto-collect trending candidates & update queue [skip ci]"
             git push
           else
             echo "No new trending candidates found today."

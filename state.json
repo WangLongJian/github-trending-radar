@@ -1679,8 +1679,113 @@
       "url": "https://github.com/Qiskit/qiskit",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "louislam/uptime-kuma": {
+      "date": "2026-11-14",
+      "stars": 93971,
+      "url": "https://github.com/louislam/uptime-kuma",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "headroomlabs-ai/headroom": {
+      "date": "2026-11-14",
+      "stars": 79616,
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "asgeirtj/system_prompts_leaks": {
+      "date": "2026-11-14",
+      "stars": 71374,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "alibaba/open-code-review": {
+      "date": "2026-11-14",
+      "stars": 50866,
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "abhigyanpatwari/GitNexus": {
+      "date": "2026-11-14",
+      "stars": 48522,
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "langchain-ai/langgraph": {
+      "date": "2026-11-14",
+      "stars": 44939,
+      "url": "https://github.com/langchain-ai/langgraph",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "volcengine/OpenViking": {
+      "date": "2026-11-14",
+      "stars": 42218,
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "block/buzz": {
+      "date": "2026-11-14",
+      "stars": 37367,
+      "url": "https://github.com/block/buzz",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "ahujasid/mcp-for-blender": {
+      "date": "2026-11-14",
+      "stars": 34356,
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "lidge-jun/opencodex": {
+      "date": "2026-11-14",
+      "stars": 18504,
+      "url": "https://github.com/lidge-jun/opencodex",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "a2ui-project/a2ui": {
+      "date": "2026-11-14",
+      "stars": 17325,
+      "url": "https://github.com/a2ui-project/a2ui",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "thesysdev/openui": {
+      "date": "2026-11-14",
+      "stars": 15200,
+      "url": "https://github.com/thesysdev/openui",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "tailscale/tailcat": {
+      "date": "2026-11-14",
+      "stars": 9581,
+      "url": "https://github.com/tailscale/tailcat",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "kajisho5/ffmpeg-skill": {
+      "date": "2026-11-14",
+      "stars": 5482,
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "callstack/agent-device": {
+      "date": "2026-11-14",
+      "stars": 5383,
+      "url": "https://github.com/callstack/agent-device",
+      "source": "Trending (TypeScript)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-13T07:40:34.762181"
+  "last_run": "2026-11-14T07:26:47.296022"
 }

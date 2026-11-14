@@ -117,23 +117,8 @@ def run_scheduled_job(force_account: str = None):
     
     print(f"⏰ 当前时间检查:")
     print(f"   UTC: {now_utc.strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"   PT:  {now_pt.strftime('%Y-%m-%d %H:%M:%S')} (当前小时: {now_pt.hour})")
-    print(f"   CST: {now_cst.strftime('%Y-%m-%d %H:%M:%S')} (当前小时: {now_cst.hour})")
-
-    accounts_to_post = []
-    if force_account:
-        accounts_to_post.append(force_account)
-    else:
-        # 检查 Alpha John (PT 09:00 - 24:00, 3h slots: 9, 12, 15, 18, 21)
-        if now_pt.hour in DAILY_SLOTS:
-            accounts_to_post.append("alpha")
-        # 检查 王坤PAS (CST 09:00 - 24:00, 3h slots: 9, 12, 15, 18, 21)
-        if now_cst.hour in DAILY_SLOTS:
-            accounts_to_post.append("wangkun")
-
-    if not accounts_to_post:
-        print("☕ 当前时刻非两个账号的发推时刻窗口，无需发布。")
-        return
+    print(f"   PT:  {now_pt.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"   CST: {now_cst.strftime('%Y-%m-%d %H:%M:%S')}")
 
     if not QUEUE_FILE.exists():
         print(f"❌ 找不到队列文件: {QUEUE_FILE}")
@@ -142,23 +127,34 @@ def run_scheduled_job(force_account: str = None):
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         queue_data = json.load(f)
 
-    for acc in accounts_to_post:
+    accounts = ["alpha", "wangkun"] if not force_account else [force_account]
+
+    for acc in accounts:
         acc_key = "alpha_john" if acc == "alpha" else "wangkun_pas"
         acc_name = "Alpha John" if acc == "alpha" else "王坤PAS"
-        
+        tz = PT_TZ if acc == "alpha" else CST_TZ
+        now_local = datetime.now(tz)
+
         queue_list = queue_data.get(acc_key, {}).get("queue", [])
-        # 寻找下一条待发推文
-        pending_item = next((item for item in queue_list if item.get("status") in ["pending", None]), None)
         
-        if not pending_item:
-            print(f"⚠️ [{acc_name}] 队列中已没有待发推文，请运行 collector.py 抓取新项目！")
+        # 查找当前时间已到达预定时刻的待发推文
+        due_item = None
+        for item in queue_list:
+            if item.get("status") == "pending":
+                item_dt = datetime.fromisoformat(item["iso_time"])
+                if now_local >= item_dt or force_account:
+                    due_item = item
+                    break
+
+        if not due_item:
+            print(f"☕ [{acc_name}] 当前暂无到期的待发推文。")
             continue
 
-        print(f"\n📢 开始处理 [{acc_name}] 发推任务: {pending_item['repo']}")
-        ok = publish_tweet(acc, pending_item["content"])
+        print(f"\n📢 [{acc_name}] 触发到期发布任务: {due_item['repo']} (计划: {due_item['scheduled_time']}, 当前: {now_local.strftime('%Y-%m-%d %H:%M:%S %Z')})")
+        ok = publish_tweet(acc, due_item["content"])
         if ok:
-            pending_item["status"] = "posted"
-            pending_item["posted_at"] = datetime.now().isoformat()
+            due_item["status"] = "posted"
+            due_item["posted_at"] = datetime.now().isoformat()
             
             with open(QUEUE_FILE, "w", encoding="utf-8") as f:
                 json.dump(queue_data, f, indent=2, ensure_ascii=False)

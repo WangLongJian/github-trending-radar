@@ -177,10 +177,12 @@ def is_spam(repo: Dict[str, Any]) -> bool:
 
 def generate_ai_drafts_gemini(repo: Dict[str, Any], readme_snippet: str) -> Optional[Dict[str, str]]:
     """使用 Gemini API 生成高情绪、强反差的中英文双版本推文"""
-    if not GEMINI_API_KEY:
+    api_key = os.getenv("GEMINI_API_KEY") or GEMINI_API_KEY
+    if not api_key:
         return None
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # 使用 Google 最新推荐的 Gemini 3.8 Flash 模型
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key={api_key}"
     
     prompt = f"""You are a world-class viral tech copywriter for X (Twitter).
 Analyze this trending GitHub repository:
@@ -219,20 +221,23 @@ Return strictly valid JSON:
 
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.85, "maxOutputTokens": 1500}
+        "generationConfig": {
+            "temperature": 0.85,
+            "maxOutputTokens": 2000,
+            "response_mime_type": "application/json"
+        }
     }
 
     try:
-        resp = requests.post(url, json=payload, timeout=20)
+        resp = requests.post(url, json=payload, timeout=25)
         if resp.status_code == 200:
             data = resp.json()
             raw_text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
-            # 提取 JSON 代码块
             if "```json" in raw_text:
                 raw_text = raw_text.split("```json")[1].split("```")[0].strip()
             elif "```" in raw_text:
                 raw_text = raw_text.split("```")[1].split("```")[0].strip()
-            return json.loads(raw_text)
+            return json.loads(raw_text, strict=False)
     except Exception as e:
         print(f"[Warn] Gemini generation failed: {e}")
     return None

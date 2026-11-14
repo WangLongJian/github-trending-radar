@@ -1544,10 +1544,11 @@
         "url": "https://github.com/etcd-io/etcd",
         "scheduled_time": "2026-11-15 09:00:00 CST",
         "iso_time": "2026-11-15T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：etcd-io/etcd（⭐ 52,646，52,646 stars）\n\n💡 Distributed reliable key-value store for the most critical data of a distributed syst...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/etcd-io/etcd\n#开源 #AI #搞钱 #独立开发",
-        "media": null
+        "media": null,
+        "posted_at": "2026-11-14T10:22:31.750326"
       },
       {
         "repo": "tldraw/tldraw",

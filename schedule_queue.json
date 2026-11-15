@@ -18,10 +18,10 @@
         "heat_score": 329041664,
         "scheduled_time": "2026-11-14 03:51:00 PST",
         "iso_time": "2026-11-14T03:51:00-08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "Alpha John",
         "content": "Game-changer on GitHub: morluto/rea is blowing up (⭐ 441,664, 3286 stars today)!\n\n💡 Reverse engineer anything with agents, from app behavior down to native binaries....\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it ou...",
-        "posted_at": "2026-11-14T16:49:31.889459"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "cloudflare/security-audit-skill",
@@ -31,10 +31,10 @@
         "heat_score": 254864445,
         "scheduled_time": "2026-11-14 09:17:00 PST",
         "iso_time": "2026-11-14T09:17:00-08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "Alpha John",
         "content": "Game-changer on GitHub: cloudflare/security-audit-skill is blowing up (⭐ 64,445, 2548 stars today)!\n\n💡 A coding-agent skill for multi-phase security audits with independently verified, machine-...\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100...",
-        "posted_at": "2026-11-14T21:02:19.391016"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "pbakaus/impeccable",
@@ -44,10 +44,10 @@
         "heat_score": 230097267,
         "scheduled_time": "2026-11-14 13:36:00 PST",
         "iso_time": "2026-11-14T13:36:00-08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "Alpha John",
         "content": "Game-changer on GitHub: pbakaus/impeccable is blowing up (⭐ 97,267, 2300 stars today)!\n\n💡 The design vocabulary for your coding agent. Steer with polish and bolder, review with cri...\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source...",
-        "posted_at": "2026-11-15T01:10:08.307617"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "HKUDS/DeepTutor",
@@ -121,11 +121,11 @@
         "url": "https://github.com/etcd-io/etcd",
         "scheduled_time": "2026-11-15 09:00:00 CST",
         "iso_time": "2026-11-15T09:00:00+08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：etcd-io/etcd（⭐ 52,646，52,646 stars）\n\n💡 Distributed reliable key-value store for the most critical data of a distributed syst...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/etcd-io/etcd\n#开源 #AI #搞钱 #独立开发",
         "media": null,
-        "posted_at": "2026-11-14T10:22:31.750326"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "morluto/rea",
@@ -135,10 +135,10 @@
         "heat_score": 329041664,
         "scheduled_time": "2026-11-14 19:51:00 CST",
         "iso_time": "2026-11-14T19:51:00+08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：morluto/rea（⭐ 441,664，3286 stars today）\n\n💡 Reverse engineer anything with agents, from app behavior down to native binaries....\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/morluto/rea\n#开源 #AI #搞钱 #独立开发",
-        "posted_at": "2026-11-14T16:49:42.768253"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "cloudflare/security-audit-skill",
@@ -148,10 +148,10 @@
         "heat_score": 254864445,
         "scheduled_time": "2026-11-15 01:17:00 CST",
         "iso_time": "2026-11-15T01:17:00+08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：cloudflare/security-audit-skill（⭐ 64,445，2548 stars today）\n\n💡 A coding-agent skill for multi-phase security audits with independently verified, mac...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/cloudflare/security-audit-skill...",
-        "posted_at": "2026-11-14T21:02:30.834629"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "pbakaus/impeccable",
@@ -161,10 +161,10 @@
         "heat_score": 230097267,
         "scheduled_time": "2026-11-15 05:36:00 CST",
         "iso_time": "2026-11-15T05:36:00+08:00",
-        "status": "posted",
+        "status": "skipped_false_posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：pbakaus/impeccable（⭐ 97,267，2300 stars today）\n\n💡 The design vocabulary for your coding agent. Steer with polish and bolder, review wit...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/pbakaus/impeccable\n#开源 #AI #搞钱 #独立开发",
-        "posted_at": "2026-11-15T01:10:18.901615"
+        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
       },
       {
         "repo": "HKUDS/DeepTutor",

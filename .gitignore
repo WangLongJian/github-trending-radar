@@ -11,3 +11,4 @@ test_*.py
 *.zip
 PROJECT_HANDOVER*.md
 .gemini_key
+debug_shots/

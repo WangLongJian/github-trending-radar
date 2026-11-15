@@ -60,14 +60,48 @@ def get_cookies_for(account: str):
             
     return None
 
-def publish_tweet(account: str, text: str) -> bool:
+SHOT_DIR = DIR / "debug_shots"
+
+
+def _save_shot(page, tag: str):
+    """失败时截图，GitHub Actions 会把 debug_shots/ 作为产物上传，方便排查。"""
+    try:
+        SHOT_DIR.mkdir(exist_ok=True)
+        path = SHOT_DIR / f"{tag}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
+        page.screenshot(path=str(path), full_page=False)
+        print(f"   📸 已保存截图: {path.name}")
+    except Exception as e:
+        print(f"   [Warn] 截图失败: {e}")
+
+
+def _parse_create_tweet(body: dict):
+    """从 CreateTweet 的返回里取推文 id；X 有时返回 200 但带 errors（重复内容、风控等）。"""
+    if body.get("errors"):
+        msgs = "; ".join(f"{e.get('code')}: {e.get('message')}" for e in body["errors"])
+        return None, msgs
+    try:
+        rid = body["data"]["create_tweet"]["tweet_results"]["result"]["rest_id"]
+        return rid, None
+    except (KeyError, TypeError):
+        return None, f"返回里没有 rest_id: {json.dumps(body, ensure_ascii=False)[:300]}"
+
+
+def publish_tweet(account: str, text: str, dry_run: bool = False):
+    """在 x.com/home 的内联输入框发帖，成功返回推文 id，失败返回 False。
+
+    只有拿到 CreateTweet 的 200 返回且里面有新推文 id，才算成功。
+    旧版在 /compose/post 弹窗里按了 Escape，会弹出“放弃帖子？”遮罩挡住发帖按钮，
+    又不校验返回，导致一条没发却标成 posted。
+    dry_run=True 时只登录、输入、检查按钮可点，不点发布。
+    """
     acc_name = "Alpha John" if "alpha" in account.lower() else "王坤PAS"
+    tag = "alpha" if "alpha" in account.lower() else "wangkun"
     cookies = get_cookies_for(account)
     if not cookies:
         print(f"❌ 未能加载 [{acc_name}] 的 Cookies 凭据！请检查 Secrets 或本地文件。")
         return False
 
-    print(f"🚀 正在云端以 [{acc_name}] 身份静默发布推文...")
+    print(f"🚀 正在以 [{acc_name}] 身份发布推文{'（dry-run，不点发布）' if dry_run else ''}...")
     with sync_playwright() as p:
         browser = p.chromium.launch(
             headless=True,
@@ -81,32 +115,70 @@ def publish_tweet(account: str, text: str) -> bool:
         page = context.new_page()
 
         try:
-            page.goto("https://x.com/compose/post", wait_until="domcontentloaded", timeout=30000)
-            page.wait_for_timeout(3000)
+            page.goto("https://x.com/home", wait_until="domcontentloaded", timeout=45000)
+            page.wait_for_timeout(4000)
 
-            # 检查是否被踢到登录页
-            if "login" in page.url:
-                print(f"❌ [{acc_name}] 登录凭证失效，请更新 Secrets 中的 Cookie。")
+            if "login" in page.url or "logout" in page.url or "/i/flow" in page.url:
+                print(f"❌ [{acc_name}] 登录凭证失效（被跳到 {page.url}），请重新导出 Cookie 更新 Secrets。")
+                _save_shot(page, f"{tag}_login")
                 browser.close()
                 return False
 
-            textbox = page.locator('div[data-testid="tweetTextarea_0"]').first
-            textbox.wait_for(timeout=10000)
-            textbox.click()
-            textbox.fill(text)
-            page.wait_for_timeout(1000)
-            page.keyboard.press("Escape")
+            box = page.locator('[data-testid="tweetTextarea_0"]').first
+            box.wait_for(state="visible", timeout=20000)
+            box.click()
             page.wait_for_timeout(500)
+            # insert_text 走真实输入事件，X 的编辑器能识别；fill 对 contenteditable 不稳
+            page.keyboard.insert_text(text)
+            page.wait_for_timeout(1500)
 
-            post_btn = page.locator('button[data-testid="tweetButton"]').first
-            post_btn.click(force=True)
-            page.wait_for_timeout(5000)
+            typed = box.inner_text().strip()
+            if not typed:
+                print(f"❌ [{acc_name}] 输入框里没有内容，输入失败。")
+                _save_shot(page, f"{tag}_empty")
+                browser.close()
+                return False
 
-            print(f"🎉 恭喜！[{acc_name}] 推文已 100% 成功发布至 X！")
+            post_btn = page.locator('[data-testid="tweetButtonInline"]').first
+            post_btn.wait_for(state="visible", timeout=10000)
+            if post_btn.get_attribute("aria-disabled") == "true" or post_btn.is_disabled():
+                print(f"❌ [{acc_name}] 发布按钮不可点（可能超字数或内容被拦）。")
+                _save_shot(page, f"{tag}_disabled")
+                browser.close()
+                return False
+
+            if dry_run:
+                print(f"✅ [dry-run] [{acc_name}] 已登录，输入框和发布按钮正常，未点击发布。")
+                _save_shot(page, f"{tag}_dryrun")
+                browser.close()
+                return True
+
+            with page.expect_response(
+                lambda r: "CreateTweet" in r.url and r.request.method == "POST",
+                timeout=30000,
+            ) as resp_info:
+                post_btn.click()
+            resp = resp_info.value
+
+            if resp.status != 200:
+                print(f"❌ [{acc_name}] CreateTweet 返回 HTTP {resp.status}: {resp.text()[:300]}")
+                _save_shot(page, f"{tag}_http{resp.status}")
+                browser.close()
+                return False
+
+            tweet_id, err = _parse_create_tweet(resp.json())
+            if not tweet_id:
+                print(f"❌ [{acc_name}] X 拒绝了这条推文: {err}")
+                _save_shot(page, f"{tag}_rejected")
+                browser.close()
+                return False
+
+            print(f"🎉 [{acc_name}] 发布成功: https://x.com/i/status/{tweet_id}")
             browser.close()
-            return True
+            return tweet_id
         except Exception as e:
             print(f"❌ 发布异常: {e}")
+            _save_shot(page, f"{tag}_exception")
             browser.close()
             return False
 
@@ -128,6 +200,7 @@ def run_scheduled_job(force_account: str = None):
         queue_data = json.load(f)
 
     accounts = ["alpha", "wangkun"] if not force_account else [force_account]
+    failures = []
 
     for acc in accounts:
         acc_key = "alpha_john" if acc == "alpha" else "wangkun_pas"
@@ -151,15 +224,35 @@ def run_scheduled_job(force_account: str = None):
             continue
 
         print(f"\n📢 [{acc_name}] 触发到期发布任务: {due_item['repo']} (计划: {due_item['scheduled_time']}, 当前: {now_local.strftime('%Y-%m-%d %H:%M:%S %Z')})")
-        ok = publish_tweet(acc, due_item["content"])
-        if ok:
+        tweet_id = publish_tweet(acc, due_item["content"])
+        if tweet_id:
             due_item["status"] = "posted"
-            due_item["posted_at"] = datetime.now().isoformat()
-            
-            with open(QUEUE_FILE, "w", encoding="utf-8") as f:
-                json.dump(queue_data, f, indent=2, ensure_ascii=False)
+            due_item["posted_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
+            due_item["tweet_url"] = f"https://x.com/i/status/{tweet_id}"
+            due_item.pop("last_error_at", None)
             print(f"✅ [{acc_name}] 任务状态已更新为 posted！")
+        else:
+            # 不改成 posted，下一轮继续重试；连续失败 3 次标为 failed 跳过，避免卡死队列
+            due_item["fail_count"] = due_item.get("fail_count", 0) + 1
+            due_item["last_error_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
+            if due_item["fail_count"] >= 3:
+                due_item["status"] = "failed"
+                print(f"⛔ [{acc_name}] {due_item['repo']} 连续失败 3 次，标记为 failed 并跳过。")
+            failures.append(acc_name)
+
+        with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+            json.dump(queue_data, f, indent=2, ensure_ascii=False)
+
+    if failures:
+        print(f"\n❌ 本轮发布失败的账号: {', '.join(failures)}")
+        sys.exit(1)
 
 if __name__ == "__main__":
-    force = sys.argv[1].lower() if len(sys.argv) > 1 else None
+    args = [a.lower() for a in sys.argv[1:]]
+    if "--dry-run" in args:
+        # 只验证登录和输入框，不发帖：python cloud_publisher.py --dry-run alpha
+        accs = [a for a in args if a != "--dry-run"] or ["alpha", "wangkun"]
+        results = {a: publish_tweet(a, "dry-run test, not posted", dry_run=True) for a in accs}
+        sys.exit(0 if all(results.values()) else 1)
+    force = args[0] if args else None
     run_scheduled_job(force)

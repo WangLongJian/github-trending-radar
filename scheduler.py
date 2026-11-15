@@ -20,6 +20,8 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from typing import List, Dict, Any, Optional
 
+from tweet_text import fit_tweet
+
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE = os.path.join(ROOT_DIR, "state.json")
 CANDIDATES_MD = os.path.join(ROOT_DIR, "candidates.md")
@@ -180,9 +182,8 @@ def build_dynamic_schedule():
         if not drafts or not drafts.get("alpha_intent"):
             drafts = generate_fallback_drafts(repo_data, repo_data["tag"])
             
-        content = drafts["alpha_intent"].strip()
-        if len(content) > 270:
-            content = content[:265] + "..."
+        # 按 X 的加权长度（中文/emoji 算 2，链接算 23）裁剪，并保住 GitHub 链接
+        content = fit_tweet(drafts["alpha_intent"].strip(), repo_data["url"])
 
         alpha_queue.append({
             "repo": repo_data["full_name"],
@@ -212,9 +213,8 @@ def build_dynamic_schedule():
         if not drafts or not drafts.get("wangkun_intent"):
             drafts = generate_fallback_drafts(repo_data, repo_data["tag"])
             
-        content = drafts["wangkun_intent"].strip()
-        if len(content) > 270:
-            content = content[:265] + "..."
+        # 按 X 的加权长度（中文/emoji 算 2，链接算 23）裁剪，并保住 GitHub 链接
+        content = fit_tweet(drafts["wangkun_intent"].strip(), repo_data["url"])
 
         wangkun_queue.append({
             "repo": repo_data["full_name"],

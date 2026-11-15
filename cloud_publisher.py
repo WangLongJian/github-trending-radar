@@ -18,6 +18,8 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from pathlib import Path
 
+from tweet_text import fit_tweet, weighted_len
+
 DIR = Path(__file__).resolve().parent
 QUEUE_FILE = DIR / "schedule_queue.json"
 STATE_FILE = DIR / "state.json"
@@ -153,12 +155,22 @@ def publish_tweet(account: str, text: str, dry_run: bool = False):
                 browser.close()
                 return True
 
-            with page.expect_response(
-                lambda r: "CreateTweet" in r.url and r.request.method == "POST",
-                timeout=30000,
-            ) as resp_info:
-                post_btn.click()
-            resp = resp_info.value
+            # 光标还在输入框里，直接 Ctrl+Enter 提交（X 的官方快捷键），避开各种浮层挡按钮的问题。
+            # 只有没捕获到 CreateTweet 请求时才改用强制点击，所以不会重复发帖。
+            is_create = lambda r: "CreateTweet" in r.url and r.request.method == "POST"
+            resp = None
+            try:
+                with page.expect_response(is_create, timeout=12000) as resp_info:
+                    page.keyboard.press("Control+Enter")
+                resp = resp_info.value
+            except Exception:
+                print("   [Warn] Ctrl+Enter 没有触发发帖请求，改为点击 Post 按钮")
+            if resp is None:
+                post_btn.evaluate("el => el.scrollIntoView({block: 'center'})")
+                page.wait_for_timeout(500)
+                with page.expect_response(is_create, timeout=30000) as resp_info:
+                    post_btn.click(force=True)
+                resp = resp_info.value
 
             if resp.status != 200:
                 print(f"❌ [{acc_name}] CreateTweet 返回 HTTP {resp.status}: {resp.text()[:300]}")
@@ -224,7 +236,10 @@ def run_scheduled_job(force_account: str = None):
             continue
 
         print(f"\n📢 [{acc_name}] 触发到期发布任务: {due_item['repo']} (计划: {due_item['scheduled_time']}, 当前: {now_local.strftime('%Y-%m-%d %H:%M:%S %Z')})")
-        tweet_id = publish_tweet(acc, due_item["content"])
+        text = fit_tweet(due_item["content"], due_item.get("url", ""))
+        if text != due_item["content"]:
+            print(f"   ✂️ 文案按 X 规则调整长度: {weighted_len(due_item['content'])} -> {weighted_len(text)}")
+        tweet_id = publish_tweet(acc, text)
         if tweet_id:
             due_item["status"] = "posted"
             due_item["posted_at"] = datetime.now(ZoneInfo("UTC")).isoformat()

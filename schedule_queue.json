@@ -174,11 +174,11 @@
         "heat_score": 228251920,
         "scheduled_time": "2026-11-15 17:36:00 CST",
         "iso_time": "2026-11-15T17:36:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：HKUDS/DeepTutor（⭐ 51,920，2282 stars today）\n\n💡 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/....\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/HKUDS/DeepTutor\n#开源 #AI #搞钱 #独立开发",
-        "fail_count": 1,
-        "last_error_at": "2026-11-15T10:53:54.358095+00:00"
+        "posted_at": "2026-11-15T10:58:14.943968+00:00",
+        "tweet_url": "https://x.com/i/status/2121920706338492710"
       },
       {
         "repo": "vercel-labs/agent-desktop",

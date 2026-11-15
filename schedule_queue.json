@@ -188,9 +188,11 @@
         "heat_score": 227510910,
         "scheduled_time": "2026-11-15 21:00:00 CST",
         "iso_time": "2026-11-15T21:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
-        "content": "认知被狠狠刷新了！GitHub 爆火新星：vercel-labs/agent-desktop（⭐ 10,910，2275 stars today）\n\n💡 Computer use CLI for AI agents...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/vercel-labs/agent-desktop\n#开源 #AI #搞钱 #独立开发"
+        "content": "认知被狠狠刷新了！GitHub 爆火新星：vercel-labs/agent-desktop（⭐ 10,910，2275 stars today）\n\n💡 Computer use CLI for AI agents...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/vercel-labs/agent-desktop\n#开源 #AI #搞钱 #独立开发",
+        "posted_at": "2026-11-15T13:00:38.076300+00:00",
+        "tweet_url": "https://x.com/i/status/2121951499496636851"
       },
       {
         "repo": "togg53192-cmd/jailbreaks",

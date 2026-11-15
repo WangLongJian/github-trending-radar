@@ -35,6 +35,8 @@ def log(msg: str):
 
 def run(cmd, timeout=600):
     env = dict(os.environ, PYTHONIOENCODING="utf-8", X_COOKIES_DIR=str(COOKIES_DIR))
+    # 用系统自带的 Edge，不依赖 Playwright 另外下载的浏览器
+    env.setdefault("X_BROWSER_CHANNEL", "msedge")
     r = subprocess.run(cmd, cwd=DIR, capture_output=True, text=True, encoding="utf-8",
                        errors="replace", timeout=timeout, env=env, creationflags=NO_WINDOW)
     out = (r.stdout or "") + (r.stderr or "")
@@ -54,6 +56,7 @@ def trim_log(max_lines=3000):
 
 def main():
     log("========== 开始本轮 ==========")
+    log(f"   python={sys.executable} LOCALAPPDATA={os.getenv('LOCALAPPDATA')}")
     status = {"started_at": datetime.now().astimezone().isoformat(), "publish_exit": None, "pushed": False}
 
     code, _ = run(["git", "pull", "--rebase", "--autostash"], timeout=120)

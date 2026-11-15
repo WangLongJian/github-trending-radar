@@ -107,8 +107,11 @@ def publish_tweet(account: str, text: str, dry_run: bool = False):
 
     print(f"🚀 正在以 [{acc_name}] 身份发布推文{'（dry-run，不点发布）' if dry_run else ''}...")
     with sync_playwright() as p:
+        # X_BROWSER_CHANNEL=msedge 时用系统自带的 Edge（本机计划任务用），否则用 Playwright 自带 Chromium
+        channel = os.getenv("X_BROWSER_CHANNEL") or None
         browser = p.chromium.launch(
             headless=True,
+            channel=channel,
             args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
         )
         context = browser.new_context(

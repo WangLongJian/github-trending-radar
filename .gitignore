@@ -12,3 +12,4 @@ test_*.py
 PROJECT_HANDOVER*.md
 .gemini_key
 debug_shots/
+logs/

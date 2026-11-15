@@ -21,6 +21,7 @@ from zoneinfo import ZoneInfo
 from typing import List, Dict, Any, Optional
 
 from tweet_text import fit_tweet
+from slots import next_post_slots
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE = os.path.join(ROOT_DIR, "state.json")
@@ -161,8 +162,9 @@ def build_dynamic_schedule():
     available_wangkun = [p for p in all_projects if p["full_name"] not in posted_wangkun]
 
     # 未来 24 小时窗口按 4 小时一段，规划 5 个随机时刻
-    pt_slots = generate_24h_jitter_slots(now_pt, PT_TZ, min(5, len(available_alpha)))
-    cst_slots = generate_24h_jitter_slots(now_cst, CST_TZ, min(5, len(available_wangkun)))
+    # 时刻对齐本机计划任务（每 4 小时一轮，见 slots.py）；热度最高的排最前
+    pt_slots = next_post_slots(now_utc, PT_TZ, min(5, len(available_alpha)))
+    cst_slots = next_post_slots(now_utc, CST_TZ, min(5, len(available_wangkun)))
 
     from collector import generate_ai_drafts_gemini, generate_fallback_drafts
 

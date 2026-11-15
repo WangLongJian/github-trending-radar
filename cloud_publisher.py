@@ -19,6 +19,7 @@ from zoneinfo import ZoneInfo
 from pathlib import Path
 
 from tweet_text import fit_tweet, weighted_len
+from slots import in_window, next_post_slots
 
 DIR = Path(__file__).resolve().parent
 QUEUE_FILE = DIR / "schedule_queue.json"
@@ -54,8 +55,9 @@ def get_cookies_for(account: str):
         except Exception as e:
             print(f"[Warn] Failed to parse env {env_var}: {e}")
             
-    # 本地文件后备
-    cookie_file = DIR / f"cookies_{clean}.json"
+    # 本地文件后备：优先 X_COOKIES_DIR（本机放在 ~/.secrets/x-auto-poster），其次项目目录
+    cookie_dir = Path(os.getenv("X_COOKIES_DIR", DIR))
+    cookie_file = cookie_dir / f"cookies_{clean}.json"
     if cookie_file.exists():
         with open(cookie_file, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -194,15 +196,34 @@ def publish_tweet(account: str, text: str, dry_run: bool = False):
             browser.close()
             return False
 
+def _heat(item) -> int:
+    try:
+        return int(item.get("heat_score") or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def reschedule_pending(queue_list, tz, now_utc):
+    """把剩下的 pending 按热度从高到低，依次排到接下来的发帖时刻。"""
+    pending = sorted((it for it in queue_list if it.get("status") == "pending"), key=_heat, reverse=True)
+    slots = next_post_slots(now_utc, tz, len(pending))
+    for it, slot in zip(pending, slots):
+        it["scheduled_time"] = slot.strftime("%Y-%m-%d %H:%M:%S %Z")
+        it["iso_time"] = slot.isoformat()
+    # 队列里按时间顺序排，便于阅读
+    others = [it for it in queue_list if it.get("status") != "pending"]
+    queue_list[:] = others + sorted(pending, key=lambda it: it["iso_time"])
+
+
 def run_scheduled_job(force_account: str = None):
+    """每次运行：每个账号若在本地 09:00-24:00 窗口内，发 1 条热度最高的 pending；
+    然后把剩下的按热度重新排到接下来的运行时刻。
+    force_account 指定时忽略窗口，立即为该账号发 1 条。"""
     now_utc = datetime.now(ZoneInfo("UTC"))
-    now_pt = datetime.now(PT_TZ)
-    now_cst = datetime.now(CST_TZ)
-    
-    print(f"⏰ 当前时间检查:")
+    print("⏰ 当前时间检查:")
     print(f"   UTC: {now_utc.strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"   PT:  {now_pt.strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"   CST: {now_cst.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"   PT:  {now_utc.astimezone(PT_TZ).strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"   CST: {now_utc.astimezone(CST_TZ).strftime('%Y-%m-%d %H:%M:%S')}")
 
     if not QUEUE_FILE.exists():
         print(f"❌ 找不到队列文件: {QUEUE_FILE}")
@@ -218,45 +239,54 @@ def run_scheduled_job(force_account: str = None):
         acc_key = "alpha_john" if acc == "alpha" else "wangkun_pas"
         acc_name = "Alpha John" if acc == "alpha" else "王坤PAS"
         tz = PT_TZ if acc == "alpha" else CST_TZ
-        now_local = datetime.now(tz)
-
+        now_local = now_utc.astimezone(tz)
         queue_list = queue_data.get(acc_key, {}).get("queue", [])
-        
-        # 查找当前时间已到达预定时刻的待发推文
-        due_item = None
-        for item in queue_list:
-            if item.get("status") == "pending":
-                item_dt = datetime.fromisoformat(item["iso_time"])
-                if now_local >= item_dt or force_account:
-                    due_item = item
-                    break
 
-        if not due_item:
-            print(f"☕ [{acc_name}] 当前暂无到期的待发推文。")
-            continue
-
-        print(f"\n📢 [{acc_name}] 触发到期发布任务: {due_item['repo']} (计划: {due_item['scheduled_time']}, 当前: {now_local.strftime('%Y-%m-%d %H:%M:%S %Z')})")
-        text = fit_tweet(due_item["content"], due_item.get("url", ""))
-        if text != due_item["content"]:
-            print(f"   ✂️ 文案按 X 规则调整长度: {weighted_len(due_item['content'])} -> {weighted_len(text)}")
-        tweet_id = publish_tweet(acc, text)
-        if tweet_id:
-            due_item["status"] = "posted"
-            due_item["posted_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
-            due_item["tweet_url"] = f"https://x.com/i/status/{tweet_id}"
-            due_item.pop("last_error_at", None)
-            print(f"✅ [{acc_name}] 任务状态已更新为 posted！")
+        pending = [it for it in queue_list if it.get("status") == "pending"]
+        if not pending:
+            print(f"☕ [{acc_name}] 队列里没有待发推文。")
+        elif not force_account and not in_window(now_local):
+            print(f"🌙 [{acc_name}] 当地 {now_local.strftime('%H:%M')} 不在 09:00-24:00 发帖窗口，本轮不发。")
         else:
-            # 不改成 posted，下一轮继续重试；连续失败 3 次标为 failed 跳过，避免卡死队列
-            due_item["fail_count"] = due_item.get("fail_count", 0) + 1
-            due_item["last_error_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
-            if due_item["fail_count"] >= 3:
-                due_item["status"] = "failed"
-                print(f"⛔ [{acc_name}] {due_item['repo']} 连续失败 3 次，标记为 failed 并跳过。")
-            failures.append(acc_name)
+            due_item = max(pending, key=_heat)
+            print(f"\n📢 [{acc_name}] 发布热度最高的待发项目: {due_item['repo']} (热度 {_heat(due_item):,}, 当前: {now_local.strftime('%Y-%m-%d %H:%M %Z')})")
+            text = fit_tweet(due_item["content"], due_item.get("url", ""))
+            if text != due_item["content"]:
+                print(f"   ✂️ 文案按 X 规则调整长度: {weighted_len(due_item['content'])} -> {weighted_len(text)}")
+            if os.getenv("X_DRY_RUN"):
+                ok = publish_tweet(acc, text, dry_run=True)
+                print(f"🧪 [{acc_name}] 空跑模式：{'登录与输入正常' if ok else '检查失败'}，未发帖、未改状态。")
+                if not ok:
+                    failures.append(acc_name)
+                tweet_id = None
+            else:
+                tweet_id = publish_tweet(acc, text)
+            if os.getenv("X_DRY_RUN"):
+                pass
+            elif tweet_id:
+                due_item["status"] = "posted"
+                due_item["posted_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
+                due_item["tweet_url"] = f"https://x.com/i/status/{tweet_id}"
+                due_item.pop("last_error_at", None)
+                print(f"✅ [{acc_name}] 任务状态已更新为 posted！")
+            else:
+                # 不改成 posted，下一轮继续重试；连续失败 3 次标为 failed 跳过，避免卡死队列
+                due_item["fail_count"] = due_item.get("fail_count", 0) + 1
+                due_item["last_error_at"] = datetime.now(ZoneInfo("UTC")).isoformat()
+                if due_item["fail_count"] >= 3:
+                    due_item["status"] = "failed"
+                    print(f"⛔ [{acc_name}] {due_item['repo']} 连续失败 3 次，标记为 failed 并跳过。")
+                failures.append(acc_name)
 
-        with open(QUEUE_FILE, "w", encoding="utf-8") as f:
-            json.dump(queue_data, f, indent=2, ensure_ascii=False)
+        reschedule_pending(queue_list, tz, now_utc)
+        nxt = [it for it in queue_list if it.get("status") == "pending"]
+        if nxt:
+            print(f"🗓️ [{acc_name}] 重新排期（按热度）:")
+            for it in nxt:
+                print(f"     {it['scheduled_time']}  {it['repo']}  热度 {_heat(it):,}")
+
+    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
+        json.dump(queue_data, f, indent=2, ensure_ascii=False)
 
     if failures:
         print(f"\n❌ 本轮发布失败的账号: {', '.join(failures)}")

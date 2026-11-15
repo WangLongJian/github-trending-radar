@@ -8,3 +8,6 @@ assets/
 cookies*.json
 .chrome_profile*
 test_*.py
+*.zip
+PROJECT_HANDOVER*.md
+.gemini_key

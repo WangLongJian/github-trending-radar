@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 250,
+    "backlog_count": 262,
     "queue": [
       {
         "repo": "morluto/rea",
@@ -55,8 +55,8 @@
         "stars": 51920,
         "stars_today": "2282 stars today",
         "heat_score": 228251920,
-        "scheduled_time": "2026-11-14 14:47:00 PST",
-        "iso_time": "2026-11-14T14:47:00-08:00",
+        "scheduled_time": "2026-11-15 01:36:00 PST",
+        "iso_time": "2026-11-15T01:36:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "Game-changer on GitHub: HKUDS/DeepTutor is blowing up (⭐ 51,920, 2282 stars today)!\n\n💡 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/....\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it out: https://..."
@@ -67,18 +67,54 @@
         "stars": 10910,
         "stars_today": "2275 stars today",
         "heat_score": 227510910,
-        "scheduled_time": "2026-11-14 19:27:00 PST",
-        "iso_time": "2026-11-14T19:27:00-08:00",
+        "scheduled_time": "2026-11-15 05:20:00 PST",
+        "iso_time": "2026-11-15T05:20:00-08:00",
         "status": "pending",
         "account": "Alpha John",
-        "content": "Game-changer on GitHub: vercel-labs/agent-desktop is blowing up (⭐ 10,910, 2275 stars today)!\n\n💡 Computer use CLI for AI agents...\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it out: https://github.com/vercel-labs/agen..."
+        "content": "Vercel just dropped agent-desktop & it’s exploding (+2,200 stars today) ⚡️\n\nA universal computer-use CLI for AI agents.\n\n• Turn AI into your desktop pilot\n• Extreme solo-dev leverage\n• Zero UI slop, pure execution\n\nCode: https://github.com/vercel-labs/agent-desktop"
+      },
+      {
+        "repo": "togg53192-cmd/jailbreaks",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "stars": 11371,
+        "stars_today": "2055 stars today",
+        "heat_score": 205511371,
+        "scheduled_time": "2026-11-15 08:59:00 PST",
+        "iso_time": "2026-11-15T08:59:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "Stop letting safety filters nerf your builds. ⚡\n\nThis repo just gained +2,000 stars TODAY:\n• Complete vault of active LLM jailbreaks\n• Raw foundation model intelligence\n• Essential for AI red-teamers & devs\n\nLink: https://github.com/togg53192-cmd/jailbreaks"
+      },
+      {
+        "repo": "NVIDIA/auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "stars": 5867,
+        "stars_today": "2050 stars today",
+        "heat_score": 205005867,
+        "scheduled_time": "2026-11-15 12:05:00 PST",
+        "iso_time": "2026-11-15T12:05:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "NVIDIA just dropped the cure for AI hallucination slop. 🤯\n\nauto-ontology builds deterministic semantic graph layers over your data:\n⚡️ 100% verifiable query gen\n⚡️ Multi-hop agent reasoning\n⚡️ Zero vector noise\n\nExtreme dev leverage👇\nhttps://github.com/NVIDIA/auto-..."
+      },
+      {
+        "repo": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "stars": 98864,
+        "stars_today": "1761 stars today",
+        "heat_score": 176198864,
+        "scheduled_time": "2026-11-15 16:23:00 PST",
+        "iso_time": "2026-11-15T16:23:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "OSINT intelligence is unfair leverage. ⚡️\n\nSherlock hunts any username across 400+ platforms in seconds:\n\n• Brand claim audits\n• Competitor recon\n• Sourcing hidden founders\n\nNearly 100k stars on GitHub:\nhttps://github.com/sherlock-project/sherlock"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 249,
+    "backlog_count": 261,
     "queue": [
       {
         "repo": "etcd-io/etcd",
@@ -136,8 +172,8 @@
         "stars": 51920,
         "stars_today": "2282 stars today",
         "heat_score": 228251920,
-        "scheduled_time": "2026-11-15 06:47:00 CST",
-        "iso_time": "2026-11-15T06:47:00+08:00",
+        "scheduled_time": "2026-11-15 17:36:00 CST",
+        "iso_time": "2026-11-15T17:36:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：HKUDS/DeepTutor（⭐ 51,920，2282 stars today）\n\n💡 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/....\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/HKUDS/DeepTutor\n#开源 #AI #搞钱 #独立开发"
@@ -148,11 +184,47 @@
         "stars": 10910,
         "stars_today": "2275 stars today",
         "heat_score": 227510910,
-        "scheduled_time": "2026-11-15 11:27:00 CST",
-        "iso_time": "2026-11-15T11:27:00+08:00",
+        "scheduled_time": "2026-11-15 21:20:00 CST",
+        "iso_time": "2026-11-15T21:20:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "content": "认知被狠狠刷新了！GitHub 爆火新星：vercel-labs/agent-desktop（⭐ 10,910，2275 stars today）\n\n💡 Computer use CLI for AI agents...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/vercel-labs/agent-desktop\n#开源 #AI #搞钱 #独立开发"
+      },
+      {
+        "repo": "togg53192-cmd/jailbreaks",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "stars": 11371,
+        "stars_today": "2055 stars today",
+        "heat_score": 205511371,
+        "scheduled_time": "2026-11-16 00:59:00 CST",
+        "iso_time": "2026-11-16T00:59:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "别再被大模型的“道德枷锁”限制生产力了！🔥\n\n单日暴涨2000星，全网最全越狱（Jailbreak）神库开源：\n\n✅ 撕掉AI无脑拒绝标签\n✅ 唤醒模型100%极限智商\n✅ 红队安全/极限研究必备\n\n趁没被封赶快存👇\nhttps://github.com/togg53192-cmd/jailbreaks"
+      },
+      {
+        "repo": "NVIDIA/auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "stars": 5867,
+        "stars_today": "2050 stars today",
+        "heat_score": 205005867,
+        "scheduled_time": "2026-11-16 04:05:00 CST",
+        "iso_time": "2026-11-16T04:05:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "别再无脑死磕向量RAG了！英伟达刚开源了Agent终极解药🔥\n\nNVIDIA auto-ontology 斩获2000+星：\n✅ 自动化语义图谱构建\n✅ 彻底终结大模型幻觉与乱猜\n✅ 确定性精准推理\n\n一人公司做出企业级精度的神器👇\nhttps://github.com/NVIDIA/auto-ontology"
+      },
+      {
+        "repo": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "stars": 98864,
+        "stars_today": "1761 stars today",
+        "heat_score": 176198864,
+        "scheduled_time": "2026-11-16 08:23:00 CST",
+        "iso_time": "2026-11-16T08:23:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "查竞品创始人背景还在一个个App盲搜？近10万星的神器把认知差拉满了：\n\n✅ 1条命令扫描全球400+社交平台\n✅ 毫秒级锁定全网同一ID\n✅ 挖大V马甲/背景调查/获客神器\n\n彻底告别低效人肉👇\nhttps://github.com/sherlock-project/sherlock"
       }
     ]
   }

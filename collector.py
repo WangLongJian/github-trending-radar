@@ -209,37 +209,62 @@ Generate TWO completely different, highly emotional and compelling viral X post 
 - Provide:
   - "wangkun_intent": 260字符以内极简单推版（带吸引人眼球的开头、排比打勾和链接）.
   - "wangkun_full": 500-800字符完整长文爆款版（黄金第一句、痛点共鸣、排比清单、打消门槛说明、热门话题标签）.
+  - "wangkun_thread": 把 wangkun_full 改写成 3-6 条的 X 串推（JSON 字符串数组）。规则：
+      * 该账号没有 Premium，每条必须不超过 120 个汉字（X 把中文按 2 个字符算，上限 280）
+      * 第 1 条：黄金第一句钩子 + 一句话说清它是什么 + GitHub 链接 {repo['url']}，结尾加 🧵
+      * 中间几条：每条只讲一个点（痛点对比 / 能干什么 / 门槛与上手），自身能独立读懂
+      * 最后 1 条：行动号召 + 2-4 个热门话题标签
+      * 不要写 (1/5) 这类编号
 
 Return strictly valid JSON:
 {{
   "alpha_intent": "...",
   "alpha_full": "...",
   "wangkun_intent": "...",
-  "wangkun_full": "..."
+  "wangkun_full": "...",
+  "wangkun_thread": ["...", "..."]
 }}
 """
 
+    # gemini-3.8-flash 的“思考”token 和正文共用 maxOutputTokens。
+    # 原来上限 2000，思考就吃掉 1200-1400，长文写到一半被截断（finishReason=MAX_TOKENS），
+    # JSON 解析失败后退回固定模板，所以文案千篇一律。现在放宽上限、压低思考级别，并重试。
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.85,
-            "maxOutputTokens": 2000,
-            "response_mime_type": "application/json"
+            "temperature": 0.9,
+            "maxOutputTokens": 8192,
+            "response_mime_type": "application/json",
+            "thinkingConfig": {"thinkingLevel": "low"},
         }
     }
+    required = ("alpha_intent", "alpha_full", "wangkun_intent", "wangkun_full", "wangkun_thread")
 
-    try:
-        resp = requests.post(url, json=payload, timeout=25)
-        if resp.status_code == 200:
+    for attempt in range(1, 4):
+        try:
+            resp = requests.post(url, json=payload, timeout=90)
+            if resp.status_code != 200:
+                print(f"[Warn] Gemini HTTP {resp.status_code} (第 {attempt} 次): {resp.text[:200]}")
+                continue
             data = resp.json()
-            raw_text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+            cand = data["candidates"][0]
+            if cand.get("finishReason") not in (None, "STOP"):
+                print(f"[Warn] Gemini 未正常结束: {cand.get('finishReason')} (第 {attempt} 次)")
+                continue
+            raw_text = "".join(part.get("text", "") for part in cand["content"]["parts"]).strip()
             if "```json" in raw_text:
                 raw_text = raw_text.split("```json")[1].split("```")[0].strip()
             elif "```" in raw_text:
                 raw_text = raw_text.split("```")[1].split("```")[0].strip()
-            return json.loads(raw_text, strict=False)
-    except Exception as e:
-        print(f"[Warn] Gemini generation failed: {e}")
+            drafts = json.loads(raw_text, strict=False)
+            missing = [k for k in required if not drafts.get(k)]
+            if missing or not isinstance(drafts["wangkun_thread"], list):
+                print(f"[Warn] Gemini 输出缺字段 {missing} (第 {attempt} 次)")
+                continue
+            drafts["wangkun_thread"] = [t.strip() for t in drafts["wangkun_thread"] if str(t).strip()]
+            return drafts
+        except Exception as e:
+            print(f"[Warn] Gemini generation failed (第 {attempt} 次): {e}")
     return None
 
 def generate_fallback_drafts(repo: Dict[str, Any], tag: str) -> Dict[str, str]:

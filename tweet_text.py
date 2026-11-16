@@ -95,3 +95,32 @@ def fit_tweet(text: str, repo_url: str = "", limit: int = MAX_WEIGHT - 5) -> str
             break
         text = "\n".join(lines).strip()
     return text
+
+
+_SENT_RE = re.compile(r"(?<=[。！？!?；;\n])")
+
+
+def split_to_fit(text: str, limit: int = MAX_WEIGHT - 5):
+    """一条超长就按句子切成几条（串推用），每条都不超过 limit。"""
+    text = text.strip()
+    if weighted_len(text) <= limit:
+        return [text]
+    parts, cur = [], ""
+    for sent in [x for x in _SENT_RE.split(text) if x]:
+        while weighted_len(sent) > limit:  # 单句本身就超长：硬切
+            cut = len(sent)
+            while weighted_len(sent[:cut]) > limit:
+                cut -= 1
+            if cur.strip():
+                parts.append(cur.strip())
+                cur = ""
+            parts.append(sent[:cut].strip())
+            sent = sent[cut:]
+        if weighted_len(cur + sent) > limit:
+            parts.append(cur.strip())
+            cur = sent
+        else:
+            cur += sent
+    if cur.strip():
+        parts.append(cur.strip())
+    return [x for x in parts if x]

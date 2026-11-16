@@ -166,28 +166,31 @@ def build_dynamic_schedule():
     pt_slots = next_post_slots(now_utc, PT_TZ, min(5, len(available_alpha)))
     cst_slots = next_post_slots(now_utc, CST_TZ, min(5, len(available_wangkun)))
 
-    from collector import generate_ai_drafts_gemini, generate_fallback_drafts
+    from collector import generate_ai_drafts_gemini, generate_fallback_drafts, fetch_readme_snippet
 
-    # 构建 Alpha John 队列
-    alpha_queue = []
-    # 先放入历史已发布的推文记录（保留历史审计）
-    for item in old_data.get("alpha_john", {}).get("queue", []):
-        if item.get("status") == "posted":
-            alpha_queue.append(item)
+    # 已经用 Gemini 写好新格式文案的待发项目，直接复用，不重复调用
+    reuse = {}
+    for acc_key in ("alpha_john", "wangkun_pas"):
+        for item in old_data.get(acc_key, {}).get("queue", []):
+            if item.get("status") == "pending" and item.get("copy_source") == "gemini_v2":
+                reuse[(acc_key, item["repo"])] = item
 
-    print("\n🔥 正在为 [Alpha John · 英文] 分配未来 24 小时热度最高项目与随机时刻:")
-    for i, slot in enumerate(pt_slots):
-        repo_data = available_alpha[i]
-        
-        # 尝试调用 Gemini API 生成神级文案，否则降级模版
-        drafts = generate_ai_drafts_gemini(repo_data, "")
-        if not drafts or not drafts.get("alpha_intent"):
-            drafts = generate_fallback_drafts(repo_data, repo_data["tag"])
-            
-        # 按 X 的加权长度（中文/emoji 算 2，链接算 23）裁剪，并保住 GitHub 链接
-        content = fit_tweet(drafts["alpha_intent"].strip(), repo_data["url"])
+    drafts_cache = {}
 
-        alpha_queue.append({
+    def get_drafts(repo_data):
+        """每个项目只调一次 Gemini（两个号的文案一次生成），带 README 上下文。失败返回 None。"""
+        name = repo_data["full_name"]
+        if name not in drafts_cache:
+            readme = ""
+            try:
+                readme = fetch_readme_snippet(name)
+            except Exception as e:
+                print(f"   [Warn] 读取 {name} README 失败: {e}")
+            drafts_cache[name] = generate_ai_drafts_gemini(repo_data, readme)
+        return drafts_cache[name]
+
+    def base_item(repo_data, slot, account):
+        return {
             "repo": repo_data["full_name"],
             "url": repo_data["url"],
             "stars": repo_data["stars"],
@@ -196,41 +199,50 @@ def build_dynamic_schedule():
             "scheduled_time": slot.strftime("%Y-%m-%d %H:%M:%S %Z"),
             "iso_time": slot.isoformat(),
             "status": "pending",
-            "account": "Alpha John",
-            "content": content
-        })
-        print(f"   [Slot {i+1}] {slot.strftime('%Y-%m-%d %H:%M %Z')} ➔ {repo_data['full_name']} (今日+{repo_data['stars_today_num']}⭐, 总星{repo_data['stars']:,})")
+            "account": account,
+        }
 
-    # 构建 王坤PAS 队列
-    wangkun_queue = []
-    for item in old_data.get("wangkun_pas", {}).get("queue", []):
-        if item.get("status") == "posted":
-            wangkun_queue.append(item)
+    def build_queue(acc_key, account, available, slots):
+        queue = [it for it in old_data.get(acc_key, {}).get("queue", []) if it.get("status") == "posted"]
+        print(f"\n🔥 正在为 [{account}] 分配热度最高项目与发帖时刻:")
+        candidates = iter(available)
+        for n, slot in enumerate(slots):
+            item = None
+            # Gemini 失败的项目跳过，换下一个热度项目；全都失败才用模板兜底
+            for repo_data in candidates:
+                old = reuse.get((acc_key, repo_data["full_name"]))
+                if old:
+                    item = dict(old, **base_item(repo_data, slot, account))
+                    break
+                drafts = get_drafts(repo_data)
+                if not drafts:
+                    print(f"   ⚠️ {repo_data['full_name']} 文案生成失败，跳过")
+                    continue
+                item = base_item(repo_data, slot, account)
+                item["copy_source"] = "gemini_v2"
+                if acc_key == "alpha_john":
+                    # Alpha John 有 Premium，直接发长文
+                    item["content"] = drafts["alpha_full"].strip()
+                else:
+                    # 王坤PAS 没有 Premium，发串推；content 留完整长文便于查看
+                    item["thread"] = drafts["wangkun_thread"]
+                    item["content"] = drafts["wangkun_full"].strip()
+                break
+            if item is None:
+                if not available:
+                    break
+                repo_data = available[min(n, len(available) - 1)]
+                fb = generate_fallback_drafts(repo_data, repo_data["tag"])
+                item = base_item(repo_data, slot, account)
+                item["copy_source"] = "template"
+                item["content"] = fb["alpha_full" if acc_key == "alpha_john" else "wangkun_intent"].strip()
+                print(f"   ⚠️ 没有可用的 AI 文案，{repo_data['full_name']} 用模板兜底")
+            queue.append(item)
+            print(f"   [Slot {n+1}] {slot.strftime('%Y-%m-%d %H:%M %Z')} ➔ {item['repo']} (热度 {item['heat_score']:,})")
+        return queue
 
-    print("\n🔥 正在为 [王坤PAS · 中文] 分配未来 24 小时热度最高项目与随机时刻:")
-    for i, slot in enumerate(cst_slots):
-        repo_data = available_wangkun[i]
-        
-        drafts = generate_ai_drafts_gemini(repo_data, "")
-        if not drafts or not drafts.get("wangkun_intent"):
-            drafts = generate_fallback_drafts(repo_data, repo_data["tag"])
-            
-        # 按 X 的加权长度（中文/emoji 算 2，链接算 23）裁剪，并保住 GitHub 链接
-        content = fit_tweet(drafts["wangkun_intent"].strip(), repo_data["url"])
-
-        wangkun_queue.append({
-            "repo": repo_data["full_name"],
-            "url": repo_data["url"],
-            "stars": repo_data["stars"],
-            "stars_today": repo_data["stars_today"],
-            "heat_score": repo_data["heat_score"],
-            "scheduled_time": slot.strftime("%Y-%m-%d %H:%M:%S %Z"),
-            "iso_time": slot.isoformat(),
-            "status": "pending",
-            "account": "王坤PAS",
-            "content": content
-        })
-        print(f"   [Slot {i+1}] {slot.strftime('%Y-%m-%d %H:%M %Z')} ➔ {repo_data['full_name']} (今日+{repo_data['stars_today_num']}⭐, 总星{repo_data['stars']:,})")
+    alpha_queue = build_queue("alpha_john", "Alpha John", available_alpha, pt_slots)
+    wangkun_queue = build_queue("wangkun_pas", "王坤PAS", available_wangkun, cst_slots)
 
     # 后续未入选未来 24 小时的低热度项目，保留在待排期池中
     backlog_alpha = available_alpha[len(pt_slots):]

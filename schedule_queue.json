@@ -69,11 +69,13 @@
         "stars": 10910,
         "stars_today": "2275 stars today",
         "heat_score": 227510910,
-        "scheduled_time": "2026-11-15 21:00:00 PST",
-        "iso_time": "2026-11-15T21:00:00-08:00",
+        "scheduled_time": "2026-11-16 09:00:00 PST",
+        "iso_time": "2026-11-16T09:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
-        "content": "Vercel just dropped agent-desktop & it’s exploding (+2,200 stars today) ⚡️\n\nA universal computer-use CLI for AI agents.\n\n• Turn AI into your desktop pilot\n• Extreme solo-dev leverage\n• Zero UI slop, pure execution\n\nCode: https://github.com/vercel-labs/agent-desktop"
+        "content": "Vercel just dropped agent-desktop & it’s exploding (+2,200 stars today) ⚡️\n\nA universal computer-use CLI for AI agents.\n\n• Turn AI into your desktop pilot\n• Extreme solo-dev leverage\n• Zero UI slop, pure execution\n\nCode: https://github.com/vercel-labs/agent-desktop",
+        "fail_count": 1,
+        "last_error_at": "2026-11-16T05:02:29.999224+00:00"
       },
       {
         "repo": "togg53192-cmd/jailbreaks",
@@ -81,8 +83,8 @@
         "stars": 11371,
         "stars_today": "2055 stars today",
         "heat_score": 205511371,
-        "scheduled_time": "2026-11-16 09:00:00 PST",
-        "iso_time": "2026-11-16T09:00:00-08:00",
+        "scheduled_time": "2026-11-16 13:00:00 PST",
+        "iso_time": "2026-11-16T13:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "Stop letting safety filters nerf your builds. ⚡\n\nThis repo just gained +2,000 stars TODAY:\n• Complete vault of active LLM jailbreaks\n• Raw foundation model intelligence\n• Essential for AI red-teamers & devs\n\nLink: https://github.com/togg53192-cmd/jailbreaks"
@@ -93,8 +95,8 @@
         "stars": 5867,
         "stars_today": "2050 stars today",
         "heat_score": 205005867,
-        "scheduled_time": "2026-11-16 13:00:00 PST",
-        "iso_time": "2026-11-16T13:00:00-08:00",
+        "scheduled_time": "2026-11-16 17:00:00 PST",
+        "iso_time": "2026-11-16T17:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "NVIDIA just dropped the cure for AI hallucination slop. 🤯\n\nauto-ontology builds deterministic semantic graph layers over your data:\n⚡️ 100% verifiable query gen\n⚡️ Multi-hop agent reasoning\n⚡️ Zero vector noise\n\nExtreme dev leverage👇\nhttps://github.com/NVIDIA/auto-..."
@@ -105,8 +107,8 @@
         "stars": 98864,
         "stars_today": "1761 stars today",
         "heat_score": 176198864,
-        "scheduled_time": "2026-11-16 17:00:00 PST",
-        "iso_time": "2026-11-16T17:00:00-08:00",
+        "scheduled_time": "2026-11-16 21:00:00 PST",
+        "iso_time": "2026-11-16T21:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "OSINT intelligence is unfair leverage. ⚡️\n\nSherlock hunts any username across 400+ platforms in seconds:\n\n• Brand claim audits\n• Competitor recon\n• Sourcing hidden founders\n\nNearly 100k stars on GitHub:\nhttps://github.com/sherlock-project/sherlock"
@@ -218,9 +220,11 @@
         "heat_score": 205005867,
         "scheduled_time": "2026-11-16 13:00:00 CST",
         "iso_time": "2026-11-16T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
-        "content": "别再无脑死磕向量RAG了！英伟达刚开源了Agent终极解药🔥\n\nNVIDIA auto-ontology 斩获2000+星：\n✅ 自动化语义图谱构建\n✅ 彻底终结大模型幻觉与乱猜\n✅ 确定性精准推理\n\n一人公司做出企业级精度的神器👇\nhttps://github.com/NVIDIA/auto-ontology"
+        "content": "别再无脑死磕向量RAG了！英伟达刚开源了Agent终极解药🔥\n\nNVIDIA auto-ontology 斩获2000+星：\n✅ 自动化语义图谱构建\n✅ 彻底终结大模型幻觉与乱猜\n✅ 确定性精准推理\n\n一人公司做出企业级精度的神器👇\nhttps://github.com/NVIDIA/auto-ontology",
+        "posted_at": "2026-11-16T05:03:06.112820+00:00",
+        "tweet_url": "https://x.com/i/status/2122193712243679567"
       },
       {
         "repo": "sherlock-project/sherlock",

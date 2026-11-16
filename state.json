@@ -1889,8 +1889,113 @@
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "unslothai/unsloth": {
+      "date": "2026-11-16",
+      "stars": 79584,
+      "url": "https://github.com/unslothai/unsloth",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ManimCommunity/manim": {
+      "date": "2026-11-16",
+      "stars": 42601,
+      "url": "https://github.com/ManimCommunity/manim",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "HKUDS/Vibe-Trading": {
+      "date": "2026-11-16",
+      "stars": 38350,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "PrefectHQ/fastmcp": {
+      "date": "2026-11-16",
+      "stars": 28560,
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "motion-canvas/motion-canvas": {
+      "date": "2026-11-16",
+      "stars": 19966,
+      "url": "https://github.com/motion-canvas/motion-canvas",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Canner/WrenAI": {
+      "date": "2026-11-16",
+      "stars": 18290,
+      "url": "https://github.com/Canner/WrenAI",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "ggml-org/ggml": {
+      "date": "2026-11-16",
+      "stars": 16011,
+      "url": "https://github.com/ggml-org/ggml",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "assistant-ui/assistant-ui": {
+      "date": "2026-11-16",
+      "stars": 13252,
+      "url": "https://github.com/assistant-ui/assistant-ui",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "SnailSploit/Claude-Red": {
+      "date": "2026-11-16",
+      "stars": 11058,
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "bojieli/ai-infra-book": {
+      "date": "2026-11-16",
+      "stars": 7855,
+      "url": "https://github.com/bojieli/ai-infra-book",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "nolly-studio/cult-ui": {
+      "date": "2026-11-16",
+      "stars": 7474,
+      "url": "https://github.com/nolly-studio/cult-ui",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "internetarchive/openlibrary": {
+      "date": "2026-11-16",
+      "stars": 6919,
+      "url": "https://github.com/internetarchive/openlibrary",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "tradermonty/claude-trading-skills": {
+      "date": "2026-11-16",
+      "stars": 5821,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "fqscfqj/Y2A-Auto": {
+      "date": "2026-11-16",
+      "stars": 5014,
+      "url": "https://github.com/fqscfqj/Y2A-Auto",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "simonlin1212/Vibe-Research": {
+      "date": "2026-11-16",
+      "stars": 3739,
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "source": "Trending (TypeScript)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-15T07:38:19.964188"
+  "last_run": "2026-11-16T07:44:03.069407"
 }

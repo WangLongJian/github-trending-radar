@@ -8,47 +8,8 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 262,
+    "backlog_count": 279,
     "queue": [
-      {
-        "repo": "morluto/rea",
-        "url": "https://github.com/morluto/rea",
-        "stars": 441664,
-        "stars_today": "3286 stars today",
-        "heat_score": 329041664,
-        "scheduled_time": "2026-11-14 03:51:00 PST",
-        "iso_time": "2026-11-14T03:51:00-08:00",
-        "status": "skipped_false_posted",
-        "account": "Alpha John",
-        "content": "Game-changer on GitHub: morluto/rea is blowing up (⭐ 441,664, 3286 stars today)!\n\n💡 Reverse engineer anything with agents, from app behavior down to native binaries....\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it ou...",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
-      },
-      {
-        "repo": "cloudflare/security-audit-skill",
-        "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 64445,
-        "stars_today": "2548 stars today",
-        "heat_score": 254864445,
-        "scheduled_time": "2026-11-14 09:17:00 PST",
-        "iso_time": "2026-11-14T09:17:00-08:00",
-        "status": "skipped_false_posted",
-        "account": "Alpha John",
-        "content": "Game-changer on GitHub: cloudflare/security-audit-skill is blowing up (⭐ 64,445, 2548 stars today)!\n\n💡 A coding-agent skill for multi-phase security audits with independently verified, machine-...\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100...",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
-      },
-      {
-        "repo": "pbakaus/impeccable",
-        "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97267,
-        "stars_today": "2300 stars today",
-        "heat_score": 230097267,
-        "scheduled_time": "2026-11-14 13:36:00 PST",
-        "iso_time": "2026-11-14T13:36:00-08:00",
-        "status": "skipped_false_posted",
-        "account": "Alpha John",
-        "content": "Game-changer on GitHub: pbakaus/impeccable is blowing up (⭐ 97,267, 2300 stars today)!\n\n💡 The design vocabulary for your coding agent. Steer with polish and bolder, review with cri...\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source...",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
-      },
       {
         "repo": "HKUDS/DeepTutor",
         "url": "https://github.com/HKUDS/DeepTutor",
@@ -64,85 +25,16 @@
         "tweet_url": "https://x.com/i/status/2122163144038752699"
       },
       {
-        "repo": "vercel-labs/agent-desktop",
-        "url": "https://github.com/vercel-labs/agent-desktop",
-        "stars": 10910,
-        "stars_today": "2275 stars today",
-        "heat_score": 227510910,
-        "scheduled_time": "2026-11-16 09:00:00 PST",
-        "iso_time": "2026-11-16T09:00:00-08:00",
-        "status": "pending",
-        "account": "Alpha John",
-        "content": "Vercel just dropped agent-desktop & it’s exploding (+2,200 stars today) ⚡️\n\nA universal computer-use CLI for AI agents.\n\n• Turn AI into your desktop pilot\n• Extreme solo-dev leverage\n• Zero UI slop, pure execution\n\nCode: https://github.com/vercel-labs/agent-desktop",
-        "fail_count": 1,
-        "last_error_at": "2026-11-16T05:02:29.999224+00:00"
-      },
-      {
-        "repo": "togg53192-cmd/jailbreaks",
-        "url": "https://github.com/togg53192-cmd/jailbreaks",
-        "stars": 11371,
-        "stars_today": "2055 stars today",
-        "heat_score": 205511371,
-        "scheduled_time": "2026-11-16 13:00:00 PST",
-        "iso_time": "2026-11-16T13:00:00-08:00",
-        "status": "pending",
-        "account": "Alpha John",
-        "content": "Stop letting safety filters nerf your builds. ⚡\n\nThis repo just gained +2,000 stars TODAY:\n• Complete vault of active LLM jailbreaks\n• Raw foundation model intelligence\n• Essential for AI red-teamers & devs\n\nLink: https://github.com/togg53192-cmd/jailbreaks"
-      },
-      {
-        "repo": "NVIDIA/auto-ontology",
-        "url": "https://github.com/NVIDIA/auto-ontology",
-        "stars": 5867,
-        "stars_today": "2050 stars today",
-        "heat_score": 205005867,
-        "scheduled_time": "2026-11-16 17:00:00 PST",
-        "iso_time": "2026-11-16T17:00:00-08:00",
-        "status": "pending",
-        "account": "Alpha John",
-        "content": "NVIDIA just dropped the cure for AI hallucination slop. 🤯\n\nauto-ontology builds deterministic semantic graph layers over your data:\n⚡️ 100% verifiable query gen\n⚡️ Multi-hop agent reasoning\n⚡️ Zero vector noise\n\nExtreme dev leverage👇\nhttps://github.com/NVIDIA/auto-..."
-      },
-      {
-        "repo": "sherlock-project/sherlock",
-        "url": "https://github.com/sherlock-project/sherlock",
-        "stars": 98864,
-        "stars_today": "1761 stars today",
-        "heat_score": 176198864,
-        "scheduled_time": "2026-11-16 21:00:00 PST",
-        "iso_time": "2026-11-16T21:00:00-08:00",
-        "status": "pending",
-        "account": "Alpha John",
-        "content": "OSINT intelligence is unfair leverage. ⚡️\n\nSherlock hunts any username across 400+ platforms in seconds:\n\n• Brand claim audits\n• Competitor recon\n• Sourcing hidden founders\n\nNearly 100k stars on GitHub:\nhttps://github.com/sherlock-project/sherlock"
-      }
-    ]
-  },
-  "wangkun_pas": {
-    "timezone": "Asia/Shanghai (CST)",
-    "next_24h_count": 5,
-    "backlog_count": 261,
-    "queue": [
-      {
-        "repo": "etcd-io/etcd",
-        "url": "https://github.com/etcd-io/etcd",
-        "scheduled_time": "2026-11-15 09:00:00 CST",
-        "iso_time": "2026-11-15T09:00:00+08:00",
-        "status": "skipped_false_posted",
-        "account": "王坤PAS",
-        "content": "认知被狠狠刷新了！GitHub 爆火新星：etcd-io/etcd（⭐ 52,646，52,646 stars）\n\n💡 Distributed reliable key-value store for the most critical data of a distributed syst...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/etcd-io/etcd\n#开源 #AI #搞钱 #独立开发",
-        "media": null,
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
-      },
-      {
         "repo": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "stars": 441664,
         "stars_today": "3286 stars today",
         "heat_score": 329041664,
-        "scheduled_time": "2026-11-14 19:51:00 CST",
-        "iso_time": "2026-11-14T19:51:00+08:00",
-        "status": "skipped_false_posted",
-        "account": "王坤PAS",
-        "content": "认知被狠狠刷新了！GitHub 爆火新星：morluto/rea（⭐ 441,664，3286 stars today）\n\n💡 Reverse engineer anything with agents, from app behavior down to native binaries....\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/morluto/rea\n#开源 #AI #搞钱 #独立开发",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
+        "scheduled_time": "2026-11-16 09:00:00 PST",
+        "iso_time": "2026-11-16T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "Reverse engineering just got automated by AI agents. 🤯\n\nNo more 3-week Ghidra suffering:\n⚡ App behavior ➔ Clean API specs\n⚡ Native binaries ➔ Decompiled logic\n⚡ Extreme solo-builder leverage\n\nMeet Rea 👇\nhttps://github.com/morluto/rea"
       },
       {
         "repo": "cloudflare/security-audit-skill",
@@ -150,12 +42,11 @@
         "stars": 64445,
         "stars_today": "2548 stars today",
         "heat_score": 254864445,
-        "scheduled_time": "2026-11-15 01:17:00 CST",
-        "iso_time": "2026-11-15T01:17:00+08:00",
-        "status": "skipped_false_posted",
-        "account": "王坤PAS",
-        "content": "认知被狠狠刷新了！GitHub 爆火新星：cloudflare/security-audit-skill（⭐ 64,445，2548 stars today）\n\n💡 A coding-agent skill for multi-phase security audits with independently verified, mac...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/cloudflare/security-audit-skill...",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
+        "scheduled_time": "2026-11-16 13:00:00 PST",
+        "iso_time": "2026-11-16T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "Cloudflare just open-sourced the killer security skill for AI coding agents.\n\nReplaces $50k audit teams:\n⚡ Multi-phase automated audits\n⚡ Independently verified findings\n⚡ Zero hallucinated slop\n\nGive your AI agent real security teeth:\nhttps://github.com/cloudflare/security-audit-skill"
       },
       {
         "repo": "pbakaus/impeccable",
@@ -163,13 +54,43 @@
         "stars": 97267,
         "stars_today": "2300 stars today",
         "heat_score": 230097267,
-        "scheduled_time": "2026-11-15 05:36:00 CST",
-        "iso_time": "2026-11-15T05:36:00+08:00",
-        "status": "skipped_false_posted",
-        "account": "王坤PAS",
-        "content": "认知被狠狠刷新了！GitHub 爆火新星：pbakaus/impeccable（⭐ 97,267，2300 stars today）\n\n💡 The design vocabulary for your coding agent. Steer with polish and bolder, review wit...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/pbakaus/impeccable\n#开源 #AI #搞钱 #独立开发",
-        "note": "旧版 cloud_publisher 误判成功，实际未发出；2026-11-15 修复时标记"
+        "scheduled_time": "2026-11-16 17:00:00 PST",
+        "iso_time": "2026-11-16T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "AI code is fast. AI design is slop. 💀\n\nMeet Impeccable: the design vocabulary for your coding agents.\n\n✨ Direct steering: 'polish', 'bolder'\n🔍 Auto-critique & audit\n🚫 Zero UI slop\n\n+2.3k stars today. Fix your UI now:\nhttps://github.com/pbakaus/impeccable"
       },
+      {
+        "repo": "vercel-labs/agent-desktop",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "stars": 10910,
+        "stars_today": "2275 stars today",
+        "heat_score": 227510910,
+        "scheduled_time": "2026-11-16 21:00:00 PST",
+        "iso_time": "2026-11-16T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "Vercel just dropped agent-desktop and it's exploding (+2.2k stars today). 🔥\n\nTurns your OS into an AI-controlled sandbox:\n✅ Headless computer-use CLI\n✅ Automates browser, bash & desktop UI\n✅ Ultimate solo-founder leverage\n\nCheck it out:\nhttps://github.com/vercel-labs/agent-desktop"
+      },
+      {
+        "repo": "togg53192-cmd/jailbreaks",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "stars": 11371,
+        "stars_today": "2055 stars today",
+        "heat_score": 205511371,
+        "scheduled_time": "2026-11-17 09:00:00 PST",
+        "iso_time": "2026-11-17T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "content": "RLHF lobotomized your models.\n\nThis repo compiled every working LLM jailbreak in one place (+2,000 stars today):\n⚡️ Raw, uncensored model outputs\n⚡️ Frontier red-teaming vectors\n⚡️ Complete prompt archive\n\nTest your defenses: https://github.com/togg53192-cmd/jailbreaks"
+      }
+    ]
+  },
+  "wangkun_pas": {
+    "timezone": "Asia/Shanghai (CST)",
+    "next_24h_count": 5,
+    "backlog_count": 276,
+    "queue": [
       {
         "repo": "HKUDS/DeepTutor",
         "url": "https://github.com/HKUDS/DeepTutor",
@@ -227,16 +148,64 @@
         "tweet_url": "https://x.com/i/status/2122193712243679567"
       },
       {
+        "repo": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "stars": 441664,
+        "stars_today": "3286 stars today",
+        "heat_score": 329041664,
+        "scheduled_time": "2026-11-16 17:00:00 CST",
+        "iso_time": "2026-11-16T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "认知被狠狠刷新了！GitHub 爆火新星：morluto/rea（⭐ 441,664，3286 stars today）\n\n💡 Reverse engineer anything with agents, from app behavior down to native binaries....\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/morluto/rea\n#开源 #AI"
+      },
+      {
+        "repo": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "stars": 64445,
+        "stars_today": "2548 stars today",
+        "heat_score": 254864445,
+        "scheduled_time": "2026-11-16 21:00:00 CST",
+        "iso_time": "2026-11-16T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "Cloudflare这波直接把几十万的安全外包干沉默了！🔥\n\n给AI Agent装上大厂级安全审计雷达：\n✅ 多阶段代码渗透深度扫描\n✅ 独立交叉验证，坚决消灭AI幻觉\n✅ 一键生成机读漏洞修复报告\n\n一人公司顶级防线：https://github.com/cloudflare/security-audit-skill"
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "stars": 97267,
+        "stars_today": "2300 stars today",
+        "heat_score": 230097267,
+        "scheduled_time": "2026-11-17 09:00:00 CST",
+        "iso_time": "2026-11-17T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "认知被狠狠刷新了！GitHub 爆火新星：pbakaus/impeccable（⭐ 97,267，2300 stars today）\n\n💡 The design vocabulary for your coding agent. Steer with polish and bolder, review wit...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/pbakaus/impeccable"
+      },
+      {
         "repo": "sherlock-project/sherlock",
         "url": "https://github.com/sherlock-project/sherlock",
         "stars": 98864,
         "stars_today": "1761 stars today",
         "heat_score": 176198864,
-        "scheduled_time": "2026-11-16 17:00:00 CST",
-        "iso_time": "2026-11-16T17:00:00+08:00",
+        "scheduled_time": "2026-11-17 13:00:00 CST",
+        "iso_time": "2026-11-17T13:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
-        "content": "查竞品创始人背景还在一个个App盲搜？近10万星的神器把认知差拉满了：\n\n✅ 1条命令扫描全球400+社交平台\n✅ 毫秒级锁定全网同一ID\n✅ 挖大V马甲/背景调查/获客神器\n\n彻底告别低效人肉👇\nhttps://github.com/sherlock-project/sherlock"
+        "content": "认知被狠狠刷新了！GitHub 爆火新星：sherlock-project/sherlock（⭐ 98,864，1761 stars today）\n\n💡 Hunt down social media accounts by username across social networks...\n✅ 一人超级公司 10 倍效率杠杆\n✅ 击碎传统低效做法，纯开源免费\n\n🔗 传送门: https://github.com/sherlock-project/sherlock\n#开源 #AI"
+      },
+      {
+        "repo": "ifixai-ai/iFixAi",
+        "url": "https://github.com/ifixai-ai/iFixAi",
+        "stars": 42745,
+        "stars_today": "1584 stars today",
+        "heat_score": 158442745,
+        "scheduled_time": "2026-11-17 17:00:00 CST",
+        "iso_time": "2026-11-17T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "content": "普通人还在盲目堆Agent烧Token，顶级玩家早已开始给智能体做“CT体检”。\n\n开源神器 iFixAi 突袭（4.2万星）：\n✅ 120秒搞定Agent独立审计\n✅ 支持人工排查与智能体自检\n✅ 彻底击碎死循环与无效幻觉\n\n告别翻车：https://github.com/ifixai-ai/iFixAi"
       }
     ]
   }

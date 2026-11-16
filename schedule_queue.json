@@ -57,9 +57,11 @@
         "heat_score": 228251920,
         "scheduled_time": "2026-11-15 09:00:00 PST",
         "iso_time": "2026-11-15T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
-        "content": "Game-changer on GitHub: HKUDS/DeepTutor is blowing up (⭐ 51,920, 2282 stars today)!\n\n💡 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/....\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it out: https://..."
+        "content": "Game-changer on GitHub: HKUDS/DeepTutor is blowing up (⭐ 51,920, 2282 stars today)!\n\n💡 DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/....\n✅ 10x leverage for builders & solo founders\n✅ Production-grade & 100% open-source\n\n🔗 Check it out: https://...",
+        "posted_at": "2026-11-16T03:01:37.489168+00:00",
+        "tweet_url": "https://x.com/i/status/2122163144038752699"
       },
       {
         "repo": "vercel-labs/agent-desktop",
@@ -67,8 +69,8 @@
         "stars": 10910,
         "stars_today": "2275 stars today",
         "heat_score": 227510910,
-        "scheduled_time": "2026-11-15 13:00:00 PST",
-        "iso_time": "2026-11-15T13:00:00-08:00",
+        "scheduled_time": "2026-11-15 21:00:00 PST",
+        "iso_time": "2026-11-15T21:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "Vercel just dropped agent-desktop & it’s exploding (+2,200 stars today) ⚡️\n\nA universal computer-use CLI for AI agents.\n\n• Turn AI into your desktop pilot\n• Extreme solo-dev leverage\n• Zero UI slop, pure execution\n\nCode: https://github.com/vercel-labs/agent-desktop"
@@ -79,8 +81,8 @@
         "stars": 11371,
         "stars_today": "2055 stars today",
         "heat_score": 205511371,
-        "scheduled_time": "2026-11-15 17:00:00 PST",
-        "iso_time": "2026-11-15T17:00:00-08:00",
+        "scheduled_time": "2026-11-16 09:00:00 PST",
+        "iso_time": "2026-11-16T09:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "Stop letting safety filters nerf your builds. ⚡\n\nThis repo just gained +2,000 stars TODAY:\n• Complete vault of active LLM jailbreaks\n• Raw foundation model intelligence\n• Essential for AI red-teamers & devs\n\nLink: https://github.com/togg53192-cmd/jailbreaks"
@@ -91,8 +93,8 @@
         "stars": 5867,
         "stars_today": "2050 stars today",
         "heat_score": 205005867,
-        "scheduled_time": "2026-11-15 21:00:00 PST",
-        "iso_time": "2026-11-15T21:00:00-08:00",
+        "scheduled_time": "2026-11-16 13:00:00 PST",
+        "iso_time": "2026-11-16T13:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "NVIDIA just dropped the cure for AI hallucination slop. 🤯\n\nauto-ontology builds deterministic semantic graph layers over your data:\n⚡️ 100% verifiable query gen\n⚡️ Multi-hop agent reasoning\n⚡️ Zero vector noise\n\nExtreme dev leverage👇\nhttps://github.com/NVIDIA/auto-..."
@@ -103,8 +105,8 @@
         "stars": 98864,
         "stars_today": "1761 stars today",
         "heat_score": 176198864,
-        "scheduled_time": "2026-11-16 09:00:00 PST",
-        "iso_time": "2026-11-16T09:00:00-08:00",
+        "scheduled_time": "2026-11-16 17:00:00 PST",
+        "iso_time": "2026-11-16T17:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "content": "OSINT intelligence is unfair leverage. ⚡️\n\nSherlock hunts any username across 400+ platforms in seconds:\n\n• Brand claim audits\n• Competitor recon\n• Sourcing hidden founders\n\nNearly 100k stars on GitHub:\nhttps://github.com/sherlock-project/sherlock"
@@ -202,9 +204,11 @@
         "heat_score": 205511371,
         "scheduled_time": "2026-11-16 09:00:00 CST",
         "iso_time": "2026-11-16T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
-        "content": "别再被大模型的“道德枷锁”限制生产力了！🔥\n\n单日暴涨2000星，全网最全越狱（Jailbreak）神库开源：\n\n✅ 撕掉AI无脑拒绝标签\n✅ 唤醒模型100%极限智商\n✅ 红队安全/极限研究必备\n\n趁没被封赶快存👇\nhttps://github.com/togg53192-cmd/jailbreaks"
+        "content": "别再被大模型的“道德枷锁”限制生产力了！🔥\n\n单日暴涨2000星，全网最全越狱（Jailbreak）神库开源：\n\n✅ 撕掉AI无脑拒绝标签\n✅ 唤醒模型100%极限智商\n✅ 红队安全/极限研究必备\n\n趁没被封赶快存👇\nhttps://github.com/togg53192-cmd/jailbreaks",
+        "posted_at": "2026-11-16T03:02:01.549858+00:00",
+        "tweet_url": "https://x.com/i/status/2122163244236501016"
       },
       {
         "repo": "NVIDIA/auto-ontology",

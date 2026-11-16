@@ -158,18 +158,18 @@ def _post_one(page, url: str, text: str, acc_name: str, tag: str, dry_run: bool 
         _save_shot(page, f"{tag}_dryrun")
         return True
 
-    # 先 Ctrl+Enter，没捕获到发帖请求才强制点按钮，所以不会重复发帖
+    # 不用 Ctrl+Enter：无头浏览器里它不会提交，反而会在光标处插入换行（串推第 4 条出现过）。
+    # 直接在按钮元素上触发 click()，不受浮层遮挡影响；没捕获到请求才再用鼠标强制点一次。
     resp = None
+    post_btn.evaluate("el => el.scrollIntoView({block: 'center'})")
+    page.wait_for_timeout(500)
     try:
-        box.click()
-        with page.expect_response(_is_create, timeout=12000) as resp_info:
-            page.keyboard.press("Control+Enter")
+        with page.expect_response(_is_create, timeout=15000) as resp_info:
+            post_btn.evaluate("el => el.click()")
         resp = resp_info.value
     except Exception:
-        print("   [Warn] Ctrl+Enter 没有触发发帖请求，改为点击 Post 按钮")
+        print("   [Warn] 按钮 click() 没有触发发帖请求，改用鼠标点击")
     if resp is None:
-        post_btn.evaluate("el => el.scrollIntoView({block: 'center'})")
-        page.wait_for_timeout(500)
         with page.expect_response(_is_create, timeout=30000) as resp_info:
             post_btn.click(force=True)
         resp = resp_info.value

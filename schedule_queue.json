@@ -50,10 +50,15 @@
         "heat_score": 254864445,
         "scheduled_time": "2026-11-16 21:00:00 PST",
         "iso_time": "2026-11-16T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Cloudflare just handed solo founders the ultimate cheat code.\n\nThey open-sourced the exact engine powering their internal security harness—and it’s pure developer leverage.\n\nBEFORE:\n- Pay $50k+ for external pentest firms\n- Rely on single-prompt AI that hallucinates fake CVEs\n- Dread shipping code alone as a solo founder\n\nAFTER:\n- Run an isolated swarm of autonomous security agents\n- Multi-phase attack loop: recon ➔ hunting ➔ adversarial validation\n- Independent verifier agents disprove hallucinations\n- Machine-readable, zero-slop audit reports\n\nOne builder with Claude/Cursor + this skill now out-audits an entire legacy SecOps team.\n\nThe leverage curve is vertical.\n\nGrab it: https://github.com/cloudflare/security-audit-skill\n\n#AI #CyberSecurity #BuildInPublic #DevTools"
+        "content": "Cloudflare just handed solo founders the ultimate cheat code.\n\nThey open-sourced the exact engine powering their internal security harness—and it’s pure developer leverage.\n\nBEFORE:\n- Pay $50k+ for external pentest firms\n- Rely on single-prompt AI that hallucinates fake CVEs\n- Dread shipping code alone as a solo founder\n\nAFTER:\n- Run an isolated swarm of autonomous security agents\n- Multi-phase attack loop: recon ➔ hunting ➔ adversarial validation\n- Independent verifier agents disprove hallucinations\n- Machine-readable, zero-slop audit reports\n\nOne builder with Claude/Cursor + this skill now out-audits an entire legacy SecOps team.\n\nThe leverage curve is vertical.\n\nGrab it: https://github.com/cloudflare/security-audit-skill\n\n#AI #CyberSecurity #BuildInPublic #DevTools",
+        "thread_ids": [
+          "2122555419340177725"
+        ],
+        "tweet_url": "https://x.com/i/status/2122555419340177725",
+        "posted_at": "2026-11-17T05:00:23.301061+00:00"
       },
       {
         "repo": "pbakaus/impeccable",
@@ -255,7 +260,7 @@
         "heat_score": 176198864,
         "scheduled_time": "2026-11-17 13:00:00 CST",
         "iso_time": "2026-11-17T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -265,7 +270,16 @@
           "门槛几乎为零：不需要申请昂贵的第三方API，不需要花几千块买海外SaaS。只要本地有Python，敲下 `pip install sherlock-project`，输入目标名字就能直接跑。真正属于普通人的超级杠杆工具。",
           "信息差就是利润差，别再把宝贵精力浪费在重复的人肉搜索上了。建议立刻去GitHub星标备用，下次做背景调查时直接降维打击！\n\n#效率工具 #开源神器 #一人公司 #极客"
         ],
-        "content": "认知差往往就是生产力差。\n\n普通人想做竞品调研或找KOL的全网足迹：打开Google、小红书、推特、GitHub挨个手敲搜索，折腾半天还漏掉一堆马甲。\n\n顶级的一人公司操盘手怎么做？敲一行命令，十秒钟扫光全网400多个主流社交平台。\n\n这就是狂揽98,000+ Star的开源神级工具——Sherlock。\n\n只需提供一个用户名，它能直接为你交付：\n✅ 全网400+平台瞬间并发扫描（毫秒级响应）\n✅ 支持导出干净的CSV/JSON，一键接入个人自动化工作流\n✅ 竞品创始人全网踪迹嗅探、目标客户背调、品牌防冒充监控\n✅ 甚至支持Tor匿名路由，极客级私密安全\n\n完全免费开源，不用买昂贵SaaS，不用求人写爬虫。电脑装个Python，敲一行回车搞定。\n\n在一人公司时代，信息检索效率比别人快10倍，你就能更早找到搞钱和破局的切入口。\n\n🔗 项目地址：https://github.com/sherlock-project/sherlock\n\n#开源神器 #一人公司 #效率工具 #程序员 #搞钱"
+        "content": "认知差往往就是生产力差。\n\n普通人想做竞品调研或找KOL的全网足迹：打开Google、小红书、推特、GitHub挨个手敲搜索，折腾半天还漏掉一堆马甲。\n\n顶级的一人公司操盘手怎么做？敲一行命令，十秒钟扫光全网400多个主流社交平台。\n\n这就是狂揽98,000+ Star的开源神级工具——Sherlock。\n\n只需提供一个用户名，它能直接为你交付：\n✅ 全网400+平台瞬间并发扫描（毫秒级响应）\n✅ 支持导出干净的CSV/JSON，一键接入个人自动化工作流\n✅ 竞品创始人全网踪迹嗅探、目标客户背调、品牌防冒充监控\n✅ 甚至支持Tor匿名路由，极客级私密安全\n\n完全免费开源，不用买昂贵SaaS，不用求人写爬虫。电脑装个Python，敲一行回车搞定。\n\n在一人公司时代，信息检索效率比别人快10倍，你就能更早找到搞钱和破局的切入口。\n\n🔗 项目地址：https://github.com/sherlock-project/sherlock\n\n#开源神器 #一人公司 #效率工具 #程序员 #搞钱",
+        "thread_ids": [
+          "2122555465695637987",
+          "2122555520892678233",
+          "2122555569387233627",
+          "2122555618624217563",
+          "2122555668511285494"
+        ],
+        "tweet_url": "https://x.com/i/status/2122555465695637987",
+        "posted_at": "2026-11-17T05:01:22.636632+00:00"
       },
       {
         "repo": "ifixai-ai/iFixAi",

@@ -86,10 +86,15 @@
         "heat_score": 227510910,
         "scheduled_time": "2026-11-17 13:00:00 PST",
         "iso_time": "2026-11-17T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop letting your AI agents burn $50/hour guessing button pixels from blurry screenshots.\n\nVercel Labs just quietly open-sourced the holy grail of desktop automation: agent-desktop.\n\nHere’s why this changes everything for solo founders and autonomous agents:\n\nMost Computer Use tools feed 4K screenshots into multimodal models. It’s slow, insanely expensive, and breaks if a pixel shifts. \n\nagent-desktop flips the script: it inspects the native OS accessibility tree (macOS, Windows, Linux) and exposes every single clickable element as an addressable JSON ref. \n\nYour AI doesn't \"look\"—it directly controls:\n✅ Zero vision token burn (pure structured text)\n✅ Native click, type, and clipboard actions\n✅ 100% deterministic UI targeting\n✅ Ultra-light CLI + C library, model-agnostic\n\nThis is how you turn a single Claude or local model into a 24/7 full-stack desktop workforce.\n\n🔗 https://github.com/vercel-labs/agent-desktop\n\n#AI #BuildInPublic #Developers #OpenSource #Automation"
+        "content": "Stop letting your AI agents burn $50/hour guessing button pixels from blurry screenshots.\n\nVercel Labs just quietly open-sourced the holy grail of desktop automation: agent-desktop.\n\nHere’s why this changes everything for solo founders and autonomous agents:\n\nMost Computer Use tools feed 4K screenshots into multimodal models. It’s slow, insanely expensive, and breaks if a pixel shifts. \n\nagent-desktop flips the script: it inspects the native OS accessibility tree (macOS, Windows, Linux) and exposes every single clickable element as an addressable JSON ref. \n\nYour AI doesn't \"look\"—it directly controls:\n✅ Zero vision token burn (pure structured text)\n✅ Native click, type, and clipboard actions\n✅ 100% deterministic UI targeting\n✅ Ultra-light CLI + C library, model-agnostic\n\nThis is how you turn a single Claude or local model into a 24/7 full-stack desktop workforce.\n\n🔗 https://github.com/vercel-labs/agent-desktop\n\n#AI #BuildInPublic #Developers #OpenSource #Automation",
+        "thread_ids": [
+          "2122797015965053152"
+        ],
+        "tweet_url": "https://x.com/i/status/2122797015965053152",
+        "posted_at": "2026-11-17T21:00:24.626711+00:00"
       },
       {
         "repo": "togg53192-cmd/jailbreaks",

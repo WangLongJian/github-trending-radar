@@ -32,10 +32,15 @@
         "heat_score": 329041664,
         "scheduled_time": "2026-11-16 09:00:00 PST",
         "iso_time": "2026-11-16T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The ultimate unfair advantage for solo founders just dropped.\n\nImagine seeing ANY killer feature in a multi-million-dollar app, and having an AI agent break down its exact architecture down to the native binary in seconds.\n\nMeet REA (Reverse Engineer Anything):\n\n❌ Before: 3 weeks of decompiling, digging through Ghidra, guessing API payload patterns, and headaches.\n✅ Now: Feed it to your AI agent via MCP, and let it map runtime behavior, network calls, and native binaries automatically.\n\nWhy this breaks the game:\n• One MCP server for full reverse engineering\n• Bridges high-level app behavior down to low-level assembly\n• Clones complex competitor tech with surgical precision\n• Extreme leverage for 1-person software factories\n\nKill the AI slop. Build enterprise-grade architecture at 100x speed.\n\n🔗 https://github.com/morluto/rea\n\n#BuildInPublic #AIagents #MCP #ReverseEngineering #IndieHacker"
+        "content": "The ultimate unfair advantage for solo founders just dropped.\n\nImagine seeing ANY killer feature in a multi-million-dollar app, and having an AI agent break down its exact architecture down to the native binary in seconds.\n\nMeet REA (Reverse Engineer Anything):\n\n❌ Before: 3 weeks of decompiling, digging through Ghidra, guessing API payload patterns, and headaches.\n✅ Now: Feed it to your AI agent via MCP, and let it map runtime behavior, network calls, and native binaries automatically.\n\nWhy this breaks the game:\n• One MCP server for full reverse engineering\n• Bridges high-level app behavior down to low-level assembly\n• Clones complex competitor tech with surgical precision\n• Extreme leverage for 1-person software factories\n\nKill the AI slop. Build enterprise-grade architecture at 100x speed.\n\n🔗 https://github.com/morluto/rea\n\n#BuildInPublic #AIagents #MCP #ReverseEngineering #IndieHacker",
+        "thread_ids": [
+          "2122543681958007218"
+        ],
+        "tweet_url": "https://x.com/i/status/2122543681958007218",
+        "posted_at": "2026-11-17T04:13:45.254002+00:00"
       },
       {
         "repo": "cloudflare/security-audit-skill",
@@ -43,8 +48,8 @@
         "stars": 64445,
         "stars_today": "2548 stars today",
         "heat_score": 254864445,
-        "scheduled_time": "2026-11-16 13:00:00 PST",
-        "iso_time": "2026-11-16T13:00:00-08:00",
+        "scheduled_time": "2026-11-16 21:00:00 PST",
+        "iso_time": "2026-11-16T21:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
@@ -56,8 +61,8 @@
         "stars": 97267,
         "stars_today": "2300 stars today",
         "heat_score": 230097267,
-        "scheduled_time": "2026-11-16 17:00:00 PST",
-        "iso_time": "2026-11-16T17:00:00-08:00",
+        "scheduled_time": "2026-11-17 09:00:00 PST",
+        "iso_time": "2026-11-17T09:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
@@ -69,8 +74,8 @@
         "stars": 10910,
         "stars_today": "2275 stars today",
         "heat_score": 227510910,
-        "scheduled_time": "2026-11-16 21:00:00 PST",
-        "iso_time": "2026-11-16T21:00:00-08:00",
+        "scheduled_time": "2026-11-17 13:00:00 PST",
+        "iso_time": "2026-11-17T13:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
@@ -82,8 +87,8 @@
         "stars": 11371,
         "stars_today": "2055 stars today",
         "heat_score": 205511371,
-        "scheduled_time": "2026-11-17 09:00:00 PST",
-        "iso_time": "2026-11-17T09:00:00-08:00",
+        "scheduled_time": "2026-11-17 17:00:00 PST",
+        "iso_time": "2026-11-17T17:00:00-08:00",
         "status": "pending",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
@@ -219,7 +224,7 @@
         "heat_score": 230097267,
         "scheduled_time": "2026-11-17 09:00:00 CST",
         "iso_time": "2026-11-17T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -230,7 +235,17 @@
           "门槛低到令人发指：在终端运行 npx impeccable install 即可完成安装。全面支持 Cursor、Claude Code、Copilot 和 Devin，零学习成本无缝嵌入你的工作流。",
           "一人公司时代，产品颜值就是第一生产力。别再让劣质前端毁掉你的商业价值，立刻用它升级你的开发武器库！\n\n#AI编程 #独立开发 #一人公司 #Cursor"
         ],
-        "content": "为什么别人用 AI 搓出来的产品像估值千万的独角兽，你搓出来的却像 2010 年的免费模版？\n\n因为大模型都有“审美均值缺陷”：米色底、细衬线、廉价圆角药丸按钮，一股挥之不去的 AI 塑料味（AI Slop）。\n\n今天狂砍 97k Star 的 Impeccable 彻底打破了这个认知差！它不是另一个 UI 库，而是专门给 Cursor、Claude Code、Copilot 用的“设计词汇引擎”：\n\n⚡️ 审美越级：同一个 Prompt，直接从地摊货蜕变成顶级先锋设计\n⚡️ 极致杠杆：用 `polish`、`bolder` 直接接管 Agent 视觉神经\n⚡️ 出厂质检：内置 `audit` 和 `critique`，上线前自动截杀劣质布局\n\n终端敲一行 `npx impeccable install` 立即激活。\n一人公司时代，别让低质前端杀死你的商业价值！\n\n#独立开发 #一人公司 #AI编程 #Cursor"
+        "content": "为什么别人用 AI 搓出来的产品像估值千万的独角兽，你搓出来的却像 2010 年的免费模版？\n\n因为大模型都有“审美均值缺陷”：米色底、细衬线、廉价圆角药丸按钮，一股挥之不去的 AI 塑料味（AI Slop）。\n\n今天狂砍 97k Star 的 Impeccable 彻底打破了这个认知差！它不是另一个 UI 库，而是专门给 Cursor、Claude Code、Copilot 用的“设计词汇引擎”：\n\n⚡️ 审美越级：同一个 Prompt，直接从地摊货蜕变成顶级先锋设计\n⚡️ 极致杠杆：用 `polish`、`bolder` 直接接管 Agent 视觉神经\n⚡️ 出厂质检：内置 `audit` 和 `critique`，上线前自动截杀劣质布局\n\n终端敲一行 `npx impeccable install` 立即激活。\n一人公司时代，别让低质前端杀死你的商业价值！\n\n#独立开发 #一人公司 #AI编程 #Cursor",
+        "thread_ids": [
+          "2122543732587442604",
+          "2122543787809587592",
+          "2122543837113733143",
+          "2122543886568698232",
+          "2122543938003497097",
+          "2122543987110359315"
+        ],
+        "tweet_url": "https://x.com/i/status/2122543732587442604",
+        "posted_at": "2026-11-17T04:14:57.089921+00:00"
       },
       {
         "repo": "sherlock-project/sherlock",

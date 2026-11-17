@@ -1994,8 +1994,113 @@
       "url": "https://github.com/simonlin1212/Vibe-Research",
       "source": "Trending (TypeScript)",
       "posted": false
+    },
+    "sveltejs/svelte": {
+      "date": "2026-11-17",
+      "stars": 89146,
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "nestjs/nest": {
+      "date": "2026-11-17",
+      "stars": 77115,
+      "url": "https://github.com/nestjs/nest",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "getarcaneapp/arcane": {
+      "date": "2026-11-17",
+      "stars": 8966,
+      "url": "https://github.com/getarcaneapp/arcane",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "superdesigndev/treg": {
+      "date": "2026-11-17",
+      "stars": 8187,
+      "url": "https://github.com/superdesigndev/treg",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "DeanChensj/jiangshan-map": {
+      "date": "2026-11-17",
+      "stars": 7423,
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "deepseek-ai/chat-demo": {
+      "date": "2026-11-17",
+      "stars": 4316,
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "FujiwaraChoki/supoclip": {
+      "date": "2026-11-17",
+      "stars": 3358,
+      "url": "https://github.com/FujiwaraChoki/supoclip",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "NVIDIA/SkillEvaluator": {
+      "date": "2026-11-17",
+      "stars": 3057,
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "apex-compute/ANR": {
+      "date": "2026-11-17",
+      "stars": 2519,
+      "url": "https://github.com/apex-compute/ANR",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "isair/jarvis": {
+      "date": "2026-11-17",
+      "stars": 2333,
+      "url": "https://github.com/isair/jarvis",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "hitkeeen/blender-ai-mcp-addon": {
+      "date": "2026-11-17",
+      "stars": 2332,
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "google-research/paper-orchestra": {
+      "date": "2026-11-17",
+      "stars": 1948,
+      "url": "https://github.com/google-research/paper-orchestra",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "Noniv/abyssal-garden": {
+      "date": "2026-11-17",
+      "stars": 1896,
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "bkerler/mtkclient": {
+      "date": "2026-11-17",
+      "stars": 1543,
+      "url": "https://github.com/bkerler/mtkclient",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "duwqijlk/muse-protocol": {
+      "date": "2026-11-17",
+      "stars": 1524,
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "source": "Search API (New Spikes)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-16T07:44:03.069407"
+  "last_run": "2026-11-17T08:53:39.668725"
 }

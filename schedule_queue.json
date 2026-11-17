@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 279,
+    "backlog_count": 292,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -98,13 +98,39 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Most devs are running their AI models at 30% capacity because of corporate guardrails and neutered system prompts.\n\nThen this repo dropped and gained +2,000 stars in 24 hours.\n\nMeet togg53192-cmd/jailbreaks: A curated battle-tested library of persona locks, AGENTS.md specs, workspace policies, and Ollama Modelfiles designed to strip away AI slop and unlock 100% developer leverage.\n\nZero theories. Just copy-paste fire:\n⚡ 32 ready-to-run system configs\n🎯 26+ frontier & open-weight models (Claude 3.7, DeepSeek, Qwen 2.5, Kimi, Gemma)\n🛠️ Production-grade AGENTS.md & Ollama Modelfiles\n🔥 Unlocks unhinged coding speed and zero-filter technical execution\n\nTurn your LLMs into lethal autonomous software engineers.\n\nLink: https://github.com/togg53192-cmd/jailbreaks\n\n#AI #DevTools #OpenSource #DeepSeek #VibeCoding"
+      },
+      {
+        "repo": "NVIDIA/auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "stars": 5867,
+        "stars_today": "2050 stars today",
+        "heat_score": 205005867,
+        "scheduled_time": "2026-11-17 21:00:00 PST",
+        "iso_time": "2026-11-17T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop letting AI agents hallucinate your production metrics.\n\nA faster answer from an agent is useless if the SQL query returns bogus numbers. This is why 90% of enterprise agents die in POC.\n\nNVIDIA quietly dropped Auto-Ontology—and it's pure developer leverage.\n\nBefore:\n❌ Brittle text-to-SQL prompting\n❌ Inconsistent metric definitions across databases\n❌ Agents guessing schema relationships\n\nAfter:\n✅ Auto-generates governed enterprise knowledge graphs\n✅ Deterministic, verifiable queries backed by real ontologies\n✅ Plugs straight into your agent workflows via MCP / CLI\n✅ Already #1 on BEAVER leaderboard\n\nThis is the missing glue between raw databases and autonomous agents.\n\nRepo: https://github.com/NVIDIA/auto-ontology\n\n#AI #NVIDIA #OpenSource #SoftwareEngineering #DataEngineering"
+      },
+      {
+        "repo": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "stars": 98864,
+        "stars_today": "1761 stars today",
+        "heat_score": 176198864,
+        "scheduled_time": "2026-11-18 09:00:00 PST",
+        "iso_time": "2026-11-18T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The best founders don't do manual research. They build an asymmetric information advantage.\n\nBefore: Spending 45 minutes cross-referencing Twitter, Reddit, GitHub, and Telegram trying to vet an anon dev or competitor.\n\nAfter: Running one single terminal command and mapping their entire online footprint in under 30 seconds.\n\nSherlock just crossed 98k stars for a reason. It's the ultimate digital recon engine:\n\n• Hunts 400+ social networks simultaneously\n• Tor support for complete anonymity\n• Exports straight to CSV / JSON for fast scraping pipelines\n• Zero complex setup—just pure Python leverage\n\nStop doing manual recon like it's 2015. Automate your intel.\n\nRepo: https://github.com/sherlock-project/sherlock\n\n#DevTools #OSINT #OpenSource #Productivity #Python"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 276,
+    "backlog_count": 287,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -300,6 +326,86 @@
           "真正的超级个体，拼的不是用了多少模型，而是底层品控闭环。别让失控的 Agent 砸了招牌，建议先 Star 收藏备用！\n\n#AI工具 #开源项目 #独立开发者"
         ],
         "content": "你以为搭建几个 AI Agent 就实现了全自动搞钱？真相极其扎心：99%的人都在被失控的智能体反噬！\n\n普通做法：丢一堆 Prompt 挂后台，睡一觉起来发现 Agent 陷入死循环，疯狂吞掉几百刀 Token，甚至给真实客户发乱码废话。\n顶级杠杆：用独立的“审计智能体”给工作流装上行车记录仪和安全气囊。\n\n刚刚狂揽 4.2 万星的开源神器 iFixAi，彻底击碎了这个认知差：\n\n⚡ 120秒内给出独立审计报告：它到底有没有按规定执行任务？\n⚡ 提前捕获盲区与逻辑漂移，在系统崩盘前自动踩刹车\n⚡ 零门槛接入现有工作流，无论人肉跑还是Agent自我诊断都支持\n\n真正的单人超级个体，靠的从来不是碰运气，而是无死角的品控闭环。让失控的 AI 停下，让赚钱的系统狂奔！\n\n👉 源码直达：https://github.com/ifixai-ai/iFixAi\n\n#AI工具 #独立开发者 #一人公司 #开源项目"
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "stars": 106547,
+        "stars_today": "1262 stars today",
+        "heat_score": 126306547,
+        "scheduled_time": "2026-11-17 21:00:00 CST",
+        "iso_time": "2026-11-17T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "别再按字符给ElevenLabs交智商税了！GitHub狂揽10万星的 VoiceStudio 彻底封神：完全开源、纯本地离线运行的顶级AI声音工厂，彻底打碎商业壁垒。工具地址：https://github.com/debpalash/VoiceStudio 🧵",
+          "普通人做海外自媒体还在心疼API扣费，真正的高手已经靠本地算力搭建自动化矩阵了。以前做多语种配音和有声书成本极高，现在只要一台普通笔记本，就能无限制免费生成。",
+          "它的能力极其离谱：\n1. 极少样本秒级1:1克隆真人音色\n2. 逆天支持646种全球语言配音\n3. 自带AI声音设计、视频自动对口型翻译与语音转录\n一站式解决做内容的所有音频痛点。",
+          "最爽的是完全没有硬件歧视！Mac、Windows、Linux甚至手机和平板都能直接跑。所有数据留在本地，没有断网限制，更没有封号和隐私泄露的风险，开箱即用。",
+          "信息差就是现金流。无论你是做TikTok搬运出海、多语种解说，还是搞自动化独立开发，这个神器直接给你省下几千刀。建议立即Star收藏部署！#开源 #AI工具 #出海搞钱 #独立开发"
+        ],
+        "content": "你还在按字符给ElevenLabs交昂贵的月租？顶级的出海玩家已经用本地算力跑完一整个媒体矩阵了。\n\n今天开源社区炸锅的 VoiceStudio，直接把千亿估值的商用语音基建搬到了你的笔记本上：完全开源、零费用、纯本地运行！\n\n普通人的傻做法：\n❌ 疯狂充值API积分，一条长视频扣几十美刀\n❌ 声音版权和隐私数据全托管给中心化云平台\n❌ 遇到冷门语种只能抓瞎\n\n顶级的一人公司杠杆：\n✅ 秒级原声精准克隆，情绪语气完全保留\n✅ 一键生成646种语言的视频配音与听书内容\n✅ 笔记本、台式机甚至手机端都能原生部署，0云端成本\n✅ 彻底打通“文案-克隆-多语种配音-视频输出”全自动流水线\n\n做TikTok出海、做知识库播客、做短剧解说，认知差就是纯利润。\n源码与安装指引完全免费，赶紧收藏实操：\nhttps://github.com/debpalash/VoiceStudio\n\n#开源项目 #AI出海 #搞钱 #独立开发 #一人公司"
+      },
+      {
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "stars": 309528,
+        "stars_today": "1259 stars today",
+        "heat_score": 126209528,
+        "scheduled_time": "2026-11-18 09:00:00 CST",
+        "iso_time": "2026-11-18T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人用 AI 编程在制造垃圾代码，顶级高手已经用它建起了一人软件工厂。\n\n刚刚爆火的项目 Superpowers，彻底给 Claude Code、Cursor 注入了正规军研发方法论。\n\n传送门：https://github.com/obra/superpowers 🧵",
+          "你是不是也经历过：给 AI 提个需求，它瞬间写了 300 行代码，结果全是 Bug，你修得生不如死？\n\n原因不是 AI 笨，而是它缺乏工程方法论，只会盲目猜你的意图并吐代码。",
+          "Superpowers 彻底反转了逻辑：\n\n当你启动 Agent，它绝不盲目动工，而是主动向你追问核心需求，帮你理清 Spec 并拆解成微型模块，确认无误才动第一行代码，直接杜绝幻觉。",
+          "门槛极低，开箱即用。\n\n无论你用 Cursor、Claude Code、Devin 还是 Kimi Code，直接注入即可生效。普通独立开发者不用雇团队，单兵作战就能稳稳交付复杂系统。",
+          "认知差就是最大的生产力。别再把 AI 当智能补全，把它当成训练有素的工程团队。\n\n赶紧 Star 收藏实测，彻底拉满你的单兵交付效率！\n\n#AI编程 #独立开发 #一人公司 #效率神器"
+        ],
+        "content": "很多人用 Cursor 和 Claude Code 的方式，简直是在浪费生命。\n\n普通人的傻做法：丢一句模糊需求，让 AI 疯狂狂飙几百行代码，跑不通又反向 debug 三小时，最后骂 AI 是人工智障。\n\n顶级的十倍杠杆：用 Superpowers 给 AI 植入硅谷顶级工程架构思维。\n\n项目地址：https://github.com/obra/superpowers\n\n它最炸裂的地方在于：当你启动 Agent，它不会盲目写代码，而是退一步追问你的核心真实意图，拆解出人类能看懂的模块化 Spec，再一步一步落地交付。\n\n🔥 核心亮点：\n• 击碎AI幻觉：先定架构与Spec，再精准动工\n• 全生态兼容：完美接入 Cursor、Claude Code、Kimi、Devin\n• 极低上手门槛：注入即用，一人直接跑通整个软件工厂\n\n技术壁垒正在彻底被认知差砸碎，会用 methodology 驯服 AI 的人，正在悄悄搞钱变现。\n\n#独立开发 #AI变现 #程序员 #效率工具 #开源"
+      },
+      {
+        "repo": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "stars": 6328,
+        "stars_today": "1231 stars today",
+        "heat_score": 123106328,
+        "scheduled_time": "2026-11-18 13:00:00 CST",
+        "iso_time": "2026-11-18T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "你以为AI写代码很爽，其实它正在疯狂给你埋雷！Google、微软、火狐与MDN破天荒联合开源了 Modern Web Guidance，直接把现代Web最顶级的规范注入AI Agent的大脑。 🧵\nhttps://github.com/GoogleChrome/modern-web-guidance-src",
+          "痛点太扎心了：普通人用Cursor生成前端，AI还在疯狂输出2018年的过时写法，甚至引入早被淘汰的npm包堆积屎山；顶级高手已经在用最新浏览器原生标准，让代码量直接暴减80%。",
+          "这个项目到底能干嘛？它是一套专门为AI Coding Agent定制的现代Web最佳实践体系。它让AI立刻学会最新的原生API与兼容性规则，彻底甩掉笨重的外部依赖，写出极速轻量的代码。",
+          "门槛低到不可思议：你不需要重新训练大模型，它把规则、知识库和评估体系全部打包好了，直接挂载到你现有的AI工作流里，拿来就能立刻给你的AI敲警钟。",
+          "一人公司要拿十倍杠杆，拼的不是谁写得快，而是谁的代码更干净、维护成本更低。赶紧把这个项目配进你的Agent里，彻底甩开同龄人！\n\n#独立开发 #AI编程 #出海 #前端"
+        ],
+        "content": "你以为AI写代码快，其实它在疯狂给你埋雷！\n\n你让Cursor、Copilot写个功能，它默默引入5个早就被淘汰的npm库、写一堆过时的hack补丁，把一人公司的项目硬生生堆成屎山。\n\n今天Google Chrome、微软Edge、火狐Mozilla和MDN破天荒联合出手：推出 Modern Web Guidance！\n\n一招彻底击碎这种低效认知差：\n• 顶级干法：把现代Web原生规范直接注入Agent技能树\n• 降维打击：用浏览器原生能力替代90%的臃肿第三方依赖\n• 零门槛适配：开箱即用的Prompt和评测基准，即插即用\n\n这才是单兵作战该拿的超级武器。别人还在调试过时语法，你已经靠最干净的原生架构光速上线了。\n\n开源地址：https://github.com/GoogleChrome/modern-web-guidance-src\n\n#独立开发 #AI编程 #一人公司 #前端开发 #出海"
+      },
+      {
+        "repo": "patchy631/ai-engineering-hub",
+        "url": "https://github.com/patchy631/ai-engineering-hub",
+        "stars": 40615,
+        "stars_today": "1191 stars today",
+        "heat_score": 119140615,
+        "scheduled_time": "2026-11-18 17:00:00 CST",
+        "iso_time": "2026-11-18T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "这就是认知差：当普通人还在花钱买过期的Prompt课程，顶尖玩家已经靠工业级Agent把一个人活成了一家软件公司。狂揽4万星的AI工程圣经全盘开源：https://github.com/patchy631/ai-engineering-hub 🧵",
+          "普通人的傻做法：盲目复制玩具级Demo，一上生产环境就崩溃。顶级的十倍杠杆：直接扒行业天花板的代码架构。这个项目不讲假大空的PPT，全部直击高并发、低延迟的商业实战。",
+          "仓库直接端出93个工业级项目代码：彻底解决企业知识库幻觉的高阶RAG、能够自主规划闭环的多智能体系统，从底层数据流到接口全部封装妥当，真正能跑通商业变现。",
+          "不用担心看不懂，作者把门槛直接抹平：初级22个项目带你起步，中级48个项目带你做商业交付，高级23个项目冲击专家架构。照着敲一遍，技术壁垒瞬间拉满。",
+          "2026年之后，代码不值钱，调用AI工程化能力的人才最贵。别再看二手二手转述，今晚花两小时把源码Clone下来跑通它。行动起来，破局就在当下！\n\n#AI破局 #开源神器 #一人公司 #技术出海"
+        ],
+        "content": "这就是认知差：当普通人还在花大几千买低质Prompt课程、折腾套壳小工具赚点零花钱时，真正的一人公司操盘手，早就靠工业级 AI Agent 一个人干出整支技术团队的产能了！\n\n刚冲上 GitHub 40,000+ Star 的《AI Engineering Hub》，彻底掀了知识付费的底牌。作者把最硬核的技术内幕全盘开源，全是带源码的工业级实战：\n\n🎯 93+ 工业级落地的完整项目库\n🎯 告别幻觉的高阶商业级 RAG 架构\n🎯 真正能自主运行、解决复杂任务的多Agent系统\n🎯 贴心拆解：初级(22个)、进阶(48个)、专家级(23个)\n\n零基础跟着走，两周就能搭出自己的自动化AI军团。代码和教程全免费，拉开差距的从来不是天赋，而是你能不能吃下这口信息差红利！\n\n开源直达：https://github.com/patchy631/ai-engineering-hub\n\n#AI破局 #开源神器 #一人公司 #技术出海 #程序员副业"
       }
     ]
   }

@@ -122,10 +122,15 @@
         "heat_score": 205005867,
         "scheduled_time": "2026-11-17 21:00:00 PST",
         "iso_time": "2026-11-17T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop letting AI agents hallucinate your production metrics.\n\nA faster answer from an agent is useless if the SQL query returns bogus numbers. This is why 90% of enterprise agents die in POC.\n\nNVIDIA quietly dropped Auto-Ontology—and it's pure developer leverage.\n\nBefore:\n❌ Brittle text-to-SQL prompting\n❌ Inconsistent metric definitions across databases\n❌ Agents guessing schema relationships\n\nAfter:\n✅ Auto-generates governed enterprise knowledge graphs\n✅ Deterministic, verifiable queries backed by real ontologies\n✅ Plugs straight into your agent workflows via MCP / CLI\n✅ Already #1 on BEAVER leaderboard\n\nThis is the missing glue between raw databases and autonomous agents.\n\nRepo: https://github.com/NVIDIA/auto-ontology\n\n#AI #NVIDIA #OpenSource #SoftwareEngineering #DataEngineering"
+        "content": "Stop letting AI agents hallucinate your production metrics.\n\nA faster answer from an agent is useless if the SQL query returns bogus numbers. This is why 90% of enterprise agents die in POC.\n\nNVIDIA quietly dropped Auto-Ontology—and it's pure developer leverage.\n\nBefore:\n❌ Brittle text-to-SQL prompting\n❌ Inconsistent metric definitions across databases\n❌ Agents guessing schema relationships\n\nAfter:\n✅ Auto-generates governed enterprise knowledge graphs\n✅ Deterministic, verifiable queries backed by real ontologies\n✅ Plugs straight into your agent workflows via MCP / CLI\n✅ Already #1 on BEAVER leaderboard\n\nThis is the missing glue between raw databases and autonomous agents.\n\nRepo: https://github.com/NVIDIA/auto-ontology\n\n#AI #NVIDIA #OpenSource #SoftwareEngineering #DataEngineering",
+        "thread_ids": [
+          "2122917769473908783"
+        ],
+        "tweet_url": "https://x.com/i/status/2122917769473908783",
+        "posted_at": "2026-11-18T05:00:14.675331+00:00"
       },
       {
         "repo": "sherlock-project/sherlock",
@@ -388,7 +393,7 @@
         "heat_score": 126209528,
         "scheduled_time": "2026-11-18 13:00:00 CST",
         "iso_time": "2026-11-18T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -398,7 +403,16 @@
           "门槛极低，开箱即用。\n\n无论你用 Cursor、Claude Code、Devin 还是 Kimi Code，直接注入即可生效。普通独立开发者不用雇团队，单兵作战就能稳稳交付复杂系统。",
           "认知差就是最大的生产力。别再把 AI 当智能补全，把它当成训练有素的工程团队。\n\n赶紧 Star 收藏实测，彻底拉满你的单兵交付效率！\n\n#AI编程 #独立开发 #一人公司 #效率神器"
         ],
-        "content": "很多人用 Cursor 和 Claude Code 的方式，简直是在浪费生命。\n\n普通人的傻做法：丢一句模糊需求，让 AI 疯狂狂飙几百行代码，跑不通又反向 debug 三小时，最后骂 AI 是人工智障。\n\n顶级的十倍杠杆：用 Superpowers 给 AI 植入硅谷顶级工程架构思维。\n\n项目地址：https://github.com/obra/superpowers\n\n它最炸裂的地方在于：当你启动 Agent，它不会盲目写代码，而是退一步追问你的核心真实意图，拆解出人类能看懂的模块化 Spec，再一步一步落地交付。\n\n🔥 核心亮点：\n• 击碎AI幻觉：先定架构与Spec，再精准动工\n• 全生态兼容：完美接入 Cursor、Claude Code、Kimi、Devin\n• 极低上手门槛：注入即用，一人直接跑通整个软件工厂\n\n技术壁垒正在彻底被认知差砸碎，会用 methodology 驯服 AI 的人，正在悄悄搞钱变现。\n\n#独立开发 #AI变现 #程序员 #效率工具 #开源"
+        "content": "很多人用 Cursor 和 Claude Code 的方式，简直是在浪费生命。\n\n普通人的傻做法：丢一句模糊需求，让 AI 疯狂狂飙几百行代码，跑不通又反向 debug 三小时，最后骂 AI 是人工智障。\n\n顶级的十倍杠杆：用 Superpowers 给 AI 植入硅谷顶级工程架构思维。\n\n项目地址：https://github.com/obra/superpowers\n\n它最炸裂的地方在于：当你启动 Agent，它不会盲目写代码，而是退一步追问你的核心真实意图，拆解出人类能看懂的模块化 Spec，再一步一步落地交付。\n\n🔥 核心亮点：\n• 击碎AI幻觉：先定架构与Spec，再精准动工\n• 全生态兼容：完美接入 Cursor、Claude Code、Kimi、Devin\n• 极低上手门槛：注入即用，一人直接跑通整个软件工厂\n\n技术壁垒正在彻底被认知差砸碎，会用 methodology 驯服 AI 的人，正在悄悄搞钱变现。\n\n#独立开发 #AI变现 #程序员 #效率工具 #开源",
+        "thread_ids": [
+          "2122917815938318425",
+          "2122917870036570290",
+          "2122917919512518910",
+          "2122917969378566258",
+          "2122918020754579890"
+        ],
+        "tweet_url": "https://x.com/i/status/2122917815938318425",
+        "posted_at": "2026-11-18T05:01:14.441248+00:00"
       },
       {
         "repo": "GoogleChrome/modern-web-guidance-src",

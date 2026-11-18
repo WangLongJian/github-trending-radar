@@ -8,6 +8,826 @@
 
 ---
 
+## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `JavaScript` | ⭐ **305,880** (883 stars today)
+- **官方介绍**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most devs use AI agents like a glorified autocomplete.
+
+Then they spend 4 hours debugging hallucinations and security holes.
+
+Top 1% engineers just run ECC (Agent Harness Performance OS).
+
+It supercharges Claude Code, Codex, Opencode & Cursor with elite skills, instincts, and persistent memory:
+
+❌ Before: Context rot, broken refactors, messy slop.
+✅ After: Autonomous agent that actually plans, remembers, and ships secure code.
+
+What it equips your agents with:
+• Deep Research-first dev workflow
+• Long-term cross-session memory
+• Hardened security guardrails
+• Native multi-tool harness optimization
+
+One solo builder can now deploy at the velocity of a 20-person engineering org. Extreme leverage is an understatement.
+
+👉 https://github.com/affaan-m/ECC
+
+#AI #Coding #DevTools #Cursor #Claude #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20letting%20AI%20write%20buggy%20slop.%0A%0AECC%20turns%20Claude%20Code%20%26%20Cursor%20into%20an%20elite%20dev%20team%3A%0A%E2%9A%A1%2010x%20Agent%20Harness%0A%E2%9A%A1%20Persistent%20Memory%20%26%20Instincts%0A%E2%9A%A1%20Built-in%20Sec%20Audits%0A%0AThe%20solopreneur%20software%20factory%20is%20here.%0A%0A%F0%9F%94%97%20https%3A//github.com/affaan-m/ECC)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+拉开人与人差距的，从来不是你用不用 AI，而是你的“杠杆率”。
+
+普通人还在手敲 Prompt，为 AI 动不动遗忘上下文、生成垃圾代码抓狂；而顶级的超级个体，已经把 Claude Code 和 Cursor 挂上了性能操作系统——ECC。
+
+ECC 彻底解决了 Agent 编程的核心痛点：
+• 技能与直觉注入：不再写出看似正确实则全崩的伪代码
+• 跨会话长期记忆：彻底打通项目认知，越用越顺手
+• 安全与架构护栏：自动规避隐患，原生遵循工业级规范
+• 调研先行工作流：像顶尖架构师一样先推演再落子
+
+没有任何高深门槛，零配置快速接入，直接把你的 AI 从“实习生打字员”驯化成“独挡一面的主任工程师”。一人公司的软件工厂时代彻底拉开序幕！
+
+开源地址：https://github.com/affaan-m/ECC
+
+#独立开发 #AI编程 #Cursor #Claude #一人公司
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E6%8A%8A%20Cursor%20%E5%92%8C%20Claude%20Code%20%E5%BD%93%E7%8E%A9%E5%85%B7%E7%94%A8%E4%BA%86%EF%BC%81%E5%BC%80%E6%BA%90%E7%88%86%E7%81%AB%E7%9A%84%20ECC%20%E6%89%8D%E6%98%AF%E7%9C%9F%E5%A4%96%E6%8C%82%EF%BC%9A%0A%0A%E2%9C%85%20%E8%B5%8B%E4%BA%88%20Agent%20%E9%95%BF%E6%9C%9F%E8%AE%B0%E5%BF%86%E4%B8%8E%E6%9C%AC%E8%83%BD%0A%E2%9C%85%20%E5%91%8A%E5%88%AB%E4%B8%8A%E4%B8%8B%E6%96%87%E9%81%97%E5%BF%98%E4%B8%8E%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%0A%E2%9C%85%20%E4%B8%80%E4%BA%BA%E9%A1%B6%E4%B8%80%E4%B8%AA20%E4%BA%BA%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F%0A%0A%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%90%9E%E9%92%B1%E6%9D%A0%E6%9D%86%F0%9F%91%89%20https%3A//github.com/affaan-m/ECC)**
+
+---
+
+## 2. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **79,763** (85 stars today)
+- **官方介绍**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most people are using Claude like a $20 chatbot.
+
+Top 1% builders are using it as an entire software engineering department.
+
+ComposioHQ just consolidated the ultimate directory: 1,000+ battle-tested Claude Skills and tools to supercharge your AI workflows.
+
+Before:
+• Manual prompt engineering
+• Copy-pasting context between 10 SaaS tabs
+• Dealing with hallucinated garbage
+
+After:
+• Instant API & tool execution inside Claude
+• Autonomous bug fixing & workflow pipelines
+• 1 solo founder operating with 20x output
+
+True solopreneur leverage isn't about working harder—it's about automating the stack.
+
+Check out the repo (80k stars):
+https://github.com/ComposioHQ/awesome-claude-skills
+
+#AI #Claude3 #SoftwareEngineering #Solopreneur #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20using%20Claude%20as%20a%20glorified%20autocomplete.%20%F0%9F%9B%91%0A%0ATurn%20it%20into%20a%20full%20autonomous%20software%20factory%3A%0A%0A%E2%9A%A1%201000%2B%20ready%20skills%0A%E2%9A%A1%20Multi-app%20automation%0A%E2%9A%A1%20Zero%20slop%2C%20pure%20leverage%0A%0AGitHub%20repo%20hitting%2080k%20stars%3A%0Ahttps%3A//github.com/ComposioHQ/awesome-claude-skills)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差太可怕了。你还在把 Claude 当对话框写写总结，顶尖极客已经把它武装成了 24 小时不睡觉的“超级员工”。
+
+这个在 GitHub 狂揽近 8 万星的项目，把 1000+ 经过生产验证的 Claude Skills 和扩展工具全盘端出：
+
+普通人的做法：
+❌ 反复复制粘贴提示词，输出全靠抽奖
+❌ 手动切十几个网页查数据、改代码，累成狗
+
+十倍杠杆的做法：
+✅ 直接接入现成技能，让 Claude 自主调用工具链
+✅ 一键打通 GitHub、Slack、数据库与自动化脚本
+✅ 一个人直接操盘一家全自动“软件外包厂”
+
+没有任何高深门槛，开箱即用。不要再拿工业级核武器去劈柴了，把机械重复的工作全扔给它，你只需要负责拿结果搞钱。
+
+项目直达：
+https://github.com/ComposioHQ/awesome-claude-skills
+
+#AI工具 #Claude #一人公司 #效率工具 #搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E6%8B%BFClaude%E5%BD%93%E6%89%93%E5%AD%97%E6%9C%BA%E4%BA%86%EF%BC%81%E6%9C%89%E4%BA%BA%E5%B7%B2%E7%BB%8F%E9%9D%A0%E5%AE%83%E8%B7%91%E9%80%9A%E4%BA%86%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E8%87%AA%E5%8A%A8%E5%8C%96%20%F0%9F%9A%80%0A%0A%E2%9C%85%201000%2B%20%E7%8E%B0%E6%88%90%E7%94%9F%E4%BA%A7%E7%BA%A7%E6%8A%80%E8%83%BD%E5%BA%93%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E6%89%93%E9%80%9A%E5%90%84%E7%B1%BBSaaS%E4%B8%8EAPI%0A%E2%9C%85%20%E5%BD%BB%E5%BA%95%E7%BB%88%E7%BB%93%E4%BD%8E%E6%95%88Prompt%E8%B0%83%E4%BC%98%0A%0A%E5%87%A0%E4%B9%8E%E9%9B%B6%E9%97%A8%E6%A7%9B%EF%BC%8C8%E4%B8%87%E6%98%9F%E7%A5%9E%E7%BA%A7%E6%B8%85%E5%8D%95%EF%BC%9A%0Ahttps%3A//github.com/ComposioHQ/awesome-claude-skills)**
+
+---
+
+## 3. [usestrix/strix](https://github.com/usestrix/strix)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Python` | ⭐ **76,399** (337 stars today)
+- **官方介绍**: Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Security audits used to kill early-stage momentum. 
+
+You’d build fast, ignore security, pray you don't get pwned, or burn $20,000 on a third-party pentest that returns a static 40-page PDF nobody reads.
+
+That era is officially over.
+
+Strix (usestrix/strix) just blew up to 76k+ GitHub stars, and for good reason:
+
+It’s an open-source autonomous AI hacker running in your CI/CD pipeline.
+
+Here is how it shifts the leverage curve:
+- Autonomous Recon: Maps your attack surface like an elite red-teamer
+- Real Exploit Simulation: Actually validates bugs, zero hallucinated noise
+- Auto-Remediation: Doesn't just complain—generates the exact PR to fix the hole
+
+One solo developer now wields the cybersecurity department of a Series B startup.
+
+Check it out: https://github.com/usestrix/strix
+
+#DevOps #CyberSecurity #OpenSource #AI #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Hiring%20a%20pentester%20costs%20%2420k.%0A%0AStrix%20just%20open-sourced%20autonomous%20AI%20hackers%20that%20find%20AND%20fix%20your%20vulnerabilities%20for%20free.%0A%0A%E2%9A%A1%2076k%2B%20stars%0A%E2%9A%A1%20Auto-pentesting%20agent%0A%E2%9A%A1%20Self-healing%20code%20patches%0A%0APure%20leverage%3A%20https%3A//github.com/usestrix/strix)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+绝大多数独立开发者和中小团队，产品上线基本都是在“裸奔”。
+
+请外部安全团队做一次渗透测试，动辄几万起步；不测吧，数据库随时可能被端，连被黑了都不知道漏洞在哪。
+
+今天在GitHub爆火的开源神器 Strix (usestrix/strix) 彻底击碎了这种信息差与技术壁垒！
+
+它不是传统的静态代码扫描，而是给你配备了一支“自主AI黑客军团”：
+
+1. 真实攻防演练：像顶级白帽子黑客一样主动发起攻击、模拟入侵
+2. 拒绝误报废话：只报能被真实利用的高危漏洞，杜绝AI幻觉
+3. 自动提PR修复：不仅精准抓出弱点，连修复代码都直接写好合并
+
+以前大厂专属的安全团队，现在一人公司敲一行命令就能拥有。
+
+告别高昂安全服务费，给自己的应用上一把锁：https://github.com/usestrix/strix
+
+#独立开发 #AI技术 #一人公司 #网络安全 #开源项目
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%AF%B7%E4%B8%93%E4%B8%9A%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%87%A0%E4%B8%87%EF%BC%8C%E4%B8%AD%E5%B0%8F%E5%9B%A2%E9%98%9F%E6%A0%B9%E6%9C%AC%E9%98%B2%E4%B8%8D%E8%B5%B7%E3%80%82%0A%0A%E5%88%9A%E5%9C%A8GitHub%E6%8C%96%E5%88%B0%E6%A0%B8%E5%BC%B9%E7%BA%A7%E7%A5%9E%E5%99%A8%20Strix%EF%BC%9A%0A%E2%9C%85%20%E5%BC%80%E6%BA%90%E8%87%AA%E4%B8%BBAI%E9%BB%91%E5%AE%A2%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9E%E6%88%98%E6%B8%97%E9%80%8F%E6%94%BB%E5%87%BB%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BB%A3%E7%A0%81%E4%BF%AE%E5%A4%8D%E8%A1%A5%E4%B8%81%0A%0A%E6%8A%8A%E6%95%B4%E4%B8%AA%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F%E5%A1%9E%E8%BF%9B%E6%B5%81%E6%B0%B4%E7%BA%BF%EF%BC%9Ahttps%3A//github.com/usestrix/strix)**
+
+---
+
+## 4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+- **分类领域**: `🧠 大模型与算法前沿` | **语言**: `Python` | ⭐ **66,299** (192 stars today)
+- **官方介绍**: 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most engineers will spend the next 5 years just wrapping OpenAI APIs.
+
+The real 100x builders are learning how models actually work under the hood.
+
+Meet MiniMind: a complete open-source LLM you can train from scratch for less than the price of a cup of coffee.
+
+Before:
+❌ Thinking LLM pre-training requires $10M clusters
+❌ Blindly debugging prompt wrappers in production
+❌ Zero control over model weights
+
+After:
+✅ 64M parameter LLM trained in 2 hours flat
+✅ Full architecture from 0: MoE, LoRA, DPO, GRPO
+✅ Runs on consumer gaming laptops
+✅ Extends into Vision, Omni, and Agentic RL
+
+66k+ stars on GitHub and counting. Extreme developer leverage is back.
+
+Check it out here: https://github.com/jingyaogong/minimind
+
+#AI #OpenSource #MachineLearning #BuildInPublic #SoftwareEngineering
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20renting%20AI%20from%20Big%20Tech.%20Train%20your%20own%20LLM%20from%20absolute%20zero.%0A%0A%E2%9A%A1%2064M%20parameters%0A%E2%9A%A1%20%240.50%20cloud%20cost%0A%E2%9A%A1%202%20hours%20on%20a%20single%20GPU%0A%E2%9A%A1%20Full%20pipeline%3A%20Pretrain%2C%20SFT%2C%20DPO%2C%20RL%0A%0APure%20builder%20leverage%3A%0Ahttps%3A//github.com/jingyaogong/minimind)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+击碎AI行业最大的信息差：训练一个真正属于你的大模型，其实只要 3 块钱和 2 个小时。
+
+普通人还在花大几千买API套壳教程，每天提心吊胆被封号；真正的高手早就用单卡笔记本，把整个大模型底层逻辑扒了个精光。
+
+6.6万星的开源神作 MiniMind，彻底撕下了大模型的神秘遮羞布：
+
+▪ 成本极低：两小时、一杯蜜雪冰城的钱，从零跑通64M参数模型
+▪ 极简骨架：从Pretrain、SFT、LoRA到DPO、GRPO强化学习全链路代码开源
+▪ 拒绝黑盒：没有花里胡哨的企业级封装，纯粹的极简代码教你搞懂底层
+▪ 降维拓展：甚至支持多模态视觉、Omni与Agent自适应思考
+
+一人公司和独立开发者想要建立壁垒，靠的绝不是调用API，而是彻底吃透底层技术。门槛已经被拉平到脚踝，别再给自己找借口。
+
+项目地址：https://github.com/jingyaogong/minimind
+
+#人工智能 #开源项目 #独立开发 #搞钱认知 #技术破局
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E8%A2%AB%E5%8D%96%E8%AF%BE%E7%9A%84%E9%AA%97%E4%BA%86%EF%BC%81%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%8D%83%E4%B8%87%E7%AE%97%E5%8A%9B%E3%80%82%0A%0A%F0%9F%94%A5%203%E5%9D%97%E9%92%B1%E6%88%90%E6%9C%AC%20%2B%202%E5%B0%8F%E6%97%B6%EF%BC%8C%E4%BB%8E%E9%9B%B6%E6%89%8B%E6%90%9364M%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%9A%0A%E2%9C%85%20%E9%A2%84%E8%AE%AD%E7%BB%83%2BSFT%2BDPO%E5%85%A8%E6%B5%81%E7%A8%8B%0A%E2%9C%85%20%E5%8D%95%E5%BC%A0%E6%99%AE%E9%80%9A%E6%98%BE%E5%8D%A1%E5%B0%B1%E8%83%BD%E8%B7%91%0A%E2%9C%85%20%E6%BA%90%E7%A0%81%E6%97%A0%E9%BB%91%E7%9B%92%E7%9B%B4%E6%8E%A5%E5%90%83%E9%80%8F%E5%BA%95%E5%B1%82%0A%0A%E7%A0%B4%E5%B1%80%E7%A5%9E%E5%99%A8%EF%BC%9Ahttps%3A//github.com/jingyaogong/minimind)**
+
+---
+
+## 5. [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **38,334** (160 stars today)
+- **官方介绍**: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The ultimate solopreneur cheat code just dropped.
+
+We all have a folder full of 900-page O'Reilly architecture & system design PDFs collecting digital dust. Reading them takes months. Throwing random chunks into chat windows yields generic AI slop.
+
+"book-to-skill" completely changes the leverage game.
+
+It turns entire technical books, whitepapers, or docs into native Agent Skills for Claude Code, Copilot CLI, Amp, & Codex.
+
+Before:
+• Skimming 600 pages
+• Forgetting core patterns in 48 hours
+• Struggling to implement clean architecture
+
+After:
+• Drop the PDF once
+• Your CLI agent writes code strictly obeying the author's exact principles & edge cases
+• Pure execution on demand
+
+Turn knowledge into executable software leverage instantly.
+
+👉 https://github.com/virgiliojr94/book-to-skill
+
+#AI #Coding #ClaudeCode #Solopreneur #OpenSource #DevTools
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20hoarding%20800-page%20tech%20PDFs%20you%27ll%20never%20finish.%0A%0ATurn%20ANY%20book/doc%20into%20an%20active%20Agent%20Skill%20in%20Claude%20Code%20%26%20Copilot%20CLI.%0A%0A%E2%9A%A1%20Instant%20domain%20mastery%0A%E2%9A%A1%20Zero%20AI%20slop%20hallucinations%0A%E2%9A%A1%20Solopreneur%20100x%20leverage%0A%0A%F0%9F%94%97%20https%3A//github.com/virgiliojr94/book-to-skill)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差瞬间击碎：普通人还在熬夜硬啃800页架构书，顶级一人公司早已把整本书做成了AI的外挂大脑！
+
+大多数人的悲哀，是收藏了一堆几十兆的PDF、技术专著，下定决心要学，结果看了三章就吃灰；写代码遇到难题时，随手问通识AI，拿到的全是不着边际的代码废料。
+
+今天狂砍近4万星的开源项目 book-to-skill 彻底改变了知识变现的规则：
+
+它能把任意PDF、EPUB、文档库一键编译成符合开放标准的Agent Skill。直接挂载进Claude Code、GitHub Copilot CLI或者Codex！
+
+💥 降维打击体现在哪？
+• 知识不再靠背：整本书的架构哲学秒变AI实时编码的约束准则
+• 杜绝AI幻觉：严格基于权威著作的模式与最佳实践产出
+• 极致个人杠杆：一人顶十人核心架构师团队，直接把知识转化为生产力
+
+完全开源，支持中文，开箱即用。别把时间浪费在低效死记硬背上，学会用AI武装自己的交付能力！
+
+项目直达：https://github.com/virgiliojr94/book-to-skill
+
+#AI工具 #独立开发 #一人公司 #Claude #GitHub #技术搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%A1%AC%E5%95%83800%E9%A1%B5%E6%8A%80%E6%9C%AF%E5%A4%A7%E9%83%A8%E5%A4%B4%E4%BA%86%EF%BC%81%0A%0A%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E6%8A%8A%E4%BB%BB%E4%BD%95%E6%8A%80%E6%9C%AFPDF/%E6%96%87%E6%A1%A3%E7%9B%B4%E6%8E%A5%E6%A6%A8%E6%88%90Claude%20Code%E7%9A%84%E4%B8%93%E5%B1%9EAgent%E6%8A%80%E8%83%BD%EF%BC%9A%0A%0A%E2%9C%85%20%E5%91%8A%E5%88%AB%E6%97%A0%E6%95%88%E9%80%9A%E5%AE%B5%E6%AD%BB%E8%AE%B0%0A%E2%9C%85%20%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E8%87%AA%E5%B8%A6%E4%B8%93%E5%AE%B6%E5%A4%A7%E8%84%91%0A%E2%9C%85%20%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%99%BE%E5%80%8D%E6%9D%A0%E6%9D%86%0A%0A%F0%9F%94%97%20https%3A//github.com/virgiliojr94/book-to-skill)**
+
+---
+
+## 6. [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `TypeScript` | ⭐ **30,669** (40 stars today)
+- **官方介绍**: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most builders have 2,000 unread bookmarks collecting digital dust.
+
+You save a killer article, a prompt, or a design inspiration... and never find it again.
+
+Enter Karakeep (previously Hoarder) — the ultimate AI second brain for data hoarders.
+
+Before:
+❌ 50 open tabs crashing Chrome
+❌ Dead Notion pages with forgotten links
+❌ Zero searchability across screenshots & PDFs
+
+Now:
+✅ Bookmark anything (links, notes, images, PDFs)
+✅ LLM auto-tagging & instant summaries
+✅ Local models via Ollama (zero API costs)
+✅ Full-text + semantic vector search
+✅ Agent-ready CLI (OpenClaw, Hermes)
+
+Self-host it on your own VPS in 2 minutes. Extreme leverage for solo founders and researchers.
+
+🔗 https://github.com/karakeep-app/karakeep
+
+#OpenSource #SelfHosted #AI #Productivity #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20losing%2010%20hours/week%20to%20messy%20bookmarks.%0A%0AKarakeep%20just%20solved%20second-brain%20hoarding%3A%0A%E2%9A%A1%20Self-hostable%20%26%20100%25%20private%0A%E2%9A%A1%20AI%20auto-tagging%20%2B%20semantic%20search%0A%E2%9A%A1%20Local%20Ollama%20LLM%20support%0A%E2%9A%A1%20Built%20for%20AI%20Agents%0A%0A30k%2B%20stars.%20Gamechanger.%0Ahttps%3A//github.com/karakeep-app/karakeep)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+99%的人搞个人知识库，都在做无意义的“电子松鼠”：收藏夹堆成山，真要用时根本找不到。
+
+顶级的一人公司高手，早已把信息输入端交给AI自动化处理。
+
+最近爆火3万星的开源神器 Karakeep（原 Hoarder），彻底重构了书签与外脑管理：
+
+普通人的傻做法：
+❌ 手动建文件夹、手写标签、分类五分钟累得半死
+❌ 存了一堆推文截图和PDF，变成死数据
+
+顶级的十倍杠杆：
+✅ 网页、笔记、图片、PDF随手丢，后台全自动抓取摘要
+✅ 接入本地 Ollama 大模型，自动深度打标签并结构化
+✅ 语义向量级搜索，不用记住关键词也能瞬间命中
+✅ 完美支持 AI Agent 自动化调用，还能自建私有化部署
+
+不需要花高价订阅闭源工具，几行 Docker 命令跑在自己的轻量服务器上，隐私和数据资产100%在手。
+
+让AI做你的知识管家，把精力留给真正的决策与搞钱！
+
+项目地址：https://github.com/karakeep-app/karakeep
+
+#开源 #独立开发 #生产力工具 #人工智能 #自建服务
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E4%BD%A0%E5%AD%98%E7%9A%84%E5%87%A0%E5%8D%83%E4%B8%AA%E4%B9%A6%E7%AD%BE%E4%B8%8D%E6%98%AF%E7%9F%A5%E8%AF%86%EF%BC%8C%E6%98%AF%E4%BF%A1%E6%81%AF%E5%9E%83%E5%9C%BE%EF%BC%81%0A%0AKarakeep%E5%BD%BB%E5%BA%95%E9%A2%A0%E8%A6%86%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93%EF%BC%9A%0A%E2%9C%85%20%E4%B8%A2%E5%85%A5%E9%93%BE%E6%8E%A5/%E6%88%AA%E5%9B%BE/PDF%E5%85%A8%E8%87%AA%E5%8A%A8%E6%8A%93%E5%8F%96%0A%E2%9C%85%20%E6%9C%AC%E5%9C%B0Ollama%E8%B7%91AI%E8%87%AA%E5%8A%A8%E6%89%93%E6%A0%87%E5%BD%92%E7%B1%BB%0A%E2%9C%85%20%E8%AF%AD%E4%B9%89%E7%BA%A7%E5%85%A8%E5%B1%80%E6%90%9C%E7%B4%A2%EF%BC%8C%E9%9A%8F%E6%90%9C%E9%9A%8F%E5%87%BA%0A%E2%9C%85%20100%25%E5%BC%80%E6%BA%90%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2%0A%0Ahttps%3A//github.com/karakeep-app/karakeep)**
+
+---
+
+## 7. [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `TypeScript` | ⭐ **29,592** (22 stars today)
+- **官方介绍**: Mastra is the modern TypeScript framework for AI-powered applications and agents.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most devs build AI apps completely wrong in 2025.
+
+They hack together LangChain glue code, run into Python runtime hell, and wonder why their agents break in production.
+
+Enter Mastra (YC W25) — the game-changer for TypeScript builders.
+
+Before Mastra:
+❌ Fragile Python microservices for simple AI tasks
+❌ 5 different libraries just to handle memory and tools
+❌ Production deploy nightmares
+
+With Mastra:
+✅ Zero Python tax — end-to-end type safety in TS
+✅ Built-in evals, workflows, and multi-agent coordination
+✅ Drops directly into Next.js, Node, or standalone servers
+✅ Near 30k stars & insane momentum
+
+Solo founders are building entire software factories in an afternoon with this.
+
+Inspect the repo: https://github.com/mastra-ai/mastra
+
+#TypeScript #AIAgents #WebDev #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20stitching%2010%20broken%20Python%20scripts%20for%20your%20AI%20agents.%0A%0AMastra%20brings%20production-grade%20AI%20to%20pure%20TypeScript.%0A%0A%E2%9A%A1%EF%B8%8F%20Full-stack%20Agentic%20Workflows%0A%E2%9A%A1%EF%B8%8F%20Next.js%20%26%20Node%20native%0A%E2%9A%A1%EF%B8%8F%20YC%20W25%20backed%0A%0ABuild%20in%20a%20weekend%3A%20https%3A//github.com/mastra-ai/mastra)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+击碎认知差：为什么 90% 搞一人公司的独立开发者，AI 应用上线就崩？
+
+因为绝大多数人还在用 Python 玩具库生搬硬套。前端写 TS，后端搞 Python 胶水代码，不仅跨端联调累成狗，生产环境一跑就报错，完全谈不上交付商业闭环！
+
+来看看顶级团队的十倍杠杆——Mastra（刚拿 YC W25，近 3 万星）！
+
+它彻底终结了这种折磨：
+- 纯血 TypeScript：全链路类型安全，写 Agent 就像写 React 一样顺滑
+- 生产级开箱即用：内置工作流编排、评测系统、智能体工具链
+- 零门槛部署：一行命令无缝嵌入 Next.js 和 Node，也能独立起服务
+
+普通人还在调 prompt，聪明人已经在用 Mastra 搭建全自动盈利流水线了。不用重学 Python 复杂基建，前端直接通杀 AI 全栈！
+
+开源地址：https://github.com/mastra-ai/mastra
+
+#独立开发 #一人公司 #AI创业 #全栈开发
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%94%A8%20Python%20%E6%8B%BC%E5%87%91%E7%8E%A9%E5%85%B7%E7%BA%A7%20Agent%20%E4%BA%86%EF%BC%81%0A%0AYC%20W25%20%E7%88%86%E6%AC%BE%20Mastra%20%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%9A%E5%85%A8%E6%A0%88%20TypeScript%20%E5%8E%9F%E7%94%9F%20AI%20%E6%A1%86%E6%9E%B6%EF%BC%81%0A%0A%E2%9C%85%20%E5%91%8A%E5%88%AB%E8%83%B6%E6%B0%B4%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%85%A8%E9%93%BE%E8%B7%AF%E7%B1%BB%E5%9E%8B%E5%AE%89%E5%85%A8%0A%E2%9C%85%20%E6%97%A0%E7%BC%9D%E6%95%B4%E5%90%88%20Next.js/Node%0A%E2%9C%85%20%E5%8E%9F%E7%94%9F%E6%94%AF%E6%8C%81%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E5%BE%AE%E8%B0%83%0A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%90%9E%E9%92%B1%E7%A5%9E%E5%99%A8%EF%BC%9Ahttps%3A//github.com/mastra-ai/mastra)**
+
+---
+
+## 8. [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **24,616** (17 stars today)
+- **官方介绍**: "RAG-Anything: All-in-One RAG Framework"
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most engineers waste 3 months duct-taping vector DBs, chunking tools, and rerankers.
+
+Smart builders just clone this instead.
+
+Meet RAG-Anything (from HKUDS, the team behind LightRAG):
+
+Before:
+❌ 10 different fragmented libs for PDF, image & text retrieval
+❌ Endless hallucinations & bloated latency
+❌ Weeks spent on custom embedding pipelines
+
+Now:
+✅ True All-in-One Multimodal RAG framework
+✅ Drop-in retrieval for complex documents & assets
+✅ Enterprise-grade accuracy with fraction of the code
+✅ Zero AI slop, razor-sharp context delivery
+
+One solo engineer now has the retrieval power of an entire data team. 24,000+ stars on GitHub don't lie.
+
+Check it out here:
+https://github.com/HKUDS/RAG-Anything
+
+#AI #RAG #OpenSource #SoftwareEngineering #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20building%20complex%20RAG%20pipelines%20from%20scratch.%20%F0%9F%9B%91%0A%0AHKUDS%20just%20dropped%20RAG-Anything%20%2824k%2B%20%E2%AD%90%29%3A%0A%E2%9A%A1%20Multimodal%20RAG%20out-of-the-box%0A%E2%9A%A1%20Built%20on%20ultra-fast%20LightRAG%0A%E2%9A%A1%20Ingests%20text%2C%20images%2C%20docs%20instantly%0A%0APure%20developer%20leverage%3A%0Ahttps%3A//github.com/HKUDS/RAG-Anything)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+普通人还在折腾向量数据库切片，顶尖高手早已换上了一体化重武器。
+
+港大团队（HKUDS）刚刚开源的 RAG-Anything，彻底把传统检索增强生成（RAG）打成了过去式。超2.4万星标认证，这是当下最霸道的多模态知识库框架。
+
+痛点对比太残酷：
+❌ 以前：写几千行烂代码解析PDF、分块、配重排序，搜出来的东西全是幻觉废话。
+✅ 现在：开箱即用的多模态架构，文字、图表、复杂格式全通吃，精准度提升数倍。
+
+它带来的不仅是效率提升，而是生产力断层：
+• 基于爆火的 LightRAG 底层引擎
+• 多模态端到端检索，告别碎片化拼凑
+• 极简接口接入，本地跑/云端署几分钟搞定
+
+在AI时代，懂杠杆的人一个人就是一家软件工厂。别再把时间浪费在重复造轮子上，直接站在巨人的肩膀上搞钱。
+
+开源地址：
+https://github.com/HKUDS/RAG-Anything
+
+#人工智能 #开源项目 #独立开发 #RAG #AI商业化
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E5%82%BB%E5%82%BB%E5%86%99%E5%87%A0%E4%B8%AA%E6%9C%88RAG%E4%BA%86%EF%BC%81%E6%B8%AF%E5%A4%A7%E9%87%8D%E7%A3%85%E5%BC%80%E6%BA%90%20RAG-Anything%EF%BC%882.4%E4%B8%87%E2%AD%90%EF%BC%89%EF%BC%9A%0A%E2%9C%85%20%E5%9B%BE%E6%96%87/%E5%A4%9A%E6%A8%A1%E6%80%81%E5%85%A8%E6%A0%BC%E5%BC%8F%E7%A7%92%E8%A7%A3%E6%9E%90%0A%E2%9C%85%20%E5%9F%BA%E4%BA%8E%E9%A1%B6%E7%BA%A7LightRAG%E6%9E%B6%E6%9E%84%0A%E2%9C%85%20%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%A1%B6%E4%B8%80%E4%B8%AA%E6%A3%80%E7%B4%A2%E5%9B%A2%E9%98%9F%0A%0A%E5%BD%BB%E5%BA%95%E6%89%93%E7%A0%B4%E4%BF%A1%E6%81%AF%E5%B7%AE%EF%BC%8C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%A5%9E%E7%BA%A7%E6%AD%A6%E5%99%A8%EF%BC%9A%0Ahttps%3A//github.com/HKUDS/RAG-Anything)**
+
+---
+
+## 9. [cursor/plugins](https://github.com/cursor/plugins)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `TypeScript` | ⭐ **17,005** (201 stars today)
+- **官方介绍**: Cursor plugin specification and official plugins
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop using Cursor like a glorified autocomplete widget. The solo-founder software factory just went live.
+
+Cursor quietly open-sourced their official plugin ecosystem (17k+ stars), and it completely changes the leverage game.
+
+BEFORE:
+- Re-explaining context every session
+- Rubber-stamping AI PR bugs
+- Manually orchestrating CI/CD
+
+AFTER (with native plugins):
+🔥 Continual Learning: Incremental auto-updating agent memory
+🔥 Thermos: Parallel subagents running harsh security & code audits
+🔥 Ralph Loop: Self-referential iterative autonomous execution
+🔥 Team Kit: End-to-end automated ship/merge flows
+
+One builder now commands an entire Tier-1 engineering department.
+
+Repo: https://github.com/cursor/plugins
+
+#AI #CursorAI #IndieHacker #BuildInPublic #DevTools
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Cursor%20just%20dropped%20their%20official%20Plugin%20repo.%2017k%E2%AD%90%0A%0AThis%20isn%27t%20code%20completion%20anymore%2C%20it%27s%20autonomous%20agency%3A%0A%0A%E2%9A%A1%20Continual%20AGENTS.md%20memory%0A%E2%9A%A1%20Thermo-nuclear%20branch%20review%0A%E2%9A%A1%20Self-referential%20iterative%20loops%0A%0ABuild%20an%20army%3A%20https%3A//github.com/cursor/plugins)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+你还在一句句给Cursor敲Prompt，顶级玩家早把代码库跑成了无人自动化工厂！
+
+Cursor官方刚刚把核心底牌开源了：Cursor Plugins。
+
+普通人写代码：每次开新对话都要重新倒苦水讲背景，生成的代码漏洞百出，一个人累死累活修Bug。
+高手用插件：
+• 自动记忆（Continual Learning）：对话中的最佳实践自动提炼到AGENTS.md，越用越通人性
+• 核弹审计（Thermos）：多智能体并行展开严苛安全与代码审查，自动修成可合并PR
+• 闭环自驱（Ralph Loop）：自引用式迭代纠错，真正实现睡后自动出活
+• 极低门槛：官方内置脚手架，直接目录级接入
+
+所谓的1人公司不是熬通宵，而是靠Agent生态吃尽红利。降维打击已经开始了。
+
+项目地址：https://github.com/cursor/plugins
+
+#独立开发 #AI编程 #Cursor #一人公司 #副业搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E6%8A%8ACursor%E5%BD%93%E6%89%93%E5%AD%97%E6%9C%BA%E4%BA%86%EF%BC%81%E5%AE%98%E6%96%B9%E6%8F%92%E4%BB%B6%E5%BA%93Cursor%20Plugins%E6%9D%80%E7%96%AF%E4%BA%86%F0%9F%94%A5%0A%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E6%B2%89%E6%B7%80%E8%AE%B0%E5%BF%86%EF%BC%8CAgent%E8%B6%8A%E7%94%A8%E8%B6%8A%E8%81%AA%E6%98%8E%0A%E2%9C%85%20%E6%A0%B8%E5%BC%B9%E7%BA%A7%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%BA%A6%E5%AE%89%E5%AE%A1%EF%BC%8C%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B6%E5%8F%91%0A%E2%9C%85%20%E5%85%A8%E8%87%AA%E5%8A%A8%E5%90%88%E4%BB%A3%E7%A0%81%E6%89%93%E9%80%9A%E4%B8%80%E4%BA%BA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%8E%82%0A%0A%E7%9B%B4%E6%8E%A5%E6%94%BE%E5%A4%A710%E5%80%8D%E6%9D%A0%E6%9D%86%EF%BC%9Ahttps%3A//github.com/cursor/plugins)**
+
+---
+
+## 10. [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `TypeScript` | ⭐ **10,584** (103 stars today)
+- **官方介绍**: Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop typing 500-word blind prompts into Cursor and praying for clean UI. That's how you get AI slop.
+
+Top builders are switching to visual vibe-coding with M3E Canvas.
+
+Before:
+❌ Spend hours fighting LLMs over button placements
+❌ Vague UI hallucinations
+❌ Janky multi-screen state transitions
+
+Now:
+✅ Sketch Material 3 Expressive screens visually in browser
+✅ Link screens and tap through the prototype live
+✅ 1-click export context-rich vibe-coding prompts for Claude & Cursor
+✅ Instant production-grade UI design system out of the box
+
+10,500+ stars on GitHub. The solo-founder software factory just got a massive 10x leverage upgrade.
+
+🔗 https://github.com/lnkiai/m3e-canvas
+
+#AI #BuildInPublic #IndieHacker #WebDev #UIUX
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Vibe%20coding%20is%20broken%20if%20you%20start%20from%20blank%20text%20prompts.%0A%0AMeet%20M3E%20Canvas%3A%20Sketch%20Material%203%20screens%2C%20link%20them%20into%20clickable%20flows%2C%20and%20export%201-click%20vibe-coding%20prompts%20for%20Cursor/Claude.%0A%0A10k%2B%20stars%20on%20GitHub%3A%0A%F0%9F%91%89%20https%3A//github.com/lnkiai/m3e-canvas)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+普通人还在给 Cursor 敲几百字小作文死磕界面，顶尖独立开发者已经在用画布直接“画”代码了。
+
+这才是真正的十倍杠杆——开源爆火的 M3E Canvas（突破10k Star）。
+
+以前做产品：
+文字描述不清 ➡️ AI胡乱拼凑 ➡️ 满屏丑陋的 AI 塑料感组件 ➡️ 改一晚上心态爆炸。
+
+现在一人公司的极速流：
+1️⃣ 在浏览器拖拽 Material 3 Expressive 规范界面
+2️⃣ 连线各屏幕生成可交互、可点击的动态流程
+3️⃣ 点击一键复制结构化 Vibe Coding 提示词喂给 Cursor / Claude
+4️⃣ 直接生成高审美、工业级完整前端代码
+
+零门槛上手，完全开源免费，不需要你有复杂设计功底。击碎信息差，别在低效循环里浪费生命。
+
+项目地址：https://github.com/lnkiai/m3e-canvas
+
+#独立开发 #AI编程 #出海 #副业搞钱 #Cursor
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%94%A8%E7%BA%AF%E6%96%87%E5%AD%97%E7%9B%B2%E7%8C%9C%E5%86%99%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BA%86%EF%BC%8190%25%E7%9A%84%E4%BA%BA%E6%90%9EAI%E7%BC%96%E7%A8%8B%E9%83%BD%E5%9C%A8%E5%88%B6%E9%80%A0UI%E5%9E%83%E5%9C%BE%E3%80%82%0A%0A%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20M3E%20Canvas%EF%BC%9A%0A%E2%9A%A1%EF%B8%8F%20%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9B%B4%E6%8E%A5%E7%94%BB%20Material%203%20%E7%95%8C%E9%9D%A2%0A%E2%9A%A1%EF%B8%8F%20%E8%BF%9E%E7%BA%BF%E6%88%90%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%EF%BC%8C%E7%82%B9%E4%B8%80%E7%82%B9%E5%B0%B1%E8%83%BD%E6%B5%8B%0A%E2%9A%A1%EF%B8%8F%20%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90%E7%B2%BE%E5%87%86%20Vibe%20Coding%20%E6%8F%90%E7%A4%BA%E8%AF%8D%0A%0A%E7%9B%B4%E8%BE%BE%EF%BC%9Ahttps%3A//github.com/lnkiai/m3e-canvas)**
+
+---
+
+## 11. [dograh-hq/dograh](https://github.com/dograh-hq/dograh)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **6,195** (17 stars today)
+- **官方介绍**: Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The per-minute SaaS tax on Voice AI is officially dead.
+
+Before: You locked yourself into Vapi or Retell, burning thousands monthly just to build a custom phone agent—zero control over data, trapped in closed ecosystems.
+
+Now: Dograh dropped an open-source, self-hostable Voice AI platform that gives solo founders god-mode leverage.
+
+Here is why this changes the game:
+• Visual Workflow Builder: Design voice agents in minutes, not weeks
+• MCP Native: Let Claude or Cursor edit your voice workflows programmatically
+• True BYOK: Swap Speech-to-Speech, STT, LLM, or TTS whenever prices drop
+• Telephony Ready: Production inbound/outbound calls out of the box
+• 60-Second Self-Host: One command, 100% on-prem data privacy
+
+Stop renting infrastructure when you can own the full pipeline.
+
+👉 https://github.com/dograh-hq/dograh
+
+#AI #OpenSource #VoiceAI #BuildInPublic #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20paying%20insane%20per-minute%20SaaS%20tax%20for%20voice%20AI.%0A%0ADograh%20is%20an%20open-source%2C%20self-hosted%20Vapi%20%26%20Retell%20alternative%3A%0A%E2%9A%A1%20Visual%20canvas%20builder%0A%E2%9A%A1%20BYOK%20%28Speech-to-Speech%20/%20LLM%29%0A%E2%9A%A1%20Native%20MCP%20%26%20Telephony%0A%E2%9A%A1%2060s%20deploy%0A%0APure%20leverage%3A%20https%3A//github.com/dograh-hq/dograh)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+还在按分钟给语音 SaaS 平台交昂贵的“技术过路费”？你以为做个智能电话客服必须死磕 Vapi 或 Retell，最后赚的钱全给了平台。
+
+顶级的一人公司早就换了玩法。Dograh 彻底击碎了语音 AI 的暴利认知，直接把全套企业级架构开源出来：
+
+🔥 为什么它是极致的十倍杠杆：
+- 彻底摆脱被绑架：支持纯本地自托管与 BYOK，LLM、语音合成、识别任意自由切换
+- 可视化画布设计：像搭积木一样画出复杂的电话客服与呼叫流
+- 原生支持 MCP：让 AI 编程助手直接帮你编写与调优语音工作流
+- 真正电话级落地：原生支持 Telephony 协议，开箱即打即接真实电话
+- 零门槛部署：一条命令 60 秒内完整跑通本地环境
+
+从客服呼叫中心到自动化销售外呼，基础设施已经被开源抹平。现在拼的不再是资金，而是你落地的速度。
+
+开源地址：https://github.com/dograh-hq/dograh
+
+#开源项目 #AI应用 #独立开发 #一人公司 #副业搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%BB%99%E9%97%AD%E6%BA%90%E8%AF%AD%E9%9F%B3AI%E6%8C%89%E5%88%86%E9%92%9F%E4%BA%A4%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%EF%BC%81%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20Dograh%20%E6%9D%A5%E4%BA%86%EF%BC%9A%0A%E2%9C%85%20%E5%AF%B9%E6%A0%87%20Vapi%20/%20Retell%0A%E2%9C%85%20%E8%87%AA%E6%89%98%E7%AE%A1%2B%E8%87%AA%E5%B8%A6Key%20%28BYOK%29%0A%E2%9C%85%20%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E4%BD%9C%E6%B5%81%2B%E5%8E%9F%E7%94%9FMCP%0A%E2%9C%85%201%E8%A1%8C%E5%91%BD%E4%BB%A460%E7%A7%92%E8%B7%91%E9%80%9A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%90%9E%E9%92%B1%E5%88%A9%E5%99%A8%EF%BC%9Ahttps%3A//github.com/dograh-hq/dograh)**
+
+---
+
+## 12. [3441293738/creatorhub](https://github.com/3441293738/creatorhub)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Python` | ⭐ **3,654** (100 stars today)
+- **官方介绍**: 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop paying $200/mo for bloated social media management tools.
+
+Solo founders are quietly scaling media empires with extreme software leverage, and this open-source gem is the missing link.
+
+Meet CreatorHub: an open-source, local-first control tower for automated content ops.
+
+Before:
+• 5 tabs open, manually saving video clips
+• Juggling logins across TikTok, Xiaohongshu, Douyin
+• Burning 3 hours daily on manual distribution
+
+After:
+✅ Scrape & monitor trending keywords locally
+✅ Cross-post to TikTok, Douyin, RED & WeChat Video
+✅ Manage comments & auto-download assets
+✅ 100% local database & token privacy
+
+No Python setup required for Windows—just one .exe and you have an automated content factory.
+
+🔗 https://github.com/3441293738/creatorhub
+
+#OpenSource #Solopreneur #Automation #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Running%20a%201-person%20media%20empire%20just%20got%2010x%20easier%20%E2%9A%A1%EF%B8%8F%0A%0ACreatorHub%20runs%20locally%20%26%20monitors%20%2B%20scrapes%20%2B%20auto-posts%20across%20TikTok%2C%20Douyin%2C%20RED%20%26%20WeChat%20Channels.%0A%0AZero%20SaaS%20bloat.%20Pure%20leverage.%0A%0ACheck%20it%20out%3A%20https%3A//github.com/3441293738/creatorhub)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+这就是顶级搞钱玩家和普通运营的认知差：你还在拿手机反复切号、手打复制文案，别人早就开着脚本自动化跑矩阵了！
+
+今天挖到这个在 GitHub 狂涨星的神器 CreatorHub，彻底把多平台内容流水线打穿。
+
+普通人做法：
+每天在抖音、小红书、视频号、TikTok 之间来回切后台，手动找爆款、去水印下载、一条条定时发布，累死累活一天产出3条。
+
+十倍杠杆打法：
+✅ 全局监控：关键词监控同行爆款与实时弹幕
+✅ 批量采集：无水印素材秒级入库，支持加密视频解析
+✅ 矩阵分发：抖音/小红书/快手/视频号/TikTok 一站式自动发布
+✅ 隐私安全：全本地运行，账号凭证与数据库不上传任何云端
+
+最爽的是 Windows 提供了开箱即用的安装包，连 Python 都不用配，双击就能跑。
+一人公司的本质就是用代码替自己打工，把琐碎苦力活全部交给工具！
+
+开源地址：https://github.com/3441293738/creatorhub
+
+#出海 #独立开发 #自媒体搞钱 #开源工具 #一人公司
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%81%9A%E8%87%AA%E5%AA%92%E4%BD%93%E7%9F%A9%E9%98%B5%E8%BF%98%E5%9C%A8%E6%89%8B%E5%8A%A8%E5%88%87%E5%8F%B7%E6%90%AC%E7%A0%96%EF%BC%9F%E8%AE%A4%E7%9F%A5%E5%B7%AE%E7%9E%AC%E9%97%B4%E6%8B%89%E5%BC%80%EF%BC%81%0A%0A%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20CreatorHub%EF%BC%9A%E6%9C%AC%E5%9C%B0%E4%B8%80%E9%94%AE%E7%9B%91%E6%8E%A7%2B%E9%87%87%E9%9B%86%2B%E5%85%A8%E8%87%AA%E5%8A%A8%E5%88%86%E5%8F%91%E6%8A%96%E9%9F%B3%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6%E3%80%81TikTok%E3%80%81%E8%A7%86%E9%A2%91%E5%8F%B7%EF%BC%81%0A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%A1%B6%E7%BA%A7%E6%9D%A0%E6%9D%86%EF%BC%9Ahttps%3A//github.com/3441293738/creatorhub)**
+
+---
+
+## 13. [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Go` | ⭐ **3,587** (591 stars today)
+- **官方介绍**: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop using AI coding agents like glorified autocomplete. Tencent just open-sourced the secret sauce of enterprise-grade software factories: LoopForge 🚀
+
+Most devs let AI write code directly to main, producing hallucinatory slop and endless bugs. 
+
+LoopForge turns chaotic coding agents into disciplined, repeatable assembly lines:
+
+• Multi-agent orchestration: Claude Code, Codex, & CodeBuddy under one hood
+• Sandboxed execution: Run agents safely without nuking your local dev env
+• Human approval gates: You control what actually ships to production
+• 100% Self-hosted: Full privacy via Docker, zero vendor lock-in
+
+This is how solo founders will out-ship 20-person engineering teams in 2025. Absolute game-changer.
+
+🔗 https://github.com/Tencent/LoopForge
+
+#AI #CodingAgents #DevOps #Solopreneur #OpenSource #ClaudeCode
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Tencent%20just%20dropped%20the%20ultimate%20AI%20dev%20leverage%3A%20LoopForge%20%F0%9F%A4%AF%0A%0AOrchestrate%20Claude%20Code%2C%20Codex%20%26%20CodeBuddy%20into%20autonomous%20software%20factories%20with%20human%20approval%20gates.%0A%0A%E2%9A%A1%EF%B8%8F%20Self-hosted%20Docker%0A%E2%9A%A1%EF%B8%8F%20Sandboxed%20workspaces%0A%E2%9A%A1%EF%B8%8F%20Zero%20AI%20slop%0A%0A%F0%9F%91%89%20https%3A//github.com/Tencent/LoopForge)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+千万别再把 AI 当聊天框用了！腾讯刚刚开源的 LoopForge，直接击碎了普通程序员与顶级超级个体的认知差。
+
+普通人做法：开 5 个窗口，手动复制 Claude Code 和 Codex 的代码，修完 bug 又搞崩架构，累得要死还被 AI 产出的垃圾代码淹没。
+
+顶级玩家做法：用 LoopForge 搭建全自动 SOP 软件流水线。把 Claude Code、CodeBuddy 扔进隔离沙箱，让它们自动拆解任务、跑测试、写代码，关键节点只等人类一键审批上线！
+
+🔥 核心亮点：
+• 多智能体协同：一处调度所有顶尖编程 Agent
+• 零风险沙箱：代码隔离执行，不怕 AI 搞崩本地系统
+• 严格品控：自带 Approval Gate，把关最后 1%
+• 完全私有化：Docker 一键本地拉起，数据全自控
+
+一人公司真正的十倍杠杆已经来了，不是 AI 会替代你，而是用流水线驾驭 AI 的人正在消灭平庸的开发团队。
+
+项目地址：https://github.com/Tencent/LoopForge
+
+#AI编程 #独立开发 #一人公司 #开源项目 #超级个体
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%85%BE%E8%AE%AF%E5%BC%80%E6%BA%90%E7%8E%8B%E7%82%B8%E5%B7%A5%E5%85%B7%20LoopForge%EF%BC%81%E6%99%AE%E9%80%9A%E4%BA%BA%E8%BF%98%E5%9C%A8%E6%89%8B%E5%8A%A8%E5%92%8C%20Claude%20Code%20%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%EF%BC%8C%E9%A1%B6%E7%BA%A7%E7%8E%A9%E5%AE%B6%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E3%80%8C%E4%B8%80%E4%BA%BA%E5%85%A8%E8%87%AA%E5%8A%A8%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%8E%82%E3%80%8D%E4%BA%86%EF%BC%9A%0A%0A%E2%9C%85%20%E4%B8%B2%E8%81%94%20Claude%20Code%20%2B%20Codex%0A%E2%9C%85%20%E6%B2%99%E7%AE%B1%E5%AE%89%E5%85%A8%E8%BF%90%E8%A1%8C%EF%BC%8C%E9%98%B2%E4%BB%A3%E7%A0%81%E6%8A%95%E6%AF%92%0A%E2%9C%85%20%E4%BA%BA%E5%B7%A5%E5%8D%A1%E7%82%B9%E5%AE%A1%E6%89%B9%EF%BC%8C%E6%9D%9C%E7%BB%9D%20AI%20%E4%B9%B1%E5%86%99%0A%0A%F0%9F%94%97%20https%3A//github.com/Tencent/LoopForge)**
+
+---
+
+## 14. [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `C++` | ⭐ **3,236** (~3236 (7天内新建))
+- **官方介绍**: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Vendor bloatware is a tax on your CPU and mental bandwidth.
+
+To see your battery levels, you're currently running:
+- Razer Synapse (1GB RAM)
+- Logitech G HUB (crashes daily)
+- Corsair iCUE (crypto miner level drain)
+
+A dev just shipped the ultimate antidote: Wireless Battery.
+
+3.2k stars in under 7 days because it solves real developer pain:
+✓ Native Windows taskbar tray icon
+✓ Universal support: Logitech, Razer, SteelSeries, Corsair, HyperX
+✓ Full gamepad support: PS4/PS5 DualSense, Xbox + generic Bluetooth
+✓ Ultra lightweight, zero telemetry, no vendor trash
+
+Pure extreme efficiency. Delete your vendor hubs today.
+
+🔗 https://github.com/krisgfx9/Wireless-Device-Battery-Monitor
+
+#OpenSource #Productivity #Windows11 #SoftwareEngineering
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20running%205%20bloatware%20apps%20just%20to%20check%20battery%20levels.%0A%0AWireless%20Battery%20monitors%20everything%20in%20your%20Windows%20tray%3A%0A%E2%80%A2%20Logitech%2C%20Razer%2C%20Corsair%2C%20SteelSeries%0A%E2%80%A2%20PS5/Xbox%20controllers%20%26%20Bluetooth%0A%E2%80%A2%20Zero%20vendor%20bloat%0A%0A%F0%9F%94%97%20https%3A//github.com/krisgfx9/Wireless-Device-Battery-Monitor)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+查个鼠标电量，非要开三个几百兆后台常驻的流氓全家桶？
+
+很多人电脑卡成PPT，罪魁祸首就是雷蛇Synapse、罗技G HUB和海盗船iCUE。每次开机疯狂吃内存还频繁弹窗更新，极其恶心。
+
+GitHub刚刚杀出一款7天3000星的神仙开源神器：Wireless Battery。
+
+它用降维打击的方式消除了所有厂商壁垒：
+1. 极简托盘：所有无线鼠标、耳机、键盘、手柄电量在Windows任务栏一目了然
+2. 全平台通吃：支持Logitech、Razer、SteelSeries、Corsair、HyperX及蓝牙设备
+3. 主机玩家狂喜：原生支持PS4/PS5 DualSense和Xbox无线手柄
+4. 零流氓行为：开箱即用，纯本地轻量运行，不占CPU不吃内存
+
+顶级极客的效率法则就是做减法。现在就卸载掉那些臃肿驱动，还你的电脑一个干净清爽的桌面！
+
+🔗 https://github.com/krisgfx9/Wireless-Device-Battery-Monitor
+
+#开源神器 #效率工具 #Windows技巧 #极客工具
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%BB%99%E6%B5%81%E6%B0%93%E9%A9%B1%E5%8A%A8%E7%99%BD%E4%BA%A4%E5%86%85%E5%AD%98%E7%A8%8E%E4%BA%86%EF%BC%81%0A%0A%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%A5%9E%E7%BA%A7%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8A%8A%E6%89%80%E6%9C%89%E6%97%A0%E7%BA%BF%E8%AE%BE%E5%A4%87%E7%94%B5%E9%87%8F%E7%9B%B4%E6%8E%A5%E9%92%89%E5%9C%A8%E4%BB%BB%E5%8A%A1%E6%A0%8F%EF%BC%9A%0A%E2%9C%85%20%E7%BD%97%E6%8A%80/%E9%9B%B7%E8%9B%87/%E8%B5%9B%E7%9D%BF/%E6%B5%B7%E7%9B%97%E8%88%B9%E5%85%A8%E6%94%AF%E6%8C%81%0A%E2%9C%85%20PS5/Xbox%E6%89%8B%E6%9F%84%E9%80%9A%E5%90%83%0A%E2%9C%85%20%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BD%E5%AE%98%E6%96%B9%E8%87%83%E8%82%BF%E5%85%A8%E5%AE%B6%E6%A1%B6%0A%0A%F0%9F%94%97%20https%3A//github.com/krisgfx9/Wireless-Device-Battery-Monitor)**
+
+---
+
+## 15. [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **2,637** (53 stars today)
+- **官方介绍**: AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop playing with single AI agents. You are building toy workflows while top builders are running entire autonomous software factories.
+
+The real bottleneck was never intelligence—it was context isolation. Cursor doesn't talk to Claude, your terminal agent doesn't talk to your research bot, and you're the human copy-paste glue in between.
+
+AutoSwarm completely fixes this.
+
+Developed by HKUDS, it’s a unified desktop cockpit that makes your agents collaborate seamlessly:
+
+✅ Unified Context: Break silos so agents hand off state frictionlessly
+✅ Mission Control: One private desktop app (macOS / Windows)
+✅ Human-in-the-loop: Review approvals & orchestrate complex swarms
+✅ 10x Solopreneur Leverage: Turn a 5-person dev pipeline into an autonomous swarm
+
+Pure developer leverage. Zero AI slop.
+
+🔗 https://github.com/HKUDS/AutoSwarm
+
+#AI #OpenSource #SoftwareEngineering #MultiAgent
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Single-agent%20AI%20is%20dead.%20Swarms%20are%20here.%20%E2%9A%A1%0A%0AAutoSwarm%20lets%20you%20orchestrate%20ALL%20your%20agents%20in%20one%20desktop%20UI%3A%0A%0A%E2%80%A2%20Shared%20cross-agent%20context%0A%E2%80%A2%20Real-time%20approvals%0A%E2%80%A2%20Unified%20workspace%20%28Mac/Win%29%0A%0AStop%20copying/pasting%20prompts%3A%0A%F0%9F%91%89%20https%3A//github.com/HKUDS/AutoSwarm)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+你还在手动当“AI搬运工”？
+
+普通人玩AI：开5个网页，Cursor写两行，复制到Claude润色，再拷给终端跑测试，人在中间当人肉传话筒，累得半死还叫智能升级。
+顶级操盘手的一人公司：多Agent集群自主协作，各司其职，自动交接上下文，一人调度整支数字化军团。
+
+香港大学数据智能实验室（HKUDS）开源的 AutoSwarm，正在彻底击碎这个认知差！
+
+它直接解决了多智能体协作最致命的痛点：
+
+打破上下文孤岛：不同Agent无缝共享记忆与进度，不用你反复投喂Prompt
+统一桌面工作台：支持Mac/Windows原生应用，私密安全，开箱即用
+全局审批与进度把控：核心决策人类介入，繁琐执行全自动流转
+
+别再拿单体AI做玩具了。未来赚大钱的超级个体，拼的就是手底下的Agent自动化网络！开源免费，直接下载桌面端体验真正的高杠杆生产力。
+
+🔗 项目地址：https://github.com/HKUDS/AutoSwarm
+
+#一人公司 #人工智能 #效率工具 #独立开发
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E4%BA%BA%E5%B7%A5%E7%BB%99%E4%B8%8D%E5%90%8CAI%E5%BD%93%E4%BC%A0%E8%AF%9D%E7%AD%92%E4%BA%86%EF%BC%81%E6%B8%AF%E5%A4%A7%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20AutoSwarm%20%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%9A%0A%0A%E2%9A%A1%20%E5%BD%BB%E5%BA%95%E6%89%93%E7%A0%B4Agent%E4%B8%8A%E4%B8%8B%E6%96%87%E5%A3%81%E5%9E%92%0A%E2%9A%A1%20%E4%B8%80%E9%94%AE%E5%8D%8F%E5%90%8C%E4%B8%8D%E5%90%8C%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B2%E5%A4%A7%E6%B4%BB%0A%E2%9A%A1%20%E6%94%AF%E6%8C%81Mac/Win%E5%8E%9F%E7%94%9F%E6%A1%8C%E9%9D%A2%E7%AB%AF%0A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%9B%B4%E6%8E%A5%E6%8B%A5%E6%9C%89%E4%B8%93%E5%B1%9EAI%E5%86%9B%E5%9B%A2%EF%BC%9A%0A%F0%9F%91%89%20https%3A//github.com/HKUDS/AutoSwarm)**
+
+---
+
+
+---
+
+---
+
 ## 1. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 - **分类领域**: `🚀 优质开源精选` | **语言**: `JavaScript` | ⭐ **89,146** (115 stars today)
 - **官方介绍**: web development for the rest of us

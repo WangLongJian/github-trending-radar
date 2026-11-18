@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 292,
+    "backlog_count": 303,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -144,13 +144,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "The best founders don't do manual research. They build an asymmetric information advantage.\n\nBefore: Spending 45 minutes cross-referencing Twitter, Reddit, GitHub, and Telegram trying to vet an anon dev or competitor.\n\nAfter: Running one single terminal command and mapping their entire online footprint in under 30 seconds.\n\nSherlock just crossed 98k stars for a reason. It's the ultimate digital recon engine:\n\n• Hunts 400+ social networks simultaneously\n• Tor support for complete anonymity\n• Exports straight to CSV / JSON for fast scraping pipelines\n• Zero complex setup—just pure Python leverage\n\nStop doing manual recon like it's 2015. Automate your intel.\n\nRepo: https://github.com/sherlock-project/sherlock\n\n#DevTools #OSINT #OpenSource #Productivity #Python"
+      },
+      {
+        "repo": "ifixai-ai/iFixAi",
+        "url": "https://github.com/ifixai-ai/iFixAi",
+        "stars": 42745,
+        "stars_today": "1584 stars today",
+        "heat_score": 158442745,
+        "scheduled_time": "2026-11-18 13:00:00 PST",
+        "iso_time": "2026-11-18T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The dirty secret of the AI Agent economy? Nobody actually knows if their agents are doing what they’re supposed to do.\n\nYou launch an autonomous agent, sleep for 6 hours, and wake up to hallucinations, leaked context, or broken workflows. \n\nStop praying to the LLM gods. iFixAi solves this with independent auditing in under 120 seconds:\n\n❌ Before: Staring at raw API logs hoping the agent didn't go rogue\n✅ After: Automated independent audit proving alignment before shipping\n\nKey superpowers:\n• 120-second automated audits\n• Run by humans or the agent itself\n• Pinpoints blind spots & hallucinations\n• Plug & play into any agent pipeline\n\n42,000+ devs already get it. Catch mistakes before the shit hits the fan.\n\n🔗 https://github.com/ifixai-ai/iFixAi\n\n#AIAgents #OpenSource #DevTools #BuildInPublic"
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "stars": 106547,
+        "stars_today": "1262 stars today",
+        "heat_score": 126306547,
+        "scheduled_time": "2026-11-18 17:00:00 PST",
+        "iso_time": "2026-11-18T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "ElevenLabs' $3B moat just evaporated overnight.\n\nVoiceStudio is the open-source, fully-local audio studio solopreneurs have been dreaming of. Zero subscriptions. Infinite scale.\n\nBefore:\n❌ $99+/month ElevenLabs limits\n❌ Sending sensitive company voice data to cloud APIs\n❌ Tedious, manual multilingual dubbing\n\nAfter:\n✅ 100% offline voice cloning & voice design\n✅ Video dubbing & sync across 646 languages\n✅ Runs on your M-series Mac, laptop, or home lab\n✅ Generate unlimited audiobooks, podcasts & UGC ads\n\nIf you're building a solo media empire or scaling AI video channels, this is 100x leverage on your desktop.\n\nOver 106k stars and climbing fast 👇\nhttps://github.com/debpalash/VoiceStudio\n\n#AI #OpenSource #ElevenLabs #Solopreneur #BuildInPublic"
+      },
+      {
+        "repo": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "stars": 309528,
+        "stars_today": "1259 stars today",
+        "heat_score": 126209528,
+        "scheduled_time": "2026-11-18 21:00:00 PST",
+        "iso_time": "2026-11-18T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The dirty secret of AI coding: giving raw LLMs a prompt produces fragile, untestable slop.\n\nSuperpowers changes the entire game.\n\nInstead of blindly vomiting code, it injects an elite engineering methodology straight into your agent's brain:\n\n• Forces the agent to interview you and extract a modular spec\n• Breaks tasks into bite-sized, verifiable chunks before writing 1 line\n• Works seamlessly with Claude Code, Cursor, Gemini CLI, Devin, & Copilot\n• Replaces random prompt guessing with rigorous agentic skills\n\nThis is how a single solo founder ships like a 50-person enterprise engineering org.\n\nLevel up your coding agent:\n🔗 https://github.com/obra/superpowers\n\n#AI #DevTools #Solopreneur #Cursor #OpenSource"
+      },
+      {
+        "repo": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "stars": 6328,
+        "stars_today": "1231 stars today",
+        "heat_score": 123106328,
+        "scheduled_time": "2026-11-19 09:00:00 PST",
+        "iso_time": "2026-11-19T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Your AI coding agent is hallucinating 2018 web code, and it's killing your velocity. 🚨\n\nEvery solo founder knows the pain: You ask Cursor or Claude to build a clean web app, and it spits out outdated hacks, deprecated polyfills, and deprecated CSS.\n\nToday, the browser giants fixed it.\n\nGoogle Chrome, Microsoft Edge, and Mozilla just co-released Modern Web Guidance.\n\nIt embeds modern web platform specs, native APIs, and live browser compat directly into your AI coding agents.\n\nBefore vs After:\n❌ Bloated npm packages for simple native UI\n❌ Deprecated JS workarounds\n✅ Native Modern Web APIs & baseline features\n✅ Hyper-lean, bulletproof frontend code\n✅ Zero AI slop\n\nThis is pure leverage for 1-person software factories. Plug it into your agent and ship clean.\n\n🔗 https://github.com/GoogleChrome/modern-web-guidance-src\n\n#DevTools #BuildInPublic #AI #Solopreneur"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 287,
+    "backlog_count": 299,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -453,6 +505,66 @@
           "2026年之后，代码不值钱，调用AI工程化能力的人才最贵。别再看二手二手转述，今晚花两小时把源码Clone下来跑通它。行动起来，破局就在当下！\n\n#AI破局 #开源神器 #一人公司 #技术出海"
         ],
         "content": "这就是认知差：当普通人还在花大几千买低质Prompt课程、折腾套壳小工具赚点零花钱时，真正的一人公司操盘手，早就靠工业级 AI Agent 一个人干出整支技术团队的产能了！\n\n刚冲上 GitHub 40,000+ Star 的《AI Engineering Hub》，彻底掀了知识付费的底牌。作者把最硬核的技术内幕全盘开源，全是带源码的工业级实战：\n\n🎯 93+ 工业级落地的完整项目库\n🎯 告别幻觉的高阶商业级 RAG 架构\n🎯 真正能自主运行、解决复杂任务的多Agent系统\n🎯 贴心拆解：初级(22个)、进阶(48个)、专家级(23个)\n\n零基础跟着走，两周就能搭出自己的自动化AI军团。代码和教程全免费，拉开差距的从来不是天赋，而是你能不能吃下这口信息差红利！\n\n开源直达：https://github.com/patchy631/ai-engineering-hub\n\n#AI破局 #开源神器 #一人公司 #技术出海 #程序员副业"
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 106532,
+        "stars_today": "1140 stars today",
+        "heat_score": 114106532,
+        "scheduled_time": "2026-11-19 09:00:00 CST",
+        "iso_time": "2026-11-19T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通开发者还在把 AI 代码助手当玩具，顶级的独立开发者早就给它装上了“海马体”。跨会话记忆神器 claude-mem 正式开源，彻底终结 AI 失忆症：https://github.com/thedotmack/claude-mem 🧵",
+          "痛点太真实了：每次新开会话，你都要花 15 分钟重新教它项目规范、历史踩坑点和架构规则。Token 烧了几百万，有大半都是在给这个随时失忆的实习生复读旧背景，产出极低。",
+          "claude-mem 的解法极狠：它在后台无感监听 Agent 的每一个动作，并用 AI 自动提炼、高度压缩成长期记忆。下次开启新任务，它会自动把最相关的历史上下文精准塞回模型，毫不浪费 Token。",
+          "不仅支持 Claude Code，还兼容 OpenClaw、Codex、Gemini、Copilot 等主流环境。即插即用，不用重构现有工作流，直接把你的 AI 工具从单次对话工具，进化为懂你全部习惯的核心合伙人。",
+          "技术破局往往不是等下一个模型，而是用好系统级杠杆。一人公司想要跑出十倍效率，先让你的 Agent 停止失忆。赶紧去 GitHub 点星自取！\n\n#独立开发 #AI编程 #效率工具 #GitHub"
+        ],
+        "content": "普通开发者还在把 Claude Code 当玩具，真正的一人公司早就给 AI 装上了“大脑海马体”。\n\n你最大的时间浪费，就是每次开新对话，都要反复告诉它：“我们用的架构是什么、历史bug怎么解、代码规范是什么”。你不是在写代码，你是在给一个随时失忆的实习生当保姆。\n\n今天冲上 GitHub 趋势榜的 claude-mem 彻底击碎了这个痛点：\n\n它为所有 AI Agent 注入了跨会话持久记忆能力：\n🔹 无感后台监听：自动抓取代理执行的所有操作与上下文\n🔹 智能语义压缩：把数万行对话提炼成极致的精简记忆库\n🔹 跨平台通用：无缝支持 Claude Code、OpenClaw、Codex、Gemini、Copilot\n🔹 动态精准唤醒：下次提到关联模块，只把最关键的历史经验送回上下文，绝不爆 token\n\n彻底告别重复沟通，把 AI 真正变成懂你所有习惯的顶级老合伙人。认知差就在这里，早用一天，杠杆就多十倍。\n\n传送门：https://github.com/thedotmack/claude-mem\n\n#独立开发 #AI编程 #一人公司 #ClaudeCode #效率工具"
+      },
+      {
+        "repo": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "stars": 11439,
+        "stars_today": "1126 stars today",
+        "heat_score": 112611439,
+        "scheduled_time": "2026-11-19 13:00:00 CST",
+        "iso_time": "2026-11-19T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "玄学出海和AI算命的暴利信息差，今天被一个开源项目彻底击碎了！基于倪海厦《天纪》的紫微斗数引擎 Renhuai123/ziwei-doushu 狂揽11.4k星，单日暴涨上千星：\nhttps://github.com/Renhuai123/ziwei-doushu 🧵",
+          "普通人的认知：玄学是封建迷信或割韭菜黑产，做个排盘小程序一次收99，拼命锁住算法和数据。\n顶级操盘手的杠杆：算法本就是公开的传统智慧，把逻辑写透开源，用最极致的数据壁垒重构AI垂类生态。",
+          "这个项目到底有多狠？\n它不仅有全套四化与格局排盘引擎，还直接甩出了 v4.0 巨型数据集：67.5万张真实命盘、877万段解读，解压后整整 56.6 GB、204亿字！全部格式化、向量化友好。",
+          "门槛直接被踩平了。MIT代码开源 + CC BY 4.0数据授权。你不需要读懂古籍，搭个知识库RAG或喂给大模型，几个小时就能拉起一个媲美老命理师的AI咨询Agent，直供出海或一人公司变现。",
+          "真正的暴利从来不是守着破烂信息差，而是用极客技术降维打击传统行业。别再为劣质黑盒付费了，收藏这个仓库，去跑出属于你自己的超级应用吧！\n\n#独立开发 #一人公司 #开源项目 #AI应用"
+        ],
+        "content": "玄学出海和AI命理的暴利时代，今天被彻底掀桌子了。\n\nRenhuai123/ziwei-doushu 杀疯了，狂揽11.4k星，单日暴涨1100+！\n\n以前做玄学软件的人怎么玩？\n买套残缺盗版代码，找几个大师背书，建个封闭小程序，测一次算命收你199，毛利99%，死死守着信息差。\n\n现在顶级极客是怎么打的？\n直接把传统智慧开源！基于倪海厦《天纪》体系，写成工业级排盘引擎：\n- 覆盖1950-2026年真实命盘67.5万张\n- 13维精准映射，877万段结构化解读\n- 解压后整整 56.6 GB、204亿字的高质量中文语料！\n\n算法MIT开源，数据CC BY 4.0开放。这意味着什么？\n你不需要懂繁复的排盘规则，拉个开源RAG或微调一个小模型，一个垂类顶尖的AI命理Agent立刻落地。这就是一人公司的核武器级杠杆——当别人还在围墙里卖铲子，有人已经把整座金矿开源到了GitHub。\n\nhttps://github.com/Renhuai123/ziwei-doushu\n\n#独立开发 #AI出海 #一人公司 #搞钱 #开源项目"
+      },
+      {
+        "repo": "milind-soni/OpenMausBot",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "stars": 8838,
+        "stars_today": "895 stars today",
+        "heat_score": 89508838,
+        "scheduled_time": "2026-11-19 17:00:00 CST",
+        "iso_time": "2026-11-19T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在眼巴巴等闭源AI工具排队，极客们已经把一整支AI研发团队装进电脑了！OpenMausBot 正式开源，这才是真正的一人公司终极杠杆。🔗 https://github.com/milind-soni/OpenMausBot 🧵",
+          "傻做法是手动复制粘贴代码、反复修Bug、在几十个网页间切来切去。高手的做法是给每个任务派一个专属Bot，让它们在侧边栏像微信群一样各司其职，你只需要负责验收。",
+          "最颠覆的是它给每个AI分配了独立虚拟机！Agent不仅会聊天，更能直接在虚拟环境里装依赖、跑脚本、操作真实应用，代码跑通了才交给你，彻底告别AI胡说八道。",
+          "零使用门槛：完全开源本地优先，接入你现有的Claude或Codex就能启动。不需要向闭源平台交昂贵月费，所有数据和运行环境全部100%掌控在你自己手里。",
+          "未来不是看谁写代码更快，而是看谁能同时指挥多少个数字员工为你打工。认知差就是现金流，立刻拉起属于你的AI军团！\n\n#AI生产力 #独立开发 #一人公司 #开源项目"
+        ],
+        "content": "别再当人肉打字机了！普通人还在苦苦等闭源Agent内测，极客们已经开始用开源军团搞钱了。\n\n刚在GitHub狂揽8800+星的 OpenMausBot，直接击碎了传统生产力的天花板：\n\n过去：你把代码从ChatGPT粘到本地，报错又粘回去，忙活一天只产出个Demo。\n现在：侧边栏里常驻十几个AI员工，每个人拥有独立的虚拟系统，不仅会写代码，还能自己开虚拟机跑环境、测Bug、连应用！\n\n硬核亮点：\n1. 虚拟机沙盒：Bot直接在独立VM里操作终端与网络，安全闭环\n2. 纯本地掌控：自带模型即可跑，隐私不出门，零订阅绑架\n3. 微信级交互：像拉群聊一样派发复杂任务，只审批关键步骤\n\n一人公司的终极形态就是“你是指挥官，AI全是执行官”。认知差就是生产力，赶紧搞起来！\n\n🔗 https://github.com/milind-soni/OpenMausBot\n\n#开源 #一人公司 #AI工作流 #独立开发 #生产力工具"
       }
     ]
   }

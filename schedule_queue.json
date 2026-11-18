@@ -104,10 +104,15 @@
         "heat_score": 205511371,
         "scheduled_time": "2026-11-17 17:00:00 PST",
         "iso_time": "2026-11-17T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most devs are running their AI models at 30% capacity because of corporate guardrails and neutered system prompts.\n\nThen this repo dropped and gained +2,000 stars in 24 hours.\n\nMeet togg53192-cmd/jailbreaks: A curated battle-tested library of persona locks, AGENTS.md specs, workspace policies, and Ollama Modelfiles designed to strip away AI slop and unlock 100% developer leverage.\n\nZero theories. Just copy-paste fire:\n⚡ 32 ready-to-run system configs\n🎯 26+ frontier & open-weight models (Claude 3.7, DeepSeek, Qwen 2.5, Kimi, Gemma)\n🛠️ Production-grade AGENTS.md & Ollama Modelfiles\n🔥 Unlocks unhinged coding speed and zero-filter technical execution\n\nTurn your LLMs into lethal autonomous software engineers.\n\nLink: https://github.com/togg53192-cmd/jailbreaks\n\n#AI #DevTools #OpenSource #DeepSeek #VibeCoding"
+        "content": "Most devs are running their AI models at 30% capacity because of corporate guardrails and neutered system prompts.\n\nThen this repo dropped and gained +2,000 stars in 24 hours.\n\nMeet togg53192-cmd/jailbreaks: A curated battle-tested library of persona locks, AGENTS.md specs, workspace policies, and Ollama Modelfiles designed to strip away AI slop and unlock 100% developer leverage.\n\nZero theories. Just copy-paste fire:\n⚡ 32 ready-to-run system configs\n🎯 26+ frontier & open-weight models (Claude 3.7, DeepSeek, Qwen 2.5, Kimi, Gemma)\n🛠️ Production-grade AGENTS.md & Ollama Modelfiles\n🔥 Unlocks unhinged coding speed and zero-filter technical execution\n\nTurn your LLMs into lethal autonomous software engineers.\n\nLink: https://github.com/togg53192-cmd/jailbreaks\n\n#AI #DevTools #OpenSource #DeepSeek #VibeCoding",
+        "thread_ids": [
+          "2122857410960461948"
+        ],
+        "tweet_url": "https://x.com/i/status/2122857410960461948",
+        "posted_at": "2026-11-18T01:00:24.014251+00:00"
       },
       {
         "repo": "NVIDIA/auto-ontology",
@@ -354,7 +359,7 @@
         "heat_score": 126306547,
         "scheduled_time": "2026-11-18 09:00:00 CST",
         "iso_time": "2026-11-18T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -364,7 +369,16 @@
           "最爽的是完全没有硬件歧视！Mac、Windows、Linux甚至手机和平板都能直接跑。所有数据留在本地，没有断网限制，更没有封号和隐私泄露的风险，开箱即用。",
           "信息差就是现金流。无论你是做TikTok搬运出海、多语种解说，还是搞自动化独立开发，这个神器直接给你省下几千刀。建议立即Star收藏部署！#开源 #AI工具 #出海搞钱 #独立开发"
         ],
-        "content": "你还在按字符给ElevenLabs交昂贵的月租？顶级的出海玩家已经用本地算力跑完一整个媒体矩阵了。\n\n今天开源社区炸锅的 VoiceStudio，直接把千亿估值的商用语音基建搬到了你的笔记本上：完全开源、零费用、纯本地运行！\n\n普通人的傻做法：\n❌ 疯狂充值API积分，一条长视频扣几十美刀\n❌ 声音版权和隐私数据全托管给中心化云平台\n❌ 遇到冷门语种只能抓瞎\n\n顶级的一人公司杠杆：\n✅ 秒级原声精准克隆，情绪语气完全保留\n✅ 一键生成646种语言的视频配音与听书内容\n✅ 笔记本、台式机甚至手机端都能原生部署，0云端成本\n✅ 彻底打通“文案-克隆-多语种配音-视频输出”全自动流水线\n\n做TikTok出海、做知识库播客、做短剧解说，认知差就是纯利润。\n源码与安装指引完全免费，赶紧收藏实操：\nhttps://github.com/debpalash/VoiceStudio\n\n#开源项目 #AI出海 #搞钱 #独立开发 #一人公司"
+        "content": "你还在按字符给ElevenLabs交昂贵的月租？顶级的出海玩家已经用本地算力跑完一整个媒体矩阵了。\n\n今天开源社区炸锅的 VoiceStudio，直接把千亿估值的商用语音基建搬到了你的笔记本上：完全开源、零费用、纯本地运行！\n\n普通人的傻做法：\n❌ 疯狂充值API积分，一条长视频扣几十美刀\n❌ 声音版权和隐私数据全托管给中心化云平台\n❌ 遇到冷门语种只能抓瞎\n\n顶级的一人公司杠杆：\n✅ 秒级原声精准克隆，情绪语气完全保留\n✅ 一键生成646种语言的视频配音与听书内容\n✅ 笔记本、台式机甚至手机端都能原生部署，0云端成本\n✅ 彻底打通“文案-克隆-多语种配音-视频输出”全自动流水线\n\n做TikTok出海、做知识库播客、做短剧解说，认知差就是纯利润。\n源码与安装指引完全免费，赶紧收藏实操：\nhttps://github.com/debpalash/VoiceStudio\n\n#开源项目 #AI出海 #搞钱 #独立开发 #一人公司",
+        "thread_ids": [
+          "2122857459031413213",
+          "2122857515054768416",
+          "2122857564039975239",
+          "2122857615264989265",
+          "2122857666670473332"
+        ],
+        "tweet_url": "https://x.com/i/status/2122857459031413213",
+        "posted_at": "2026-11-18T01:01:24.737106+00:00"
       },
       {
         "repo": "obra/superpowers",

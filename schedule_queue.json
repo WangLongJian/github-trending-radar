@@ -140,10 +140,15 @@
         "heat_score": 176198864,
         "scheduled_time": "2026-11-18 09:00:00 PST",
         "iso_time": "2026-11-18T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The best founders don't do manual research. They build an asymmetric information advantage.\n\nBefore: Spending 45 minutes cross-referencing Twitter, Reddit, GitHub, and Telegram trying to vet an anon dev or competitor.\n\nAfter: Running one single terminal command and mapping their entire online footprint in under 30 seconds.\n\nSherlock just crossed 98k stars for a reason. It's the ultimate digital recon engine:\n\n• Hunts 400+ social networks simultaneously\n• Tor support for complete anonymity\n• Exports straight to CSV / JSON for fast scraping pipelines\n• Zero complex setup—just pure Python leverage\n\nStop doing manual recon like it's 2015. Automate your intel.\n\nRepo: https://github.com/sherlock-project/sherlock\n\n#DevTools #OSINT #OpenSource #Productivity #Python"
+        "content": "The best founders don't do manual research. They build an asymmetric information advantage.\n\nBefore: Spending 45 minutes cross-referencing Twitter, Reddit, GitHub, and Telegram trying to vet an anon dev or competitor.\n\nAfter: Running one single terminal command and mapping their entire online footprint in under 30 seconds.\n\nSherlock just crossed 98k stars for a reason. It's the ultimate digital recon engine:\n\n• Hunts 400+ social networks simultaneously\n• Tor support for complete anonymity\n• Exports straight to CSV / JSON for fast scraping pipelines\n• Zero complex setup—just pure Python leverage\n\nStop doing manual recon like it's 2015. Automate your intel.\n\nRepo: https://github.com/sherlock-project/sherlock\n\n#DevTools #OSINT #OpenSource #Productivity #Python",
+        "thread_ids": [
+          "2123098965696819582"
+        ],
+        "tweet_url": "https://x.com/i/status/2123098965696819582",
+        "posted_at": "2026-11-18T17:00:15.211827+00:00"
       },
       {
         "repo": "ifixai-ai/iFixAi",

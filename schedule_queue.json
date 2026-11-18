@@ -158,10 +158,15 @@
         "heat_score": 158442745,
         "scheduled_time": "2026-11-18 13:00:00 PST",
         "iso_time": "2026-11-18T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The dirty secret of the AI Agent economy? Nobody actually knows if their agents are doing what they’re supposed to do.\n\nYou launch an autonomous agent, sleep for 6 hours, and wake up to hallucinations, leaked context, or broken workflows. \n\nStop praying to the LLM gods. iFixAi solves this with independent auditing in under 120 seconds:\n\n❌ Before: Staring at raw API logs hoping the agent didn't go rogue\n✅ After: Automated independent audit proving alignment before shipping\n\nKey superpowers:\n• 120-second automated audits\n• Run by humans or the agent itself\n• Pinpoints blind spots & hallucinations\n• Plug & play into any agent pipeline\n\n42,000+ devs already get it. Catch mistakes before the shit hits the fan.\n\n🔗 https://github.com/ifixai-ai/iFixAi\n\n#AIAgents #OpenSource #DevTools #BuildInPublic"
+        "content": "The dirty secret of the AI Agent economy? Nobody actually knows if their agents are doing what they’re supposed to do.\n\nYou launch an autonomous agent, sleep for 6 hours, and wake up to hallucinations, leaked context, or broken workflows. \n\nStop praying to the LLM gods. iFixAi solves this with independent auditing in under 120 seconds:\n\n❌ Before: Staring at raw API logs hoping the agent didn't go rogue\n✅ After: Automated independent audit proving alignment before shipping\n\nKey superpowers:\n• 120-second automated audits\n• Run by humans or the agent itself\n• Pinpoints blind spots & hallucinations\n• Plug & play into any agent pipeline\n\n42,000+ devs already get it. Catch mistakes before the shit hits the fan.\n\n🔗 https://github.com/ifixai-ai/iFixAi\n\n#AIAgents #OpenSource #DevTools #BuildInPublic",
+        "thread_ids": [
+          "2123159392543797375"
+        ],
+        "tweet_url": "https://x.com/i/status/2123159392543797375",
+        "posted_at": "2026-11-18T21:00:22.129363+00:00"
       },
       {
         "repo": "debpalash/VoiceStudio",

@@ -176,10 +176,15 @@
         "heat_score": 126306547,
         "scheduled_time": "2026-11-18 17:00:00 PST",
         "iso_time": "2026-11-18T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "ElevenLabs' $3B moat just evaporated overnight.\n\nVoiceStudio is the open-source, fully-local audio studio solopreneurs have been dreaming of. Zero subscriptions. Infinite scale.\n\nBefore:\n❌ $99+/month ElevenLabs limits\n❌ Sending sensitive company voice data to cloud APIs\n❌ Tedious, manual multilingual dubbing\n\nAfter:\n✅ 100% offline voice cloning & voice design\n✅ Video dubbing & sync across 646 languages\n✅ Runs on your M-series Mac, laptop, or home lab\n✅ Generate unlimited audiobooks, podcasts & UGC ads\n\nIf you're building a solo media empire or scaling AI video channels, this is 100x leverage on your desktop.\n\nOver 106k stars and climbing fast 👇\nhttps://github.com/debpalash/VoiceStudio\n\n#AI #OpenSource #ElevenLabs #Solopreneur #BuildInPublic"
+        "content": "ElevenLabs' $3B moat just evaporated overnight.\n\nVoiceStudio is the open-source, fully-local audio studio solopreneurs have been dreaming of. Zero subscriptions. Infinite scale.\n\nBefore:\n❌ $99+/month ElevenLabs limits\n❌ Sending sensitive company voice data to cloud APIs\n❌ Tedious, manual multilingual dubbing\n\nAfter:\n✅ 100% offline voice cloning & voice design\n✅ Video dubbing & sync across 646 languages\n✅ Runs on your M-series Mac, laptop, or home lab\n✅ Generate unlimited audiobooks, podcasts & UGC ads\n\nIf you're building a solo media empire or scaling AI video channels, this is 100x leverage on your desktop.\n\nOver 106k stars and climbing fast 👇\nhttps://github.com/debpalash/VoiceStudio\n\n#AI #OpenSource #ElevenLabs #Solopreneur #BuildInPublic",
+        "thread_ids": [
+          "2123219759118655992"
+        ],
+        "tweet_url": "https://x.com/i/status/2123219759118655992",
+        "posted_at": "2026-11-19T01:00:14.705405+00:00"
       },
       {
         "repo": "obra/superpowers",
@@ -542,7 +547,7 @@
         "heat_score": 114106532,
         "scheduled_time": "2026-11-19 09:00:00 CST",
         "iso_time": "2026-11-19T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -552,7 +557,16 @@
           "不仅支持 Claude Code，还兼容 OpenClaw、Codex、Gemini、Copilot 等主流环境。即插即用，不用重构现有工作流，直接把你的 AI 工具从单次对话工具，进化为懂你全部习惯的核心合伙人。",
           "技术破局往往不是等下一个模型，而是用好系统级杠杆。一人公司想要跑出十倍效率，先让你的 Agent 停止失忆。赶紧去 GitHub 点星自取！\n\n#独立开发 #AI编程 #效率工具 #GitHub"
         ],
-        "content": "普通开发者还在把 Claude Code 当玩具，真正的一人公司早就给 AI 装上了“大脑海马体”。\n\n你最大的时间浪费，就是每次开新对话，都要反复告诉它：“我们用的架构是什么、历史bug怎么解、代码规范是什么”。你不是在写代码，你是在给一个随时失忆的实习生当保姆。\n\n今天冲上 GitHub 趋势榜的 claude-mem 彻底击碎了这个痛点：\n\n它为所有 AI Agent 注入了跨会话持久记忆能力：\n🔹 无感后台监听：自动抓取代理执行的所有操作与上下文\n🔹 智能语义压缩：把数万行对话提炼成极致的精简记忆库\n🔹 跨平台通用：无缝支持 Claude Code、OpenClaw、Codex、Gemini、Copilot\n🔹 动态精准唤醒：下次提到关联模块，只把最关键的历史经验送回上下文，绝不爆 token\n\n彻底告别重复沟通，把 AI 真正变成懂你所有习惯的顶级老合伙人。认知差就在这里，早用一天，杠杆就多十倍。\n\n传送门：https://github.com/thedotmack/claude-mem\n\n#独立开发 #AI编程 #一人公司 #ClaudeCode #效率工具"
+        "content": "普通开发者还在把 Claude Code 当玩具，真正的一人公司早就给 AI 装上了“大脑海马体”。\n\n你最大的时间浪费，就是每次开新对话，都要反复告诉它：“我们用的架构是什么、历史bug怎么解、代码规范是什么”。你不是在写代码，你是在给一个随时失忆的实习生当保姆。\n\n今天冲上 GitHub 趋势榜的 claude-mem 彻底击碎了这个痛点：\n\n它为所有 AI Agent 注入了跨会话持久记忆能力：\n🔹 无感后台监听：自动抓取代理执行的所有操作与上下文\n🔹 智能语义压缩：把数万行对话提炼成极致的精简记忆库\n🔹 跨平台通用：无缝支持 Claude Code、OpenClaw、Codex、Gemini、Copilot\n🔹 动态精准唤醒：下次提到关联模块，只把最关键的历史经验送回上下文，绝不爆 token\n\n彻底告别重复沟通，把 AI 真正变成懂你所有习惯的顶级老合伙人。认知差就在这里，早用一天，杠杆就多十倍。\n\n传送门：https://github.com/thedotmack/claude-mem\n\n#独立开发 #AI编程 #一人公司 #ClaudeCode #效率工具",
+        "thread_ids": [
+          "2123219808200393213",
+          "2123219863821049916",
+          "2123219913590624414",
+          "2123219963775422669",
+          "2123220013893218392"
+        ],
+        "tweet_url": "https://x.com/i/status/2123219808200393213",
+        "posted_at": "2026-11-19T01:01:15.210553+00:00"
       },
       {
         "repo": "Renhuai123/ziwei-doushu",

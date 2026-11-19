@@ -194,10 +194,15 @@
         "heat_score": 126209528,
         "scheduled_time": "2026-11-18 21:00:00 PST",
         "iso_time": "2026-11-18T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The dirty secret of AI coding: giving raw LLMs a prompt produces fragile, untestable slop.\n\nSuperpowers changes the entire game.\n\nInstead of blindly vomiting code, it injects an elite engineering methodology straight into your agent's brain:\n\n• Forces the agent to interview you and extract a modular spec\n• Breaks tasks into bite-sized, verifiable chunks before writing 1 line\n• Works seamlessly with Claude Code, Cursor, Gemini CLI, Devin, & Copilot\n• Replaces random prompt guessing with rigorous agentic skills\n\nThis is how a single solo founder ships like a 50-person enterprise engineering org.\n\nLevel up your coding agent:\n🔗 https://github.com/obra/superpowers\n\n#AI #DevTools #Solopreneur #Cursor #OpenSource"
+        "content": "The dirty secret of AI coding: giving raw LLMs a prompt produces fragile, untestable slop.\n\nSuperpowers changes the entire game.\n\nInstead of blindly vomiting code, it injects an elite engineering methodology straight into your agent's brain:\n\n• Forces the agent to interview you and extract a modular spec\n• Breaks tasks into bite-sized, verifiable chunks before writing 1 line\n• Works seamlessly with Claude Code, Cursor, Gemini CLI, Devin, & Copilot\n• Replaces random prompt guessing with rigorous agentic skills\n\nThis is how a single solo founder ships like a 50-person enterprise engineering org.\n\nLevel up your coding agent:\n🔗 https://github.com/obra/superpowers\n\n#AI #DevTools #Solopreneur #Cursor #OpenSource",
+        "thread_ids": [
+          "2123280159591805177"
+        ],
+        "tweet_url": "https://x.com/i/status/2123280159591805177",
+        "posted_at": "2026-11-19T05:00:15.278676+00:00"
       },
       {
         "repo": "GoogleChrome/modern-web-guidance-src",
@@ -576,7 +581,7 @@
         "heat_score": 112611439,
         "scheduled_time": "2026-11-19 13:00:00 CST",
         "iso_time": "2026-11-19T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -586,7 +591,16 @@
           "门槛直接被踩平了。MIT代码开源 + CC BY 4.0数据授权。你不需要读懂古籍，搭个知识库RAG或喂给大模型，几个小时就能拉起一个媲美老命理师的AI咨询Agent，直供出海或一人公司变现。",
           "真正的暴利从来不是守着破烂信息差，而是用极客技术降维打击传统行业。别再为劣质黑盒付费了，收藏这个仓库，去跑出属于你自己的超级应用吧！\n\n#独立开发 #一人公司 #开源项目 #AI应用"
         ],
-        "content": "玄学出海和AI命理的暴利时代，今天被彻底掀桌子了。\n\nRenhuai123/ziwei-doushu 杀疯了，狂揽11.4k星，单日暴涨1100+！\n\n以前做玄学软件的人怎么玩？\n买套残缺盗版代码，找几个大师背书，建个封闭小程序，测一次算命收你199，毛利99%，死死守着信息差。\n\n现在顶级极客是怎么打的？\n直接把传统智慧开源！基于倪海厦《天纪》体系，写成工业级排盘引擎：\n- 覆盖1950-2026年真实命盘67.5万张\n- 13维精准映射，877万段结构化解读\n- 解压后整整 56.6 GB、204亿字的高质量中文语料！\n\n算法MIT开源，数据CC BY 4.0开放。这意味着什么？\n你不需要懂繁复的排盘规则，拉个开源RAG或微调一个小模型，一个垂类顶尖的AI命理Agent立刻落地。这就是一人公司的核武器级杠杆——当别人还在围墙里卖铲子，有人已经把整座金矿开源到了GitHub。\n\nhttps://github.com/Renhuai123/ziwei-doushu\n\n#独立开发 #AI出海 #一人公司 #搞钱 #开源项目"
+        "content": "玄学出海和AI命理的暴利时代，今天被彻底掀桌子了。\n\nRenhuai123/ziwei-doushu 杀疯了，狂揽11.4k星，单日暴涨1100+！\n\n以前做玄学软件的人怎么玩？\n买套残缺盗版代码，找几个大师背书，建个封闭小程序，测一次算命收你199，毛利99%，死死守着信息差。\n\n现在顶级极客是怎么打的？\n直接把传统智慧开源！基于倪海厦《天纪》体系，写成工业级排盘引擎：\n- 覆盖1950-2026年真实命盘67.5万张\n- 13维精准映射，877万段结构化解读\n- 解压后整整 56.6 GB、204亿字的高质量中文语料！\n\n算法MIT开源，数据CC BY 4.0开放。这意味着什么？\n你不需要懂繁复的排盘规则，拉个开源RAG或微调一个小模型，一个垂类顶尖的AI命理Agent立刻落地。这就是一人公司的核武器级杠杆——当别人还在围墙里卖铲子，有人已经把整座金矿开源到了GitHub。\n\nhttps://github.com/Renhuai123/ziwei-doushu\n\n#独立开发 #AI出海 #一人公司 #搞钱 #开源项目",
+        "thread_ids": [
+          "2123280209957044735",
+          "2123280265590292959",
+          "2123280314445463941",
+          "2123280364240351450",
+          "2123280416044134445"
+        ],
+        "tweet_url": "https://x.com/i/status/2123280209957044735",
+        "posted_at": "2026-11-19T05:01:16.406564+00:00"
       },
       {
         "repo": "milind-soni/OpenMausBot",

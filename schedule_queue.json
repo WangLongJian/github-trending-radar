@@ -230,10 +230,15 @@
         "heat_score": 122065635,
         "scheduled_time": "2026-11-19 13:00:00 PST",
         "iso_time": "2026-11-19T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The solo-founder software factory just became a reality.\n\nBEFORE:\n- Glued to your desk monitoring terminal runs\n- Managing 5 different AI subscriptions in silos\n- Context switching between Claude Code, Codex, and Cursor\n\nAFTER (T3 Code):\n- Kick off a massive refactor at your desk, review & approve diffs from your phone while walking your dog.\n- One open-source control plane for every coding agent on your machine.\n- Zero token markups—it runs on the subscriptions you already pay for.\n- Switch agents mid-thread when you need a different model's strengths.\n\nThis isn't just a UI wrapper; it's the mission control for autonomous software engineering.\n\nCheck the repo before it crosses 100k stars:\nhttps://github.com/pingdotgg/t3code\n\n#DevTools #AIagents #BuildInPublic #SoftwareEngineering"
+        "content": "The solo-founder software factory just became a reality.\n\nBEFORE:\n- Glued to your desk monitoring terminal runs\n- Managing 5 different AI subscriptions in silos\n- Context switching between Claude Code, Codex, and Cursor\n\nAFTER (T3 Code):\n- Kick off a massive refactor at your desk, review & approve diffs from your phone while walking your dog.\n- One open-source control plane for every coding agent on your machine.\n- Zero token markups—it runs on the subscriptions you already pay for.\n- Switch agents mid-thread when you need a different model's strengths.\n\nThis isn't just a UI wrapper; it's the mission control for autonomous software engineering.\n\nCheck the repo before it crosses 100k stars:\nhttps://github.com/pingdotgg/t3code\n\n#DevTools #AIagents #BuildInPublic #SoftwareEngineering",
+        "thread_ids": [
+          "2123521784469418057"
+        ],
+        "tweet_url": "https://x.com/i/status/2123521784469418057",
+        "posted_at": "2026-11-19T21:00:23.093246+00:00"
       },
       {
         "repo": "patchy631/ai-engineering-hub",

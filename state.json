@@ -2204,8 +2204,113 @@
       "url": "https://github.com/HKUDS/AutoSwarm",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "punkpeye/awesome-mcp-servers": {
+      "date": "2026-11-19",
+      "stars": 98164,
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "home-assistant/core": {
+      "date": "2026-11-19",
+      "stars": 92358,
+      "url": "https://github.com/home-assistant/core",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "astral-sh/uv": {
+      "date": "2026-11-19",
+      "stars": 92341,
+      "url": "https://github.com/astral-sh/uv",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "storybookjs/storybook": {
+      "date": "2026-11-19",
+      "stars": 91642,
+      "url": "https://github.com/storybookjs/storybook",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "colbymchenry/codegraph": {
+      "date": "2026-11-19",
+      "stars": 78042,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "ansible/ansible": {
+      "date": "2026-11-19",
+      "stars": 71478,
+      "url": "https://github.com/ansible/ansible",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "pingdotgg/t3code": {
+      "date": "2026-11-19",
+      "stars": 65635,
+      "url": "https://github.com/pingdotgg/t3code",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "jquery/jquery": {
+      "date": "2026-11-19",
+      "stars": 60077,
+      "url": "https://github.com/jquery/jquery",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "HKUDS/CLI-Anything": {
+      "date": "2026-11-19",
+      "stars": 60075,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "bojieli/ai-agent-book": {
+      "date": "2026-11-19",
+      "stars": 58774,
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "odoo/odoo": {
+      "date": "2026-11-19",
+      "stars": 55922,
+      "url": "https://github.com/odoo/odoo",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "Vincentwei1021/video-shotcraft": {
+      "date": "2026-11-19",
+      "stars": 21485,
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "XiaoYouChR/Ghost-Downloader-3": {
+      "date": "2026-11-19",
+      "stars": 12233,
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "openvinotoolkit/openvino": {
+      "date": "2026-11-19",
+      "stars": 11421,
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "anthropics/claude-code-security-review": {
+      "date": "2026-11-19",
+      "stars": 7012,
+      "url": "https://github.com/anthropics/claude-code-security-review",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-18T08:18:25.162107"
+  "last_run": "2026-11-19T08:29:17.995912"
 }

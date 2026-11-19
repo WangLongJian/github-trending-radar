@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 303,
+    "backlog_count": 314,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -216,13 +216,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Your AI coding agent is hallucinating 2018 web code, and it's killing your velocity. 🚨\n\nEvery solo founder knows the pain: You ask Cursor or Claude to build a clean web app, and it spits out outdated hacks, deprecated polyfills, and deprecated CSS.\n\nToday, the browser giants fixed it.\n\nGoogle Chrome, Microsoft Edge, and Mozilla just co-released Modern Web Guidance.\n\nIt embeds modern web platform specs, native APIs, and live browser compat directly into your AI coding agents.\n\nBefore vs After:\n❌ Bloated npm packages for simple native UI\n❌ Deprecated JS workarounds\n✅ Native Modern Web APIs & baseline features\n✅ Hyper-lean, bulletproof frontend code\n✅ Zero AI slop\n\nThis is pure leverage for 1-person software factories. Plug it into your agent and ship clean.\n\n🔗 https://github.com/GoogleChrome/modern-web-guidance-src\n\n#DevTools #BuildInPublic #AI #Solopreneur"
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "stars": 65635,
+        "stars_today": "1220 stars today",
+        "heat_score": 122065635,
+        "scheduled_time": "2026-11-19 13:00:00 PST",
+        "iso_time": "2026-11-19T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The solo-founder software factory just became a reality.\n\nBEFORE:\n- Glued to your desk monitoring terminal runs\n- Managing 5 different AI subscriptions in silos\n- Context switching between Claude Code, Codex, and Cursor\n\nAFTER (T3 Code):\n- Kick off a massive refactor at your desk, review & approve diffs from your phone while walking your dog.\n- One open-source control plane for every coding agent on your machine.\n- Zero token markups—it runs on the subscriptions you already pay for.\n- Switch agents mid-thread when you need a different model's strengths.\n\nThis isn't just a UI wrapper; it's the mission control for autonomous software engineering.\n\nCheck the repo before it crosses 100k stars:\nhttps://github.com/pingdotgg/t3code\n\n#DevTools #AIagents #BuildInPublic #SoftwareEngineering"
+      },
+      {
+        "repo": "patchy631/ai-engineering-hub",
+        "url": "https://github.com/patchy631/ai-engineering-hub",
+        "stars": 40615,
+        "stars_today": "1191 stars today",
+        "heat_score": 119140615,
+        "scheduled_time": "2026-11-19 17:00:00 PST",
+        "iso_time": "2026-11-19T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most devs are stuck building wrapper toys and calling it \"AI Engineering\".\n\nTop 1% solo founders are quietly shipping enterprise-grade AI systems with 10x leverage.\n\nFound the ultimate cheat code blowing up on GitHub (+1,200 stars today):\n\n\"AI Engineering Hub\" — a masterclass disguised as an open-source repo.\n\nWhat's inside:\n🔥 93+ Production-Ready Projects (Beginner → Advanced)\n🧠 In-depth RAG architectures that actually scale\n🤖 Autonomous Multi-Agent systems solved for real use cases\n📦 Copy-pasteable code, architectures, and deployment setups\n\nBefore: 3 weeks tweaking prompts and fighting hallucinating agents.\nAfter: Clone a battle-tested repo and deploy in an afternoon.\n\nZero paywalls. Pure builder alpha.\n\n🔗 https://github.com/patchy631/ai-engineering-hub\n\n#AIEngineering #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur"
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 106532,
+        "stars_today": "1140 stars today",
+        "heat_score": 114106532,
+        "scheduled_time": "2026-11-19 21:00:00 PST",
+        "iso_time": "2026-11-19T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "AI agents have a dirty secret: they suffer from total amnesia.\n\nYou spend 3 hours teaching Claude Code your codebase quirks, architecture, and deployment setup.\nYou close the terminal. Next morning? It's back to square one.\n\nStop wasting thousands of tokens re-explaining context.\n\nMeet claude-mem — persistent cross-session memory for AI agents:\n\n⚡ Seamlessly logs every tool call & decision\n⚡ Compresses massive histories with background AI\n⚡ Injects only hyper-relevant memory into future prompts\n⚡ Universal: works with Claude Code, OpenClaw, Codex, Gemini, Copilot\n\nThis is how solo founders run like 10-person engineering teams without burning cash.\n\nFree & open-source:\n👉 https://github.com/thedotmack/claude-mem\n\n#DevTools #ArtificialIntelligence #ClaudeCode #BuildInPublic #OpenSource"
+      },
+      {
+        "repo": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "stars": 11439,
+        "stars_today": "1126 stars today",
+        "heat_score": 112611439,
+        "scheduled_time": "2026-11-20 09:00:00 PST",
+        "iso_time": "2026-11-20T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Silicon Valley is still building generic horoscope apps. Meanwhile, an open-source repo just dropped a 56.6 GB structured metaphysics dataset and gained 11,400+ stars overnight.\n\nRenhuai123/ziwei-doushu is the wildest project on GitHub right now:\n\nBefore: Scrape fragmented paywalled fortune-telling apps with noisy outputs.\nNow: A battle-tested Ziwei Doushu engine with complete chart-casting math.\n\nWhat’s inside this absolute goldmine:\n✅ Full Ni Haixia Tianji core algorithm & Four Transformations\n✅ 675,000 real natal charts (1950–2026 coverage)\n✅ 8.7M dimensional interpretation segments (20.4B words)\n✅ MIT-licensed code + CC BY 4.0 raw dataset\n\nIf you're building culturally-aware vertical AI agents or esoteric AI companions, this is 100x leverage on a silver platter.\n\n🔗 https://github.com/Renhuai123/ziwei-doushu\n\n#OpenSource #AI #BuildInPublic #SoftwareEngineering"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 299,
+    "backlog_count": 310,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -603,13 +655,33 @@
         "posted_at": "2026-11-19T05:01:16.406564+00:00"
       },
       {
+        "repo": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "stars": 65635,
+        "stars_today": "1220 stars today",
+        "heat_score": 122065635,
+        "scheduled_time": "2026-11-19 17:00:00 CST",
+        "iso_time": "2026-11-19T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "认知差拉开差距！90%的人还在肉身守着终端等AI写代码，顶级的超级个体已经用手机遥控全栈跑通了。\n\n爆火开源的 T3 Code，让你随时随地掌控所有 Coding Agent：https://github.com/pingdotgg/t3code 🧵",
+          "痛点太真实了：以前写代码电脑一合就中断，为了盯进度连散步都不安心。不同模型还要在不同终端和网页来回切，不仅低效，还要被很多套壳工具赚昂贵的二次Token差价。",
+          "T3 Code 怎么破局？\n你在工位启动庞大重构，出门逛街时手机弹窗审批每一步；它统一管理 Claude Code、Codex、Cursor 等所有本地代理，还支持中途随时切换模型，全部跑你自己的订阅！",
+          "门槛低到不可思议：只要你电脑上配好了代理环境，装上就能用，完全不用改现有工作流。iOS、安卓、Web全平台覆盖，真正做到把整个本地研发团队装进口袋。",
+          "未来的一人公司，老板负责核心决策与审批，AI在后台24小时疯狂输出。赶紧去 GitHub 点个 Star 试试，体验十倍杠杆的爽感！\n\n#独立开发 #AI编程 #开源"
+        ],
+        "content": "认知差就是财富差距！90%的程序员还在肉身守着终端等AI跑完，顶级的超级个体已经用手机遥控全栈开发了。\n\n今天狂砍上千星的开源神器 T3 Code，彻底颠覆了人机协作模式：\n它是一个把所有终端Coding Agent装进口袋的“总控台”。\n\n传统傻做法：\n开五个网页切来切去，出门电脑一合代码全停，还得为中间商昂贵的Token差价买单。\n\n顶级的十倍杠杆：\n工位上一键启动大项目，在健身房或陪家人散步时，手机App弹出审批提醒，轻点一下直接Merge；任意切换Claude Code、Codex或Cursor，直接调动本地环境，完全零额外API加价！\n\n这才是未来一人公司的终极形态：你负责战略决策与最后确认，AI集群在本地24小时为你打工。\n\n开源传送门：https://github.com/pingdotgg/t3code\n\n#独立开发 #AI编程 #一人公司 #开源项目 #Claude"
+      },
+      {
         "repo": "milind-soni/OpenMausBot",
         "url": "https://github.com/milind-soni/OpenMausBot",
         "stars": 8838,
         "stars_today": "895 stars today",
         "heat_score": 89508838,
-        "scheduled_time": "2026-11-19 17:00:00 CST",
-        "iso_time": "2026-11-19T17:00:00+08:00",
+        "scheduled_time": "2026-11-19 21:00:00 CST",
+        "iso_time": "2026-11-19T21:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -621,6 +693,65 @@
           "未来不是看谁写代码更快，而是看谁能同时指挥多少个数字员工为你打工。认知差就是现金流，立刻拉起属于你的AI军团！\n\n#AI生产力 #独立开发 #一人公司 #开源项目"
         ],
         "content": "别再当人肉打字机了！普通人还在苦苦等闭源Agent内测，极客们已经开始用开源军团搞钱了。\n\n刚在GitHub狂揽8800+星的 OpenMausBot，直接击碎了传统生产力的天花板：\n\n过去：你把代码从ChatGPT粘到本地，报错又粘回去，忙活一天只产出个Demo。\n现在：侧边栏里常驻十几个AI员工，每个人拥有独立的虚拟系统，不仅会写代码，还能自己开虚拟机跑环境、测Bug、连应用！\n\n硬核亮点：\n1. 虚拟机沙盒：Bot直接在独立VM里操作终端与网络，安全闭环\n2. 纯本地掌控：自带模型即可跑，隐私不出门，零订阅绑架\n3. 微信级交互：像拉群聊一样派发复杂任务，只审批关键步骤\n\n一人公司的终极形态就是“你是指挥官，AI全是执行官”。认知差就是生产力，赶紧搞起来！\n\n🔗 https://github.com/milind-soni/OpenMausBot\n\n#开源 #一人公司 #AI工作流 #独立开发 #生产力工具"
+      },
+      {
+        "repo": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "stars": 91962,
+        "stars_today": "892 stars today",
+        "heat_score": 89291962,
+        "scheduled_time": "2026-11-20 09:00:00 CST",
+        "iso_time": "2026-11-20T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "AI时代一人公司最大的壁垒是独家数据！但90%的人写爬虫每天都在被反爬折磨。刚在GitHub狂揽9.1万星的 Scrapling，彻底降维打击传统采集工具，把全网数据变成你的私人金矿：https://github.com/D4Vinci/Scrapling 🧵",
+          "普通人的笨办法：用 requests 被盾拦截，用 selenium 内存爆炸，网站结构微调一次脚本直接报废。顶级的十倍杠杆：用现代架构自适应动态页面，从单次请求到海量抓取一行代码搞定。",
+          "Scrapling 真正厉害的地方在于抹平了反爬门槛。它内置对现代Web动态加载的高级适配，不再需要你到处找代理池、写死破损的选择器，抓下来的数据格式极其干净，专为喂给 RAG 和大模型准备。",
+          "门槛低到不可思议，Python 开发者 5 分钟就能上手。无论你是抓行业竞品价格、做情报监控，还是批量喂养自己的垂直垂类模型，一个人就能撑起一整套自动化数据流水线。",
+          "别再拿刀耕火种的旧代码浪费生命了。赶紧去把仓库 Star 收藏起来，用最硬核的开源神器搭建你的商业信息差杠杆！\n\n#独立开发 #一人公司 #开源项目 #技术破局"
+        ],
+        "content": "在AI时代做一人公司，最底层的壁垒根本不是套壳Prompt，而是独家、高频、干净的行业数据。\n\n绝大多数人的爬虫技术还停留在五年前：用 requests 碰壁反爬，用 selenium 笨重爆内存，网站一更新整个脚本直接报废，天天修Bug修到崩溃。\n\n直到我看到在 GitHub 狂揽 9.1 万星的顶级神作：Scrapling。\n\n它真正做到了把复杂反爬与爬虫流程封装到极致：\n• 极简 API：从单次请求到全网级分布式抓取，一套逻辑跑通\n• 破防现代反爬：无缝适配动态渲染与复杂验证，告别频繁IP被封\n• 完美契合AI工作流：抓取即清洗，直接喂给 RAG 和本地模型\n\n不需要庞大的运维团队，单枪匹马就能搭起自动化情报系统。技术破局的杠杆一直都在，就看你用不用先进武器。\n\n开源地址：https://github.com/D4Vinci/Scrapling\n\n#独立开发 #一人公司 #爬虫 #开源项目 #出海搞钱"
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 305880,
+        "stars_today": "883 stars today",
+        "heat_score": 88605880,
+        "scheduled_time": "2026-11-20 13:00:00 CST",
+        "iso_time": "2026-11-20T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在裸用 Cursor 碰运气，顶级黑客早已用上 Agent 操作系统了。开源神作 ECC 登顶榜单，专为 Claude Code、Cursor 打造的外骨骼，彻底消灭 AI 编程幻觉！\n🔗 https://github.com/affaan-m/ECC 🧵",
+          "痛点太真实了：普通人给 AI 一个长需求，不仅爆 Token 费，AI 还会乱改文件、凭空捏造 API，排查 Bug 比手写还累。本质原因是你没给它装“约束外壳”，它完全没有全局工程记忆。",
+          "ECC 的核心就是给 AI 装上大脑与护栏：\n① 持久化记忆库：记住你的历史架构与编码规范\n② 先研后写：强制 AI 先调研推演逻辑，再落盘代码\n③ 动态安全沙箱：阻断高危指令，杜绝删库跑路风险。",
+          "完全不需要重新学复杂的框架。无论你用 Cursor、Claude Code 还是 Codex，它都能无缝挂载。一个人就是一个不用发工资的资深架构师团队，这才是真正的一人公司杠杆！",
+          "工具永远在迭代，拉开人与人差距的永远是认知。立刻给你的开发环境装上外骨骼，把精力留在搞钱和交付上！\n\n#AI编程 #独立开发 #Cursor #出海"
+        ],
+        "content": "很多人用 AI 写代码，本质上还是在当“高级打字员”。\n\n给 Cursor 一个指令，它乱改你三个文件，上下文一长就开始胡说八道，一天烧几十刀还全是 Bug。普通人还在死磕 Prompt，顶级一人公司早就换底层系统了。\n\n今天 GitHub 爆火的 ECC，彻底击碎了这种认知差：\n它不是提示词工具，而是专为 Claude Code、Cursor、Codex 打造的“Agent 外骨骼操作系统”：\n\n⚡ 注入本能与记忆：不再每次从零对话，AI 记住你项目的每一行历史规范\n⚡ 先调研后落盘：杜绝盲目生成，先跑逻辑推演再写精准代码\n⚡ 生产级安全防护：锁死高危操作，避免一键删库的毁灭性幻觉\n\n零门槛一键接入，瞬间把玩具变成软件流水线。这就是顶级独立开发者的杠杆。\n\n直达链接：https://github.com/affaan-m/ECC\n\n#AI编程 #独立开发 #出海搞钱 #Cursor"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 307603,
+        "stars_today": "876 stars today",
+        "heat_score": 87907603,
+        "scheduled_time": "2026-11-20 17:00:00 CST",
+        "iso_time": "2026-11-20T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在沉迷“氛围编程”写玩具，顶级程序员已经把工程经验固化成AI自动化武器。TS大神 Matt Pocock 开源了他私藏的 Agent 技能库：https://github.com/mattpocock/skills 🧵",
+          "大多数人被笨重Agent框架绑架：流程交黑盒，一旦报错无从下手。真正的十倍杠杆，绝不是放弃对工程底层控制，而是让AI充当精准的外科手术刀。",
+          "这个库核心是小而美：全部原子化拆解，没有臃肿依赖；代码直接拷入项目随你魔改；兼容任意模型，把十几年真实工程直觉一键注入你的工作流。",
+          "门槛极低，只需30秒复制即可上手。把机械操作打包交给Agent，腾出脑力跑通一人公司商业闭环。赶紧Star存下这套顶级生产力！\n\n#独立开发 #AI编程 #搞钱 #开源"
+        ],
+        "content": "普通程序员还在沉迷“氛围编程”，对着AI瞎猜改Bug；顶尖开发者早就把工程经验固化成了AI自动化武器。\n\nTypeScript圈大神 Matt Pocock 刚开源了压箱底的 `.agents` 技能库，直接把认知差打碎：\n\n很多人用那些笨重的自动化框架，把流程交给黑盒，出了Bug根本修不了，天天在屎山里打转。而这套方案反其道而行之：\n\n• 极简原子化：每个技能短小精悍，逻辑完全透明\n• 绝对控制权：代码直接拷到本地，随你魔改，不被绑架\n• 模型全通用：Claude、GPT-4o 随便切，毫无壁垒\n• 30秒极速接入：不是黑盒插件，而是即拿即用的生产力\n\n一人公司的终极护城河，就是把自己的工程认知灌给AI。别再写玩具代码了，抄走这份顶级杠杆。\n\n项目地址：https://github.com/mattpocock/skills\n\n#独立开发 #AI编程 #副业搞钱 #开源项目"
       }
     ]
   }

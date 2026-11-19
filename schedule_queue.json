@@ -212,10 +212,15 @@
         "heat_score": 123106328,
         "scheduled_time": "2026-11-19 09:00:00 PST",
         "iso_time": "2026-11-19T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Your AI coding agent is hallucinating 2018 web code, and it's killing your velocity. 🚨\n\nEvery solo founder knows the pain: You ask Cursor or Claude to build a clean web app, and it spits out outdated hacks, deprecated polyfills, and deprecated CSS.\n\nToday, the browser giants fixed it.\n\nGoogle Chrome, Microsoft Edge, and Mozilla just co-released Modern Web Guidance.\n\nIt embeds modern web platform specs, native APIs, and live browser compat directly into your AI coding agents.\n\nBefore vs After:\n❌ Bloated npm packages for simple native UI\n❌ Deprecated JS workarounds\n✅ Native Modern Web APIs & baseline features\n✅ Hyper-lean, bulletproof frontend code\n✅ Zero AI slop\n\nThis is pure leverage for 1-person software factories. Plug it into your agent and ship clean.\n\n🔗 https://github.com/GoogleChrome/modern-web-guidance-src\n\n#DevTools #BuildInPublic #AI #Solopreneur"
+        "content": "Your AI coding agent is hallucinating 2018 web code, and it's killing your velocity. 🚨\n\nEvery solo founder knows the pain: You ask Cursor or Claude to build a clean web app, and it spits out outdated hacks, deprecated polyfills, and deprecated CSS.\n\nToday, the browser giants fixed it.\n\nGoogle Chrome, Microsoft Edge, and Mozilla just co-released Modern Web Guidance.\n\nIt embeds modern web platform specs, native APIs, and live browser compat directly into your AI coding agents.\n\nBefore vs After:\n❌ Bloated npm packages for simple native UI\n❌ Deprecated JS workarounds\n✅ Native Modern Web APIs & baseline features\n✅ Hyper-lean, bulletproof frontend code\n✅ Zero AI slop\n\nThis is pure leverage for 1-person software factories. Plug it into your agent and ship clean.\n\n🔗 https://github.com/GoogleChrome/modern-web-guidance-src\n\n#DevTools #BuildInPublic #AI #Solopreneur",
+        "thread_ids": [
+          "2123461350777405632"
+        ],
+        "tweet_url": "https://x.com/i/status/2123461350777405632",
+        "posted_at": "2026-11-19T17:00:14.778855+00:00"
       },
       {
         "repo": "pingdotgg/t3code",

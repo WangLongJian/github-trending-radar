@@ -266,10 +266,15 @@
         "heat_score": 114106532,
         "scheduled_time": "2026-11-19 21:00:00 PST",
         "iso_time": "2026-11-19T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "AI agents have a dirty secret: they suffer from total amnesia.\n\nYou spend 3 hours teaching Claude Code your codebase quirks, architecture, and deployment setup.\nYou close the terminal. Next morning? It's back to square one.\n\nStop wasting thousands of tokens re-explaining context.\n\nMeet claude-mem — persistent cross-session memory for AI agents:\n\n⚡ Seamlessly logs every tool call & decision\n⚡ Compresses massive histories with background AI\n⚡ Injects only hyper-relevant memory into future prompts\n⚡ Universal: works with Claude Code, OpenClaw, Codex, Gemini, Copilot\n\nThis is how solo founders run like 10-person engineering teams without burning cash.\n\nFree & open-source:\n👉 https://github.com/thedotmack/claude-mem\n\n#DevTools #ArtificialIntelligence #ClaudeCode #BuildInPublic #OpenSource"
+        "content": "AI agents have a dirty secret: they suffer from total amnesia.\n\nYou spend 3 hours teaching Claude Code your codebase quirks, architecture, and deployment setup.\nYou close the terminal. Next morning? It's back to square one.\n\nStop wasting thousands of tokens re-explaining context.\n\nMeet claude-mem — persistent cross-session memory for AI agents:\n\n⚡ Seamlessly logs every tool call & decision\n⚡ Compresses massive histories with background AI\n⚡ Injects only hyper-relevant memory into future prompts\n⚡ Universal: works with Claude Code, OpenClaw, Codex, Gemini, Copilot\n\nThis is how solo founders run like 10-person engineering teams without burning cash.\n\nFree & open-source:\n👉 https://github.com/thedotmack/claude-mem\n\n#DevTools #ArtificialIntelligence #ClaudeCode #BuildInPublic #OpenSource",
+        "thread_ids": [
+          "2123642546111021279"
+        ],
+        "tweet_url": "https://x.com/i/status/2123642546111021279",
+        "posted_at": "2026-11-20T05:00:15.276668+00:00"
       },
       {
         "repo": "Renhuai123/ziwei-doushu",
@@ -764,7 +769,7 @@
         "heat_score": 88605880,
         "scheduled_time": "2026-11-20 13:00:00 CST",
         "iso_time": "2026-11-20T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -774,7 +779,16 @@
           "完全不需要重新学复杂的框架。无论你用 Cursor、Claude Code 还是 Codex，它都能无缝挂载。一个人就是一个不用发工资的资深架构师团队，这才是真正的一人公司杠杆！",
           "工具永远在迭代，拉开人与人差距的永远是认知。立刻给你的开发环境装上外骨骼，把精力留在搞钱和交付上！\n\n#AI编程 #独立开发 #Cursor #出海"
         ],
-        "content": "很多人用 AI 写代码，本质上还是在当“高级打字员”。\n\n给 Cursor 一个指令，它乱改你三个文件，上下文一长就开始胡说八道，一天烧几十刀还全是 Bug。普通人还在死磕 Prompt，顶级一人公司早就换底层系统了。\n\n今天 GitHub 爆火的 ECC，彻底击碎了这种认知差：\n它不是提示词工具，而是专为 Claude Code、Cursor、Codex 打造的“Agent 外骨骼操作系统”：\n\n⚡ 注入本能与记忆：不再每次从零对话，AI 记住你项目的每一行历史规范\n⚡ 先调研后落盘：杜绝盲目生成，先跑逻辑推演再写精准代码\n⚡ 生产级安全防护：锁死高危操作，避免一键删库的毁灭性幻觉\n\n零门槛一键接入，瞬间把玩具变成软件流水线。这就是顶级独立开发者的杠杆。\n\n直达链接：https://github.com/affaan-m/ECC\n\n#AI编程 #独立开发 #出海搞钱 #Cursor"
+        "content": "很多人用 AI 写代码，本质上还是在当“高级打字员”。\n\n给 Cursor 一个指令，它乱改你三个文件，上下文一长就开始胡说八道，一天烧几十刀还全是 Bug。普通人还在死磕 Prompt，顶级一人公司早就换底层系统了。\n\n今天 GitHub 爆火的 ECC，彻底击碎了这种认知差：\n它不是提示词工具，而是专为 Claude Code、Cursor、Codex 打造的“Agent 外骨骼操作系统”：\n\n⚡ 注入本能与记忆：不再每次从零对话，AI 记住你项目的每一行历史规范\n⚡ 先调研后落盘：杜绝盲目生成，先跑逻辑推演再写精准代码\n⚡ 生产级安全防护：锁死高危操作，避免一键删库的毁灭性幻觉\n\n零门槛一键接入，瞬间把玩具变成软件流水线。这就是顶级独立开发者的杠杆。\n\n直达链接：https://github.com/affaan-m/ECC\n\n#AI编程 #独立开发 #出海搞钱 #Cursor",
+        "thread_ids": [
+          "2123642599798083825",
+          "2123642656362504549",
+          "2123642705620427086",
+          "2123642754555334796",
+          "2123642805293879719"
+        ],
+        "tweet_url": "https://x.com/i/status/2123642599798083825",
+        "posted_at": "2026-11-20T05:01:16.849303+00:00"
       },
       {
         "repo": "mattpocock/skills",

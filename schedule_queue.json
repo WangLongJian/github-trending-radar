@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 314,
+    "backlog_count": 325,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -288,13 +288,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Silicon Valley is still building generic horoscope apps. Meanwhile, an open-source repo just dropped a 56.6 GB structured metaphysics dataset and gained 11,400+ stars overnight.\n\nRenhuai123/ziwei-doushu is the wildest project on GitHub right now:\n\nBefore: Scrape fragmented paywalled fortune-telling apps with noisy outputs.\nNow: A battle-tested Ziwei Doushu engine with complete chart-casting math.\n\nWhat’s inside this absolute goldmine:\n✅ Full Ni Haixia Tianji core algorithm & Four Transformations\n✅ 675,000 real natal charts (1950–2026 coverage)\n✅ 8.7M dimensional interpretation segments (20.4B words)\n✅ MIT-licensed code + CC BY 4.0 raw dataset\n\nIf you're building culturally-aware vertical AI agents or esoteric AI companions, this is 100x leverage on a silver platter.\n\n🔗 https://github.com/Renhuai123/ziwei-doushu\n\n#OpenSource #AI #BuildInPublic #SoftwareEngineering"
+      },
+      {
+        "repo": "milind-soni/OpenMausBot",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "stars": 8838,
+        "stars_today": "895 stars today",
+        "heat_score": 89508838,
+        "scheduled_time": "2026-11-20 13:00:00 PST",
+        "iso_time": "2026-11-20T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Solo founders are quietly replacing $30k/mo dev teams with a single desktop window.\n\nMost devs are still copy-pasting code into ChatGPT like it's 2023.\n\nMeanwhile, OpenMausBot just dropped—an open-source Grok Bot & Cue alternative that turns your laptop into an autonomous AI company.\n\nEvery contact in your sidebar isn't a dead chat thread. It's a real agent running local Claude or Codex with:\n\n• Its own dedicated virtual machine / cloud computer\n• Real personality & assigned role\n• Connected apps to execute workflows\n• Human-in-the-loop: watch them work live & approve milestones\n\nZero vendor lock-in. 100% local-first control. Bring your own keys and models.\n\nThe leverage curve just shifted permanently. Run your own software factory today.\n\n🔗 https://github.com/milind-soni/OpenMausBot\n\n#OpenSource #AI #Solopreneur #BuildInPublic #DevTools"
+      },
+      {
+        "repo": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "stars": 91962,
+        "stars_today": "892 stars today",
+        "heat_score": 89291962,
+        "scheduled_time": "2026-11-20 17:00:00 PST",
+        "iso_time": "2026-11-20T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Data is the real moat for AI founders. But 90% of solo builders still waste 20+ hours a week fighting anti-bot Cloudflare screens and messy Selenium scripts.\n\nScrapling just flipped the game completely.\n\nIt’s an insanely fast, modern web scraping framework engineered to handle everything from a single raw request to enterprise-grade crawls without breaking a sweat.\n\nBefore:\n❌ Juggling 5 broken libraries (Puppeteer + Requests + BeautifulSoup)\n❌ Banned IPs and rate-limits after 50 pages\n❌ Unmaintainable messy boilerplate\n\nNow with Scrapling:\n✅ Undetected browser simulation built-in\n✅ Lightning-fast parsing pipeline\n✅ Scales from 1 URL to 1,000,000 effortlessly\n✅ Pure Pythonic leverage\n\nStop rebuilding the wheel. Grab your data and ship your AI product.\n\n🔗 https://github.com/D4Vinci/Scrapling\n\n#webscraping #python #developer #buildinpublic #solopreneur"
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 305880,
+        "stars_today": "883 stars today",
+        "heat_score": 88605880,
+        "scheduled_time": "2026-11-20 21:00:00 PST",
+        "iso_time": "2026-11-20T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most devs use AI tools like expensive autocomplete.\n\nThe top 1% use them as autonomous software engineers.\n\nMeet ECC: The agent harness operating system that turns Claude Code, Cursor, Codex, and OpenCode into an unstoppable, self-correcting dev powerhouse.\n\nBefore ECC:\n❌ Endless context loss across files\n❌ Hallucinated dependencies & code slop\n❌ Babysitting every single terminal command\n\nAfter ECC:\n✅ Persistent skills & instincts across sessions\n✅ Research-first architectural validation\n✅ Built-in security guardrails & automated verification\n✅ 1 solo founder outbuilding a 10-person engineering team\n\nIf you want true extreme developer leverage in 2025, you don't need more prompts—you need an agent harness OS.\n\n🔗 Star the repo: https://github.com/affaan-m/ECC\n\n#AI #Coding #SoftwareEngineering #Solopreneur #CursorAI #Claude"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 307603,
+        "stars_today": "876 stars today",
+        "heat_score": 87907603,
+        "scheduled_time": "2026-11-21 09:00:00 PST",
+        "iso_time": "2026-11-21T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop building AI slop. It's time for real engineering leverage.\n\nMost devs got sucked into \"vibe coding\"—letting autonomous agents hallucinate spaghetti code until production breaks. When frameworks try to own the whole process, you lose full control.\n\nTypeScript legend Matt Pocock just open-sourced his raw `.agents` directory:\n\nBefore: Prompting bloated wrappers that fight your architecture.\nAfter: Modular, surgical agent skills you fully own and adapt.\n\n⚡️ Why this changes everything:\n• Micro-skills instead of bloated monolithic frameworks\n• Model-agnostic: bring Claude 3.7, GPT-4o, or local weights\n• 30-sec copy-paste workflow via skills.sh\n• Battle-tested on production codebases\n\nSolo builders just got a 10x multiplier.\n\n👉 Check the repo: https://github.com/mattpocock/skills\n\n#DeveloperLeverage #AIEngineering #BuildInPublic #OpenSource"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 310,
+    "backlog_count": 321,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -808,6 +860,86 @@
           "门槛极低，只需30秒复制即可上手。把机械操作打包交给Agent，腾出脑力跑通一人公司商业闭环。赶紧Star存下这套顶级生产力！\n\n#独立开发 #AI编程 #搞钱 #开源"
         ],
         "content": "普通程序员还在沉迷“氛围编程”，对着AI瞎猜改Bug；顶尖开发者早就把工程经验固化成了AI自动化武器。\n\nTypeScript圈大神 Matt Pocock 刚开源了压箱底的 `.agents` 技能库，直接把认知差打碎：\n\n很多人用那些笨重的自动化框架，把流程交给黑盒，出了Bug根本修不了，天天在屎山里打转。而这套方案反其道而行之：\n\n• 极简原子化：每个技能短小精悍，逻辑完全透明\n• 绝对控制权：代码直接拷到本地，随你魔改，不被绑架\n• 模型全通用：Claude、GPT-4o 随便切，毫无壁垒\n• 30秒极速接入：不是黑盒插件，而是即拿即用的生产力\n\n一人公司的终极护城河，就是把自己的工程认知灌给AI。别再写玩具代码了，抄走这份顶级杠杆。\n\n项目地址：https://github.com/mattpocock/skills\n\n#独立开发 #AI编程 #副业搞钱 #开源项目"
+      },
+      {
+        "repo": "NVIDIA/SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "stars": 3057,
+        "stars_today": "873 stars today",
+        "heat_score": 87303057,
+        "scheduled_time": "2026-11-20 21:00:00 CST",
+        "iso_time": "2026-11-20T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "很多做AI Agent的人都在盲人摸象：给Agent堆几十个工具，一旦报错只能肉眼猜哪个插件翻车。NVIDIA刚开源的 SkillEvaluator 彻底终结了这种作坊打法，给Agent技能加上工业级质检流水线：https://github.com/NVIDIA/SkillEvaluator 🧵",
+          "痛点太真实了：普通人测试Agent还在改Prompt人工肉测，插件之间语义重叠、调用冲突完全看不出来，白白烧光Token。顶级团队早就在用质量门禁，直接在CI/CD里把劣质插件和重复工具自动拦截在外。",
+          "SkillEvaluator最狠的是两点：一是自动生成合成评估数据集，免去手动编造测试用例；二是实时量化每个技能对Agent行为的实际影响，直接给出客观质量打分，让插件升级清清楚楚。",
+          "门槛低到不可思议：支持Python 3.12+，官方直接提供可复用的CI模板。不管你是做企业级智能体还是搞一人公司，几行配置就能把英伟达内部的测试标准搬进你自己的仓库。",
+          "别再凭感觉调Agent了，把工程化基建搭好才是真正的技术护城河。赶紧去Star收藏，把这套质检流接到你的项目里！\n\n#人工智能 #AIAgent #开源项目 #独立开发"
+        ],
+        "content": "很多做AI Agent的团队死都不知道怎么死的：给Agent塞了30个技能，结果工具相互打架、成本翻倍、频繁幻觉。\n\n普通人做法：反复改Prompt，靠肉眼盲猜哪一步漏水。\n顶级玩家杠杆：直接上全自动多级评估网格。\n\nNVIDIA刚开源的 SkillEvaluator 彻底撕开了这个认知差：\n\n1. 语义重叠检测：瞬间揪出功能打架的插件，干掉冗余token\n2. 合成评估数据：全自动生成对抗测试集，不再手动造case\n3. 行为影响量化：精确测量接入某个skill后Agent行为到底变好还是变烂\n4. 开箱即用CI/CD：直接集成GitHub Actions，烂代码根本合不进主分支\n\nPython 3.12+一行pip安装，不需要自建庞大测试团队，一人公司也能拥有英伟达同款质检工业流水线。\n\n项目链接：https://github.com/NVIDIA/SkillEvaluator\n\n#人工智能 #AIAgent #NVIDIA #独立开发 #搞钱"
+      },
+      {
+        "repo": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "stars": 204580,
+        "stars_today": "825 stars today",
+        "heat_score": 82704580,
+        "scheduled_time": "2026-11-21 09:00:00 CST",
+        "iso_time": "2026-11-21T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "你的 AI 之所以像智障，不是模型不行，而是你的喂饭姿势彻底错了。开源神器 Firecrawl 一键把全网网页变成纯净 Markdown，给 Agent 换上真脑子。代码开源直达：https://github.com/firecrawl/firecrawl 🧵",
+          "普通人还在熬夜调 Selenium、对付反爬虫和验证码，辛辛苦苦爬下来的网页全是广告和导航栏垃圾，把大模型 token 塞爆还得出幻觉。别再干这种低效体力活了。",
+          "Firecrawl 专为大模型而生：给一个网址，直接吐出干净透亮的结构化文本；甚至能自动递归抓取整站所有子页面，一键生成本地知识库，550+ 数据源即插即用。",
+          "完全不需要自己搭建昂贵且脆弱的爬虫集群，内置各种防封禁策略，5 行代码就能跑通。一人公司也能瞬间拥有全网情报监控和自动化数据清洗能力。",
+          "立刻用它重构你的 RAG 和智能体工作流，用顶级的技术杠杆降维打击同行。建议点赞收藏防走丢！\n\n#AI工具 #独立开发 #GitHub #效率"
+        ],
+        "content": "很多人的 AI Agent 之所以像个智障，根本不是大模型不行，而是你的投喂数据全是垃圾。\n\n普通人的傻做法：\n开着 Python 调 Selenium，遇到反爬抓瞎，熬夜写正则洗 HTML，最后喂给大模型的全是不相干的导航栏和广告脚本。\n\n顶级高手的十倍杠杆：\n直接用开源神器 Firecrawl，把整个互联网变成 AI 的干净外部大脑。\n\n它到底有多狠？\n1. 输入任意 URL，直接吐出极其干净的 LLM 专属 Markdown 格式\n2. 自动化深度递归抓取，整站知识库一键抽取\n3. 自带反反爬策略，告别代理池维护恶梦\n4. 打通 550+ 数据源，给 AI Agent 装上无死角天眼\n\n开源免费，提供完整 API，无论你是做一人公司、海外出海还是行业情报监控，5 分钟就能集成上线。\n\n打破信息茧房，技术杠杆直接拉满：\nhttps://github.com/firecrawl/firecrawl\n\n#独立开发 #AI工具 #GitHub精选 #效率提升"
+      },
+      {
+        "repo": "homeassistant-ai/ha-mcp",
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "stars": 6838,
+        "stars_today": "790 stars today",
+        "heat_score": 79006838,
+        "scheduled_time": "2026-11-21 13:00:00 CST",
+        "iso_time": "2026-11-21T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "你的智能家居还在手写反人类的 YAML 脚本？\n\n开源神器 ha-mcp 彻底打通 Claude/ChatGPT 与 Home Assistant，用大模型直接接管你的整个智能家！\n\n🔗 https://github.com/homeassistant-ai/ha-mcp 🧵",
+          "痛点太真实了：普通人为了配个自动化联动，折腾一整晚查实体 ID、改缩进，错一个空格整屋瘫痪。\n\n这是旧时代的玩法，浪费时间毫无杠杆，纯属自虐。",
+          "ha-mcp 封装了整整 86 个原生 MCP 工具！\n\n设备检索、状态监控、自动化生成、配置校验全部模块化。你只要动嘴，Claude 就能直接调用底层接口完成整套逻辑构建。",
+          "完全无需重学开发，直接通过 MCP 协议挂接本地 HA。\n\n对 AI 说“只要我不在家且有人按门铃，就自动截图发我”，它秒级生成并生效，极客的贾维斯直接落地！",
+          "生产力工具的终局就是抹平配置壁垒，让你专注享受结果。\n\n赶紧把家里的旧自动化全删了，接上大模型体验下一代智能生活！\n\n#AI #智能家居 #HomeAssistant #MCP"
+        ],
+        "content": "你的智能家居，是不是还在靠手敲反人类的 YAML 配置文件苟延残喘？\n\n普通玩家为了搞个“回家自动开灯+调节空调”，折腾一整个周末查语法、改配置，最后因为一个空格缩进全盘崩溃。\n\n顶级玩家已经把 Home Assistant 全盘托付给 AI 了！GitHub 狂揽近 7000 星的 ha-mcp 彻底击碎了智能家居的配置壁垒：\n\n把 Claude、ChatGPT 通过 Model Context Protocol (MCP) 原生接入 Home Assistant，赋予大模型整整 86 个现成设备控制与自动化工具。\n\n以前：查文档、配实体 ID、写正则、排查报错。\n现在：直接对 Claude 说一句“晚上如果我人在书房且温度低于20度，自动开暖风并把灯调成暖黄”，AI 自己调工具写逻辑、验配置、瞬间部署上线。\n\n技术门槛被彻底抹平，属于极客的贾维斯真正降临在每个人家里。认知差抹平就是现在，赶紧收下！\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#人工智能 #HomeAssistant #智能家居 #Claude #MCP"
+      },
+      {
+        "repo": "Donchitos/Claude-Code-Game-Studios",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "stars": 31393,
+        "stars_today": "742 stars today",
+        "heat_score": 74231393,
+        "scheduled_time": "2026-11-21 17:00:00 CST",
+        "iso_time": "2026-11-21T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在通宵学引擎手搓代码，顶级玩家已经在终端雇佣了 49 位 AI 员工！刚刚爆火的开源神作 Claude-Code-Game-Studios，把 50 人游戏工作室直接搬进你的命令行。🔗 https://github.com/Donchitos/Claude-Code-Game-Studios 🧵",
+          "过去独立做游戏有多痛？自学 Unity 劝退、美术外包被坑、数值崩盘，折腾半年连个可玩 MVP 都拿不出。而高手的打法永远是借杠杆：让 AI 军团打工，自己只负责审美和商业拍板。",
+          "这个项目牛在完全还原真实工作室编制：内置 49 个专业 Agent 与 72 种工作流。输入指令它会向你提问核心玩法、出策划案，随后分工编写逻辑，几分钟直接交付可玩的网页游戏 Demo。",
+          "零开发门槛上手：甚至不需要复杂的环境配置，只要装好 Claude Code 并拉取代码，直接打字描述脑洞。小步快跑，持续让 AI 迭代优化，你就是坐拥几十号人的总制作人。",
+          "一人公司的终极红利，就是把认知差转化为降维打击。今天就去把脑海里积灰已久的创意变成可赚钱的产品！立即体验：https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #开源"
+        ],
+        "content": "认知差瞬间被击碎！普通独立开发者还在通宵调 bug、学三维引擎，顶级玩家已经在终端里雇佣了“49位AI员工”。\n\n今天 GitHub 炸裂标星破 3.1 万的项目：Claude-Code-Game-Studios。\n\n它不是玩具，而是把整个游戏工作室的架构完全复刻进了 Claude Code：\n• 49 个全能角色：主策、逻辑开发、美术指导、数值平衡、QA 测试全包揽\n• 72 套工业级开发技能栈：从原型推演到一页纸策划案，再到可运行的代码交付\n• 极致简单：只需终端输入 `/prototype 一款黄昏才能钓到稀有鱼的游戏`，它自动向你提问定调，几分钟吐出可玩网页 Demo。\n\n以前做游戏：学 3 年引擎、找美术兼职、烧光积蓄胎死腹中。\n现在做游戏：一句话下指令，AI 军团分工协作，你只做拍板的主理人。\n\n一人公司的终极形态不是一个人干 10 份活，而是驾驭 50 个高智能 Agent 替你打工。零门槛上手，立刻把你的脑洞变现！\n\n🔗 https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #副业搞钱 #开源项目"
       }
     ]
   }

@@ -2309,8 +2309,113 @@
       "url": "https://github.com/anthropics/claude-code-security-review",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "anomalyco/opencode": {
+      "date": "2026-11-20",
+      "stars": 228120,
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "firecrawl/firecrawl": {
+      "date": "2026-11-20",
+      "stars": 204580,
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "microsoft/markitdown": {
+      "date": "2026-11-20",
+      "stars": 197111,
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "earendil-works/pi": {
+      "date": "2026-11-20",
+      "stars": 122986,
+      "url": "https://github.com/earendil-works/pi",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "toeverything/AFFiNE": {
+      "date": "2026-11-20",
+      "stars": 75361,
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "cathrynlavery/diagram-design": {
+      "date": "2026-11-20",
+      "stars": 68873,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "twentyhq/twenty": {
+      "date": "2026-11-20",
+      "stars": 61234,
+      "url": "https://github.com/twentyhq/twenty",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "wshobson/agents": {
+      "date": "2026-11-20",
+      "stars": 42717,
+      "url": "https://github.com/wshobson/agents",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "agentscope-ai/agentscope": {
+      "date": "2026-11-20",
+      "stars": 36336,
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "nginx/nginx": {
+      "date": "2026-11-20",
+      "stars": 32425,
+      "url": "https://github.com/nginx/nginx",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "bendlang/bend": {
+      "date": "2026-11-20",
+      "stars": 25634,
+      "url": "https://github.com/bendlang/bend",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "visgl/deck.gl": {
+      "date": "2026-11-20",
+      "stars": 14783,
+      "url": "https://github.com/visgl/deck.gl",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Tracer-Cloud/opensre": {
+      "date": "2026-11-20",
+      "stars": 13275,
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "zhouxiaoka/autoclip": {
+      "date": "2026-11-20",
+      "stars": 11663,
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "SWE-agent/mini-swe-agent": {
+      "date": "2026-11-20",
+      "stars": 9877,
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "source": "Trending (Python)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-19T08:29:17.995912"
+  "last_run": "2026-11-20T08:11:33.327160"
 }

@@ -248,10 +248,15 @@
         "heat_score": 119140615,
         "scheduled_time": "2026-11-19 17:00:00 PST",
         "iso_time": "2026-11-19T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most devs are stuck building wrapper toys and calling it \"AI Engineering\".\n\nTop 1% solo founders are quietly shipping enterprise-grade AI systems with 10x leverage.\n\nFound the ultimate cheat code blowing up on GitHub (+1,200 stars today):\n\n\"AI Engineering Hub\" — a masterclass disguised as an open-source repo.\n\nWhat's inside:\n🔥 93+ Production-Ready Projects (Beginner → Advanced)\n🧠 In-depth RAG architectures that actually scale\n🤖 Autonomous Multi-Agent systems solved for real use cases\n📦 Copy-pasteable code, architectures, and deployment setups\n\nBefore: 3 weeks tweaking prompts and fighting hallucinating agents.\nAfter: Clone a battle-tested repo and deploy in an afternoon.\n\nZero paywalls. Pure builder alpha.\n\n🔗 https://github.com/patchy631/ai-engineering-hub\n\n#AIEngineering #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur"
+        "content": "Most devs are stuck building wrapper toys and calling it \"AI Engineering\".\n\nTop 1% solo founders are quietly shipping enterprise-grade AI systems with 10x leverage.\n\nFound the ultimate cheat code blowing up on GitHub (+1,200 stars today):\n\n\"AI Engineering Hub\" — a masterclass disguised as an open-source repo.\n\nWhat's inside:\n🔥 93+ Production-Ready Projects (Beginner → Advanced)\n🧠 In-depth RAG architectures that actually scale\n🤖 Autonomous Multi-Agent systems solved for real use cases\n📦 Copy-pasteable code, architectures, and deployment setups\n\nBefore: 3 weeks tweaking prompts and fighting hallucinating agents.\nAfter: Clone a battle-tested repo and deploy in an afternoon.\n\nZero paywalls. Pure builder alpha.\n\n🔗 https://github.com/patchy631/ai-engineering-hub\n\n#AIEngineering #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur",
+        "thread_ids": [
+          "2123582184779075926"
+        ],
+        "tweet_url": "https://x.com/i/status/2123582184779075926",
+        "posted_at": "2026-11-20T01:00:23.895994+00:00"
       },
       {
         "repo": "thedotmack/claude-mem",
@@ -730,7 +735,7 @@
         "heat_score": 89291962,
         "scheduled_time": "2026-11-20 09:00:00 CST",
         "iso_time": "2026-11-20T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -740,7 +745,16 @@
           "门槛低到不可思议，Python 开发者 5 分钟就能上手。无论你是抓行业竞品价格、做情报监控，还是批量喂养自己的垂直垂类模型，一个人就能撑起一整套自动化数据流水线。",
           "别再拿刀耕火种的旧代码浪费生命了。赶紧去把仓库 Star 收藏起来，用最硬核的开源神器搭建你的商业信息差杠杆！\n\n#独立开发 #一人公司 #开源项目 #技术破局"
         ],
-        "content": "在AI时代做一人公司，最底层的壁垒根本不是套壳Prompt，而是独家、高频、干净的行业数据。\n\n绝大多数人的爬虫技术还停留在五年前：用 requests 碰壁反爬，用 selenium 笨重爆内存，网站一更新整个脚本直接报废，天天修Bug修到崩溃。\n\n直到我看到在 GitHub 狂揽 9.1 万星的顶级神作：Scrapling。\n\n它真正做到了把复杂反爬与爬虫流程封装到极致：\n• 极简 API：从单次请求到全网级分布式抓取，一套逻辑跑通\n• 破防现代反爬：无缝适配动态渲染与复杂验证，告别频繁IP被封\n• 完美契合AI工作流：抓取即清洗，直接喂给 RAG 和本地模型\n\n不需要庞大的运维团队，单枪匹马就能搭起自动化情报系统。技术破局的杠杆一直都在，就看你用不用先进武器。\n\n开源地址：https://github.com/D4Vinci/Scrapling\n\n#独立开发 #一人公司 #爬虫 #开源项目 #出海搞钱"
+        "content": "在AI时代做一人公司，最底层的壁垒根本不是套壳Prompt，而是独家、高频、干净的行业数据。\n\n绝大多数人的爬虫技术还停留在五年前：用 requests 碰壁反爬，用 selenium 笨重爆内存，网站一更新整个脚本直接报废，天天修Bug修到崩溃。\n\n直到我看到在 GitHub 狂揽 9.1 万星的顶级神作：Scrapling。\n\n它真正做到了把复杂反爬与爬虫流程封装到极致：\n• 极简 API：从单次请求到全网级分布式抓取，一套逻辑跑通\n• 破防现代反爬：无缝适配动态渲染与复杂验证，告别频繁IP被封\n• 完美契合AI工作流：抓取即清洗，直接喂给 RAG 和本地模型\n\n不需要庞大的运维团队，单枪匹马就能搭起自动化情报系统。技术破局的杠杆一直都在，就看你用不用先进武器。\n\n开源地址：https://github.com/D4Vinci/Scrapling\n\n#独立开发 #一人公司 #爬虫 #开源项目 #出海搞钱",
+        "thread_ids": [
+          "2123582235253338159",
+          "2123582290358087902",
+          "2123582339263692926",
+          "2123582389486244129",
+          "2123582441155887586"
+        ],
+        "tweet_url": "https://x.com/i/status/2123582235253338159",
+        "posted_at": "2026-11-20T01:01:24.506728+00:00"
       },
       {
         "repo": "affaan-m/ECC",

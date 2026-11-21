@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 325,
+    "backlog_count": 338,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -350,13 +350,39 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Stop building AI slop. It's time for real engineering leverage.\n\nMost devs got sucked into \"vibe coding\"—letting autonomous agents hallucinate spaghetti code until production breaks. When frameworks try to own the whole process, you lose full control.\n\nTypeScript legend Matt Pocock just open-sourced his raw `.agents` directory:\n\nBefore: Prompting bloated wrappers that fight your architecture.\nAfter: Modular, surgical agent skills you fully own and adapt.\n\n⚡️ Why this changes everything:\n• Micro-skills instead of bloated monolithic frameworks\n• Model-agnostic: bring Claude 3.7, GPT-4o, or local weights\n• 30-sec copy-paste workflow via skills.sh\n• Battle-tested on production codebases\n\nSolo builders just got a 10x multiplier.\n\n👉 Check the repo: https://github.com/mattpocock/skills\n\n#DeveloperLeverage #AIEngineering #BuildInPublic #OpenSource"
+      },
+      {
+        "repo": "NVIDIA/SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "stars": 3057,
+        "stars_today": "873 stars today",
+        "heat_score": 87303057,
+        "scheduled_time": "2026-11-21 21:00:00 PST",
+        "iso_time": "2026-11-21T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most AI agents fail in production not because LLMs are dumb, but because their skills and plugins are complete slop.\n\nNVIDIA just open-sourced the fix: SkillEvaluator.\n\nBefore: You glue 15 tool plugins into an agent, cross your fingers, and watch it hallucinate in loops when tools conflict.\n\nNow: Full multi-tier unit testing for agent capabilities.\n\nWhat it handles:\n• Automated synthetic evaluation dataset generation\n• Semantic overlap detection (stops redundant tool calls)\n• Multi-tier quality & security gating in CI/CD\n• Live impact tracking on agent reasoning behavior\n\nIf you're building solo agent software factories, this is the missing QA layer you needed.\n\nCheck it out: https://github.com/NVIDIA/SkillEvaluator\n\n#AIAgents #NVIDIA #OpenSource #SoftwareEngineering #DevTools"
+      },
+      {
+        "repo": "mjmirza/app-store-compliance",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "stars": 2939,
+        "stars_today": "869 stars today",
+        "heat_score": 86902939,
+        "scheduled_time": "2026-11-22 09:00:00 PST",
+        "iso_time": "2026-11-22T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Getting rejected by App Store review is the ultimate solopreneur momentum killer.\n\nYou spend 3 weeks grinding an MVP, ship it, and Apple slaps you with a vague Guideline 4.3 rejection. Total radio silence for days.\n\nSomeone just built the cheat code: app-store-compliance.\n\nIt turns compliance into an automated pre-submission guard:\n\n✅ 117 documented rejection patterns & ready-to-use fixes\n✅ Auto-checks Apple Privacy Manifests & Google Data safety\n✅ Tracks 95 global regulatory deadlines (EU AI Act, DSA, COPPA)\n✅ Ready-to-use skill for AI coding agents (Claude Code / Cursor)\n\nStop letting arbitrary reviewer moods kill your launch. Plug this into your pipeline and ship with enterprise-grade armor.\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#iOSDev #IndieHacker #BuildInPublic #SoftwareEngineering"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 321,
+    "backlog_count": 333,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -938,13 +964,33 @@
         "posted_at": "2026-11-21T05:01:23.560667+00:00"
       },
       {
+        "repo": "mjmirza/app-store-compliance",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "stars": 2939,
+        "stars_today": "869 stars today",
+        "heat_score": 86902939,
+        "scheduled_time": "2026-11-21 17:00:00 CST",
+        "iso_time": "2026-11-21T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "出海做App最绝望的时刻：代码肝完了，却被苹果Google反复拒审折磨两周，上线期生生被拖死。\n\n刚爆火的开源神器 app-store-compliance 彻底把拒审变成不可能：\nhttps://github.com/mjmirza/app-store-compliance 🧵",
+          "普通开发者提交全凭运气，被拒一次改一次等三天，心态全崩。\n\n高手直接建立预审流水线，在代码提交前就把4.3、数据追踪、内购等所有红线扫得干干净净，首发一次过。",
+          "这个库整理了117个高频被拒模式和官方破局方案。\n\n更狠的是它自带隐私清单预检，还能跟踪欧盟AI法案、DSA、COPPA等95项监管死线，告别踩雷下架风险。",
+          "没有任何使用门槛！它甚至直接支持作为 Claude Code 或 Cursor 的 AI Agent 技能插件。\n\nAI 在给你写业务代码时，就自动按照合规标准避开所有审核暗坑。",
+          "一人公司出海的时间就是生命，千万别把精力耗在跟审核员扯皮上。\n\n建议每一个做移动端出海的开发者立刻 Star 收藏自查。\n\n#独立开发 #出海搞钱 #iOS开发 #GitHub"
+        ],
+        "content": "搞独立开发或出海，最搞心态的不是写不出代码，而是苹果Google反复拒审，活活把上线窗口拖死。\n\n普通人傻乎乎一次次硬提，每次被拒改一次等三天，心态全崩；顶级玩家早就用自动化护栏，把合规拒审彻底做成“不可能事件”。\n\n刚在GitHub暴涨的这套开源武器直接打破认知差：\n\n💥 117种实战被拒模式清单及精准解决方案（4.3、隐私、内购全覆盖）\n💥 苹果Privacy Manifest与安卓Data Safety预检，避免暗坑\n💥 追踪全球95项合规死线（欧盟AI法案、DSA、COPPA一网打尽）\n💥 深度整合Claude Code等AI Agent，写代码时就自动规避违规\n\n完全开源，不管是个人独立出海还是出海团队，上线前过一遍省下至少半个月扯皮时间。\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#出海 #独立开发 #一人公司 #iOS开发 #GitHub"
+      },
+      {
         "repo": "homeassistant-ai/ha-mcp",
         "url": "https://github.com/homeassistant-ai/ha-mcp",
         "stars": 6838,
         "stars_today": "790 stars today",
         "heat_score": 79006838,
-        "scheduled_time": "2026-11-21 17:00:00 CST",
-        "iso_time": "2026-11-21T17:00:00+08:00",
+        "scheduled_time": "2026-11-21 21:00:00 CST",
+        "iso_time": "2026-11-21T21:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -963,8 +1009,8 @@
         "stars": 31393,
         "stars_today": "742 stars today",
         "heat_score": 74231393,
-        "scheduled_time": "2026-11-21 21:00:00 CST",
-        "iso_time": "2026-11-21T21:00:00+08:00",
+        "scheduled_time": "2026-11-22 09:00:00 CST",
+        "iso_time": "2026-11-22T09:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -976,6 +1022,46 @@
           "一人公司的终极红利，就是把认知差转化为降维打击。今天就去把脑海里积灰已久的创意变成可赚钱的产品！立即体验：https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #开源"
         ],
         "content": "认知差瞬间被击碎！普通独立开发者还在通宵调 bug、学三维引擎，顶级玩家已经在终端里雇佣了“49位AI员工”。\n\n今天 GitHub 炸裂标星破 3.1 万的项目：Claude-Code-Game-Studios。\n\n它不是玩具，而是把整个游戏工作室的架构完全复刻进了 Claude Code：\n• 49 个全能角色：主策、逻辑开发、美术指导、数值平衡、QA 测试全包揽\n• 72 套工业级开发技能栈：从原型推演到一页纸策划案，再到可运行的代码交付\n• 极致简单：只需终端输入 `/prototype 一款黄昏才能钓到稀有鱼的游戏`，它自动向你提问定调，几分钟吐出可玩网页 Demo。\n\n以前做游戏：学 3 年引擎、找美术兼职、烧光积蓄胎死腹中。\n现在做游戏：一句话下指令，AI 军团分工协作，你只做拍板的主理人。\n\n一人公司的终极形态不是一个人干 10 份活，而是驾驭 50 个高智能 Agent 替你打工。零门槛上手，立刻把你的脑洞变现！\n\n🔗 https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #副业搞钱 #开源项目"
+      },
+      {
+        "repo": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "stars": 111901,
+        "stars_today": "728 stars today",
+        "heat_score": 72911901,
+        "scheduled_time": "2026-11-22 13:00:00 CST",
+        "iso_time": "2026-11-22T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通程序员还在跟单聊窗口死磕，顶级一人公司已经在指挥「AI 军团」了。刚破10万星的开源神器 Orca：直接把 Claude Code、Grok Bot 变成你的并发外包舰队！\n\n项目：https://github.com/stablyai/orca 🧵",
+          "痛点太真实了：普通人写代码开三四个网页，复制粘贴当搬运工，改个 Bug 等半天。顶手的打法是分工协作：架构、写接口、修单元测试分给不同 Agent 并发去跑，效率直接放大 10 倍。",
+          "最良心的是成本机制。Orca 允许你直接用自己的官方订阅（BYOK），不需要被各种第三方包装站中间加价割韭菜，数据完全本地可控，支持私有化部署。",
+          "无论你在工位还是路上，Orca 支持桌面端、手机端甚至云端 Remote Runtime。白天电脑跑重型任务，下班路上拿手机随时巡检合并代码，真正的 24 小时软件流水线。",
+          "未来的软件公司不需要几十号人，一个懂架构的指挥官配一支 Agent 舰队就够了。赶紧 Star 部署体验，别在工具认知上落后！\n\n#独立开发 #AI编程 #一人公司 #开源"
+        ],
+        "content": "认知差正在拉开：普通程序员还在给单一 AI 当人肉搬运工，顶级一人公司已经在指挥「AI 军团」并发作战了。\n\n大多数人还在开着网页版 Claude 或 ChatGPT 一句一句 Prompt，效率被死死卡在瓶颈。\n\n刚爆火的开源神器 Orca 彻底重塑了开发范式——它不是另一个聊天窗口，而是多 Agent 协同指挥中心！\n\n为什么必须关注它？\n✅ 舰队协同：同时调度 Claude Code、Grok Bot 等不同代码 Agent 各司其职\n✅ 自带订阅：直接用你已有的官方账号，没有任何中间商割韭菜\n✅ 全端打通：桌面端随时监控，出门手机端操控，甚至支持云端远程运行时\n✅ 真正一人公司杠杆：需求拆解、架构重构、自动化测试全扔给舰队并发跑\n\n开源免费，跨平台支持 macOS / Win / Linux，配置极简直接跑。\n\n链接收好，赶紧拉开差距：\n👉 https://github.com/stablyai/orca\n\n#独立开发 #AI编程 #一人公司 #开源项目 #出海"
+      },
+      {
+        "repo": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "stars": 6650,
+        "stars_today": "722 stars today",
+        "heat_score": 72206650,
+        "scheduled_time": "2026-11-22 17:00:00 CST",
+        "iso_time": "2026-11-22T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "JetBrains终于对Cursor动手了！新开源的 ThinkRail 正在彻底改写AI编程的规则。它是一个能自进化的轻量 Agentic IDE，用得越久对你的项目理解越深。地址已开源：https://github.com/JetBrains/thinkrail 🧵",
+          "普通人的痛苦：用AI写几轮后上下文爆炸，代码前后矛盾，最后花80%的时间给AI擦屁股。ThinkRail 的破局点在于「规格驱动开发」，先建立稳定的 Spec 知识图谱，再让 Agent 精准执行，彻底消灭AI屎山。",
+          "最变态的是它的「自我进化」能力。它内置了 pi 编码智能体，不仅能隔离多工作区并发干活，还能记住你在项目中积累的可复用经验。更绝的是，它甚至能根据你的日常工作流，自己为自己编写专属拓展工具！",
+          "很多人担心生态和门槛。作为 JetBrains 孵化项目，它保留了专业级IDE的敏锐度，同时又极其轻量易上手。独立开发者和一人创业团队，完全可以把它当成一个不知疲倦的专属全栈架构师。",
+          "真正的AI红利从来不是多打几行字，而是认知升维带来的十倍杠杆。建议所有做独立开发、想靠技术破局搞钱的同学赶紧去 Star 体验并加入工作流！#独立开发 #一人公司 #AI编程 #开源项目"
+        ],
+        "content": "很多人用AI写代码还在复制粘贴、修补屎山，这根本不叫提效，这叫给AI擦屁股。\n\nJetBrains刚刚开源的 ThinkRail，直接击碎了传统AI编程的认知差！\n\n普通做法：不断把代码喂给模型，上下文一超标，AI立马失忆胡言乱语。\n顶级杠杆：让IDE拥有「持久记忆」与「自进化能力」。\n\nThinkRail 的核心颠覆点：\n1️⃣ 规格驱动开发（SDD）：拒绝无脑盲写，先立规则再落代码，彻底告别AI屎山。\n2️⃣ 专属项目图谱：深度理解你的架构，用得越久，它越懂你的编程习惯。\n3️⃣ 动态工具拓展：AI不仅能写业务逻辑，还能根据你的痛点自动造轮子。\n\n门槛低到离谱，轻量级体验搭配官方生态背书，一人公司的技术壁垒直接被它拉平。\n\n别在低效卷代码了，学会驾驭新一代超级Agent才是唯一的破局解法！\n\n🔗 https://github.com/JetBrains/thinkrail\n\n#独立开发 #一人公司 #AI编程 #程序员 #开源项目"
       }
     ]
   }

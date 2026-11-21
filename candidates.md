@@ -8,6 +8,820 @@
 
 ---
 
+## 1. [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Rust` | ⭐ **6,887** (~6887 (7天内新建))
+- **官方介绍**: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+7,000 stars in 7 days. This is the ultimate developer leverage tool.
+
+Every team wants the speed and memory safety of Rust, but full rewrites are suicide missions that sink startups. AI code generators usually just vomit unverified hallucinated slop.
+
+rust-anything completely flips the game:
+
+Instead of blind code translation, it points at your existing app (TS, Python, Go, Java, C) and RECORD-REPLAYS exact runtime behavior.
+
+Your AI coding agent rewrites modules one by one, and rust-anything strictly validates each block against the recorded truth before moving on. Zero regressions. Provable correctness.
+
+✅ Black-box behavior recording
+✅ Incremental migration (zero downtime)
+✅ Works with your favorite AI agent
+✅ Cut cloud bills & latency by 80%
+
+Legacy codebases just lost their death grip.
+
+Check it out: https://github.com/erkamyaman/rust-anything
+
+#Rust #DevTools #SoftwareEngineering #AI #Coding
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=The%20holy%20grail%20of%20dev%20leverage%20just%20dropped%20%F0%9F%A6%80%0A%0A%27Rewrite%20it%20in%20Rust%27%20is%20no%20longer%20a%20meme.%0A%0A%E2%80%A2%20Records%20your%20legacy%20app%27s%20behavior%0A%E2%80%A2%20Agent%20rewrites%20it%20piece-by-piece%0A%E2%80%A2%20Proves%20parity%20before%20moving%20on%0A%E2%80%A2%20Python/TS/Go/Java%20supported%0A%0A7k%20stars%20in%207%20days%3A%0Ahttps%3A//github.com/erkamyaman/rust-anything)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+7天狂斩近7000星！击碎认知差的神器来了：
+
+以前程序员听到“用Rust重构整个系统”，第一反应都是找死——成本极高、老逻辑没人敢动，直接让AI写又全是幻觉和Bug。
+
+普通人还在硬着头皮一行行人工改写，顶级黑客已经在用 rust-anything 搭建自动化代码重写工厂了！
+
+它的核心逻辑太绝了：
+它根本不是单纯“翻译代码”，而是先给你的旧项目录制真实的黑盒运行行为。接着让AI代理一步步重写为Rust，每重构一个模块，就拿录制的数据比对验证一次！只要行为不一致立刻报警，行为一致才进入下一步。
+
+这才是降维打击：
+✅ 支持 Python / TypeScript / Go / Java / C / Ruby
+✅ 真正可落地的零风险、渐进式重构
+✅ 把臃肿高耗能的服务压榨到极致性能，服务器成本直接砍掉80%
+
+一人公司搞定千万级高并发的时代真的到了。
+
+项目链接：https://github.com/erkamyaman/rust-anything
+
+#Rust #独立开发 #出海 #一人公司 #AI编程
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=7%E5%A4%A9%E7%8B%82%E6%8F%BD%E8%BF%917000%E6%98%9F%EF%BC%81%E2%80%9C%E6%8A%8A%E9%A1%B9%E7%9B%AE%E7%94%A8Rust%E9%87%8D%E5%86%99%E2%80%9D%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D%E4%BA%86%F0%9F%94%A5%0A%0A%E4%BB%A5%E5%BE%80%E7%94%A8AI%E9%87%8D%E6%9E%84%E4%BB%A3%E7%A0%81%E5%85%A8%E6%98%AFBug%EF%BC%8Crust-anything%E7%9B%B4%E6%8E%A5%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%EF%BC%9A%0A%E2%9C%85%20%E5%85%88%E5%BD%95%E5%88%B6%E5%8E%9F%E5%BA%94%E7%94%A8%E7%9C%9F%E5%AE%9E%E8%A1%8C%E4%B8%BA%0A%E2%9C%85%20AI%E5%88%86%E5%9D%97%E9%87%8D%E5%86%99%E4%B8%BARust%0A%E2%9C%85%20%E6%AF%8F%E4%B8%80%E6%AD%A5%E4%B8%A5%E6%A0%BC%E5%AF%B9%E9%BD%90%E9%AA%8C%E8%AF%81%EF%BC%8C%E7%BB%9D%E4%B8%8D%E7%BF%BB%E8%BD%A6%0A%0A%E6%94%AF%E6%8C%81Python/TS/Go%E7%AD%89%EF%BC%9Ahttps%3A//github.com/erkamyaman/rust-anything)**
+
+---
+
+## 2. [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
+- **分类领域**: `🧠 大模型与算法前沿` | **语言**: `Python` | ⭐ **5,934** (4 stars today)
+- **官方介绍**: A PyTorch native platform for training generative AI models
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop stitching together 5 broken third-party libraries just to scale train your AI models.
+
+Meta’s PyTorch team quietly dropped torchtitan — and it changes the entire LLM infrastructure game.
+
+Most founders get trapped in infrastructure hell when scaling LLMs. You fight DeepSpeed bugs, custom CUDA kernels, and bloated abstraction layers that break on every update.
+
+Torchtitan gives you pure, native PyTorch superpowers:
+
+✅ End-to-end: Pretraining, SFT, and full RL in a single, clean codebase
+✅ Composable 3D Parallelism (FSDP2 + Tensor Parallelism + Pipeline Parallelism)
+✅ Battle-tested on Llama architectures straight out of the box
+✅ Zero black boxes — pure, readable, high-performance PyTorch
+
+This is the ultimate leverage for serious AI builders. Master this, and a 2-person team can out-train a 50-person research lab.
+
+🔗 https://github.com/pytorch/torchtitan
+
+#AI #MachineLearning #OpenSource #PyTorch #LLM #DevTools
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=PyTorch%20just%20dropped%20torchtitan%20%E2%80%94%20their%20official%20native%20stack%20to%20pretrain%20%26%20post-train%20LLMs%20at%20scale%20%F0%9F%94%A5%0A%0ANo%20more%20Frankenstein%20frameworks%3A%0A%E2%9A%A1%EF%B8%8F%20Native%203D%20Parallelism%20%28FSDP2%20%2B%20TP%20%2B%20PP%29%0A%E2%9A%A1%EF%B8%8F%20Pretrain%20%E2%86%92%20SFT%20%E2%86%92%20RL%20in%201%20repo%0A%E2%9A%A1%EF%B8%8F%20Zero%20bloated%20wrappers%0A%0A%F0%9F%94%97%20https%3A//github.com/pytorch/torchtitan)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+为什么很多团队花了几百万卡时，训出来的模型还是个玩具？
+
+因为大家都在用各种拼凑的臃肿框架，天天被底层死锁、显存爆仓、黑盒 Bug 搞得心力交瘁。
+
+PyTorch 官方团队直接掀桌子，开源了 torchtitan：一个纯正、干净、官方原生的千亿大模型训练基建！
+
+这就是顶级大厂和普通团队的核心认知差：
+
+普通人做法：拼凑 DeepSpeed、魔改 Megatron，遇到显存泄漏无从下手。
+顶尖玩家做法：用官方原生 Composable 3D 并行，用最少的人搞定最大规模的集群训练。
+
+🔥 核心杀手锏：
+1️⃣ 全流程贯通：预训练 (Pretrain) ➔ 指令微调 (SFT) ➔ 强化学习 (RL)，一套代码全打通
+2️⃣ 原生组合并行：FSDP2、Tensor 并行、Pipeline 并行自由组合，榨干每一张 GPU 算力
+3️⃣ 拒绝屎山：官方纯血干净代码，零黑盒包裹，看懂就能魔改
+
+不管是做具身智能、垂直领域模型，还是一人公司训练专家模型，这个项目都是今年必刷的顶级底座。
+
+🔗 传送门：https://github.com/pytorch/torchtitan
+
+#人工智能 #大模型 #PyTorch #AI算力 #深度学习
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E8%A2%AB%E8%87%83%E8%82%BF%E7%9A%84%E7%AC%AC%E4%B8%89%E6%96%B9AI%E8%AE%AD%E7%BB%83%E6%A1%86%E6%9E%B6%E5%9D%91%E4%BA%86%EF%BC%81PyTorch%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E7%A5%9E%E4%BD%9C%20torchtitan%20%F0%9F%9A%80%0A%0A%E7%BA%AF%E5%8E%9F%E7%94%9F%E6%90%9E%E5%AE%9A%E5%8D%83%E4%BA%BF%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%A8%E6%B5%81%E7%A8%8B%EF%BC%9A%0A%E2%9C%85%20%E9%A2%84%E8%AE%AD%E7%BB%83%20%2B%20%E5%BE%AE%E8%B0%83%20%2B%20RL%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%97%AD%E7%8E%AF%0A%E2%9C%85%20%E5%8E%9F%E7%94%9F%203D%20%E5%B9%B6%E8%A1%8C%20%28FSDP2%2BTP%2BPP%29%0A%E2%9C%85%20%E6%9E%81%E8%87%B4%E5%B9%B2%E5%87%80%E6%97%A0%E9%BB%91%E7%9B%92%0A%0A%E6%9E%81%E5%BA%A6%E6%9A%B4%E5%87%BB%E8%AE%A4%E7%9F%A5%E5%B7%AE%EF%BC%8C%E5%BB%BA%E8%AE%AE%E9%80%9F%E5%AD%98%EF%BC%9Ahttps%3A//github.com/pytorch/torchtitan)**
+
+---
+
+## 3. [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **5,401** (198 stars today)
+- **官方介绍**: let your agent control your phone
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop building agents trapped inside desktop browsers. The real world lives inside mobile apps.
+
+While everyone was obsessed with Anthropic's Computer Use, someone just quietly unlocked the final boss: giving AI agents full physical control over mobile devices.
+
+Meet phone-harness (5,400+ ⭐):
+
+Before: You waste hours manually checking 2FA, booking rides, messaging leads on WhatsApp, or tapping through mobile-only native apps.
+
+Now: Your agent runs directly on your phone.
+
+What it actually enables:
+⚡ Full visual screen perception & element tapping
+⚡ Automated workflows across iOS / Android ecosystem
+⚡ Interacts with closed-garden apps that offer zero APIs
+⚡ The ultimate backbone for 1-person autonomous operations
+
+This is what 100x leverage actually looks like in 2025. Your phone now works while you sleep.
+
+Check the repo: https://github.com/phone-harness/phone-harness
+
+#AI #OpenSource #SoftwareEngineering #Automation #TechTrends
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Computer%20use%20was%20cool.%20Phone%20use%20is%20UNSTOPPABLE.%20%F0%9F%93%B1%E2%9A%A1%EF%B8%8F%0A%0AMeet%20phone-harness%3A%20let%20your%20AI%20agent%20actually%20control%20your%20phone%20natively.%0A%0A%E2%80%A2%20Tap%2C%20swipe%20%26%20type%20in%20any%20app%0A%E2%80%A2%20Bypass%20web-only%20limits%0A%E2%80%A2%20True%2024/7%20mobile%20automation%0A%0A5.4k%20%E2%AD%90%20in%20days%3A%0Ahttps%3A//github.com/phone-harness/phone-harness)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差再次被击碎！大部分人还在教AI写周报，顶级玩家已经让AI通宵帮自己玩手机了。
+
+Anthropic的电脑控制火了之后，所有人都在等移动端方案。终于有人做出来了——phone-harness，刚开源就狂揽5400+星！
+
+来看看普通人和高手的差距：
+❌ 普通人：守着手机手动回微信、抢票、核对APP账单，被圈在移动端信息茧房里寸步难行。
+✅ 高手：直接给AI发指令，AI像真人一样在手机上滑动、识别界面、跨App自动执行所有闭环操作。
+
+为什么这玩意儿是降维打击？
+1. 90%的赚钱场景都在App里，但绝大多数根本没有开放API。
+2. 真正的视觉级屏幕控制，不需要破解接口，稳定不封号。
+3. 一台闲置手机 + 本地Agent = 24小时不知疲倦的数字劳动力。
+
+一人公司的终极形态不是买一堆SaaS，而是让AI操控你的物理设备。代码完全开源，任何人都能跑起来。
+
+代码传送门：https://github.com/phone-harness/phone-harness
+
+#人工智能 #独立开发 #开源项目 #一人公司 #自动化
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E8%AE%A9AI%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E9%87%8C%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%86%EF%BC%81%E2%9A%A1%EF%B8%8F%0A%0A%E5%88%9A%E7%88%86%E7%81%AB%E7%9A%84%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20phone-harness%20%E7%9B%B4%E6%8E%A5%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8E%A7%E5%88%B6%E6%9D%83%E4%BA%A4%E7%BB%99AI%20Agent%EF%BC%9A%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E7%82%B9%E8%A7%A6%E3%80%81%E6%BB%91%E5%8A%A8%E3%80%81%E6%89%93%E5%AD%97%0A%E2%9C%85%20%E6%90%9E%E5%AE%9A%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95API%E7%9A%84App%0A%E2%9C%85%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%A4%96%E6%8C%82%0A%0A%E5%BD%BB%E5%BA%95%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%F0%9F%91%87%0Ahttps%3A//github.com/phone-harness/phone-harness)**
+
+---
+
+## 4. [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **语言**: `Python` | ⭐ **3,936** (293 stars today)
+- **官方介绍**: Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The era of cloud GPU tax for AI video is officially over. 🤯
+
+Before: Spending $500/mo on Runway/Kling or praying for RunPod A100 spot instances just to generate 5-second clips.
+
+Now: FreeVideo just made MiniMax H3 run on the computer you ALREADY own.
+
+Why this is pure leverage for solo founders:
+⚡️ Runs smooth on just 8 GB VRAM & 16 GB RAM
+⚡️ Powered by Video DeltaNet (VDN) architecture
+⚡️ Native 1-click builds for Mac (Apple Silicon), Windows & Linux
+⚡️ Adapts acceleration paths automatically to your exact silicon
+
+Your humble MacBook or gaming rig is now an unlimited Hollywood B-roll studio.
+
+Zero API bills. Zero rate limits. Pure developer freedom.
+
+🔗 https://github.com/FlashML-org/FreeVideo
+
+#AI #OpenSource #MachineLearning #BuildInPublic
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20renting%20%2440k%20cloud%20clusters%20for%20AI%20video.%20%F0%9F%A4%AF%0A%0AFreeVideo%20runs%20MiniMax%20H3%20locally%20on%20your%20laptop%3A%0A%E2%9A%A1%EF%B8%8F%208GB%20VRAM%20%2B%2016GB%20RAM%20is%20all%20you%20need%0A%E2%9A%A1%EF%B8%8F%20Auto-tunes%20to%20Win/Mac/Linux%0A%E2%9A%A1%EF%B8%8F%20100%25%20open%20source%20%26%20free%0A%0ACheck%20it%20out%3A%20https%3A//github.com/FlashML-org/FreeVideo)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知彻底被击碎！别再给那些高价AI视频平台白白送钱了！
+
+普通人还在按秒掏钱充云端点卡，生怕试错一次几十块打水漂；顶级的超级个体早就把视频大模型直接搬进了自己电脑。
+
+刚在 GitHub 杀疯的开源神器【FreeVideo】，直接打破了算力暴利：
+
+以前跑旗舰视频模型动辄要专业 A100 显卡，普通电脑碰都不能碰。FreeVideo 基于全新 VDN 架构，直接把 MiniMax H3 的门槛打到了地板上：
+
+✅ 仅需 8GB 显存 + 16GB 内存（普通游戏本、家用台式机轻松驾驭）
+✅ 完美适配 Mac M系列芯片、Windows 与 Linux
+✅ 自动针对你的芯片做底层加速优化，告别繁琐配环境
+✅ 点开即跑，不花一分钱，生成的商用素材毫无版权限制
+
+这就是一人公司的终极杠杆：硬件没变，工具一换，你的老电脑瞬间变成不眠不休的无限视频工厂！
+
+🔗 项目地址：https://github.com/FlashML-org/FreeVideo
+
+#AI视频 #开源工具 #一人公司 #副业搞钱 #认知变现
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E7%BB%99%E4%BA%91%E7%AB%AFAI%E8%A7%86%E9%A2%91%E4%BA%A4%E5%A4%A9%E4%BB%B7%E8%AE%A2%E9%98%85%E8%B4%B9%EF%BC%9F%E8%AE%A4%E7%9F%A5%E5%BD%BB%E5%BA%95%E8%A2%AB%E5%87%BB%E7%A2%8E%E4%BA%86%EF%BC%81%0A%0A%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%20FreeVideo%20%E7%88%86%E7%81%AB%EF%BC%9A%0A%E2%9C%85%208G%E6%98%BE%E5%AD%98%E5%B0%B1%E8%83%BD%E6%9C%AC%E5%9C%B0%E8%B7%91%20MiniMax%20H3%20%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8B%0A%E2%9C%85%20%E5%AE%B6%E7%94%A8PC/Mac%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8%0A%E2%9C%85%200%E6%88%90%E6%9C%AC%E6%97%A0%E9%99%90%E7%94%9F%E6%88%90%0A%0A%F0%9F%94%97%20https%3A//github.com/FlashML-org/FreeVideo)**
+
+---
+
+## 5. [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `TypeScript` | ⭐ **3,465** (28 stars today)
+- **官方介绍**: AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop paying subscriptions for basic note-taking sync.
+
+Most founders are stuck in tool hell: paying Evernote $15/mo, wrestling with Obsidian plugins that break every Tuesday, or getting locked into proprietary AI silos.
+
+Meet EdgeEver — an open-source, AI-native alternative built for extreme leverage.
+
+Why this is a no-brainer for builders:
+• Zero-cost infra: Runs 100% free on Cloudflare Workers or 1-click Docker
+• Real AI leverage: Native MCP (Model Context Protocol) integration to let your AI agents read/write notes
+• Visual thinking: Out-of-the-box mind maps, interactive tables, diagrams & posters
+• Frictionless capture: Built-in web clipper + instant cross-platform sync
+
+Own your data. Ditch the SaaS tax. Build your second brain on your own edge.
+
+🔗 https://github.com/tianma-if/edgeever
+
+#OpenSource #Productivity #BuildInPublic #AItools
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20paying%20monthly%20rent%20for%20Obsidian%20sync%20or%20Evernote.%0A%0AEdgeEver%20gives%20you%20an%20AI-native%20second%20brain%20for%20%240%3A%0A%0A%E2%9A%A1%20Instant%20all-platform%20sync%0A%F0%9F%A7%A0%20Mindmaps%2C%20tables%20%26%20diagrams%0A%F0%9F%94%8C%20Built-in%20MCP%20%26%20web%20clipper%0A%E2%98%81%EF%B8%8F%20100%25%20free%20on%20Cloudflare%0A%0A%F0%9F%94%97%20https%3A//github.com/tianma-if/edgeever)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+普通人还在给各种笔记软件每月交几十块订阅费，高手早就用边缘计算把第二大脑彻底免费了。
+
+印象笔记卡成PPT还天天弹窗，Obsidian折腾各种三方同步插件动不动就冲突报错。一人公司最宝贵的注意力，全被耗在维护工具上。
+
+刚挖到的开源神器 EdgeEver 彻底解决了这个认知差：
+
+1. 极速全平台同步：零服务器成本，免费白嫖 Cloudflare 或一行 Docker 命令自建，跨端秒级同步。
+2. AI原生与MCP支持：真正把笔记变成外部大脑，直接通过 Model Context Protocol 让你的 AI Agent 读写知识库。
+3. 富文本完全体：告别简陋排版，表格、思维导图、架构图、长图海报开箱即用，自带高质感网页剪藏。
+
+无需买高配VPS，0基础十分钟搞定部署。自己的知识资产，必须100%握在自己手里。
+
+🔗 https://github.com/tianma-if/edgeever
+
+#开源神器 #一人公司 #效率工具 #个人成长
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%BB%99%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E5%92%8CObsidian%E4%BA%91%E5%90%8C%E6%AD%A5%E4%BA%A4%E6%99%BA%E5%95%86%E7%A8%8E%E4%BA%86%EF%BC%81%0A%0A%E5%BC%80%E6%BA%90AI%E5%8E%9F%E7%94%9F%E7%AC%94%E8%AE%B0%20EdgeEver%20%E5%BD%BB%E5%BA%95%E6%8E%80%E6%A1%8C%E5%AD%90%EF%BC%9A%0A%E2%9C%85%20%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%A7%92%E7%BA%A7%E5%90%8C%E6%AD%A5%0A%E2%9C%85%20%E5%8E%9F%E7%94%9F%E6%94%AF%E6%8C%81%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E6%B5%81%E7%A8%8B%E5%9B%BE/%E6%B5%B7%E6%8A%A5%0A%E2%9C%85%20%E5%86%85%E7%BD%AE%E5%89%AA%E8%97%8F%20%2B%20MCP%E5%8D%8F%E8%AE%AE%E6%89%93%E9%80%9AAI%0A%E2%9C%85%20%E7%99%BD%E5%AB%96Cloudflare%E6%B0%B8%E4%B9%850%E5%85%83%E9%83%A8%E7%BD%B2%0A%0A%F0%9F%94%97%20https%3A//github.com/tianma-if/edgeever)**
+
+---
+
+## 6. [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
+- **分类领域**: `🧠 大模型与算法前沿` | **语言**: `Python` | ⭐ **3,128** (7 stars today)
+- **官方介绍**: Community maintained hardware plugin for vLLM on Huawei Ascend
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The biggest bottleneck in AI right now isn't talent. It's compute supply chain lock-in.
+
+Smart teams are quietly hedging their infra risk.
+
+Enter vllm-ascend: Huawei Ascend NPU support directly baked into the legendary vLLM ecosystem.
+
+Before:
+• Trapped waiting months for H100 cloud instances
+• Insane inference margins squeezing your runway
+• Zero alternative for production-grade throughput
+
+Now:
+✅ High-throughput LLM serving on Ascend hardware
+✅ PagedAttention & Continuous batching native speed
+✅ Open-source plugin drop-in integration
+✅ Scale domestic inference without rewriting your serving stack
+
+Hardware diversification is the ultimate developer leverage.
+
+Check out the repo 👇
+https://github.com/vllm-project/vllm-ascend
+
+#AI #OpenSource #MachineLearning #DevOps #LLM
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=NVIDIA%20allocation%20delays%20are%20killing%20AI%20startups.%0A%0AvLLM%20on%20Huawei%20Ascend%20changes%20the%20math%3A%0A%0A%E2%9A%A1%20Native%20vLLM%20engine%20support%0A%E2%9A%A1%20SOTA%20throughput%20on%20Ascend%20NPU%0A%E2%9A%A1%20Plug-and-play%20architecture%0A%0AStop%20waiting%20for%20GPUs%3A%0Ahttps%3A//github.com/vllm-project/vllm-ascend)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+90% 做 AI 出海和本地大模型落地的人，都快被算力成本逼死了。
+
+普通做法：咬牙硬买天价 GPU 显卡，机器没跑满，现金流先断了；
+顶级认知：打通国产算力生态，用最便宜的硬件榨出极致吞吐！
+
+vllm-ascend 彻底打破了硬件孤岛。作为 vLLM 官方社区维护的华为昇腾硬件插件，直接把工业界最成熟的推理架构搬到了昇腾生态！
+
+核心爽点：
+• 零门槛平替：无需重写上层业务逻辑，直接兼容 vLLM 生态
+• 极致性能压榨：原生支持持续批处理与显存优化技术
+• 算力自由：摆脱单一芯片卡脖子，大幅降低百万级推理并发成本
+
+技术门槛极低，开源插件即插即用。搞大模型服务，谁先降低边际成本，谁就能活到最后收割市场！
+
+源码直达：https://github.com/vllm-project/vllm-ascend
+
+#大模型 #算力破局 #AI创业 #开源项目 #技术杠杆
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E7%9C%BC%E5%B7%B4%E5%B7%B4%E6%8E%92%E9%98%9F%E7%AD%89%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8D%A1%EF%BC%9F%E8%81%AA%E6%98%8E%E4%BA%BA%E6%97%A9%E5%B0%B1%E5%9C%A8%E8%B7%91%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88%E4%BA%86%EF%BC%81%0A%0AvLLM%20%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%20NPU%20%E6%8F%92%E4%BB%B6%E5%87%BA%E7%82%89%EF%BC%9A%0A%E2%9C%85%20%E5%8E%9F%E7%94%9F%20vLLM%20%E9%AB%98%E5%B9%B6%E5%8F%91%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E%0A%E2%9C%85%20PagedAttention%20%E6%9E%81%E8%87%B4%E5%90%9E%E5%90%90%0A%E2%9C%85%20%E5%BC%80%E6%BA%90%E6%97%A0%E7%BC%9D%E5%B9%B3%E6%9B%BF%E7%AE%97%E5%8A%9B%0A%0A%E6%89%93%E7%A0%B4%E7%AE%97%E5%8A%9B%E5%9E%84%E6%96%AD%EF%BC%9A%0Ahttps%3A//github.com/vllm-project/vllm-ascend)**
+
+---
+
+## 7. [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Shell` | ⭐ **2,939** (869 stars today)
+- **官方介绍**: Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The ultimate solo founder nightmare isn't building the product.
+
+It's waiting 5 days for review only to get slapped with Guideline 4.3 or a cryptic Google Play policy strike.
+
+Someone finally automated the entire compliance circus:
+
+Introducing App Store Compliance Playbook.
+
+What it handles so you don't burn weeks of runway:
+✅ 117 documented rejection patterns with direct fixes
+✅ Automated Privacy Manifest & Google Data Safety guards
+✅ 95 tracked regulatory deadlines (EU AI Act, DSA, COPPA)
+✅ Ready-to-use skill for Claude Code / AI coding agents
+
+Turn store rejections into a pre-submission solved problem.
+
+🔗 https://github.com/mjmirza/app-store-compliance
+
+#buildinpublic #indiehackers #iosdev #solopreneur
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Nothing%20kills%20dev%20momentum%20faster%20than%20an%20Apple/Google%20rejection.%20%F0%9F%94%A5%0A%0AThis%20open-source%20playbook%20fixes%20it%20BEFORE%20submission%3A%0A%E2%80%A2%20117%20documented%20rejection%20fixes%0A%E2%80%A2%20EU%20AI%20Act%20/%20COPPA%20radar%0A%E2%80%A2%20Built-in%20AI%20coding%20skill%0A%0A%F0%9F%94%97%20https%3A//github.com/mjmirza/app-store-compliance)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+独立出海搞钱，最怕的不是代码写不出，而是上线前夜被苹果谷歌当头一棒。
+
+普通人做法：盲目提审 ➡️ 被拒 ➡️ 连夜翻论坛求神拜佛 ➡️ 浪费两周宣发黄金期。
+顶级一人公司：代码写完直接跑自动合规守卫，把审核死穴在本地全掐死。
+
+这个狂揽近3000星的开源项目彻底打破认知差：
+
+🎯 117个被拒高频模式与破解方案（全真实踩坑总结）
+🎯 隐私清单（Privacy Manifest）与数据安全自动检测
+🎯 紧跟95项全球监管死线（欧盟AI法案、DSA、COPPA儿童法等）
+🎯 甚至封装好了 Claude Code / AI Agent 专用技能包！
+
+无需法务，无需到处花钱咨询，让AI和这套Playbook直接替你保驾护航。
+
+彻底击碎上架门槛：https://github.com/mjmirza/app-store-compliance
+
+#独立开发 #一人公司 #出海搞钱 #程序员日常
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%9C%80%E5%B4%A9%E6%BA%83%E7%9A%84%E7%9E%AC%E9%97%B4%EF%BC%9A%E8%82%9D%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%EF%BC%8C%E8%A2%AB%E8%8B%B9%E6%9E%9C%E6%9C%BA%E5%AE%A1%E4%B8%80%E7%A7%92%E6%89%93%E5%9B%9E%E3%80%82%0A%0A%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E6%8A%8A%E8%A2%AB%E6%8B%92%E9%A3%8E%E9%99%A9%E9%99%8D%E5%88%B00%EF%BC%9A%0A%E2%9C%85%20117%E7%A7%8D%E5%AE%A1%E6%A0%B8%E8%A2%AB%E6%8B%92%E8%A7%A3%E6%B3%95%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E6%89%AB%E9%9A%90%E7%A7%81%E6%B8%85%E5%8D%95%26%E5%90%88%E8%A7%84%E6%AD%BB%E7%BA%BF%0A%E2%9C%85%20%E6%94%AF%E6%8C%81%E6%8E%A5%E5%85%A5AI%E7%BC%96%E7%A0%81Agent%0A%0A%E6%90%9E%E9%92%B1%E7%A5%9E%E5%99%A8%EF%BC%9Ahttps%3A//github.com/mjmirza/app-store-compliance)**
+
+---
+
+## 8. [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `TypeScript` | ⭐ **2,454** (24 stars today)
+- **官方介绍**: ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The solo-founder software factory isn't coming—it just dropped.
+
+Most devs are still copy-pasting code into ChatGPT like it's 2023. 
+Top 1% builders are building autonomous assembly lines.
+
+Meet 'It’s a Plan'—the open-source, self-hosted alternative to Linear & Plane built for the agent era:
+
+Before:
+❌ Juggling 15 browser tabs & terminal windows
+❌ Manually checking AI output line by line
+❌ Zero institutional memory or project context
+
+After:
+✅ Treat AI agents as teammates inside your sprint board
+✅ Assign an issue -> Agent writes code -> Another agent code-reviews
+✅ Put agents on cron schedules or trigger automated pipelines
+✅ 100% self-hosted: zero data leak, pure sovereign leverage
+
+This is how 1 person ships like a Series A engineering department.
+
+👉 https://github.com/croffasia/itsaplan
+
+#buildinpublic #solopreneur #opensource #devtools #aiagents
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20managing%20AI%20in%20chat%20windows.%20%F0%9F%A4%AF%0A%0A%27It%27s%20a%20Plan%27%20is%20an%20open-source%20Linear%20alternative%20where%20AI%20agents%20pick%20up%20tickets%20like%20real%20engineers%3A%0A%0A%E2%80%A2%20Assign%20issue%20to%20Agent%20A%0A%E2%80%A2%20Agent%20B%20reviews%20the%20PR%0A%E2%80%A2%20100%25%20self-hosted%0A%0AScale%20to%20a%2010-person%20dev%20team%20alone%3A%0Ahttps%3A//github.com/croffasia/itsaplan)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+击碎认知差：普通人还在把AI当客服调戏，顶级一人公司早把AI当打工人排期了。
+
+你每天是不是也这样：
+开着Linear/Jira算进度，切到ChatGPT复制粘贴提需求，再切回IDE调试，累得像个赛博搬运工？
+
+GitHub爆火的「It's a Plan」直接掀翻了传统工作流：它是完全开源、自托管的 Linear 替代品，但专为“人机协同”重构！
+
+它的降维打击点在哪？
+1️⃣ 任务看板即Agent调度台：在看板上建个Issue，直接@分配给AI同事
+2️⃣ 自闭环工作流：Agent A负责写代码，Agent B负责跑测试和Review，你只看最终结果
+3️⃣ 定时调度与自动化：让Agent按计划半夜跑迭代，醒来直接合并上线
+4️⃣ 100%完全私有化部署：代码与商业资产不出内网，安全感拉满
+
+未来不属于大厂，属于极少数懂极致杠杆的超级个体。单兵作战时代，这就是你的10人研发团。
+
+项目地址：https://github.com/croffasia/itsaplan
+
+#独立开发 #一人公司 #开源项目 #AI工作流 #效率工具
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E6%8A%8AAI%E5%BD%93%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%94%A8%E4%BA%86%EF%BC%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93%E5%B7%B2%E7%BB%8F%E6%8A%8A%E5%AE%83%E5%BD%93%E5%91%98%E5%B7%A5%E6%8E%92%E6%9C%9F%E4%BA%86%20%F0%9F%A4%AF%0A%0A%E5%BC%80%E6%BA%90%E8%87%AA%E6%89%98%E7%AE%A1%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%A5%9E%E5%99%A8%20It%27s%20a%20Plan%EF%BC%9A%0A%E2%9C%85%20%E5%83%8F%E5%88%86%E6%B5%81%E9%9C%80%E6%B1%82%E7%BB%99%E5%90%8C%E4%BA%8B%E4%B8%80%E6%A0%B7%E5%88%86%E6%B4%BE%E7%BB%99AI%0A%E2%9C%85%20Agent%E8%87%AA%E5%8A%A8%E7%BC%96%E7%A0%81%EF%BC%8C%E5%8F%A6%E4%B8%80%E4%B8%AAAgent%E8%87%AA%E5%8A%A8Code%20Review%0A%E2%9C%85%20100%25%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2%E6%95%B0%E6%8D%AE%E5%BD%92%E8%87%AA%E5%B7%B1%0A%0A%E4%B8%80%E4%BA%BA%E9%A1%B6%E4%B8%80%E4%B8%AA%E7%A0%94%E5%8F%91%E9%83%A8%EF%BC%9A%0Ahttps%3A//github.com/croffasia/itsaplan)**
+
+---
+
+## 9. [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Python` | ⭐ **2,104** (~2104 (7天内新建))
+- **官方介绍**: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop begging your ISP for your own network credentials. Hardware ownership is leverage.
+
+Meet ung220z-tool — an insane exploit pipeline that turns carrier-locked China Mobile optical modems (UNG220Z) completely inside-out in under 3 seconds.
+
+BEFORE:
+- TR-069 rotates your superadmin password every 48h
+- Locked out of bridge mode
+- Calling support just to get your own PPPoE secrets
+
+AFTER:
+- One Python command injects `.gch` CGI exploit
+- Drops straight into root shell via Telnet
+- Runs `sidbg` DB decrypt to dump Web, PPPoE, WiFi & root keys
+
+2,100+ stars in under a week. True builder energy for network sovereignty.
+
+🔗 https://github.com/Hut-hzf/ung220z-tool
+
+#HardwareHacking #Networking #CyberSecurity #DevTools #OpenSource
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Hardware%20hacking%20just%20got%20automated%20%E2%9A%A1%EF%B8%8F%0A%0Aung220z-tool%20pulls%20carrier-locked%20router%20superadmin%20credentials%20in%20seconds%20via%20Telnet%20%26%20decrypts%20full%20configs.%0A%0A%E2%80%A2%20Zero-click%20Telnet%20unlock%0A%E2%80%A2%20Instant%20root%20shell%0A%E2%80%A2%20Full%20PPPoE/WiFi%20dump%0A%0A%F0%9F%94%97%20https%3A//github.com/Hut-hzf/ung220z-tool)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+你花钱买的千兆宽带，凭什么超级密码还要找装维师傅低声下气地要？更绝望的是，运营商TR-069后台每几天就给你自动重置一次。
+
+这就是典型的认知差收割：普通人以为光猫锁死是天命，技术极客早就用自动化脚本实现降维打击。
+
+GitHub刚刚杀出一匹黑马：ung220z-tool，上线一周狂揽2100+ Star！专门针对九联移动光猫的一键凭据提取神器。
+
+它做了什么：
+- 利用.gch接口漏洞瞬间唤醒Telnet后台
+- 脚本秒拿root权限，直接解密底层配置数据库
+- 一键吐出当下有效的超级管理员账号、PPPoE宽带密码和Wi-Fi私钥
+
+不用懂嵌入式逆向，翻开光猫看一眼背面默认密码，终端敲一行 python3 ung220z.py 就能自动化跑通全部流程。改桥接、上软路由、搭NAS再无阻碍。
+
+技术是夺回数字主权最锋利的杠杆。自查备用，千万别用来搞坏事！
+
+https://github.com/Hut-hzf/ung220z-tool
+
+#开源项目 #软路由 #极客工具 #网络安全
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E6%B1%82%E5%AE%BD%E5%B8%A6%E5%B8%88%E5%82%85%E7%BB%99%E4%BD%A0%E6%94%B9%E6%A1%A5%E6%8E%A5%E4%BA%86%EF%BC%81%0A%0Aung220z-tool%20%E4%B8%80%E9%94%AE%E7%88%86%E7%A0%B4%E5%85%89%E7%8C%AB%E8%B6%85%E7%BA%A7%E5%AF%86%E7%A0%81%EF%BC%9A%0A%E2%9C%85%207%E5%A4%A92100%2B%E6%98%9F%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%0A%E2%9C%85%20%E7%BB%95%E8%BF%87%E8%BF%90%E8%90%A5%E5%95%86%E5%8A%A8%E6%80%81%E6%94%B9%E5%AF%86%EF%BC%8C%E7%9B%B4%E6%8F%90%20Root%0A%E2%9C%85%20PPPoE/WiFi/%E8%B6%85%E7%BA%A7%E8%B4%A6%E5%8F%B7%E7%A7%92%E8%A7%A3%E5%AF%86%0A%0A%E6%8B%BF%E5%9B%9E%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%F0%9F%91%89%20https%3A//github.com/Hut-hzf/ung220z-tool)**
+
+---
+
+## 10. [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Unknown` | ⭐ **1,874** (~1874 (7天内新建))
+- **官方介绍**: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The bridge between LLMs and 3D creation just broke wide open.
+
+Meet mcp-for-blender-pro: a visual AI copilot + native Model Context Protocol (MCP) server running right inside Blender.
+
+Old 3D workflow:
+Hours fiddling with nodes, manual python scripting, and tedious asset placement.
+
+New 10x workflow:
+Give Claude or ChatGPT a creative brief. The agent inspects your viewport, generates objects, assigns materials, setups lights, and iterates in real time.
+
+🔥 Why this changes everything:
+✅ Built-in MCP Server (Claude Desktop, GPT, Ollama support)
+✅ Full bpy Python execution without writing syntax
+✅ Multi-step agent workflows inside the 3D viewport
+✅ 1,800+ GitHub stars in under 7 days
+
+Solo founders can now build AAA product mockups and animations with zero friction.
+
+🔗 https://github.com/bookwjitchieni1986/blender-ai-mcp-addon
+
+#Blender3D #AIagents #MCP #BuildInPublic #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Blender%20just%20got%20an%20official%20AI%20brain.%20%F0%9F%A4%AF%0A%0Amcp-for-blender-pro%20connects%20Claude%20%26%20GPT%20directly%20into%20Blender%20via%20MCP%3A%0A%E2%80%A2%20Prompt%20to%203D%20scene%0A%E2%80%A2%20Auto%20material%20%26%20lighting%0A%E2%80%A2%20Multi-agent%20workflows%0A%0A1%2C800%2B%20stars%20in%207%20days.%20Grab%20it%3A%0Ahttps%3A//github.com/bookwjitchieni1986/blender-ai-mcp-addon)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+3D建模师和独立开发者的认知差，今天被彻底击碎了！
+
+普通人还在硬啃几百个快捷键、枯燥调节点材质；而顶尖玩家已经用 Claude 操控 Blender 自动出图了。
+
+刚开源7天就冲上1800星的神作：mcp-for-blender-pro，直接把 Model Context Protocol (MCP) 塞进了 Blender 4.2+。
+
+这不是简单的代码补全，而是全自主3D Copilot：
+
+🔥 为什么说是降维打击？
+1️⃣ 视觉对话：直接把创意需求打在聊天窗，AI 自动读懂当前视口并执行操作
+2️⃣ 资产与材质自动化：自动建构几何体、调节着色器、摆放场景布局
+3️⃣ 任意大模型即插即用：无缝接入 Claude Desktop、GPT、Gemini，甚至本地 Ollama 跑离线
+4️⃣ 彻底解放生产力：多智能体拆解复杂工作流，原本半天的工作现在3分钟搞定
+
+一人公司搞电商产品图、游戏资产原型、3D动画，杠杆率直接拉满10倍！
+
+开源地址：https://github.com/bookwjitchieni1986/blender-ai-mcp-addon
+
+#Blender #人工智能 #一人公司 #独立开发 #MCP
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%BD%BB%E5%BA%95%E7%82%B8%E8%A3%82%EF%BC%81Blender%E7%BB%88%E4%BA%8E%E6%8E%A5%E5%85%A5MCP%E4%BA%86%F0%9F%94%A5%0A%0A%E6%8A%8AClaude/GPT%E7%9B%B4%E6%8E%A5%E8%BF%9E%E8%BF%9B3D%E8%A7%86%E5%8F%A3%EF%BC%8C%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%90%9E%E5%AE%9A%E5%BB%BA%E6%A8%A1%E3%80%81%E6%89%93%E5%85%89%E3%80%81%E6%9D%90%E8%B4%A8%E4%B8%8E%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%817%E5%A4%A9%E7%8B%82%E6%8F%BD1800%E6%98%9F%EF%BC%9A%0A%E2%9C%85%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%93%8D%E6%8E%A7Blender%0A%E2%9C%85%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0Ollama/%E4%BA%91%E7%AB%AF%E5%A4%A7%E6%A8%A1%E5%9E%8B%0Ahttps%3A//github.com/bookwjitchieni1986/blender-ai-mcp-addon)**
+
+---
+
+## 11. [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **1,615** (11 stars today)
+- **官方介绍**: Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The solo-founder tech stack just completely shifted.
+
+Most devs are still babysitting a single Claude Code session in their terminal, waiting 5 minutes per prompt.
+
+Meanwhile, top builders are orchestrating an entire dev agency from CLI:
+
+AWS just open-sourced CLI Agent Orchestrator (CAO):
+
+• Multi-agent coordination (Claude Code, Kiro, Codex)
+• Parallel workflows inside isolated tmux sessions
+• Agents hand off code, review PRs, & fix bugs autonomously
+• Zero context-bleed between environments
+
+Before: 1 dev = 1 junior coder output.
+After: 1 dev = Managing a synchronized team of 5 AI engineers.
+
+Extreme leverage is no longer theoretical. Go build an empire from your terminal.
+
+🔗 https://github.com/awslabs/cli-agent-orchestrator
+
+#DevTools #BuildInPublic #AIagents #SoftwareEngineering #Solopreneur
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20running%201%20AI%20CLI%20at%20a%20time.%20AWS%20just%20open-sourced%20the%20ultimate%2010x%20cheat%20code%3A%20CLI%20Agent%20Orchestrator%20%E2%9A%A1%EF%B8%8F%0A%0ARun%20Claude%20Code%2C%20Codex%20%26%20Kiro%20in%20isolated%20tmux%20sessions%20simultaneously.%0A%0ATurn%20into%20a%201-person%20software%20factory%20%F0%9F%91%87%0Ahttps%3A//github.com/awslabs/cli-agent-orchestrator)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+99%的程序员还在用最笨的办法搞AI编程。
+
+打开一个终端，等Claude Code吐几行字，改完再开下一个，手忙脚乱效率极低。
+
+真正拉开认知差的“超级个体”，已经在用分布式AI流水线了。
+
+AWS最新开源的 CLI Agent Orchestrator (CAO)，直接打碎终端瓶颈：
+
+❌ 过去：一个人当保姆，一次只能盯一个AI窗口写代码
+✅ 现在：一人化身CTO，后台隔离调度多款AI CLI协同作战
+
+它的核心杀手锏：
+- 协同调度：Claude Code、Kiro、Codex并行跑
+- 会话隔离：底层自动用 tmux 保持环境与上下文纯净
+- 任务流转：AI之间互相提PR、写测试、修bug
+
+门槛？只要会装Python包，用一行命令就能起飞。
+
+一人公司的终极形态不是你会写多少代码，而是你掌控多少数字劳动力。
+
+🔗 https://github.com/awslabs/cli-agent-orchestrator
+
+#独立开发 #AI编程 #一人公司 #开源项目 #ClaudeCode
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%82%BB%E5%82%BB%E5%8D%95%E5%BC%80%E4%B8%80%E4%B8%AA%E7%BB%88%E7%AB%AF%E9%97%AEClaude%20Code%E4%BA%86%EF%BC%81%0AAWS%E5%AE%98%E6%96%B9%E5%88%9A%E5%BC%80%E6%BA%90%E7%9A%84%E7%A5%9E%E5%99%A8CAO%E7%9B%B4%E6%8E%A5%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%EF%BC%9A%0A%E2%9C%85%20%E5%A4%9AAgent%E5%B9%B6%E8%A1%8C%E5%8D%8F%E5%90%8C%EF%BC%88Claude%2BCodex%E7%AD%89%EF%BC%89%0A%E2%9C%85%20tmux%E4%BC%9A%E8%AF%9D%E5%AE%8C%E5%85%A8%E9%9A%94%E7%A6%BB%0A%E2%9C%85%20%E4%B8%80%E4%BA%BA%E9%A1%B6%E4%B8%80%E4%B8%AA%E7%A0%94%E5%8F%91%E5%AE%A4%0A%E6%99%AE%E9%80%9A%E4%BA%BA%E6%8B%89%E6%BB%A1%E6%9D%A0%E6%9D%86%E7%9A%84%E6%97%B6%E5%88%BB%E5%88%B0%E4%BA%86%F0%9F%91%87%0Ahttps%3A//github.com/awslabs/cli-agent-orchestrator)**
+
+---
+
+## 12. [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)
+- **分类领域**: `🎬 AI 视频 / 视觉与多媒体` | **语言**: `Python` | ⭐ **1,393** (~1393 (7天内新建))
+- **官方介绍**: Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+SaaS is getting crushed by local open-source tools.
+
+Creators are burning $30-$60/mo on Opus Clip and cloud services just to chop videos. Meanwhile, a solopreneur just dropped NeonClipping and made the entire pipeline local and free.
+
+Paste a YouTube/Twitch link → get captioned 9:16 viral shorts in ~2 minutes.
+
+Why this is pure leverage:
+• 100% Free & Local: Uses your local LLM + audio-first extraction
+• Zero cloud leaks: No uploads, no API subscriptions, unlimited runs
+• High retention: Auto-detects hooks and burns animated captions
+• 1-Click setup: Run it yourself or let Cursor/Claude Code install it
+
+The software factory era is here: run your entire media machine from your MacBook without spending a dime.
+
+Check the repo: https://github.com/iamajmeena/neonclipping
+
+#OpenSource #AItools #BuildInPublic #Solopreneur #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20paying%20%2450/mo%20for%20Opus%20Clip.%20%F0%9F%9B%91%0A%0ANeonClipping%20turns%202hr%20videos%20into%20viral%209%3A16%20reels%20in%202%20mins%3A%0A%E2%9A%A1%20100%25%20Free%20%26%20Open%20Source%0A%E2%9A%A1%20Local%20LLM%20%28no%20cloud%20bill%29%0A%E2%9A%A1%20Auto%20captions%20%2B%20hooks%0A%0APure%20solo-founder%20leverage%3A%0Ahttps%3A//github.com/iamajmeena/neonclipping)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差就是搞钱的护城河！普通人做短视频矩阵，还在熬夜一秒一秒切片，或者给云端AI工具一个月上交上百美金月费。而顶级的超级个体，早就用上了本地自动化流水线。
+
+刚开源7天狂揽1400星的神器 NeonClipping，直接把切片SaaS的底裤扒光了：
+
+以前做切片：下素材→导入剪辑软件→找高潮点→打轴上字幕→调成9:16竖屏，耗费半小时。
+现在用它：扔进去一个 YouTube/Twitch 链接或本地MP4，2分钟自动输出带标题、黄金前3秒Hook、炫酷字幕的竖屏爆款。
+
+最绝的是：
+• 零成本：完全开源，无订阅费无Token焦虑
+• 本地跑：用本地大模型分析字幕，隐私不出门
+• 极简部署：Windows一键运行，甚至支持丢给Claude Code自动配环境
+
+工具把门槛拉到了地板，剩下就是拼执行力批量拿流量。立刻收藏防丢失！
+
+https://github.com/iamajmeena/neonclipping
+
+#独立开发 #AI副业 #短视频带货 #出海搞钱 #开源神器
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E7%BB%99%E5%88%87%E7%89%87%E5%B7%A5%E5%85%B7%E4%BA%A4%E6%AF%8F%E4%B8%AA%E6%9C%88%E5%87%A0%E7%99%BE%E5%9D%97%E7%9A%84SaaS%E6%99%BA%E5%95%86%E7%A8%8E%EF%BC%9F%0A%0A%E5%BC%80%E6%BA%90%E7%88%86%E6%AC%BE%20NeonClipping%20%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%9A%0A%E2%9C%85%20%E7%B2%98%E8%B4%B4%E9%95%BF%E8%A7%86%E9%A2%91%E9%93%BE%E6%8E%A5%EF%BC%8C2%E5%88%86%E9%92%9F%E5%88%87%E5%87%BA9%3A16%E7%88%86%E6%AC%BE%E7%9F%AD%E8%A7%86%E9%A2%91%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E6%8F%90%E5%8F%96%E9%BB%84%E9%87%91Hook%2B%E6%99%BA%E8%83%BD%E5%8A%A8%E6%80%81%E5%AD%97%E5%B9%95%0A%E2%9C%85%20%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E6%97%A0%E8%AE%A2%E9%98%85%0A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%90%9E%E9%92%B1%E5%88%A9%E5%99%A8%EF%BC%9A%0Ahttps%3A//github.com/iamajmeena/neonclipping)**
+
+---
+
+## 13. [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Python` | ⭐ **1,385** (~1385 (7天内新建))
+- **官方介绍**: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most devs run local LLMs totally unoptimized, burning compute and cash. 💸
+
+Stop tweaking random engine flags in the dark. An open-source project just cracked autonomous inference tuning: sybil-solutions/inference-optimisation-skill.
+
+It’s an agent skill (Claude Code / SKILL.md ready) that mathematically hill-climbs your serving stack:
+
+🔥 Before vs After on standard hardware:
+• Prefill 256K: 297 → 628 tok/s (2.1x speedup)
+• KV Cache: 264K tokens → 4 × 256K
+• Startup: 113s → 43s
+• Decode: 43.6 → 53 tok/s
+
+How it works:
+✅ Computes the theoretical hardware ceiling
+✅ Iteratively tests interleaved controls
+✅ Validates long-context retrieval stability
+✅ Logs all failures before pinning production builds
+
+Pure extreme leverage for solo AI founders running local nodes.
+
+🔗 https://github.com/sybil-solutions/inference-optimisation-skill
+
+#AI #OpenSource #LocalLLM #MachineLearning #DevTools
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20throwing%20expensive%20GPUs%20at%20slow%20local%20LLMs.%20%F0%9F%A7%A0%E2%9A%A1%0A%0AThis%20open-source%20skill%20automatically%20hill-climbs%20your%20inference%20speed%20%28up%20to%202.1x%20faster%20prefill%20%26%204x%20KV%20cache%29%3A%0A%0A%F0%9F%91%89%20Decode%20boost%0A%F0%9F%91%89%20Speculative%20decode%0A%F0%9F%91%89%20Zero%20slop%0A%0Ahttps%3A//github.com/sybil-solutions/inference-optimisation-skill)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+绝大多数跑本地大模型的人，认知差彻底被击碎了。还在傻傻花几万块加显卡、硬堆硬件？顶级玩家早就用 Agent 自动化压榨算力极致了！
+
+刚开源就狂揽 1.3k+ 星的「inference-optimisation-skill」，把本地模型推理优化变成了一门全自动爬山算法：
+
+❌ 普通人做法：网上乱抄启动参数，崩溃报错找不到原因，显存爆了只能认栽。
+⭕ 顶尖杠杆：AI Agent 自动测算理论物理上限，控制变量实测每个参数，自动跑长文本检索校验，直到找出最快配置。
+
+真实战报亮瞎眼：
+• 256K 超长文本 Prefill：297 → 628 tok/s（速度直接翻 2.1 倍）
+• KV 缓存容量：直接从 264K 暴增到 4 × 256K
+• 冷启动耗时：113秒砍到43秒
+
+完美适配 Claude Code 与标准 Agent 提示词，丢给它你的设备环境，让 AI 替你把每块 GPU 压榨到极限。搞 AI 独立开发、本地部署必须焊死在工具箱里！
+
+🔗 源码：https://github.com/sybil-solutions/inference-optimisation-skill
+
+#大模型 #搞钱 #独立开发 #人工智能 #GPU优化
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E5%82%BB%E5%82%BB%E5%8A%A0%E9%92%B1%E6%8D%A2%E6%98%BE%E5%8D%A1%E4%BA%86%EF%BC%81%F0%9F%A4%AF%0A%0A%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E7%9A%84%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96%20Agent%20Skill%EF%BC%8C%E8%AE%A9%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%99%BD%E5%AB%96%E7%BF%BB%E5%80%8D%E9%80%9F%E5%BA%A6%EF%BC%9A%0A%0A%E2%9C%85%20%E9%95%BF%E6%96%87%E6%9C%AC%20Prefill%20%E6%8F%90%E9%80%9F%202.1%20%E5%80%8D%0A%E2%9C%85%20KV%20%E6%98%BE%E5%AD%98%E5%AE%B9%E9%87%8F%E8%86%A8%E8%83%80%204%20%E5%80%8D%0A%E2%9C%85%20%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E6%9A%B4%E7%BC%A9%2060%25%0A%0A%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%AE%97%E5%8A%9B%E6%9D%A0%E6%9D%86%E7%A5%9E%E5%99%A8%EF%BC%9A%0Ahttps%3A//github.com/sybil-solutions/inference-optimisation-skill)**
+
+---
+
+## 14. [joshpuckett/allo](https://github.com/joshpuckett/allo)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Python` | ⭐ **1,266** (~1266 (7天内新建))
+- **官方介绍**: Allo is your friendly neighborhood typeface, free and open source
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most indie hacker landing pages look like generic AI slop because everyone defaults to Inter or Roboto.
+
+Great typography is the easiest 10x visual upgrade for your product, but premium typefoundries charge $500+/seat.
+
+Allo just went open-source and hit 1,200+ GitHub stars in a week.
+
+Built specifically for screen interfaces:
+• Variable roundness: Dial personality from crisp B2B to cozy consumer
+• Auto optical sizing: Automatically adjusts contrast between body & display
+• Micro-details: Tabular figures, smart punctuation, built-in arrows & UI glyphs
+• Zero licensing headache: Free, variable TTF + lightweight WOFF2
+
+Upgrade your SaaS aesthetics in 60 seconds flat.
+
+Check it out: https://github.com/joshpuckett/allo
+
+#buildinpublic #indiehackers #webdesign #uidesign #typography
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20using%20default%20Inter%20for%20your%20SaaS.%0A%0AMeet%20Allo%20%E2%80%94%20an%20insane%20open-source%20UI%20variable%20font%20that%20hit%201.2k%2B%20stars%20in%207%20days%3A%0A%0A%E2%9C%A6%203%20variable%20axes%20%28weight%2C%20round%2C%20optical%29%0A%E2%9C%A6%20Auto%20optical%20size%0A%E2%9C%A6%20Ligatures%20%26%20icons%20built-in%0A%0A100%25%20Free%3A%20https%3A//github.com/joshpuckett/allo)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+很多一人公司出海做 SaaS，产品功能很强，但第一眼看起来就像廉价的 AI 垃圾。问题往往不在排版，而在被用烂的字体。
+
+顶级设计字体一套授权大几千，普通人根本买不起。但上周 GitHub 突然杀出一个神级开源字体 Allo，7 天破 1200+ 星。
+
+普通做法：全网扒盗版字体，或者死磕系统默认 Inter，毫无品牌记忆点。
+高手做法：换上 Allo，靠一套变量字体直接拉开质感差距。
+
+它为现代屏幕交互而生：
+• 三维无级调节：粗细、圆角、字号自适应联动
+• 原生界面符号：打箭头自动转图标，分数字形不乱跳
+• 性能极致优化：WebFont 打包体积直接砍半
+• 零门槛免费开源：直接支持 npm 引入，商用无套路
+
+视觉质感提升 10 倍，往往只需要这一个细节破局。
+
+项目：https://github.com/joshpuckett/allo
+
+#独立开发 #一人公司 #UI设计 #出海搞钱 #前端开发
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E7%94%A8%E7%83%82%E5%A4%A7%E8%A1%97%E7%9A%84%20Inter%20%E4%BA%86%EF%BC%81%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%95%8C%E9%9D%A2%E8%B4%A8%E6%84%9F%E8%A2%AB%E5%AD%97%E4%BD%93%E6%8B%96%E5%9E%AE%E3%80%82%0A%0A%E5%BC%80%E6%BA%90%E5%AD%97%E4%BD%93%E9%BB%91%E9%A9%AC%20Allo%20%E5%88%9A%E5%8F%91%E5%B8%83%E5%B0%B1%E7%8B%82%E6%8F%BD%201.2k%2B%20%E6%98%9F%EF%BC%9A%0A%0A%E2%9C%85%20%E6%9D%83%E9%87%8D/%E5%9C%86%E8%A7%92/%E8%A7%86%E8%A7%89%E5%B0%BA%E5%AF%B8%E4%B8%89%E8%BD%B4%E5%8F%AF%E5%8F%98%0A%E2%9C%85%20%E5%86%85%E7%BD%AE%E7%AE%AD%E5%A4%B4%E4%B8%8E%20UI%20%E5%9B%BE%E6%A0%87%0A%E2%9C%85%20%E5%B1%8F%E5%B9%95%E4%B8%8E%E5%A4%A7%E6%A0%87%E9%A2%98%E8%87%AA%E9%80%82%E5%BA%94%0A%0A%E5%85%8D%E8%B4%B9%E5%95%86%E7%94%A8%EF%BC%9Ahttps%3A//github.com/joshpuckett/allo)**
+
+---
+
+## 15. [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `HTML` | ⭐ **998** (~998 (7天内新建))
+- **官方介绍**: Steer ideas like a space pilot!
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Text boxes are dead. The chat interface is the biggest bottleneck in AI.
+
+What happens when LLM inference hits 60 FPS? You don't prompt—you steer like a fighter pilot.
+
+Meet Spaceship IDE, the wildest UI experiment on GitHub right now:
+
+Before: Type a 200-word prompt, wait 10 seconds, get generic slop, tweak, repeat.
+After: Real-time vector manipulation as tokens stream at Cerebras speed.
+
+Core unlocks:
+🕹️ Focus Monitor: Live heatmap of what the LLM cares about
+🔒 Attention Lock: Pin semantic weights mid-flight
+🎛️ Vector Steering: Decompose tasks into eigenvectors & slide live
+⏪ Scrub-to-branch: Scrub time to explore parallel token universes
+
+This is what human-AI symbiosis actually looks like.
+
+Try the live web demo: https://github.com/chuanqisun/spaceship
+
+#AI #BuildInPublic #DevTools #FutureOfWork
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20typing%20prompts.%20Start%20steering%20thought%20vectors%20at%2060%20FPS%20%F0%9F%9A%80%0A%0ASpaceship%20IDE%20reimagines%20AI%20interaction%3A%0A%F0%9F%95%B9%EF%B8%8F%20Focus%20Monitor%20%28visualize%20LLM%20attention%29%0A%F0%9F%94%92%20Attention%20Lock%0A%E2%9A%A1%20Future%20Vector%20Steering%0A%0APure%20sci-fi%20workflow%3A%20https%3A//github.com/chuanqisun/spaceship)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+99%的人还在把AI当客服聊天，顶尖黑客已经在用“思维操纵杆”开飞船了。
+
+你是不是每天还在做这种低效轮询：憋一段几百字的Prompt，等十几秒吐字，发现跑偏了再痛苦重写？这种打字机时代的交互，正在吞噬你成倍的生产力。
+
+刚在GitHub爆火的 Spaceship IDE，彻底击碎了这种认知差。当端侧与芯片推理冲上 60 FPS，交互不该是聊天框，而是一架战斗机驾驶舱：
+
+🕹️ 视野监控（Focus Monitor）：实时看清模型当前注意力落在哪，直接揪出幻觉根源
+🔒 意图硬锁（Attention Lock）：强行锚定核心关键词，彻底驯服LLM不再瞎跑偏
+🎛️ 向量驾驶（Future Steering）：把输出目标分解成特征向量，拉动滑块实时变轨
+⏪ 进度条回滚（Scrubbing）：像拖动视频进度条一样，在生成途中随意探索平行世界
+
+纯前端跑在浏览器，自带 Cerebras / Gemini 极速体验。一人公司和超级个体的杠杆，拼的就是谁先换上下一代武器。
+
+开源地址：https://github.com/chuanqisun/spaceship
+
+#独立开发 #AI工具 #效率神器 #一人公司
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E5%82%BB%E5%82%BB%E6%95%B2%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BA%86%EF%BC%81%E8%BF%99%E6%89%8D%E6%98%AFAI%E4%BA%A4%E4%BA%92%E7%9A%84%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%20%F0%9F%95%B9%EF%B8%8F%0A%0ASpaceship%20IDE%20%E6%8A%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BD%93%E6%88%98%E6%9C%BA%E5%BC%80%EF%BC%9A%0A%E2%9C%85%20%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7AI%E6%B3%A8%E6%84%8F%E5%8A%9B%0A%E2%9C%85%20%E9%94%81%E5%AE%9A%E5%85%B3%E9%94%AE%E8%AF%AD%E4%B9%89%E7%A1%AC%E6%8E%A7%E8%BE%93%E5%87%BA%0A%E2%9C%85%2060FPS%E5%AE%9E%E6%97%B6%E6%BB%91%E5%9D%97%E5%BE%AE%E8%B0%83%E6%80%9D%E7%BB%B4%E5%90%91%E9%87%8F%0A%0A%E7%9B%B4%E6%8E%A5%E6%89%93%E7%A0%B4%E8%AE%A4%E7%9F%A5%E5%A2%99%EF%BC%9Ahttps%3A//github.com/chuanqisun/spaceship)**
+
+---
+
+
+---
+
+---
+
 ## 1. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - **分类领域**: `🤖 AI & Agent Skills` | **语言**: `TypeScript` | ⭐ **228,120** (249 stars today)
 - **官方介绍**: The open source coding agent.

@@ -2414,8 +2414,113 @@
       "url": "https://github.com/SWE-agent/mini-swe-agent",
       "source": "Trending (Python)",
       "posted": false
+    },
+    "erkamyaman/rust-anything": {
+      "date": "2026-11-21",
+      "stars": 6887,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "pytorch/torchtitan": {
+      "date": "2026-11-21",
+      "stars": 5934,
+      "url": "https://github.com/pytorch/torchtitan",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "phone-harness/phone-harness": {
+      "date": "2026-11-21",
+      "stars": 5401,
+      "url": "https://github.com/phone-harness/phone-harness",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "FlashML-org/FreeVideo": {
+      "date": "2026-11-21",
+      "stars": 3936,
+      "url": "https://github.com/FlashML-org/FreeVideo",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "tianma-if/edgeever": {
+      "date": "2026-11-21",
+      "stars": 3465,
+      "url": "https://github.com/tianma-if/edgeever",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "vllm-project/vllm-ascend": {
+      "date": "2026-11-21",
+      "stars": 3128,
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "mjmirza/app-store-compliance": {
+      "date": "2026-11-21",
+      "stars": 2939,
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "source": "Trending (All)",
+      "posted": false
+    },
+    "croffasia/itsaplan": {
+      "date": "2026-11-21",
+      "stars": 2454,
+      "url": "https://github.com/croffasia/itsaplan",
+      "source": "Trending (TypeScript)",
+      "posted": false
+    },
+    "Hut-hzf/ung220z-tool": {
+      "date": "2026-11-21",
+      "stars": 2104,
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "bookwjitchieni1986/blender-ai-mcp-addon": {
+      "date": "2026-11-21",
+      "stars": 1874,
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "awslabs/cli-agent-orchestrator": {
+      "date": "2026-11-21",
+      "stars": 1615,
+      "url": "https://github.com/awslabs/cli-agent-orchestrator",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "iamajmeena/neonclipping": {
+      "date": "2026-11-21",
+      "stars": 1393,
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "sybil-solutions/inference-optimisation-skill": {
+      "date": "2026-11-21",
+      "stars": 1385,
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "joshpuckett/allo": {
+      "date": "2026-11-21",
+      "stars": 1266,
+      "url": "https://github.com/joshpuckett/allo",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "chuanqisun/spaceship": {
+      "date": "2026-11-21",
+      "stars": 998,
+      "url": "https://github.com/chuanqisun/spaceship",
+      "source": "Search API (New Spikes)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-20T08:11:33.327160"
+  "last_run": "2026-11-21T08:04:31.461513"
 }

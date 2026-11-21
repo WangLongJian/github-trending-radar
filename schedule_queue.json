@@ -320,10 +320,15 @@
         "heat_score": 89291962,
         "scheduled_time": "2026-11-21 09:00:00 PST",
         "iso_time": "2026-11-21T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Data is the real moat for AI founders. But 90% of solo builders still waste 20+ hours a week fighting anti-bot Cloudflare screens and messy Selenium scripts.\n\nScrapling just flipped the game completely.\n\nIt’s an insanely fast, modern web scraping framework engineered to handle everything from a single raw request to enterprise-grade crawls without breaking a sweat.\n\nBefore:\n❌ Juggling 5 broken libraries (Puppeteer + Requests + BeautifulSoup)\n❌ Banned IPs and rate-limits after 50 pages\n❌ Unmaintainable messy boilerplate\n\nNow with Scrapling:\n✅ Undetected browser simulation built-in\n✅ Lightning-fast parsing pipeline\n✅ Scales from 1 URL to 1,000,000 effortlessly\n✅ Pure Pythonic leverage\n\nStop rebuilding the wheel. Grab your data and ship your AI product.\n\n🔗 https://github.com/D4Vinci/Scrapling\n\n#webscraping #python #developer #buildinpublic #solopreneur"
+        "content": "Data is the real moat for AI founders. But 90% of solo builders still waste 20+ hours a week fighting anti-bot Cloudflare screens and messy Selenium scripts.\n\nScrapling just flipped the game completely.\n\nIt’s an insanely fast, modern web scraping framework engineered to handle everything from a single raw request to enterprise-grade crawls without breaking a sweat.\n\nBefore:\n❌ Juggling 5 broken libraries (Puppeteer + Requests + BeautifulSoup)\n❌ Banned IPs and rate-limits after 50 pages\n❌ Unmaintainable messy boilerplate\n\nNow with Scrapling:\n✅ Undetected browser simulation built-in\n✅ Lightning-fast parsing pipeline\n✅ Scales from 1 URL to 1,000,000 effortlessly\n✅ Pure Pythonic leverage\n\nStop rebuilding the wheel. Grab your data and ship your AI product.\n\n🔗 https://github.com/D4Vinci/Scrapling\n\n#webscraping #python #developer #buildinpublic #solopreneur",
+        "thread_ids": [
+          "2124186133689164279"
+        ],
+        "tweet_url": "https://x.com/i/status/2124186133689164279",
+        "posted_at": "2026-11-21T17:00:14.899116+00:00"
       },
       {
         "repo": "affaan-m/ECC",

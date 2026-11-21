@@ -338,10 +338,15 @@
         "heat_score": 88605880,
         "scheduled_time": "2026-11-21 13:00:00 PST",
         "iso_time": "2026-11-21T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most devs use AI tools like expensive autocomplete.\n\nThe top 1% use them as autonomous software engineers.\n\nMeet ECC: The agent harness operating system that turns Claude Code, Cursor, Codex, and OpenCode into an unstoppable, self-correcting dev powerhouse.\n\nBefore ECC:\n❌ Endless context loss across files\n❌ Hallucinated dependencies & code slop\n❌ Babysitting every single terminal command\n\nAfter ECC:\n✅ Persistent skills & instincts across sessions\n✅ Research-first architectural validation\n✅ Built-in security guardrails & automated verification\n✅ 1 solo founder outbuilding a 10-person engineering team\n\nIf you want true extreme developer leverage in 2025, you don't need more prompts—you need an agent harness OS.\n\n🔗 Star the repo: https://github.com/affaan-m/ECC\n\n#AI #Coding #SoftwareEngineering #Solopreneur #CursorAI #Claude"
+        "content": "Most devs use AI tools like expensive autocomplete.\n\nThe top 1% use them as autonomous software engineers.\n\nMeet ECC: The agent harness operating system that turns Claude Code, Cursor, Codex, and OpenCode into an unstoppable, self-correcting dev powerhouse.\n\nBefore ECC:\n❌ Endless context loss across files\n❌ Hallucinated dependencies & code slop\n❌ Babysitting every single terminal command\n\nAfter ECC:\n✅ Persistent skills & instincts across sessions\n✅ Research-first architectural validation\n✅ Built-in security guardrails & automated verification\n✅ 1 solo founder outbuilding a 10-person engineering team\n\nIf you want true extreme developer leverage in 2025, you don't need more prompts—you need an agent harness OS.\n\n🔗 Star the repo: https://github.com/affaan-m/ECC\n\n#AI #Coding #SoftwareEngineering #Solopreneur #CursorAI #Claude",
+        "thread_ids": [
+          "2124246564034298313"
+        ],
+        "tweet_url": "https://x.com/i/status/2124246564034298313",
+        "posted_at": "2026-11-21T21:00:23.981229+00:00"
       },
       {
         "repo": "mattpocock/skills",

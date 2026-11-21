@@ -971,7 +971,7 @@
         "heat_score": 86902939,
         "scheduled_time": "2026-11-21 17:00:00 CST",
         "iso_time": "2026-11-21T17:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -981,7 +981,16 @@
           "没有任何使用门槛！它甚至直接支持作为 Claude Code 或 Cursor 的 AI Agent 技能插件。\n\nAI 在给你写业务代码时，就自动按照合规标准避开所有审核暗坑。",
           "一人公司出海的时间就是生命，千万别把精力耗在跟审核员扯皮上。\n\n建议每一个做移动端出海的开发者立刻 Star 收藏自查。\n\n#独立开发 #出海搞钱 #iOS开发 #GitHub"
         ],
-        "content": "搞独立开发或出海，最搞心态的不是写不出代码，而是苹果Google反复拒审，活活把上线窗口拖死。\n\n普通人傻乎乎一次次硬提，每次被拒改一次等三天，心态全崩；顶级玩家早就用自动化护栏，把合规拒审彻底做成“不可能事件”。\n\n刚在GitHub暴涨的这套开源武器直接打破认知差：\n\n💥 117种实战被拒模式清单及精准解决方案（4.3、隐私、内购全覆盖）\n💥 苹果Privacy Manifest与安卓Data Safety预检，避免暗坑\n💥 追踪全球95项合规死线（欧盟AI法案、DSA、COPPA一网打尽）\n💥 深度整合Claude Code等AI Agent，写代码时就自动规避违规\n\n完全开源，不管是个人独立出海还是出海团队，上线前过一遍省下至少半个月扯皮时间。\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#出海 #独立开发 #一人公司 #iOS开发 #GitHub"
+        "content": "搞独立开发或出海，最搞心态的不是写不出代码，而是苹果Google反复拒审，活活把上线窗口拖死。\n\n普通人傻乎乎一次次硬提，每次被拒改一次等三天，心态全崩；顶级玩家早就用自动化护栏，把合规拒审彻底做成“不可能事件”。\n\n刚在GitHub暴涨的这套开源武器直接打破认知差：\n\n💥 117种实战被拒模式清单及精准解决方案（4.3、隐私、内购全覆盖）\n💥 苹果Privacy Manifest与安卓Data Safety预检，避免暗坑\n💥 追踪全球95项合规死线（欧盟AI法案、DSA、COPPA一网打尽）\n💥 深度整合Claude Code等AI Agent，写代码时就自动规避违规\n\n完全开源，不管是个人独立出海还是出海团队，上线前过一遍省下至少半个月扯皮时间。\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#出海 #独立开发 #一人公司 #iOS开发 #GitHub",
+        "thread_ids": [
+          "2124065363394732079",
+          "2124065419027955851",
+          "2124065468516573565",
+          "2124065518542111004",
+          "2124065569788031482"
+        ],
+        "tweet_url": "https://x.com/i/status/2124065363394732079",
+        "posted_at": "2026-11-21T09:01:11.157376+00:00"
       },
       {
         "repo": "homeassistant-ai/ha-mcp",

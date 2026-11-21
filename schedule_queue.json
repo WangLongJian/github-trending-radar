@@ -302,10 +302,15 @@
         "heat_score": 89508838,
         "scheduled_time": "2026-11-20 21:00:00 PST",
         "iso_time": "2026-11-20T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Solo founders are quietly replacing $30k/mo dev teams with a single desktop window.\n\nMost devs are still copy-pasting code into ChatGPT like it's 2023.\n\nMeanwhile, OpenMausBot just dropped—an open-source Grok Bot & Cue alternative that turns your laptop into an autonomous AI company.\n\nEvery contact in your sidebar isn't a dead chat thread. It's a real agent running local Claude or Codex with:\n\n• Its own dedicated virtual machine / cloud computer\n• Real personality & assigned role\n• Connected apps to execute workflows\n• Human-in-the-loop: watch them work live & approve milestones\n\nZero vendor lock-in. 100% local-first control. Bring your own keys and models.\n\nThe leverage curve just shifted permanently. Run your own software factory today.\n\n🔗 https://github.com/milind-soni/OpenMausBot\n\n#OpenSource #AI #Solopreneur #BuildInPublic #DevTools"
+        "content": "Solo founders are quietly replacing $30k/mo dev teams with a single desktop window.\n\nMost devs are still copy-pasting code into ChatGPT like it's 2023.\n\nMeanwhile, OpenMausBot just dropped—an open-source Grok Bot & Cue alternative that turns your laptop into an autonomous AI company.\n\nEvery contact in your sidebar isn't a dead chat thread. It's a real agent running local Claude or Codex with:\n\n• Its own dedicated virtual machine / cloud computer\n• Real personality & assigned role\n• Connected apps to execute workflows\n• Human-in-the-loop: watch them work live & approve milestones\n\nZero vendor lock-in. 100% local-first control. Bring your own keys and models.\n\nThe leverage curve just shifted permanently. Run your own software factory today.\n\n🔗 https://github.com/milind-soni/OpenMausBot\n\n#OpenSource #AI #Solopreneur #BuildInPublic #DevTools",
+        "thread_ids": [
+          "2124004967761727569"
+        ],
+        "tweet_url": "https://x.com/i/status/2124004967761727569",
+        "posted_at": "2026-11-21T05:00:22.986335+00:00"
       },
       {
         "repo": "D4Vinci/Scrapling",
@@ -911,7 +916,7 @@
         "heat_score": 82704580,
         "scheduled_time": "2026-11-21 13:00:00 CST",
         "iso_time": "2026-11-21T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -921,7 +926,16 @@
           "完全不需要自己搭建昂贵且脆弱的爬虫集群，内置各种防封禁策略，5 行代码就能跑通。一人公司也能瞬间拥有全网情报监控和自动化数据清洗能力。",
           "立刻用它重构你的 RAG 和智能体工作流，用顶级的技术杠杆降维打击同行。建议点赞收藏防走丢！\n\n#AI工具 #独立开发 #GitHub #效率"
         ],
-        "content": "很多人的 AI Agent 之所以像个智障，根本不是大模型不行，而是你的投喂数据全是垃圾。\n\n普通人的傻做法：\n开着 Python 调 Selenium，遇到反爬抓瞎，熬夜写正则洗 HTML，最后喂给大模型的全是不相干的导航栏和广告脚本。\n\n顶级高手的十倍杠杆：\n直接用开源神器 Firecrawl，把整个互联网变成 AI 的干净外部大脑。\n\n它到底有多狠？\n1. 输入任意 URL，直接吐出极其干净的 LLM 专属 Markdown 格式\n2. 自动化深度递归抓取，整站知识库一键抽取\n3. 自带反反爬策略，告别代理池维护恶梦\n4. 打通 550+ 数据源，给 AI Agent 装上无死角天眼\n\n开源免费，提供完整 API，无论你是做一人公司、海外出海还是行业情报监控，5 分钟就能集成上线。\n\n打破信息茧房，技术杠杆直接拉满：\nhttps://github.com/firecrawl/firecrawl\n\n#独立开发 #AI工具 #GitHub精选 #效率提升"
+        "content": "很多人的 AI Agent 之所以像个智障，根本不是大模型不行，而是你的投喂数据全是垃圾。\n\n普通人的傻做法：\n开着 Python 调 Selenium，遇到反爬抓瞎，熬夜写正则洗 HTML，最后喂给大模型的全是不相干的导航栏和广告脚本。\n\n顶级高手的十倍杠杆：\n直接用开源神器 Firecrawl，把整个互联网变成 AI 的干净外部大脑。\n\n它到底有多狠？\n1. 输入任意 URL，直接吐出极其干净的 LLM 专属 Markdown 格式\n2. 自动化深度递归抓取，整站知识库一键抽取\n3. 自带反反爬策略，告别代理池维护恶梦\n4. 打通 550+ 数据源，给 AI Agent 装上无死角天眼\n\n开源免费，提供完整 API，无论你是做一人公司、海外出海还是行业情报监控，5 分钟就能集成上线。\n\n打破信息茧房，技术杠杆直接拉满：\nhttps://github.com/firecrawl/firecrawl\n\n#独立开发 #AI工具 #GitHub精选 #效率提升",
+        "thread_ids": [
+          "2124005018307330525",
+          "2124005073428815916",
+          "2124005121826906199",
+          "2124005171458191826",
+          "2124005222897127545"
+        ],
+        "tweet_url": "https://x.com/i/status/2124005018307330525",
+        "posted_at": "2026-11-21T05:01:23.560667+00:00"
       },
       {
         "repo": "homeassistant-ai/ha-mcp",

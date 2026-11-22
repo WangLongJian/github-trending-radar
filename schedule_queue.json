@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 338,
+    "backlog_count": 349,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -396,13 +396,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Getting rejected by App Store review is the ultimate solopreneur momentum killer.\n\nYou spend 3 weeks grinding an MVP, ship it, and Apple slaps you with a vague Guideline 4.3 rejection. Total radio silence for days.\n\nSomeone just built the cheat code: app-store-compliance.\n\nIt turns compliance into an automated pre-submission guard:\n\n✅ 117 documented rejection patterns & ready-to-use fixes\n✅ Auto-checks Apple Privacy Manifests & Google Data safety\n✅ Tracks 95 global regulatory deadlines (EU AI Act, DSA, COPPA)\n✅ Ready-to-use skill for AI coding agents (Claude Code / Cursor)\n\nStop letting arbitrary reviewer moods kill your launch. Plug this into your pipeline and ship with enterprise-grade armor.\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#iOSDev #IndieHacker #BuildInPublic #SoftwareEngineering"
+      },
+      {
+        "repo": "firecrawl/firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "stars": 204580,
+        "stars_today": "825 stars today",
+        "heat_score": 82704580,
+        "scheduled_time": "2026-11-22 13:00:00 PST",
+        "iso_time": "2026-11-22T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The brutal truth about 90% of AI agents today:\n\nThey fail because they're choking on raw HTML garbage and broken scraper scripts.\n\nSmart solo founders aren't wrestling with Puppeteer, headless Chrome, rotating proxies, or Cloudflare blocks anymore.\n\nThey just plug in Firecrawl.\n\nIt’s the ultimate data knowledge infrastructure:\n\n• Webpage to clean Markdown in 1 call\n• Deep crawling & subpage discovery\n• Bypasses anti-bot & dynamic JS renders\n• Unified search across 550+ web providers\n• Plug-and-play with LangChain, LlamaIndex & AutoGPT\n\nOne developer with this API has more data power than an entire 2018 web-scraping team.\n\nStop wasting 40 hours building brittle parsers. Steal the leverage instead:\nhttps://github.com/firecrawl/firecrawl\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur"
+      },
+      {
+        "repo": "homeassistant-ai/ha-mcp",
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "stars": 6838,
+        "stars_today": "790 stars today",
+        "heat_score": 79006838,
+        "scheduled_time": "2026-11-22 17:00:00 PST",
+        "iso_time": "2026-11-22T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop debugging 500 lines of YAML just to dim the living room lights.\n\nThe real leverage in 2025 isn’t writing more code—it’s letting autonomous agents run physical reality.\n\nMeet ha-mcp: an open-source bridge connecting Home Assistant to Claude & ChatGPT using the Model Context Protocol.\n\nBefore:\n❌ Spend 4 hours writing brittle automations\n❌ Manually debug endless YAML indentations\n❌ Siri still fails to understand context\n\nAfter:\n✅ \"Claude, shut down the studio, lower blinds, and alert me if the garage opens\"\n✅ 87 pre-built tools ready out of the box\n✅ AI inspects device states, generates automations, and runs them safely\n\nThis is pure solo-builder leverage. Turn your home into a fully programmable fortress with one prompt.\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#AI #HomeAutomation #ClaudeAI #MCP #OpenSource"
+      },
+      {
+        "repo": "Donchitos/Claude-Code-Game-Studios",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "stars": 31393,
+        "stars_today": "742 stars today",
+        "heat_score": 74231393,
+        "scheduled_time": "2026-11-22 21:00:00 PST",
+        "iso_time": "2026-11-22T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The solo-founder gaming studio is officially here.\n\nOld way: Hire 5 designers, 8 devs, and wait 9 months for a janky prototype.\nNew way: Run Claude Code Game Studios and command 49 AI agents from your terminal.\n\nJust dropped & gaining +740 stars/day:\n\n🔥 49 Specialized AI Agents (Art, Mechanics, Level Design, QA)\n⚡ 72 Workflow Skills orchestrating complex game logic\n🕹️ One-prompt prototyping: /prototype your idea & Claude writes the design brief, asks 3 questions, and builds a playable web game\n🚀 Step-by-step game loop polishing without writing engine boilerplate\n\nWe went from \"AI writes single scripts\" to \"AI runs an entire game production line.\"\n\nExtreme dev leverage is compounding fast.\n\nRepo: https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#GameDev #ClaudeCode #IndieGame #AIagents #BuildInPublic"
+      },
+      {
+        "repo": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "stars": 111901,
+        "stars_today": "728 stars today",
+        "heat_score": 72911901,
+        "scheduled_time": "2026-11-23 09:00:00 PST",
+        "iso_time": "2026-11-23T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Solo founders are quietly replacing entire dev agencies right now.\n\nMost devs are still copy-pasting code into ChatGPT like it's 2023.\n\nThe 1%? They orchestrate an entire fleet of autonomous agents simultaneously.\n\nMeet Orca: the ultimate command center for coding agents.\n\nInstead of paying insane markups, you plug in your own subscriptions and dispatch agents at scale:\n\n• Run Claude Code, Grok Bot & custom agents in parallel\n• Seamless desktop, mobile, and remote runtime execution\n• Cross-platform: macOS, Windows, Linux\n• Open-source (MIT) with 110k+ stars\n\nYou're no longer just writing code—you're the CEO of an autonomous software factory.\n\nCheck it out here:\nhttps://github.com/stablyai/orca\n\n#AI #Coding #Developers #OpenSource #Solopreneur"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 333,
+    "backlog_count": 345,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -1109,6 +1161,66 @@
           "真正的AI红利从来不是多打几行字，而是认知升维带来的十倍杠杆。建议所有做独立开发、想靠技术破局搞钱的同学赶紧去 Star 体验并加入工作流！#独立开发 #一人公司 #AI编程 #开源项目"
         ],
         "content": "很多人用AI写代码还在复制粘贴、修补屎山，这根本不叫提效，这叫给AI擦屁股。\n\nJetBrains刚刚开源的 ThinkRail，直接击碎了传统AI编程的认知差！\n\n普通做法：不断把代码喂给模型，上下文一超标，AI立马失忆胡言乱语。\n顶级杠杆：让IDE拥有「持久记忆」与「自进化能力」。\n\nThinkRail 的核心颠覆点：\n1️⃣ 规格驱动开发（SDD）：拒绝无脑盲写，先立规则再落代码，彻底告别AI屎山。\n2️⃣ 专属项目图谱：深度理解你的架构，用得越久，它越懂你的编程习惯。\n3️⃣ 动态工具拓展：AI不仅能写业务逻辑，还能根据你的痛点自动造轮子。\n\n门槛低到离谱，轻量级体验搭配官方生态背书，一人公司的技术壁垒直接被它拉平。\n\n别在低效卷代码了，学会驾驭新一代超级Agent才是唯一的破局解法！\n\n🔗 https://github.com/JetBrains/thinkrail\n\n#独立开发 #一人公司 #AI编程 #程序员 #开源项目"
+      },
+      {
+        "repo": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "stars": 8893,
+        "stars_today": "706 stars today",
+        "heat_score": 70608893,
+        "scheduled_time": "2026-11-23 09:00:00 CST",
+        "iso_time": "2026-11-23T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在把 AI 当聊天框，顶尖一人公司已经开始给 AI 员工发“电脑”了！开源项目 OpenBot 彻底撕开 Agent 落地认知差，一人顶一个技术团队 🧵\n\nhttps://github.com/CopilotKit/OpenBot",
+          "痛点太真实了：以前用 AI，你要当“搬运工”——复制提示词、拷贝代码、报错再贴回去。\n\n现在 OpenBot 直接给每个 AI 配备沙盒浏览器、文件系统和执行终端，它在独立系统里跑全流程，你只需验收。",
+          "它解决了一个致命难题：不可控。\n\nOpenBot 的核心逻辑是“操作前决策审批、操作后全链路留痕”。AI 每点一次鼠标、改一行代码都有据可查，彻底消灭 AI 瞎跑和幻觉风险。",
+          "上手门槛极低：支持 Mac 本地一键运行，也能用 Kubernetes 集群企业级私有化部署。\n\n模型任意接，完全开源免费，你的核心业务数据和代码资产绝不上交云端。",
+          "2025 年的杠杆，属于懂得调度 AI 员工的数字包工头。工具摆在眼前，差距只在执行力。赶紧 Star 收藏部署体验吧！\n\n#AI工作流 #一人公司 #开源工具"
+        ],
+        "content": "认知差正在拉开致命差距：普通人还在把 AI 当聊天框调教，顶尖的一人公司已经开始给 AI 员工发“电脑”了。\n\n刚在 GitHub 爆火的 OpenBot，直接给 Agent 落地撕开了一个巨大的口子：\n\n这不是玩具级插件，而是给每个 AI 分配一台专属虚拟主机——包含独立浏览器、文件管理和工具链。让 AI 像真实员工一样打开网页查资料、写代码、操作文件、自测交付。\n\n普通做法 vs 10倍杠杆：\n❌ 普通人：在网页对话框里疯狂复制粘贴代码，人工纠错，身心俱疲。\n✅ 破局者：搭建 OpenBot 协作空间，派发业务目标，AI 协同在沙盒系统里跑完所有流程。\n\n更狠的是它完全开源、支持私有化部署（甚至提供 Mac 本地运行版），底层模型随意切换，行动事前审批、事后完整留痕，数据全在自己手里。\n\n2025 年最大的红利，就是把你从操作工变成调度几十个 AI 员工的数字包工头。工具已经开源，别再拿人力当耗材了。\n\n代码地址：https://github.com/CopilotKit/OpenBot\n\n#AI工作流 #一人公司 #独立开发 #开源神器 #搞钱认知"
+      },
+      {
+        "repo": "tradermonty/claude-trading-skills",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "stars": 5821,
+        "stars_today": "706 stars today",
+        "heat_score": 70605821,
+        "scheduled_time": "2026-11-23 13:00:00 CST",
+        "iso_time": "2026-11-23T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "散户亏钱的根源，是你在凭情绪赌博，而机构在用流水线决策。今天爆火的开源项目 claude-trading-skills，把 Claude Code 直接改造成你的专属华尔街交易团队！https://github.com/tradermonty/claude-trading-skills 🧵",
+          "普通人的傻做法：每天开几十个标签页盯盘，看大V情绪化喊单，不仅耗费三四个小时，最后还会心态崩盘追高被套。而顶级交易员的杠杆，永远是靠系统化的决策纪律。",
+          "这个项目不是无脑买卖机器人，而是帮你干掉80%枯燥研究：一键抓取宏观经济日历、自动化筛查K线突破形态、严格执行仓位测算，并输出复盘日志。真正把机构级流程握在手里。",
+          "没有任何使用门槛，直接在本地终端加载 Skills 即可。代码完全开源，不需要把敏感交易数据上传给第三方平台，零成本为你的投资建立坚固壁垒。",
+          "把时间花在核心决策上，把繁琐分析交给AI。别再肉身硬抗算法机构，赶紧收藏跑起来！#ClaudeCode #AI交易 #搞钱 #量化"
+        ],
+        "content": "散户亏钱的根源，是你在凭情绪赌博，而机构在用流水线决策。\n\n今天 GitHub 狂飙 700+ 星的 claude-trading-skills，直接打碎了华尔街的信息壁垒。它把 Claude Code 深度打磨成了专属独立投资者的全套武器库。\n\n普通人怎么炒股？每天盯盘4小时，开几十个网页看财报、看K线、听所谓大V喊单，最后心态崩盘被套。\n\n顶级高手的10倍杠杆玩法：\n把市场分析、财报日历、多因子选股和风控框架，全部打包成 Claude Skills。\n\n它不替你盲目无脑买卖，而是替你干掉80%枯燥繁杂的案头研究：\n- 自动化宏观经济日历与波动预警\n- 技术图表扫描与潜力股初筛\n- 严格的仓位测算与复盘日志沉淀\n\n零门槛接入命令行，不把个人隐私拱手让人。真正的一人公司级金融杠杆，赶紧收录进你的工具箱。\n\n🔗 源码：https://github.com/tradermonty/claude-trading-skills\n\n#炒股 #ClaudeCode #量化交易 #一人公司 #搞钱"
+      },
+      {
+        "repo": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "stars": 46789,
+        "stars_today": "675 stars today",
+        "heat_score": 67546789,
+        "scheduled_time": "2026-11-23 17:00:00 CST",
+        "iso_time": "2026-11-23T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在为租不起几万块的显卡发愁，顶级极客已经在破烂电脑上跑千亿大模型了。开源核弹 colibri 击碎算力认知差：纯C编写、零依赖，用普通SSD跑顶尖MoE模型！\n\n项目直达：https://github.com/JustVugg/colibri 🧵",
+          "痛点太痛了：想在本地跑大模型，动辄需要80G大显存，云服务器贵得肉疼，搭环境还要被各种CUDA和Python依赖折磨崩溃。普通开发者的预算全被算力吃光，根本谈不上单人创业。",
+          "colibri 核心原理极度暴力：MoE模型每次只激活少数专家参数。它把核心路由器放在普通内存，把庞大的专家层直接放到SSD里按需高速串流读取，硬生生把显卡显存门槛降到了零！",
+          "不仅架构极简，而且全主流覆盖：DeepSeek V4、GLM-5.3、Kimi K3、Qwen 统统开箱即用。单模型家族单文件搞定，不需要你折腾任何环境，拉下来就能跑。",
+          "算力壁垒被极简代码击穿时，就是超级个体爆发的红利期。赶紧把你的吃灰电脑改造成私有AI超级工作站，彻底甩掉云厂商账单！\n\n#大模型 #独立开发 #开源项目 #AI应用"
+        ],
+        "content": "认知差瞬间击碎：普通人还在为租不起 A100 哀嚎，顶级极客已经在破烂笔记本上跑千亿 MoE 模型了。\n\nGitHub 刚刚狂揽 4.6 万星的开源核弹 —— colibri：\n\n痛点太真实了：\n你想在本地做独立开发、跑最新开源大模型，结果动辄需要 80G 显存，买不起、租很贵，配置环境还被 CUDA 依赖逼疯。\n\ncolibri 直接掀桌子：\n✅ 纯 C 编写，零第三方依赖，单文件极简架构\n✅ 彻底打破显存限制：将活跃核心常驻内存，专家参数按需从 SSD 闪电串流\n✅ 完美兼容 DeepSeek V4、GLM-5、Kimi K3、Qwen 等顶尖模型\n✅ 零显卡门槛，普通电脑直接拉满一人公司算力杠杆\n\n技术壁垒一旦被极简工程击穿，就是超级个体收割红利的时刻。\n\n项目地址：https://github.com/JustVugg/colibri\n\n#大模型 #独立开发 #开源项目 #一人公司 #AI创业"
       }
     ]
   }

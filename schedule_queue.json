@@ -356,10 +356,15 @@
         "heat_score": 87907603,
         "scheduled_time": "2026-11-21 17:00:00 PST",
         "iso_time": "2026-11-21T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop building AI slop. It's time for real engineering leverage.\n\nMost devs got sucked into \"vibe coding\"—letting autonomous agents hallucinate spaghetti code until production breaks. When frameworks try to own the whole process, you lose full control.\n\nTypeScript legend Matt Pocock just open-sourced his raw `.agents` directory:\n\nBefore: Prompting bloated wrappers that fight your architecture.\nAfter: Modular, surgical agent skills you fully own and adapt.\n\n⚡️ Why this changes everything:\n• Micro-skills instead of bloated monolithic frameworks\n• Model-agnostic: bring Claude 3.7, GPT-4o, or local weights\n• 30-sec copy-paste workflow via skills.sh\n• Battle-tested on production codebases\n\nSolo builders just got a 10x multiplier.\n\n👉 Check the repo: https://github.com/mattpocock/skills\n\n#DeveloperLeverage #AIEngineering #BuildInPublic #OpenSource"
+        "content": "Stop building AI slop. It's time for real engineering leverage.\n\nMost devs got sucked into \"vibe coding\"—letting autonomous agents hallucinate spaghetti code until production breaks. When frameworks try to own the whole process, you lose full control.\n\nTypeScript legend Matt Pocock just open-sourced his raw `.agents` directory:\n\nBefore: Prompting bloated wrappers that fight your architecture.\nAfter: Modular, surgical agent skills you fully own and adapt.\n\n⚡️ Why this changes everything:\n• Micro-skills instead of bloated monolithic frameworks\n• Model-agnostic: bring Claude 3.7, GPT-4o, or local weights\n• 30-sec copy-paste workflow via skills.sh\n• Battle-tested on production codebases\n\nSolo builders just got a 10x multiplier.\n\n👉 Check the repo: https://github.com/mattpocock/skills\n\n#DeveloperLeverage #AIEngineering #BuildInPublic #OpenSource",
+        "thread_ids": [
+          "2124306922900017507"
+        ],
+        "tweet_url": "https://x.com/i/status/2124306922900017507",
+        "posted_at": "2026-11-22T01:00:14.757391+00:00"
       },
       {
         "repo": "NVIDIA/SkillEvaluator",
@@ -1010,7 +1015,7 @@
         "heat_score": 79006838,
         "scheduled_time": "2026-11-22 09:00:00 CST",
         "iso_time": "2026-11-22T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1020,7 +1025,16 @@
           "完全无需重学开发，直接通过 MCP 协议挂接本地 HA。\n\n对 AI 说“只要我不在家且有人按门铃，就自动截图发我”，它秒级生成并生效，极客的贾维斯直接落地！",
           "生产力工具的终局就是抹平配置壁垒，让你专注享受结果。\n\n赶紧把家里的旧自动化全删了，接上大模型体验下一代智能生活！\n\n#AI #智能家居 #HomeAssistant #MCP"
         ],
-        "content": "你的智能家居，是不是还在靠手敲反人类的 YAML 配置文件苟延残喘？\n\n普通玩家为了搞个“回家自动开灯+调节空调”，折腾一整个周末查语法、改配置，最后因为一个空格缩进全盘崩溃。\n\n顶级玩家已经把 Home Assistant 全盘托付给 AI 了！GitHub 狂揽近 7000 星的 ha-mcp 彻底击碎了智能家居的配置壁垒：\n\n把 Claude、ChatGPT 通过 Model Context Protocol (MCP) 原生接入 Home Assistant，赋予大模型整整 86 个现成设备控制与自动化工具。\n\n以前：查文档、配实体 ID、写正则、排查报错。\n现在：直接对 Claude 说一句“晚上如果我人在书房且温度低于20度，自动开暖风并把灯调成暖黄”，AI 自己调工具写逻辑、验配置、瞬间部署上线。\n\n技术门槛被彻底抹平，属于极客的贾维斯真正降临在每个人家里。认知差抹平就是现在，赶紧收下！\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#人工智能 #HomeAssistant #智能家居 #Claude #MCP"
+        "content": "你的智能家居，是不是还在靠手敲反人类的 YAML 配置文件苟延残喘？\n\n普通玩家为了搞个“回家自动开灯+调节空调”，折腾一整个周末查语法、改配置，最后因为一个空格缩进全盘崩溃。\n\n顶级玩家已经把 Home Assistant 全盘托付给 AI 了！GitHub 狂揽近 7000 星的 ha-mcp 彻底击碎了智能家居的配置壁垒：\n\n把 Claude、ChatGPT 通过 Model Context Protocol (MCP) 原生接入 Home Assistant，赋予大模型整整 86 个现成设备控制与自动化工具。\n\n以前：查文档、配实体 ID、写正则、排查报错。\n现在：直接对 Claude 说一句“晚上如果我人在书房且温度低于20度，自动开暖风并把灯调成暖黄”，AI 自己调工具写逻辑、验配置、瞬间部署上线。\n\n技术门槛被彻底抹平，属于极客的贾维斯真正降临在每个人家里。认知差抹平就是现在，赶紧收下！\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#人工智能 #HomeAssistant #智能家居 #Claude #MCP",
+        "thread_ids": [
+          "2124306970291417365",
+          "2124307025224245417",
+          "2124307073957781761",
+          "2124307123647770960",
+          "2124307175199985791"
+        ],
+        "tweet_url": "https://x.com/i/status/2124306970291417365",
+        "posted_at": "2026-11-22T01:01:14.927240+00:00"
       },
       {
         "repo": "Donchitos/Claude-Code-Game-Studios",

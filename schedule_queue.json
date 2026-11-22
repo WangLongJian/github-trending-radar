@@ -374,10 +374,15 @@
         "heat_score": 87303057,
         "scheduled_time": "2026-11-21 21:00:00 PST",
         "iso_time": "2026-11-21T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most AI agents fail in production not because LLMs are dumb, but because their skills and plugins are complete slop.\n\nNVIDIA just open-sourced the fix: SkillEvaluator.\n\nBefore: You glue 15 tool plugins into an agent, cross your fingers, and watch it hallucinate in loops when tools conflict.\n\nNow: Full multi-tier unit testing for agent capabilities.\n\nWhat it handles:\n• Automated synthetic evaluation dataset generation\n• Semantic overlap detection (stops redundant tool calls)\n• Multi-tier quality & security gating in CI/CD\n• Live impact tracking on agent reasoning behavior\n\nIf you're building solo agent software factories, this is the missing QA layer you needed.\n\nCheck it out: https://github.com/NVIDIA/SkillEvaluator\n\n#AIAgents #NVIDIA #OpenSource #SoftwareEngineering #DevTools"
+        "content": "Most AI agents fail in production not because LLMs are dumb, but because their skills and plugins are complete slop.\n\nNVIDIA just open-sourced the fix: SkillEvaluator.\n\nBefore: You glue 15 tool plugins into an agent, cross your fingers, and watch it hallucinate in loops when tools conflict.\n\nNow: Full multi-tier unit testing for agent capabilities.\n\nWhat it handles:\n• Automated synthetic evaluation dataset generation\n• Semantic overlap detection (stops redundant tool calls)\n• Multi-tier quality & security gating in CI/CD\n• Live impact tracking on agent reasoning behavior\n\nIf you're building solo agent software factories, this is the missing QA layer you needed.\n\nCheck it out: https://github.com/NVIDIA/SkillEvaluator\n\n#AIAgents #NVIDIA #OpenSource #SoftwareEngineering #DevTools",
+        "thread_ids": [
+          "2124367329614266705"
+        ],
+        "tweet_url": "https://x.com/i/status/2124367329614266705",
+        "posted_at": "2026-11-22T05:00:16.836423+00:00"
       },
       {
         "repo": "mjmirza/app-store-compliance",
@@ -1044,7 +1049,7 @@
         "heat_score": 74231393,
         "scheduled_time": "2026-11-22 13:00:00 CST",
         "iso_time": "2026-11-22T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1054,7 +1059,16 @@
           "零开发门槛上手：甚至不需要复杂的环境配置，只要装好 Claude Code 并拉取代码，直接打字描述脑洞。小步快跑，持续让 AI 迭代优化，你就是坐拥几十号人的总制作人。",
           "一人公司的终极红利，就是把认知差转化为降维打击。今天就去把脑海里积灰已久的创意变成可赚钱的产品！立即体验：https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #开源"
         ],
-        "content": "认知差瞬间被击碎！普通独立开发者还在通宵调 bug、学三维引擎，顶级玩家已经在终端里雇佣了“49位AI员工”。\n\n今天 GitHub 炸裂标星破 3.1 万的项目：Claude-Code-Game-Studios。\n\n它不是玩具，而是把整个游戏工作室的架构完全复刻进了 Claude Code：\n• 49 个全能角色：主策、逻辑开发、美术指导、数值平衡、QA 测试全包揽\n• 72 套工业级开发技能栈：从原型推演到一页纸策划案，再到可运行的代码交付\n• 极致简单：只需终端输入 `/prototype 一款黄昏才能钓到稀有鱼的游戏`，它自动向你提问定调，几分钟吐出可玩网页 Demo。\n\n以前做游戏：学 3 年引擎、找美术兼职、烧光积蓄胎死腹中。\n现在做游戏：一句话下指令，AI 军团分工协作，你只做拍板的主理人。\n\n一人公司的终极形态不是一个人干 10 份活，而是驾驭 50 个高智能 Agent 替你打工。零门槛上手，立刻把你的脑洞变现！\n\n🔗 https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #副业搞钱 #开源项目"
+        "content": "认知差瞬间被击碎！普通独立开发者还在通宵调 bug、学三维引擎，顶级玩家已经在终端里雇佣了“49位AI员工”。\n\n今天 GitHub 炸裂标星破 3.1 万的项目：Claude-Code-Game-Studios。\n\n它不是玩具，而是把整个游戏工作室的架构完全复刻进了 Claude Code：\n• 49 个全能角色：主策、逻辑开发、美术指导、数值平衡、QA 测试全包揽\n• 72 套工业级开发技能栈：从原型推演到一页纸策划案，再到可运行的代码交付\n• 极致简单：只需终端输入 `/prototype 一款黄昏才能钓到稀有鱼的游戏`，它自动向你提问定调，几分钟吐出可玩网页 Demo。\n\n以前做游戏：学 3 年引擎、找美术兼职、烧光积蓄胎死腹中。\n现在做游戏：一句话下指令，AI 军团分工协作，你只做拍板的主理人。\n\n一人公司的终极形态不是一个人干 10 份活，而是驾驭 50 个高智能 Agent 替你打工。零门槛上手，立刻把你的脑洞变现！\n\n🔗 https://github.com/Donchitos/Claude-Code-Game-Studios\n\n#独立开发 #AI游戏 #一人公司 #副业搞钱 #开源项目",
+        "thread_ids": [
+          "2124367391337726164",
+          "2124367447688188309",
+          "2124367498426593412",
+          "2124367547751616881",
+          "2124367598439801320"
+        ],
+        "tweet_url": "https://x.com/i/status/2124367391337726164",
+        "posted_at": "2026-11-22T05:01:20.666835+00:00"
       },
       {
         "repo": "stablyai/orca",

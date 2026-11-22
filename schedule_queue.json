@@ -410,10 +410,15 @@
         "heat_score": 82704580,
         "scheduled_time": "2026-11-22 13:00:00 PST",
         "iso_time": "2026-11-22T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The brutal truth about 90% of AI agents today:\n\nThey fail because they're choking on raw HTML garbage and broken scraper scripts.\n\nSmart solo founders aren't wrestling with Puppeteer, headless Chrome, rotating proxies, or Cloudflare blocks anymore.\n\nThey just plug in Firecrawl.\n\nIt’s the ultimate data knowledge infrastructure:\n\n• Webpage to clean Markdown in 1 call\n• Deep crawling & subpage discovery\n• Bypasses anti-bot & dynamic JS renders\n• Unified search across 550+ web providers\n• Plug-and-play with LangChain, LlamaIndex & AutoGPT\n\nOne developer with this API has more data power than an entire 2018 web-scraping team.\n\nStop wasting 40 hours building brittle parsers. Steal the leverage instead:\nhttps://github.com/firecrawl/firecrawl\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur"
+        "content": "The brutal truth about 90% of AI agents today:\n\nThey fail because they're choking on raw HTML garbage and broken scraper scripts.\n\nSmart solo founders aren't wrestling with Puppeteer, headless Chrome, rotating proxies, or Cloudflare blocks anymore.\n\nThey just plug in Firecrawl.\n\nIt’s the ultimate data knowledge infrastructure:\n\n• Webpage to clean Markdown in 1 call\n• Deep crawling & subpage discovery\n• Bypasses anti-bot & dynamic JS renders\n• Unified search across 550+ web providers\n• Plug-and-play with LangChain, LlamaIndex & AutoGPT\n\nOne developer with this API has more data power than an entire 2018 web-scraping team.\n\nStop wasting 40 hours building brittle parsers. Steal the leverage instead:\nhttps://github.com/firecrawl/firecrawl\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering #Solopreneur",
+        "thread_ids": [
+          "2124608961278247000"
+        ],
+        "tweet_url": "https://x.com/i/status/2124608961278247000",
+        "posted_at": "2026-11-22T21:00:26.677178+00:00"
       },
       {
         "repo": "homeassistant-ai/ha-mcp",

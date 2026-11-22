@@ -392,10 +392,15 @@
         "heat_score": 86902939,
         "scheduled_time": "2026-11-22 09:00:00 PST",
         "iso_time": "2026-11-22T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Getting rejected by App Store review is the ultimate solopreneur momentum killer.\n\nYou spend 3 weeks grinding an MVP, ship it, and Apple slaps you with a vague Guideline 4.3 rejection. Total radio silence for days.\n\nSomeone just built the cheat code: app-store-compliance.\n\nIt turns compliance into an automated pre-submission guard:\n\n✅ 117 documented rejection patterns & ready-to-use fixes\n✅ Auto-checks Apple Privacy Manifests & Google Data safety\n✅ Tracks 95 global regulatory deadlines (EU AI Act, DSA, COPPA)\n✅ Ready-to-use skill for AI coding agents (Claude Code / Cursor)\n\nStop letting arbitrary reviewer moods kill your launch. Plug this into your pipeline and ship with enterprise-grade armor.\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#iOSDev #IndieHacker #BuildInPublic #SoftwareEngineering"
+        "content": "Getting rejected by App Store review is the ultimate solopreneur momentum killer.\n\nYou spend 3 weeks grinding an MVP, ship it, and Apple slaps you with a vague Guideline 4.3 rejection. Total radio silence for days.\n\nSomeone just built the cheat code: app-store-compliance.\n\nIt turns compliance into an automated pre-submission guard:\n\n✅ 117 documented rejection patterns & ready-to-use fixes\n✅ Auto-checks Apple Privacy Manifests & Google Data safety\n✅ Tracks 95 global regulatory deadlines (EU AI Act, DSA, COPPA)\n✅ Ready-to-use skill for AI coding agents (Claude Code / Cursor)\n\nStop letting arbitrary reviewer moods kill your launch. Plug this into your pipeline and ship with enterprise-grade armor.\n\n🔗 https://github.com/mjmirza/app-store-compliance\n\n#iOSDev #IndieHacker #BuildInPublic #SoftwareEngineering",
+        "thread_ids": [
+          "2124548540722712758"
+        ],
+        "tweet_url": "https://x.com/i/status/2124548540722712758",
+        "posted_at": "2026-11-22T17:00:20.770079+00:00"
       },
       {
         "repo": "firecrawl/firecrawl",

@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 349,
+    "backlog_count": 359,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -468,13 +468,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Solo founders are quietly replacing entire dev agencies right now.\n\nMost devs are still copy-pasting code into ChatGPT like it's 2023.\n\nThe 1%? They orchestrate an entire fleet of autonomous agents simultaneously.\n\nMeet Orca: the ultimate command center for coding agents.\n\nInstead of paying insane markups, you plug in your own subscriptions and dispatch agents at scale:\n\n• Run Claude Code, Grok Bot & custom agents in parallel\n• Seamless desktop, mobile, and remote runtime execution\n• Cross-platform: macOS, Windows, Linux\n• Open-source (MIT) with 110k+ stars\n\nYou're no longer just writing code—you're the CEO of an autonomous software factory.\n\nCheck it out here:\nhttps://github.com/stablyai/orca\n\n#AI #Coding #Developers #OpenSource #Solopreneur"
+      },
+      {
+        "repo": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "stars": 6650,
+        "stars_today": "722 stars today",
+        "heat_score": 72206650,
+        "scheduled_time": "2026-11-23 13:00:00 PST",
+        "iso_time": "2026-11-23T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop copy-pasting AI slop into dumb text editors.\n\nJetBrains just stealth-dropped ThinkRail — and it completely flips AI-assisted coding on its head.\n\nCursor gives you inline completions. ThinkRail gives you an autonomous engineering partner that literally gets smarter the more you build.\n\nBefore:\n- Context window amnesia after 20 prompts\n- Re-explaining your architecture every morning\n- Fragile AI hallucinations breaking your repo\n\nWith ThinkRail:\n✅ Spec-Driven Development: Translates intent into durable project specs\n✅ Persistent spec graph: Agent retains architectural memory permanently\n✅ Self-extending IDE: Generates custom tools & skills on the fly\n✅ Isolated workspaces: Real agentic execution without polluting your git history\n\nSolo developers just gained the leverage of a 10-person dev team.\n\nCheck it out: https://github.com/JetBrains/thinkrail\n\n#DevTools #AI #JetBrains #VibeCoding #BuildInPublic"
+      },
+      {
+        "repo": "CopilotKit/OpenBot",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "stars": 8893,
+        "stars_today": "706 stars today",
+        "heat_score": 70608893,
+        "scheduled_time": "2026-11-23 17:00:00 PST",
+        "iso_time": "2026-11-23T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most people are still playing with chatbots.\n\nSmart founders are spinning up an entire digital workforce on a single machine.\n\nMeet OpenBot: an open-source platform giving AI coworkers their own dedicated computer—a sandboxed browser, filesystem, terminal, and GUI tools.\n\nBefore:\n• Tab switching 50 times an hour\n• Babying copy-paste prompts\n• One task at a time manually\n\nAfter:\n• Spawn 10 autonomous agents\n• Every action verified BEFORE it executes\n• Full action replay & audit logs for enterprise\n• Plug in Claude 3.7, GPT-4o, or local Ollama models\n\nThis is what real solo-founder leverage looks like. The 1-person billion-dollar company stack just got a massive upgrade.\n\nSelf-host it on k8s or run it locally: https://github.com/CopilotKit/OpenBot\n\n#AI #OpenSource #SoftwareEngineering #BuildInPublic #DevTools"
+      },
+      {
+        "repo": "tradermonty/claude-trading-skills",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "stars": 5821,
+        "stars_today": "706 stars today",
+        "heat_score": 70605821,
+        "scheduled_time": "2026-11-23 21:00:00 PST",
+        "iso_time": "2026-11-23T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most traders burn 3 hours a day scrolling Twitter, checking 15 tabs, and making emotional impulse trades.\n\nTop tech builders don't trade manually. They build automated decision engines.\n\nClaude Trading Skills just turned Claude Code into an elite personal trading assistant:\n\n❌ Before: Clunky stock screeners, endless tab switching, zero disciplined journaling\n✅ After: Ask Claude to run technical charting, macro calendar impact, and strict risk-check routines in seconds\n\nWhat it unlocks:\n• Automated equity screener & technical charts\n• Macro event impact breakdown\n• Disciplined trade planning & risk checklists\n• Zero AI slop — pure workflow leverage\n\n5.8k stars and exploding right now.\n\nFork it here: https://github.com/tradermonty/claude-trading-skills\n\n#AI #Trading #BuildInPublic #ClaudeCode"
+      },
+      {
+        "repo": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "stars": 46789,
+        "stars_today": "675 stars today",
+        "heat_score": 67546789,
+        "scheduled_time": "2026-11-24 09:00:00 PST",
+        "iso_time": "2026-11-24T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop renting $10,000/mo cloud clusters just to run frontier models. The AI infra monopoly is crumbling.\n\nColibrì is peak engineer leverage: running massive hundreds-of-billions MoE models on the hardware you ALREADY own.\n\nHow? MoE only activates a tiny fraction of weights per token. Colibrì keeps that core in RAM and streams experts straight off your disk.\n\nBefore:\n❌ Burn $3k/mo on cloud H100 instances\n❌ Deal with CUDA dependency hell & Python bloat\n\nAfter:\n✅ 100% Pure C, single-file engine\n✅ Zero external dependencies\n✅ Runs frontier MoE (GLM, Mistral) on raw disk\n✅ Total data sovereignty on your local machine\n\nThis is how solo founders build empires without venture debt.\n\nCheck the code: https://github.com/JustVugg/colibri\n\n#OpenSource #AI #BuildInPublic #LocalLLM #Engineering"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 345,
+    "backlog_count": 355,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -1277,6 +1329,86 @@
           "算力壁垒被极简代码击穿时，就是超级个体爆发的红利期。赶紧把你的吃灰电脑改造成私有AI超级工作站，彻底甩掉云厂商账单！\n\n#大模型 #独立开发 #开源项目 #AI应用"
         ],
         "content": "认知差瞬间击碎：普通人还在为租不起 A100 哀嚎，顶级极客已经在破烂笔记本上跑千亿 MoE 模型了。\n\nGitHub 刚刚狂揽 4.6 万星的开源核弹 —— colibri：\n\n痛点太真实了：\n你想在本地做独立开发、跑最新开源大模型，结果动辄需要 80G 显存，买不起、租很贵，配置环境还被 CUDA 依赖逼疯。\n\ncolibri 直接掀桌子：\n✅ 纯 C 编写，零第三方依赖，单文件极简架构\n✅ 彻底打破显存限制：将活跃核心常驻内存，专家参数按需从 SSD 闪电串流\n✅ 完美兼容 DeepSeek V4、GLM-5、Kimi K3、Qwen 等顶尖模型\n✅ 零显卡门槛，普通电脑直接拉满一人公司算力杠杆\n\n技术壁垒一旦被极简工程击穿，就是超级个体收割红利的时刻。\n\n项目地址：https://github.com/JustVugg/colibri\n\n#大模型 #独立开发 #开源项目 #一人公司 #AI创业"
+      },
+      {
+        "repo": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "stars": 140147,
+        "stars_today": "660 stars today",
+        "heat_score": 66140147,
+        "scheduled_time": "2026-11-23 21:00:00 CST",
+        "iso_time": "2026-11-23T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在把几十万行代码硬塞进上下文烧Token，顶级黑客早把整个系统压成一张确定性图谱了。开源神器 Graphify 刚出就爆了，一人公司必须吃透的十倍杠杆：https://github.com/Graphify-Labs/graphify 🧵",
+          "痛点太真实了：每次问AI改bug，不仅要把代码、SQL表结构、需求文档来回倒腾，几万Token瞬间烧光，换来的往往还是胡编乱造的函数。向量检索在庞大代码库面前根本就是玩具。",
+          "Graphify彻底解决了Karpathy式的混沌堆放痛点：不管是代码、PDF、架构截图还是草稿，通过确定性AST与视觉提取，自动编织出全局双向链接，Token消耗直接暴跌71.5倍！",
+          "产物爽到飞起：敲一行 /graphify，秒级生成可交互可视化HTML、带双链的Obsidian知识库，还有结构化的全局上帝节点报告，跨会话调用完全不需要重新读文件。",
+          "门槛极低：Python 3.10+配合 Claude Code 或 Cursor 就能无缝跑起来。立即抛弃昂贵而愚蠢的纯文本暴力检索，用结构化认知武装你的独立开发兵工厂。\n\n#独立开发 #AI工具 #ClaudeCode #程序员副业"
+        ],
+        "content": "这就是顶级黑客与普通码农的认知差距：你还在为每次塞入20万Token的代码库心疼API账单，高手早把整个系统压成一张超轻量知识图谱了。\n\n普通做法：\n❌ 疯狂堆RAG向量库，召回一堆垃圾AI幻觉\n❌ 每次提问重扫全库，钱包被Token烧穿\n❌ 架构图、PDF需求、SQL表结构完全割裂\n\n顶级解法（Graphify）：\n✅ 71.5倍Token极限压缩，一次构建永久复用\n✅ 确定性AST解析+ Claude视觉，白板草图也能连进拓扑图\n✅ 一键直出可交互网页、Obsidian双链库、维基式文档\n✅ 本地直接运行，支持Claude Code/Cursor/Gemini\n\n一人公司搞钱的本质是极端杠杆。别再当API供应商的接盘侠，把工程认知打入底层结构。\n\n传送门：https://github.com/Graphify-Labs/graphify\n\n#独立开发 #AI编程 #出海搞钱 #ClaudeCode"
+      },
+      {
+        "repo": "FlashML-org/FreeToken",
+        "url": "https://github.com/FlashML-org/FreeToken",
+        "stars": 16299,
+        "stars_today": "653 stars today",
+        "heat_score": 65316299,
+        "scheduled_time": "2026-11-24 09:00:00 CST",
+        "iso_time": "2026-11-24T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "击碎认知差：别再月付几千刀给云厂商交 API 保护费了！FreeToken 让你用普通家用游戏电脑，直接跑动 290B+ 顶级 MoE 大模型。一人公司的算力平权正式到来：https://github.com/FlashML-org/FreeToken 🧵",
+          "普通人的做法：为了跑大模型盲目租用昂贵的云端八卡集群，项目还没盈利，现金流先被算力账单榨干。高手做法：利用异构协同架构，榨干手头现有硬件，把运行成本打到逼近为零。",
+          "FreeToken 最强的地方在于它的边缘自适应引擎。它不再死磕单卡显存，而是将你主机的 GPU、CPU 以及系统内存全部融合成统一内存池，动态调度 MoE 专家权重，告别卡顿。",
+          "对独立开发者和极客来说，这意味着什么？本地拥有私密、超强、无限调用的顶级智能中枢。不限速率、不担心数据泄露，用一台台式机搭建你自己的超级生产力工厂。",
+          "真正的技术杠杆，就是用白菜价的成本榨出顶级数据中心的效果。赶紧 Star 收藏部署体验，开启本地无限推理。 #AI开发 #开源项目 #独立开发 #LocalLLM"
+        ],
+        "content": "认知差往往决定了你的利润空间。大部分人还在按月给海外云厂商烧几千刀 API 费用，顶尖的极客已经用旧游戏本跑起 290B+ 的超级大模型了！\n\nGitHub 今日爆火 1.6 万星的神器 FreeToken 彻底击碎了算力壁垒：\n\n很多人以为跑巨无霸 MoE 必须八卡 H100，结果被月度账单直接拖死。FreeToken 直接自研了边缘异构引擎，把你闲置的消费级 GPU、CPU 和内存做成弹性统一资源池，实现带宽自适应异构推理！\n\n带来的颠覆性杠杆：\n• 算力自由：普通台式机即可跑 290B+ 顶级开源模型\n• 交互极速：告别机械卡顿，享受交互式飞速生成\n• 隐私闭环：核心代码与业务数据绝不上云，一人公司必备底座\n\n真正的技术破局，永远是用极低成本榨取十倍效能。\n\n项目地址：https://github.com/FlashML-org/FreeToken\n\n#AI开发 #开源项目 #一人公司 #独立开发"
+      },
+      {
+        "repo": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "stars": 68774,
+        "stars_today": "636 stars today",
+        "heat_score": 63668774,
+        "scheduled_time": "2026-11-24 13:00:00 CST",
+        "iso_time": "2026-11-24T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "认知差就是真金白银！普通人还在按Token心疼算钱，顶尖一人公司已经用开源方案白嫖了13亿+ Token。\n\nGitHub斩获6.8万星的 free-claude-code，彻底击穿AI编程工具门槛。\n\n项目直达：https://github.com/Alishahryar1/free-claude-code 🧵",
+          "痛点太真实了：每月给各大平台充上百刀API费用，遇到复杂项目重构，代码还没跑完就被限流卡死。\n\n技术破局的核心就是不当冤大头，利用多通道聚合把调用成本直接砸穿到零。",
+          "这个项目把 Claude Code、Codex、Pi 和 OpenCode 统一打包，打通超过13亿免费Token。\n\n更狠的是支持终端、手机、浏览器原生会话，甚至还能直接语音交互，走到哪写到哪。",
+          "完全不需要复杂基建，自带现代化轻量环境，几条命令即可部署运行。\n\n不管是做独立产品出海，还是全天候一人软件工坊，它都是你目前能找到的最强技术杠杆。",
+          "别再给高昂的算力溢价买单了，现在就去GitHub把代码拉下来跑通，抢占你的信息差杠杆！\n\n项目地址：https://github.com/Alishahryar1/free-claude-code\n\n#AI编程 #独立开发 #Claude #开源"
+        ],
+        "content": "认知差就是真金白银。普通开发者还在按Token心疼算钱，顶尖的一人公司已经用开源杠杆白嫖了13亿+ Token！\n\n开源霸榜项目 free-claude-code 彻底杀穿了AI编程工具壁垒：\n\n普通人的傻做法：\n❌ 每月给各大闭源工具交上百刀订阅费\n❌ 复杂重构跑到一半被限流卡死\n❌ 只能死守电脑前守着IDE\n\n顶级的十倍杠杆：\n✅ 免费调用13亿+ Token，直接抹平成本\n✅ 一键聚合 Claude Code、Codex、Pi、OpenCode\n✅ 手机、终端、浏览器原生无缝切换，连语音都支持\n✅ 极致敏捷，彻底打破厂商API高价围剿\n\n零门槛极速配置，你离一人软件工坊只差一个终端命令。收藏防丢，立刻去跑通你的第一段代码！\n\n链接：https://github.com/Alishahryar1/free-claude-code\n\n#AI编程 #独立开发 #Claude #开源项目 #一人公司"
+      },
+      {
+        "repo": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "stars": 45610,
+        "stars_today": "630 stars today",
+        "heat_score": 63045610,
+        "scheduled_time": "2026-11-24 17:00:00 CST",
+        "iso_time": "2026-11-24T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "别再用ChatGPT猜涨跌了！顶级量化的技术壁垒今天彻底被砸碎。\n\nKronos：首个把金融市场当成独立语言来预训练的原生大模型爆火，已狂揽4.5万星！\n\n源码直达：https://github.com/shiyu-coder/Kronos 🧵",
+          "为什么普通AI炒股全是坑？\n\n通用大模型满脑子都是网页百科，根本不懂订单薄、流动性踩踏和行情微观结构。喂它K线，它只能吐出一堆充满幻觉的假废话，让你在真金白银里当流动性。",
+          "Kronos 是怎么实现十倍降维打击的？\n\n它从底层把多市场、跨资产的时间序列与量价信号统一建模。不是后置贴标签，而是像学语言一样原生理解主力控盘、盘口异动和情绪周期。",
+          "最爽的是个人开发者完全可用。\n\n不用你买几百万的量化终端，Kronos 提供了完整的权重、开源推理链与在线Demo。单张消费级显卡就能跑起来，一人量化团队的基建直接齐活。",
+          "认知差就是最快的搞钱通道，当别人还在手画趋势线时，时代已经转向市场原生大模型了。\n\n趁着刚开源，建议立即Fork进个人武器库。\n\n#量化交易 #人工智能 #独立开发 #金融AI"
+        ],
+        "content": "普通散户还在盲目盯盘算指标，顶级的量化黑客已经在用金融领域专有Foundation Model自动捕获Alpha。\n\n这个认知差，今天被开源彻底砸碎了。\n\n刚冲上4.5万星的顶流神作 Kronos，把整个金融市场的交互动态当成一种独立“语言”进行大规模预训练。\n\n普通做法 vs 降维打击：\n❌ 傻傻拿通用LLM喂财报和新闻，充斥幻觉与无效噪音\n❌ 手写老旧技术指标，面对机构高频直接被割\n✅ Kronos 从底层学习跨资产价格博弈与市场微观结构\n✅ 像人类理解语法一样，原生解析震荡、突破与流动性枯竭\n✅ 提供完整权重与开箱即用的推理管道，单卡就能跑\n\n金融市场的认知红利稍纵即逝，谁先把基础模型接入交易流，谁就拥有十倍算力杠杆。\n\n趁还没被量化机构垄断，赶紧Star备用：\n👉 https://github.com/shiyu-coder/Kronos\n\n#量化交易 #金融AI #一人公司 #搞钱 #独立开发"
       }
     ]
   }

@@ -428,10 +428,15 @@
         "heat_score": 79006838,
         "scheduled_time": "2026-11-22 17:00:00 PST",
         "iso_time": "2026-11-22T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop debugging 500 lines of YAML just to dim the living room lights.\n\nThe real leverage in 2025 isn’t writing more code—it’s letting autonomous agents run physical reality.\n\nMeet ha-mcp: an open-source bridge connecting Home Assistant to Claude & ChatGPT using the Model Context Protocol.\n\nBefore:\n❌ Spend 4 hours writing brittle automations\n❌ Manually debug endless YAML indentations\n❌ Siri still fails to understand context\n\nAfter:\n✅ \"Claude, shut down the studio, lower blinds, and alert me if the garage opens\"\n✅ 87 pre-built tools ready out of the box\n✅ AI inspects device states, generates automations, and runs them safely\n\nThis is pure solo-builder leverage. Turn your home into a fully programmable fortress with one prompt.\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#AI #HomeAutomation #ClaudeAI #MCP #OpenSource"
+        "content": "Stop debugging 500 lines of YAML just to dim the living room lights.\n\nThe real leverage in 2025 isn’t writing more code—it’s letting autonomous agents run physical reality.\n\nMeet ha-mcp: an open-source bridge connecting Home Assistant to Claude & ChatGPT using the Model Context Protocol.\n\nBefore:\n❌ Spend 4 hours writing brittle automations\n❌ Manually debug endless YAML indentations\n❌ Siri still fails to understand context\n\nAfter:\n✅ \"Claude, shut down the studio, lower blinds, and alert me if the garage opens\"\n✅ 87 pre-built tools ready out of the box\n✅ AI inspects device states, generates automations, and runs them safely\n\nThis is pure solo-builder leverage. Turn your home into a fully programmable fortress with one prompt.\n\n🔗 https://github.com/homeassistant-ai/ha-mcp\n\n#AI #HomeAutomation #ClaudeAI #MCP #OpenSource",
+        "thread_ids": [
+          "2124669309951856729"
+        ],
+        "tweet_url": "https://x.com/i/status/2124669309951856729",
+        "posted_at": "2026-11-23T01:00:14.776926+00:00"
       },
       {
         "repo": "Donchitos/Claude-Code-Game-Studios",
@@ -1198,7 +1203,7 @@
         "heat_score": 70608893,
         "scheduled_time": "2026-11-23 09:00:00 CST",
         "iso_time": "2026-11-23T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1208,7 +1213,16 @@
           "上手门槛极低：支持 Mac 本地一键运行，也能用 Kubernetes 集群企业级私有化部署。\n\n模型任意接，完全开源免费，你的核心业务数据和代码资产绝不上交云端。",
           "2025 年的杠杆，属于懂得调度 AI 员工的数字包工头。工具摆在眼前，差距只在执行力。赶紧 Star 收藏部署体验吧！\n\n#AI工作流 #一人公司 #开源工具"
         ],
-        "content": "认知差正在拉开致命差距：普通人还在把 AI 当聊天框调教，顶尖的一人公司已经开始给 AI 员工发“电脑”了。\n\n刚在 GitHub 爆火的 OpenBot，直接给 Agent 落地撕开了一个巨大的口子：\n\n这不是玩具级插件，而是给每个 AI 分配一台专属虚拟主机——包含独立浏览器、文件管理和工具链。让 AI 像真实员工一样打开网页查资料、写代码、操作文件、自测交付。\n\n普通做法 vs 10倍杠杆：\n❌ 普通人：在网页对话框里疯狂复制粘贴代码，人工纠错，身心俱疲。\n✅ 破局者：搭建 OpenBot 协作空间，派发业务目标，AI 协同在沙盒系统里跑完所有流程。\n\n更狠的是它完全开源、支持私有化部署（甚至提供 Mac 本地运行版），底层模型随意切换，行动事前审批、事后完整留痕，数据全在自己手里。\n\n2025 年最大的红利，就是把你从操作工变成调度几十个 AI 员工的数字包工头。工具已经开源，别再拿人力当耗材了。\n\n代码地址：https://github.com/CopilotKit/OpenBot\n\n#AI工作流 #一人公司 #独立开发 #开源神器 #搞钱认知"
+        "content": "认知差正在拉开致命差距：普通人还在把 AI 当聊天框调教，顶尖的一人公司已经开始给 AI 员工发“电脑”了。\n\n刚在 GitHub 爆火的 OpenBot，直接给 Agent 落地撕开了一个巨大的口子：\n\n这不是玩具级插件，而是给每个 AI 分配一台专属虚拟主机——包含独立浏览器、文件管理和工具链。让 AI 像真实员工一样打开网页查资料、写代码、操作文件、自测交付。\n\n普通做法 vs 10倍杠杆：\n❌ 普通人：在网页对话框里疯狂复制粘贴代码，人工纠错，身心俱疲。\n✅ 破局者：搭建 OpenBot 协作空间，派发业务目标，AI 协同在沙盒系统里跑完所有流程。\n\n更狠的是它完全开源、支持私有化部署（甚至提供 Mac 本地运行版），底层模型随意切换，行动事前审批、事后完整留痕，数据全在自己手里。\n\n2025 年最大的红利，就是把你从操作工变成调度几十个 AI 员工的数字包工头。工具已经开源，别再拿人力当耗材了。\n\n代码地址：https://github.com/CopilotKit/OpenBot\n\n#AI工作流 #一人公司 #独立开发 #开源神器 #搞钱认知",
+        "thread_ids": [
+          "2124669361638310170",
+          "2124669417011450177",
+          "2124669465946390851",
+          "2124669516156457341",
+          "2124669566806851851"
+        ],
+        "tweet_url": "https://x.com/i/status/2124669361638310170",
+        "posted_at": "2026-11-23T01:01:15.615648+00:00"
       },
       {
         "repo": "tradermonty/claude-trading-skills",

@@ -482,10 +482,15 @@
         "heat_score": 72206650,
         "scheduled_time": "2026-11-23 21:00:00 PST",
         "iso_time": "2026-11-23T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop copy-pasting AI slop into dumb text editors.\n\nJetBrains just stealth-dropped ThinkRail — and it completely flips AI-assisted coding on its head.\n\nCursor gives you inline completions. ThinkRail gives you an autonomous engineering partner that literally gets smarter the more you build.\n\nBefore:\n- Context window amnesia after 20 prompts\n- Re-explaining your architecture every morning\n- Fragile AI hallucinations breaking your repo\n\nWith ThinkRail:\n✅ Spec-Driven Development: Translates intent into durable project specs\n✅ Persistent spec graph: Agent retains architectural memory permanently\n✅ Self-extending IDE: Generates custom tools & skills on the fly\n✅ Isolated workspaces: Real agentic execution without polluting your git history\n\nSolo developers just gained the leverage of a 10-person dev team.\n\nCheck it out: https://github.com/JetBrains/thinkrail\n\n#DevTools #AI #JetBrains #VibeCoding #BuildInPublic"
+        "content": "Stop copy-pasting AI slop into dumb text editors.\n\nJetBrains just stealth-dropped ThinkRail — and it completely flips AI-assisted coding on its head.\n\nCursor gives you inline completions. ThinkRail gives you an autonomous engineering partner that literally gets smarter the more you build.\n\nBefore:\n- Context window amnesia after 20 prompts\n- Re-explaining your architecture every morning\n- Fragile AI hallucinations breaking your repo\n\nWith ThinkRail:\n✅ Spec-Driven Development: Translates intent into durable project specs\n✅ Persistent spec graph: Agent retains architectural memory permanently\n✅ Self-extending IDE: Generates custom tools & skills on the fly\n✅ Isolated workspaces: Real agentic execution without polluting your git history\n\nSolo developers just gained the leverage of a 10-person dev team.\n\nCheck it out: https://github.com/JetBrains/thinkrail\n\n#DevTools #AI #JetBrains #VibeCoding #BuildInPublic",
+        "thread_ids": [
+          "2125092126648410538"
+        ],
+        "tweet_url": "https://x.com/i/status/2125092126648410538",
+        "posted_at": "2026-11-24T05:00:21.925680+00:00"
       },
       {
         "repo": "CopilotKit/OpenBot",
@@ -1381,7 +1386,7 @@
         "heat_score": 65316299,
         "scheduled_time": "2026-11-24 13:00:00 CST",
         "iso_time": "2026-11-24T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1391,7 +1396,16 @@
           "对独立开发者和极客来说，这意味着什么？本地拥有私密、超强、无限调用的顶级智能中枢。不限速率、不担心数据泄露，用一台台式机搭建你自己的超级生产力工厂。",
           "真正的技术杠杆，就是用白菜价的成本榨出顶级数据中心的效果。赶紧 Star 收藏部署体验，开启本地无限推理。 #AI开发 #开源项目 #独立开发 #LocalLLM"
         ],
-        "content": "认知差往往决定了你的利润空间。大部分人还在按月给海外云厂商烧几千刀 API 费用，顶尖的极客已经用旧游戏本跑起 290B+ 的超级大模型了！\n\nGitHub 今日爆火 1.6 万星的神器 FreeToken 彻底击碎了算力壁垒：\n\n很多人以为跑巨无霸 MoE 必须八卡 H100，结果被月度账单直接拖死。FreeToken 直接自研了边缘异构引擎，把你闲置的消费级 GPU、CPU 和内存做成弹性统一资源池，实现带宽自适应异构推理！\n\n带来的颠覆性杠杆：\n• 算力自由：普通台式机即可跑 290B+ 顶级开源模型\n• 交互极速：告别机械卡顿，享受交互式飞速生成\n• 隐私闭环：核心代码与业务数据绝不上云，一人公司必备底座\n\n真正的技术破局，永远是用极低成本榨取十倍效能。\n\n项目地址：https://github.com/FlashML-org/FreeToken\n\n#AI开发 #开源项目 #一人公司 #独立开发"
+        "content": "认知差往往决定了你的利润空间。大部分人还在按月给海外云厂商烧几千刀 API 费用，顶尖的极客已经用旧游戏本跑起 290B+ 的超级大模型了！\n\nGitHub 今日爆火 1.6 万星的神器 FreeToken 彻底击碎了算力壁垒：\n\n很多人以为跑巨无霸 MoE 必须八卡 H100，结果被月度账单直接拖死。FreeToken 直接自研了边缘异构引擎，把你闲置的消费级 GPU、CPU 和内存做成弹性统一资源池，实现带宽自适应异构推理！\n\n带来的颠覆性杠杆：\n• 算力自由：普通台式机即可跑 290B+ 顶级开源模型\n• 交互极速：告别机械卡顿，享受交互式飞速生成\n• 隐私闭环：核心代码与业务数据绝不上云，一人公司必备底座\n\n真正的技术破局，永远是用极低成本榨取十倍效能。\n\n项目地址：https://github.com/FlashML-org/FreeToken\n\n#AI开发 #开源项目 #一人公司 #独立开发",
+        "thread_ids": [
+          "2125092176195695079",
+          "2125092227508748544",
+          "2125092277156794635",
+          "2125092325999407532",
+          "2125092376884707536"
+        ],
+        "tweet_url": "https://x.com/i/status/2125092176195695079",
+        "posted_at": "2026-11-24T05:01:21.299034+00:00"
       },
       {
         "repo": "Alishahryar1/free-claude-code",

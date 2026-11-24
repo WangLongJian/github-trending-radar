@@ -1415,7 +1415,7 @@
         "heat_score": 63668774,
         "scheduled_time": "2026-11-24 17:00:00 CST",
         "iso_time": "2026-11-24T17:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1425,7 +1425,16 @@
           "完全不需要复杂基建，自带现代化轻量环境，几条命令即可部署运行。\n\n不管是做独立产品出海，还是全天候一人软件工坊，它都是你目前能找到的最强技术杠杆。",
           "别再给高昂的算力溢价买单了，现在就去GitHub把代码拉下来跑通，抢占你的信息差杠杆！\n\n项目地址：https://github.com/Alishahryar1/free-claude-code\n\n#AI编程 #独立开发 #Claude #开源"
         ],
-        "content": "认知差就是真金白银。普通开发者还在按Token心疼算钱，顶尖的一人公司已经用开源杠杆白嫖了13亿+ Token！\n\n开源霸榜项目 free-claude-code 彻底杀穿了AI编程工具壁垒：\n\n普通人的傻做法：\n❌ 每月给各大闭源工具交上百刀订阅费\n❌ 复杂重构跑到一半被限流卡死\n❌ 只能死守电脑前守着IDE\n\n顶级的十倍杠杆：\n✅ 免费调用13亿+ Token，直接抹平成本\n✅ 一键聚合 Claude Code、Codex、Pi、OpenCode\n✅ 手机、终端、浏览器原生无缝切换，连语音都支持\n✅ 极致敏捷，彻底打破厂商API高价围剿\n\n零门槛极速配置，你离一人软件工坊只差一个终端命令。收藏防丢，立刻去跑通你的第一段代码！\n\n链接：https://github.com/Alishahryar1/free-claude-code\n\n#AI编程 #独立开发 #Claude #开源项目 #一人公司"
+        "content": "认知差就是真金白银。普通开发者还在按Token心疼算钱，顶尖的一人公司已经用开源杠杆白嫖了13亿+ Token！\n\n开源霸榜项目 free-claude-code 彻底杀穿了AI编程工具壁垒：\n\n普通人的傻做法：\n❌ 每月给各大闭源工具交上百刀订阅费\n❌ 复杂重构跑到一半被限流卡死\n❌ 只能死守电脑前守着IDE\n\n顶级的十倍杠杆：\n✅ 免费调用13亿+ Token，直接抹平成本\n✅ 一键聚合 Claude Code、Codex、Pi、OpenCode\n✅ 手机、终端、浏览器原生无缝切换，连语音都支持\n✅ 极致敏捷，彻底打破厂商API高价围剿\n\n零门槛极速配置，你离一人软件工坊只差一个终端命令。收藏防丢，立刻去跑通你的第一段代码！\n\n链接：https://github.com/Alishahryar1/free-claude-code\n\n#AI编程 #独立开发 #Claude #开源项目 #一人公司",
+        "thread_ids": [
+          "2125152556070678822",
+          "2125152611305435330",
+          "2125152661377007731",
+          "2125152710894989536",
+          "2125152761591611580"
+        ],
+        "tweet_url": "https://x.com/i/status/2125152556070678822",
+        "posted_at": "2026-11-24T09:01:18.449470+00:00"
       },
       {
         "repo": "shiyu-coder/Kronos",

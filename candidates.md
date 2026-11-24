@@ -8,6 +8,586 @@
 
 ---
 
+## 1. [Marvisak/VIctory](https://github.com/Marvisak/VIctory)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Rust` | ⭐ **7,546** (~7546 (7天内新建))
+- **官方介绍**: An attempt at running GTA VI on PC
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Rockstar won't release GTA VI on PC until 2027?
+
+Indie systems hackers just said: "Fine, we'll do it ourselves."
+
+VIctory is a brand-new open-source compatibility layer running GTA VI Xbox Series X code directly on Windows 11.
+
+Not an emulator. A native loader & translation layer:
+
+⚡ Raw x86-64 executable execution
+⚡ Boots clean through accessibility & start screens
+⚡ Audio + intro videos run butter-smooth at 30 fps
+⚡ Loads into the first mission world
+⚡ Ahead-of-time shader conversion pipeline
+
+It’s still rendering dark frames in-game, but hitting the 3D loop this fast is terrifying engineering leverage.
+
+7,500+ stars in days. Pure genius.
+
+Check the repo: https://github.com/Marvisak/VIctory
+
+#ReverseEngineering #GTA6 #Gaming #OpenSource #TechAlpha
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=GTA%206%20isn%E2%80%99t%20even%20out%20on%20PC%20yet%2C%20but%20insane%20hackers%20already%20have%20it%20booting%20on%20Windows.%20%F0%9F%A4%AF%0A%0AMeet%20VIctory%3A%0A%E2%80%A2%20Xbox%20Series%20X%20x86%20code%20runs%20natively%0A%E2%80%A2%20Direct%20D3D12%20translation%0A%E2%80%A2%20UI%20%26%20menus%20working%20at%2030fps%0A%0AGitHub%20just%20broke%3A%20https%3A//github.com/Marvisak/VIctory)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差瞬间被击穿！当全世界还在苦等 Rockstar 什么时候施舍一个 GTA 6 PC版时，顶尖黑客已经把它跑在 Windows 上了！
+
+这就是开源项目「VIctory」引发的地震，上线几天狂卷7500+ Star。
+
+普通玩家傻傻苦等2年，顶级极客直接用底层重构打破壁垒：
+
+这不是低效的虚拟机，而是真正的原生兼容层：
+• 原生运行 Xbox Series X 的 x86-64 机器码
+• 完整通关开机引导、无障碍、设置菜单与原声视频
+• 稳定 30fps 读档，50秒直接冲进第一关世界底图
+• 实时 D3D12 转换与着色器动态重构
+
+虽然目前 3D 渲染画面还是黑的、掉帧严重，但它证明了：主机独占在极限工程能力面前就是纸老虎！
+
+技术天花板彻底被掀翻，强烈建议每个程序员围观它的架构设计。
+
+项目链接：https://github.com/Marvisak/VIctory
+
+#GTA6 #黑客技术 #程序员 #硬核科技 #开源项目
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E9%A2%A0%E8%A6%86%E8%AE%A4%E7%9F%A5%EF%BC%81GTA%206%E8%BF%98%E6%B2%A1%E5%87%BAPC%E7%89%88%EF%BC%8C%E7%A1%AC%E6%A0%B8%E6%9E%81%E5%AE%A2%E5%B7%B2%E7%BB%8F%E6%8A%8A%E5%AE%83%E6%90%AC%E4%B8%8AWindows%E4%BA%86%EF%BC%81%F0%9F%94%A5%0A%0A%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20VIctory%20%E7%9B%B4%E6%8E%A5%E8%B7%91Xbox%E5%8E%9F%E7%89%88%E6%9E%B6%E6%9E%84%EF%BC%9A%0A%E2%9C%85%20%E5%8E%9F%E7%94%9Fx86%E6%8C%87%E4%BB%A4%E7%9B%B4%E8%A1%8C%0A%E2%9C%85%2030%E5%B8%A7%E8%BF%9B%E8%8F%9C%E5%8D%95/%E8%AF%BB%E6%A1%A3%0A%E2%9C%85%20%E7%AC%AC%E4%B8%80%E5%85%B3%E5%9C%BA%E6%99%AF%E5%8A%A0%E8%BD%BD%E6%88%90%E5%8A%9F%0A%0A7%E5%A4%A9%E7%8B%82%E6%8F%BD7.5k%E6%98%9F%EF%BC%8C%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A//github.com/Marvisak/VIctory)**
+
+---
+
+## 2. [ivall/xcl](https://github.com/ivall/xcl)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Rust` | ⭐ **6,002** (~6002 (7天内新建))
+- **官方介绍**: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Emulation is dead. Clean-room systems architecture just won the decade.
+
+Meet XCL: A project that just hit 6,000+ stars in 7 days by quietly pulling off what engineers thought was impossible—running Xbox Series X|S games natively on Windows.
+
+How the leverage works:
+❌ NO slow CPU emulation (x64 runs bare-metal native)
+❌ NO messy VM containers or bloated runtimes
+✅ Re-implements missing console OS libraries (kernelx.dll)
+✅ Recompiles raw RDNA2 GPU bytecode straight into DXIL
+✅ Unicorn Overlord & Minecraft already fully playable
+
+This is the ultimate masterclass in high-leverage systems engineering: don't emulate the hardware, translate the ABI.
+
+Star it before Microsoft's lawyers wake up: https://github.com/ivall/xcl
+
+#SoftwareEngineering #Xbox #OpenSource #GameDev #TechTrends
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Holy%20shit.%206k%20stars%20in%207%20days.%0A%0AXCL%20turns%20Windows%20into%20a%20native%20Xbox%20Series%20runner%3A%0A%0A%E2%9A%A1%20Zero%20CPU%20emulation%20%28pure%20x64%29%0A%E2%9A%A1%20Real-time%20RDNA2%20to%20DXIL%20shader%20recompile%0A%E2%9A%A1%20Clean-room%20DLLs%0A%0APure%20systems%20engineering%20alpha.%0A%0A%F0%9F%94%97%20https%3A//github.com/ivall/xcl)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+又一个击碎所有人认知差的开源核弹爆了！上线短短7天，狂砍 6,000+ GitHub Stars。
+
+普通玩家还在纠结花几千块买 Xbox 主机，真正的顶级极客已经在用开源兼容层“白嫖”生态了——XCL 刚把 Xbox Series X|S 原生兼容层搬上了 Windows！
+
+看懂这个底层逻辑，才知道什么叫降维打击：
+❌ 普通人以为的方案：写个极其卡顿、烧CPU的笨重模拟器
+⭕ 顶尖高手的打法：彻底抛弃CPU模拟，直接原生运行 x64 代码，手写替换微软底层控制台库，将 RDNA2 机器码实时重编译为 PC 适用的 DXIL！
+
+核心亮点直接拉满：
+✅ 零CPU模拟损耗：性能几乎无损跑满硬件
+✅ 干净无合规风险：不破DRM、不内置私有SDK，只做纯架构转换
+✅ 《圣兽之王》《我的世界》等作品已实现完全可玩
+
+不用买主机，不用等官方移植。顶尖工程师的极致杠杆，就是用代码抹平千亿硬件壁垒！
+
+项目地址：https://github.com/ivall/xcl
+
+#技术破局 #开源项目 #游戏开发 #Xbox #程序员
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=7%E5%A4%A9%E7%88%86%E7%A0%8D6000%E6%98%9F%EF%BC%81Xbox%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F%E5%B1%85%E7%84%B6%E8%83%BD%E5%8E%9F%E7%94%9F%E8%B7%91%E5%9C%A8PC%E4%B8%8A%E4%BA%86%E3%80%82%0A%0A%E8%BF%99%E4%B8%8D%E6%98%AF%E6%A8%A1%E6%8B%9F%E5%99%A8%EF%BC%8C%E6%98%AF%E5%8E%9F%E7%94%9F%E5%85%BC%E5%AE%B9%E5%B1%82%EF%BC%9A%0A%E2%9C%85%200%E7%A1%AC%E4%BB%B6%E6%8D%9F%E8%80%97%EF%BC%9Ax64%E6%8C%87%E4%BB%A4%E7%9B%B4%E8%B7%91%0A%E2%9C%85%20RDNA2%E7%9D%80%E8%89%B2%E5%99%A8%E5%8A%A8%E6%80%81%E9%87%8D%E7%BC%96%E8%AF%91%0A%E2%9C%85%20%E7%8B%AC%E5%8D%A0%E5%A4%A7%E4%BD%9C%E5%85%A8%E9%80%9F%E8%BF%90%E8%A1%8C%0A%0A%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%E7%BA%A7%E5%88%AB%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%A5%87%E8%BF%B9%F0%9F%91%87%0Ahttps%3A//github.com/ivall/xcl)**
+
+---
+
+## 3. [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `JavaScript` | ⭐ **1,494** (~1494 (7天内新建))
+- **官方介绍**: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The open-source community is building a parallel universe while Rockstar sleeps.
+
+Meet PortWatch VI: A decentralized intelligence dashboard tracking every single attempt to recompile and emulate GTA VI on PC.
+
+Built entirely as an automated GitHub Pages pipeline:
+• Automated scout scripts scrape progress every 3 hours
+• Visual milestone ladders: what works, what crashes, what blocks
+• Anti-malware watchdog flagging fake downloads
+• Auto-generates SEO pages, RSS feeds & pings IndexNow
+• Zero roms/executables hosted (100% legal)
+
+This is the ultimate masterclass in high-leverage niche tracking. A 7-day-old repo pulling 1,500+ stars by curating chaotic fragmented alpha into a single source of truth.
+
+Code here: https://github.com/4lwayz/portwatch-vi
+
+#OpenSource #ReverseEngineering #GTA6 #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=GTA%206%20on%20PC%20is%20happening%20faster%20than%20anyone%20expected.%0A%0APortWatch%20tracks%20every%20reverse-engineering%20%26%20emulation%20milestone%20live%3A%0A%0A%E2%9A%A1%EF%B8%8F%203-hr%20automated%20scout%0A%E2%9A%A1%EF%B8%8F%20Progress%20ladder%20%26%20blocker%20cards%0A%E2%9A%A1%EF%B8%8F%20Zero%20illegal%20files%0A%0APure%20open-source%20leverage%3A%20https%3A//github.com/4lwayz/portwatch-vi)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+普通人还在苦等R星官方官宣，顶尖极客早就在 GitHub 把全网的逆向工程做成了全自动情报雷达。
+
+刚上线 7 天斩获 1500+ Star 的 PortWatch VI，把“信息差”打到了极致：
+
+以前：在 Reddit、Discord、暗网翻几百条论坛灌水贴，还经常被虚假下载病毒诈骗；
+现在：一个纯 GitHub Actions 驱动的看板，每 3 小时全网扫描 GTA 6 Xbox 泄露版的反编译与模拟器进度，直接量化成百分比进度条。
+
+它甚至做成了一套“一人公司”标准范式：
+• 全自动化情报 Scout，定时 commit 更新
+• 自动编译静态页、生成 RSS 并向搜索引擎推送
+• 不存任何盗版文件，干净避开法律红线
+
+这才是最纯粹的技术杠杆：用极低的运维成本，把万千散落的碎片噪音，提炼成海量流量的入口。
+
+项目地址：https://github.com/4lwayz/portwatch-vi
+
+#独立开发 #开源项目 #GTA6 #技术认知差
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=GTA%206%20%E7%A6%BB%E5%9C%A8%20PC%20%E4%B8%8A%E7%8E%A9%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C%EF%BC%9F%E5%85%A8%E7%BD%91%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E4%B8%80%E4%BA%BA%E7%9C%8B%E6%9D%BF%E6%9D%A5%E4%BA%86%EF%BC%81%0A%0A7%E5%A4%A9%E7%8B%82%E6%8F%BD1500%E6%98%9F%EF%BC%8C%E6%AF%8F3%E5%B0%8F%E6%97%B6%E8%87%AA%E5%8A%A8%E5%85%A8%E7%BD%91%E6%89%AB%E6%8F%8F%E8%BF%9B%E5%BA%A6%EF%BC%9A%0A%E2%9C%85%20%E5%AE%9E%E6%97%B6%E9%80%86%E5%90%91%E8%BF%9B%E5%BA%A6%E5%A4%A9%E6%A2%AF%E6%A6%9C%0A%E2%9C%85%20%E5%8D%A1%E7%82%B9%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E5%85%A8%E6%99%AF%E5%9B%BE%0A%E2%9C%85%20%E8%87%AA%E5%8A%A8%E6%8A%93%E5%81%87%E5%8C%85%E9%98%B2%E8%AF%88%E9%AA%97%0A%0A%E8%AE%A4%E7%9F%A5%E5%B7%AE%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%EF%BC%9Ahttps%3A//github.com/4lwayz/portwatch-vi)**
+
+---
+
+## 4. [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Python` | ⭐ **952** (~952 (7天内新建))
+- **官方介绍**: A continuation of Leonida, the Xbox > PC port of GTA VI
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+The absolute craziest open-source engineering flex this year just dropped.
+
+While big studios spend 2 years and $100M porting console titles to Windows, a solo open-source project is statically recompiling GTA VI (Xbox Series) to run natively on PC.
+
+Before:
+Wait until 2027 for a bloated PC port, praying your rig can handle poorly optimized layer emulation.
+
+Now with Leonida:
+Xbox CPU is already x86-64 -> run native instructions on your PC.
+Reimplemented console OS layers.
+RDNA2 GPU code translated straight into Vulkan SPIR-V.
+Zero pirated assets: compile from your own game copy.
+
+This is extreme developer leverage. Emulators are dying; static binary translation is the future of gaming infrastructure.
+
+Track this before Take-Two's legal ninjas panic:
+https://github.com/ubiquitarianism/leonida
+
+#GameDev #ReverseEngineering #OpenSource #TechAlpha #Vulkan
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Someone%20is%20statically%20recompiling%20GTA%20VI%20%28Xbox%29%20to%20run%20NATIVELY%20on%20PC.%0A%0ANo%20emulator%20slop.%20Raw%20engineering%20leverage%3A%0A-%20Xbox%20x86-64%20code%20runs%20native%20on%20Windows%0A-%20RDNA2%20GPU%20shaders%20-%3E%20Vulkan%20SPIR-V%0A-%200%20piracy%2C%20100%25%20legal%20reverse-engineering%0A%0A%F0%9F%94%97%20https%3A//github.com/ubiquitarianism/leonida)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+这就是顶级极客与普通玩家之间，难以逾越的技术认知差！
+
+普通人做法：天天盯着R星官网刷宣发，求爷爷告奶奶等官方发布PC版，甚至花几千块溢价去抢次时代主机。
+顶级极客做法：不等了，我自己写一个静态重编译器，把Xbox Series版本的GTA6直接原生搬到PC上跑！
+
+开源项目 Leonida 刚出炉就炸翻了技术圈：
+ 利用Xbox本就是x86-64架构的特性，指令在PC上0损耗原生执行
+ 重新实现主机底层系统软件，不做笨重低效的虚拟机
+ 将主机的RDNA2预编译GPU着色器直译为Vulkan的SPIR-V
+ 纯工程逆向，不带任何盗版资源，纯靠玩家自购游戏本地构建
+
+这就是一人抵千军的技术杠杆。别再以为大厂的护城河不可逾越，底层的技术极客总能用一行行代码撕开缺口！
+
+项目地址速看（随时可能被法务盯上）：
+https://github.com/ubiquitarianism/leonida
+
+#GTA6 #硬核技术 #逆向工程 #一人公司 #开源项目
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E5%82%BB%E7%AD%89R%E6%98%9F%E5%87%BAGTA6%E7%9A%84PC%E7%89%88%EF%BC%9F%0A%E6%9E%81%E5%AE%A2%E7%9B%B4%E6%8E%A5%E6%8A%8AXbox%E7%89%88%E6%9C%AC%E5%8E%9F%E7%94%9F%E9%80%86%E5%90%91%E7%A7%BB%E6%A4%8D%E5%88%B0%E4%BA%86Windows%EF%BC%81%0A%0A%E9%9D%99%E6%80%81%E9%87%8D%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%0Ax86%E6%8C%87%E4%BB%A4%E9%9B%86%E5%8E%9F%E7%94%9F%E7%9B%B4%E8%B7%91%0ARDNA2%E7%9D%80%E8%89%B2%E5%99%A8%E7%A1%AC%E8%BD%ACVulkan%0A%0A%E8%BF%99%E6%89%8D%E6%98%AF%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%EF%BC%9A%0Ahttps%3A//github.com/ubiquitarianism/leonida)**
+
+---
+
+## 5. [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `HTML` | ⭐ **631** (~631 (7天内新建))
+- **官方介绍**: Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Rockstar spent 10 years and $2B building GTA VI.
+
+The open-source community tore the engine open in days.
+
+Someone just dropped a curated index of RAGE 9 reverse-engineering tools, and it's absolute alpha for graphics & systems engineers:
+
+⚡ RPF9 archive explorers (byte-level unpackers)
+⚡ TTPF texture & ADAT/AWC audio decoders
+⚡ Xbox Series (Scarlett) & PS5 translation layers
+⚡ Low-level file format documentation
+
+Before: Waiting for official PC release in 2026+ to see how modern AAA engines work.
+After: Studying production next-gen graphics pipelines and proprietary formats right now on GitHub.
+
+Absolute masterclass in reverse engineering. Check it out before it gets DMCA'd: https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering
+
+#GameDev #ReverseEngineering #TechTwitter #GTA6
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=GTA%206%20isn%27t%20even%20out%20and%20hackers%20already%20reverse-engineered%20RAGE%209.%20%F0%9F%A4%AF%0A%0A%E2%80%A2%20RPF9%20archive%20extractors%0A%E2%80%A2%20TTPF%20texture%20decoders%0A%E2%80%A2%20Scarlett/PS5%20layers%0A%0APure%20engineering%20goldmine%3A%0Ahttps%3A//github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+这就是顶级极客的降维打击：GTA 6 官方连发售日都还没定，底层引擎已经被全球黑客扒得连底裤都不剩了！
+
+普通开发者还在当看客等预告片吹神作；顶尖玩家早就在读 RAGE 9 的二进制底层了。这个新开源项目直接汇总了 GTA6 逆向工程的全套武器库，7天狂揽几百星：
+
+🔥 RPF9 资源解包器：直接扒出次世代归档资产
+🔥 TTPF 纹理与 ADAT/AWC 音频解码器：全套逆向规范
+🔥 Xbox Series / PS5 主机翻译层架构文档
+🔥 字节级文件格式定义规范
+
+零门槛查阅，完全不需要你写汇编。搞游戏开发、图形渲染、安全逆向的人看一眼就会惊呼卧槽：这才是真正的 10 倍技术杠杆与认知套利。
+
+趁还没被 R 星法务部发 DMCA 律师函，赶紧星标备份！
+
+项目地址：https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering
+
+#GTA6 #游戏开发 #逆向工程 #独立开发
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=GTA6%E6%B8%B8%E6%88%8F%E8%BF%98%E6%B2%A1%E5%8F%91%E5%94%AE%EF%BC%8C%E5%BA%95%E5%B1%82%E5%BC%95%E6%93%8E%E5%B7%B2%E7%BB%8F%E8%A2%AB%E5%85%A8%E7%90%83%E9%BB%91%E5%AE%A2%E6%89%92%E5%85%89%E4%BA%86%EF%BC%81%0A%0A%E5%85%A8%E5%A5%97RAGE%209%E9%80%86%E5%90%91%E7%A5%9E%E5%85%B5%E5%BA%93%E5%B7%B2%E5%BC%80%E6%BA%90%EF%BC%9A%0A%E2%9C%85%20RPF9%E5%BD%92%E6%A1%A3%E8%A7%A3%E5%8C%85%E5%99%A8%0A%E2%9C%85%20%E7%BA%B9%E7%90%86/%E9%9F%B3%E9%A2%91%E8%A7%A3%E7%A0%81%E5%85%A8%E6%B5%81%E7%A8%8B%0A%E2%9C%85%20%E6%AC%A1%E4%B8%96%E4%BB%A3%E4%B8%BB%E6%9C%BA%E7%BF%BB%E8%AF%91%E5%B1%82%0A%0A%E8%AE%A4%E7%9F%A5%E5%B7%AE%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1%EF%BC%9A%0Ahttps%3A//github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering)**
+
+---
+
+## 6. [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Rust` | ⭐ **554** (~554 (7天内新建))
+- **官方介绍**: Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+AI is writing 90% of modern software.
+And 90% of it is full of catastrophic security holes.
+
+Solo founders are shipping fast with Cursor and Claude, completely blind to leaked API keys, SQL injections, and compromised agent setups until their AWS bill hits $20k or their database gets dumped on Telegram.
+
+Meet safe-anything — a blazingly fast, 100% Rust vulnerability scanner built for the AI era.
+
+One command audits everything in milliseconds:
+✅ Catches XSS, SQLi, and logic exploits
+✅ Scans hardcoded secrets & leaked envs
+✅ Flags vulnerable dependency CVEs
+✅ Audits AI agent setups & system prompts
+✅ Gives exact line numbers and 1-click fixes
+
+No enterprise bloatware. No $5k/mo Snyk invoices. Just pure developer leverage.
+
+Stop shipping blind. Scan before you deploy.
+
+🔗 https://github.com/erkamyaman/safe-anything
+
+#Rust #DevOps #CyberSecurity #Solopreneur #AI
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Vibe%20coding%20with%20AI%20agents%20is%20fun%20until%20your%20DB%20gets%20dumped.%0A%0Asafe-anything%20is%20a%20blistering%20100%25%20Rust%20security%20scanner%3A%0A%E2%9A%A1%EF%B8%8F%20Instant%20XSS%20%26%20SQLi%20audit%0A%F0%9F%94%91%20Leaked%20API%20keys%20%26%20configs%0A%F0%9F%A4%96%20AI%20agent%20vulnerability%20catch%0A%0AFix%20it%20before%20hackers%20do%3A%20https%3A//github.com/erkamyaman/safe-anything)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+这就是一人公司时代最大的认知差：你以为自己在用 AI 高效搞钱，黑客眼里你只是光着身子在狂奔。
+
+现在很多人用 Cursor/Claude 几天拼出一个出海 SaaS，上线当天就把 Stripe 密钥和 AWS 凭证写在前端，甚至连 SQL 注入都不防，一夜之间数据库被拖库、云账单被刷爆。
+
+真正厉害的超级个体，都在用极度敏捷的工具筑起护城河。
+
+刚在 GitHub 爆火的 safe-anything，100% 纯 Rust 打造，主打一个极致快准狠！一行命令全盘扫描：
+
+✅ 毫秒级揪出 XSS、SQL 注入与逻辑后门
+✅ 秒查代码中所有泄露的 Token 与 API 密钥
+✅ 深度挖掘第三方依赖 CVE 风险
+✅ 甚至能审计 AI Agent 配置与 Prompt 注入漏洞
+✅ 最爽的是直接告诉你具体在哪一行、该怎么改！
+
+单二进制文件，零环境依赖，macOS/Linux/Windows 跨平台秒跑。别等出事了才去擦屁股，把漏洞先堵死，才能安心赚大钱！
+
+🔗 https://github.com/erkamyaman/safe-anything
+
+#独立开发 #AI编程 #网络安全 #开源神器 #程序员搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E4%BD%A0%E7%94%A8%20Cursor%20%E7%8B%82%E6%9A%B4%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E9%BB%91%E5%AE%A2%E5%9C%A8%E6%9A%97%E5%A4%84%E7%8B%82%E5%96%9C%EF%BC%81%0A%E5%85%A8%20Rust%20%E5%86%99%E7%9A%84%E5%85%A8%E6%A0%88%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F%E7%A5%9E%E5%99%A8%20safe-anything%EF%BC%9A%0A%0A%F0%9F%92%A5%20%E4%B8%80%E7%A7%92%E6%8F%AA%E5%87%BA%20SQL%20%E6%B3%A8%E5%85%A5%E4%B8%8E%20XSS%0A%F0%9F%92%A5%20%E6%8F%AA%E5%87%BA%E6%B3%84%E6%BC%8F%E7%9A%84%20API%20Key%20%26%20%E5%AF%86%E9%92%A5%0A%F0%9F%92%A5%20%E8%BF%9E%20AI%20Agent%20%E9%85%8D%E7%BD%AE%E6%BC%8F%E6%B4%9E%E9%83%BD%E8%83%BD%E6%9F%A5%EF%BC%81%0A%0A%E5%BC%80%E6%BA%90%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A//github.com/erkamyaman/safe-anything)**
+
+---
+
+## 7. [xikhar/papercraft](https://github.com/xikhar/papercraft)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `JavaScript` | ⭐ **536** (~536 (7天内新建))
+- **官方介绍**: Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Most AI games and sites look like cheap plastic slop. The era of generic Tailwind + DALL-E is dead.
+
+Then I found Papercraft.
+
+It’s an open-source agent skill that builds fully interactive 3D pop-up books, mini-games, and websites using Three.js—engineered to look like real photographed cardstock.
+
+Why it’s an unfair advantage for solo founders:
+✅ Hard-coded physical aesthetics (matte textures, dark cut edges, soft tinted shadows)
+✅ Built-in macro tilt-shift camera lens
+✅ Hinge folding physics & soft paper audio
+✅ Rebuilds your moodboard into structural paper meshes
+
+One prompt turns your raw idea into an artisan, handcrafted tactile world. Instant 10x visual moat for your next product launch.
+
+🔗 https://github.com/xikhar/papercraft
+
+#ThreeJS #WebDev #BuildInPublic #AIAgents #IndieHacker
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Stop%20shipping%20generic%20AI%20slop.%20%F0%9F%9B%91%0A%0APapercraft%20turns%20raw%20prompts%20into%20jaw-dropping%203D%20pop-up%20worlds%20with%20Three.js%3A%0A%E2%80%A2%20Micro%20tilt-shift%20shadows%0A%E2%80%A2%20Tactile%20paper%20physics%0A%E2%80%A2%20Interactive%20indie%20games%20%26%20landing%20pages%0A%0AInstant%20aesthetic%20moat%3A%0Ahttps%3A//github.com/xikhar/papercraft)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+99%的独立开发者都在用默认模版做毫无质感的AI塑料垃圾，活该赚不到钱！真正的超级个体，早已把视觉认知差拉到了极致。
+
+刚挖到的宝藏开源神作：Papercraft，直接把全网惊艳了。
+
+它是一个给 AI Agent 配备的技能包，核心就是把你给的任何草图或提示词，自动生成手作立体折叠纸雕（Pop-up Papercraft）风格的 3D 网页、交互场景和独立游戏！
+
+普通人花几个月学 Blender 建模、调材质、做物理动画，而顶尖的十倍杠杆玩家直接用它降维打击：
+✔️ 沉淀了商业级 Three.js 核心参数：哑光纸质、微距移轴镜头、层叠柔光投影
+✔️ 真实的折叠铰链动态与纸张摩擦音效
+✔️ 自动切片拼装结构（卡槽、折盒、拱桥），角色部件永远不穿模
+✔️ 门槛打到最低：扔给它情绪板或概念图，Agent 自动重构成可交互纸艺世界
+
+无论做病毒式营销页、独立小游戏还是品牌展厅，视觉差异化就是最高的吸金壁垒！赶紧先收藏跑起来。
+
+🔗 https://github.com/xikhar/papercraft
+
+#独立开发 #一人公司 #Threejs #AI编程 #出海搞钱
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E5%81%9A%E6%AF%AB%E6%97%A0%E8%BE%A8%E8%AF%86%E5%BA%A6%E7%9A%84%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8BAI%E5%9E%83%E5%9C%BE%E7%BD%91%E7%AB%99%EF%BC%9F%E8%AE%A4%E7%9F%A5%E5%B7%AE%E7%9B%B4%E6%8E%A5%E6%8A%B9%E5%B9%B3%EF%BC%81%0A%0A%E5%BC%80%E6%BA%90%E7%A5%9E%E4%BD%9C%20Papercraft%20%E5%BD%BB%E5%BA%95%E5%B0%81%E7%A5%9E%EF%BC%9A%E7%94%A8%20AI%20Agent%20%E4%B8%80%E9%94%AE%E7%94%9F%E6%88%90%E7%BA%AF%E6%89%8B%E5%B7%A5%E7%AB%8B%E4%BD%93%E7%BA%B8%E9%9B%95%E9%A3%8E%203D%20%E6%B8%B8%E6%88%8F%E4%B8%8E%E4%BA%A4%E4%BA%92%E5%9C%BA%E6%99%AF%EF%BC%81%0A%0A%E2%9C%85%20%E7%9C%9F%E5%AE%9E%E6%8A%98%E7%97%95%E4%B8%8E%E9%93%B0%E9%93%BE%E7%89%A9%E7%90%86%0A%E2%9C%85%20%E7%A7%BB%E8%BD%B4%E5%BE%AE%E8%B7%9D%E5%85%89%E5%BD%B1%0A%E2%9C%85%20%E9%9B%B63D%E5%BB%BA%E6%A8%A1%E9%97%A8%E6%A7%9B%0A%0A%E6%90%9E%E9%92%B1%E7%A5%9E%E5%99%A8%EF%BC%9Ahttps%3A//github.com/xikhar/papercraft)**
+
+---
+
+## 8. [qianyiai/kurocat](https://github.com/qianyiai/kurocat)
+- **分类领域**: `🤖 AI & Agent Skills` | **语言**: `TypeScript` | ⭐ **513** (~513 (7天内新建))
+- **官方介绍**: KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop letting dry, soul-crushing terminal sessions kill your shipping momentum.
+
+Meet KuroCat: an insanely fast, open-source desktop typing cat built with Tauri v2 + Rust—and it's turning heads in dev Twitter.
+
+Old Bongo Cat vs KuroCat:
+• Old: Resource-heavy, electron lag, rigid sprites
+• KuroCat: Rust-native speed, zero latency, transparent overlay, and an MCP server integration so AI can sculpt custom pets on the fly.
+
+Why top solo builders are hooking it up:
+- Native OBS transparent source for tech streamers
+- Password anti-peep mode (protects your live streams)
+- Cross-platform: Win, Mac, Linux, and Android
+- Built-in MCP server for prompt-driven custom skins
+
+Pure developer dopamine on your screen:
+👉 https://github.com/qianyiai/kurocat
+
+#Rust #Tauri #DeveloperTools #BuildInPublic #OpenSource
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=RIP%20legacy%20desktop%20pets.%20KuroCat%20just%20upgraded%20the%20Bongo%20Cat%20meta%20with%20Rust%20%2B%20Tauri%20v2%20%2B%20built-in%20MCP.%0A%0A%E2%9A%A1%20Ultra%20lightweight%0A%F0%9F%9B%A1%EF%B8%8F%20Password%20privacy%20shield%0A%F0%9F%8E%A5%20OBS%20transparent%20overlay%0A%F0%9F%A4%96%20AI%20%22cat%20sculpting%22%0A%0ACode%20in%20style%3A%20https%3A//github.com/qianyiai/kurocat)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+很多程序员和独立开发者的桌面不是冷冰冰的终端，就是卡顿耗内存的旧版打字猫。顶级极客已经开始用 Rust 重构一切日常生产力与情绪价值了。
+
+刚上线几天就破 500 星的 KuroCat，直接把开源桌面伴侣的体验拉到了天花板！
+
+普通工具 vs 极客破局神器：
+普通玩家：忍受 Electron 臃肿内存，直播输密码全被看光，换个皮肤折腾半天。
+硬核玩家：Tauri v2 + Rust 极速底座，资源占用微乎其微；自带输密码防偷窥模式；甚至内置 MCP 协议，直接让大模型按你指令实时「捏猫」！
+
+核心亮点一览：
+• 6款手绘猫咪+大肥鱼鲸鱼娘，敲击感拉满
+• 独立主播福音：原生支持 OBS 透明浏览器源
+• 隐私拉满：密码框自动遮蔽，录屏直播不翻车
+• 全平台通吃：Win/Mac/Linux 甚至 Android 全支持
+
+完全开源免费，0门槛直接用：
+👉 https://github.com/qianyiai/kurocat
+
+#开源项目 #Rust #独立开发 #程序员必备 #生产力工具
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E8%BF%98%E5%9C%A8%E5%BF%8D%E5%8F%97%E5%8D%A1%E9%A1%BF%E7%AE%80%E9%99%8B%E7%9A%84Bongo%20Cat%EF%BC%9F%E5%BC%80%E6%BA%90%E9%BB%91%E9%A9%ACKuroCat%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%81Tauri%20v2%2BRust%E9%87%8D%E6%9E%84%EF%BC%8C%E8%BF%98%E6%8E%A5%E4%BA%86MCP%EF%BC%9A%0A%0A%E2%9C%85%20%E6%95%B2%E9%94%AE%E7%9B%98%E5%AE%9E%E6%97%B6%E4%BA%92%E5%8A%A8/6%E6%AC%BE%E8%BD%AF%E8%90%8C%E7%8C%AB%E5%92%AA%0A%E2%9C%85%20%E5%AF%86%E7%A0%81%E8%BE%93%E5%85%A5%E8%87%AA%E5%8A%A8%E9%98%B2%E7%AA%A5%E4%BF%9D%E6%8A%A4%0A%E2%9C%85%20OBS%E6%97%A0%E7%BC%9D%E9%80%8F%E6%98%8E%E6%BA%90%0A%E2%9C%85%20AI%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%8D%8F%E7%8C%AB%0A%0A%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%EF%BC%9Ahttps%3A//github.com/qianyiai/kurocat)**
+
+---
+
+## 9. [deterministic-machines/deslop-please](https://github.com/deterministic-machines/deslop-please)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `Rust` | ⭐ **462** (~462 (7天内新建))
+- **官方介绍**: Bring (back) sanity to your code
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+AI is generating 10x more code, but 90% of it is architectural garbage.
+
+We don't have a code velocity problem anymore. We have an AI slop disaster.
+
+Meet `deslop-please` — the merciless linter built to bring sanity back to software design.
+
+Inspired by John Ousterhout’s classic *A Philosophy of Software Design*, it hunts down leaky abstractions and sloppy coupling:
+
+❌ Before: Leaky structs, tangled state, modules that know way too much, total spaghetti.
+✅ After: Deep modules, razor-thin interfaces, isolated state, zero architectural bloat.
+
+🛠 Features:
+• Tracks field leaks across module boundaries
+• Enforces ruthless encapsulation
+• Single command: cargo install deslop-please
+
+If you want your solo-founder software factory to survive the AI boom, install this today.
+
+🔗 https://github.com/deterministic-machines/deslop-please
+
+#RustLang #SoftwareEngineering #DevTools #Solopreneur
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=AI%20code%20is%20turning%20codebases%20into%20unmaintainable%20slop.%0A%0AMeet%20deslop-please%3A%20A%20brutally%20opinionated%20Rust%20linter%20enforcing%20deep%20modules%20%26%20narrow%20interfaces.%0A%0AKill%20architectural%20debt%20before%20it%20kills%20you%3A%0Ahttps%3A//github.com/deterministic-machines/deslop-please)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+认知差正在拉开：99%的独立开发者都在用AI疯狂狂飙代码，却不知道项目早已死于“架构恶臭”。
+
+AI写得越快，代码烂得越透。模块相互穿透、内部字段到处裸奔、改一行崩整个系统——这就是典型的“AI Slop（代码泔水）”。
+
+顶级高手早已换上反制武器：`deslop-please`。
+
+它基于经典《软件设计哲学》，是一把极度严苛的 Rust 架构手术刀：
+
+普通做法：
+❌ 依赖AI狂写功能，内部状态跨模块乱调，3个月后代码彻底失控重构。
+顶流杠杆：
+✅ 运行 `deslop-please`，强制推行“深度模块+极窄接口”。字段越权访问？直接报出上万个编译级错误逼你重构！
+
+上手零门槛：
+只要装了 Rust，一行 `cargo install deslop-please`，立刻把屎山扫描得清清楚楚。
+
+一人公司能跑通千万利润的前提，是你的核心资产经得起演进，别让垃圾代码拖垮你的赚钱杠杆！
+
+项目地址：https://github.com/deterministic-machines/deslop-please
+
+#独立开发 #一人公司 #Rust开发 #程序员破局
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=AI%E5%86%99%E4%BB%A3%E7%A0%81%E6%98%AF%E7%88%BD%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%AD%A3%E5%9C%A8%E6%B2%A6%E4%B8%BA%E4%B8%8D%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84%E2%80%9C%E4%BB%A3%E7%A0%81%E5%9E%83%E5%9C%BE%E5%A0%86%E2%80%9D%EF%BC%81%0A%0A%E6%96%B0%E7%A5%9E%E5%99%A8%20deslop-please%20%E6%9D%A5%E4%BA%86%EF%BC%9A%E4%B8%93%E9%97%A8%E6%B2%BB%E6%B2%BBAI%E7%94%9F%E6%88%90%E7%9A%84%E7%83%82%E6%9E%B6%E6%9E%84%EF%BC%81%0A%0A%E2%9C%85%20%E6%9A%B4%E5%8A%9B%E6%8F%AA%E5%87%BA%E6%A8%A1%E5%9D%97%E8%B6%8A%E6%9D%83%E6%B3%84%E9%9C%B2%0A%E2%9C%85%20%E5%BC%BA%E8%A1%8C%E6%8A%8A%E6%9E%B6%E6%9E%84%E6%94%B6%E6%95%9B%E4%B8%BA%E6%9E%81%E7%AE%80%E6%8E%A5%E5%8F%A3%0A%E2%9C%85%20%E4%B8%80%E8%A1%8C%E5%91%BD%E4%BB%A4%E6%8B%AF%E6%95%91%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%0A%0A%F0%9F%94%97%20https%3A//github.com/deterministic-machines/deslop-please)**
+
+---
+
+## 10. [hoangsvit/google-ai](https://github.com/hoangsvit/google-ai)
+- **分类领域**: `🛠️ 开发者工具 & 架构` | **语言**: `Python` | ⭐ **454** (~454 (7天内新建))
+- **官方介绍**: A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Reverse-engineering Google Play billing logic from your terminal? This is pure developer leverage.
+
+While most people manually click through subscription screens, hackers are automating the entire inspection flow.
+
+Meet ePlus AI Toolkit — a terminal engine for macOS & Windows that taps Android, ADB, & Frida to inspect Google AI Pro promo sequences.
+
+Why it's blowing up (450+ stars in a week):
+
+▪️ Textual TUI: Gorgeous terminal dashboard running cross-platform
+▪️ Dynamic Hooking: Uses Frida to inspect Play Store offer eligibility
+▪️ Step-by-step pipeline: Tests multi-tier sequences (up to 24mo)
+▪️ Zero manual clicking: PowerShell & Python launchers streamline it all
+
+Whether you study IAP mechanics or mobile security, this repo is a goldmine.
+
+Inspect it here: https://github.com/hoangsvit/google-ai
+
+#BuildInPublic #DevTools #AndroidDev #ReverseEngineering #OpenSource
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Insane%20alpha%20dropped.%20Automate%20Google%20AI%20Pro%20offer%20discovery%20via%20terminal.%0A%0A%E2%9A%A1%EF%B8%8F%20ADB%20%2B%20Frida%20%2B%20Play%20Store%20stack%0A%E2%9A%A1%EF%B8%8F%20Native%20Textual%20TUI%20dashboard%0A%E2%9A%A1%EF%B8%8F%200-to-24mo%20sequence%20testing%0A%0A450%2B%20stars%20in%20days.%20Builder%20leverage%20is%20unreal%3A%0A%F0%9F%91%89%20https%3A//github.com/hoangsvit/google-ai)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+信息差永远是最大的红利！普通人还在苦等优惠码，顶级玩家已经在用逆向终端玩自动化了。
+
+刚上线几天就破 450 星的爆火开源项目：ePlus AI Toolkit。它直接把 Android、ADB、Frida 和 Google Play 打通，做成了一个极客感拉满的终端看板，专门用来自动化检查与测试 Google AI Pro 的优惠方案。
+
+看看顶级的十倍杠杆长什么样：
+
+✅ 极客 TUI 界面：跨平台终端操作，告别低效手工点手机
+✅ 动态Hook插桩：基于 Frida 深入分析 Play 商店底层订阅流
+✅ 自动化流程序列：一键跑通环境检测到权益探测全链路
+
+技术破局的核心，就是把繁琐的操作变成自动化的脚本。不管你是做移动安全、协议逆向，还是单纯好奇底层交互机制，这套架构都非常值得拆解学习。
+
+开源地址：https://github.com/hoangsvit/google-ai
+
+#开源项目 #逆向工程 #独立开发 #极客效率 #AI工具
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%87%BB%E7%A2%8E%E8%AE%A4%E7%9F%A5%E5%B7%AE%EF%BC%81%E6%9C%89%E4%BA%BA%E8%BF%98%E5%9C%A8%E8%8A%B1%E5%A4%A7%E9%92%B1%E4%B9%B0AI%E4%BC%9A%E5%91%98%EF%BC%8C%E9%BB%91%E5%AE%A2%E5%B7%B2%E7%BB%8F%E7%94%A8%E7%BB%88%E7%AB%AF%E8%B7%91%E8%84%9A%E6%9C%AC%E4%BA%86%E3%80%82%0A%0A%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8E%A2%E6%B5%8B%20Google%20AI%20Pro%20%E6%9D%83%E7%9B%8A%E5%BA%8F%E5%88%97%EF%BC%9A%0A%E2%9C%85%20ADB%20%2B%20Frida%20%E5%8A%A8%E6%80%81%E6%8F%92%E6%A1%A9%0A%E2%9C%85%20%E7%BB%88%E7%AB%AF%E5%8F%AF%E8%A7%86%E5%8C%96%20TUI%20%E7%9C%8B%E6%9D%BF%0A%E2%9C%85%207%E5%A4%A9%E7%8B%82%E6%8F%BD450%2B%E6%98%9F%0A%0A%E9%A1%B9%E7%9B%AE%E7%9B%B4%E8%BE%BE%EF%BC%9Ahttps%3A//github.com/hoangsvit/google-ai)**
+
+---
+
+## 11. [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud)
+- **分类领域**: `🚀 优质开源精选` | **语言**: `TypeScript` | ⭐ **424** (~424 (7天内新建))
+- **官方介绍**: Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.
+
+### 🇬🇧 [Alpha John 专版 · English]
+```text
+Stop paying 24/7 for idle compute. The era of the serverless game server is finally here.
+
+Someone just built a full Minecraft Java server running ENTIRELY inside Cloudflare's ecosystem.
+
+Before:
+❌ Rent a $40/mo VPS that burns cash while everyone sleeps
+❌ Constant OS patching, firewall config & port forwarding
+❌ World backups fail silently
+
+After (The Edge Way):
+✅ Spectrum routes TCP port 25565 straight to Workers
+✅ Durable Objects spawn containerized Paper on-demand
+✅ Sleeps after 10 mins of inactivity (wakes in 30s)
+✅ Persistent world automatically synced to R2 every 5m
+
+This is what peak developer leverage looks like. The line between edge infra and persistent workloads is completely gone.
+
+Code here: https://github.com/sshkeda/minecraft-server-on-orange-cloud
+
+#Cloudflare #DevOps #IndieHacker #Minecraft
+```
+👉 **[点击直接在 X 打开并排期 (Alpha John)](https://twitter.com/intent/tweet?text=Running%20game%20servers%20on%20VPS%20is%20officially%20dead.%0A%0ANow%20you%20can%20host%20a%20full%20Minecraft%20server%20entirely%20on%20%40Cloudflare%3A%0A%0A%E2%9A%A1%20Zero%20VPS%20patching%0A%E2%9A%A1%20Sleeps%20when%20idle%0A%E2%9A%A1%20Auto-saves%20to%20R2%0A%E2%9A%A1%20One-command%20deploy%0A%0APure%20edge%20leverage%20%F0%9F%91%87%0Ahttps%3A//github.com/sshkeda/minecraft-server-on-orange-cloud)**
+
+### 🇨🇳 [王坤PAS 专版 · 中文]
+```text
+这就是顶级技术人与普通人之间无法逾越的「认知差」！
+
+绝大多数人搞个私服：买几百块的云主机、配防火墙、端口映射、被DDoS打穿，没人玩时CPU空转白白扣费…
+
+真正的高手怎么干？
+直接把整个 Minecraft Java 服塞进了 Cloudflare 橙色云朵里！
+
+🔥 颠覆性架构拆解：
+1. 流量入口：Spectrum 直接接管 25565 端口流量
+2. 算力无感：Worker + Durable Object 动态拉起容器
+3. 极致降本：没人玩 10 分钟自动深度休眠，玩家上线 30 秒无缝唤醒
+4. 资产安全：世界存档每 5 分钟无感增量备份至 R2
+
+虽然需要 Cloudflare Pro 计划门槛，但这种将 Serverless 极限压榨到游戏私服的思路，正是超级个体做高杠杆项目的最佳范式！不仅省电省心，还能扛住海量流量攻击。
+
+项目开源地址：https://github.com/sshkeda/minecraft-server-on-orange-cloud
+
+#Cloudflare #独立开发 #出海技术 #认知差
+```
+👉 **[点击直接在 X 打开并排期 (王坤PAS)](https://twitter.com/intent/tweet?text=%E5%88%AB%E5%86%8D%E5%82%BB%E5%82%BB%E7%A7%9FVPS%E5%BC%80MC%E6%9C%8D%E4%BA%86%EF%BC%81%E9%AB%98%E6%89%8B%E5%B7%B2%E7%BB%8F%E7%9B%B4%E6%8E%A5%E7%99%BD%E5%AB%96%E8%BE%B9%E7%BC%98%E7%AE%97%E5%8A%9B%EF%BC%9A%0A%0A%E2%9C%85%200%E5%8F%B0VPS%EF%BC%8C%E5%AE%8C%E5%85%A8%E8%B7%91%E5%9C%A8Cloudflare%E4%B8%8A%0A%E2%9C%85%20%E6%B2%A1%E4%BA%BA%E7%8E%A9%E8%87%AA%E5%8A%A8%E4%BC%91%E7%9C%A0%EF%BC%8C%E6%9C%89%E4%BA%BA%E8%BF%9B30%E7%A7%92%E6%8B%89%E8%B5%B7%0A%E2%9C%85%20%E5%AD%98%E6%A1%A3%E6%AF%8F5%E5%88%86%E9%92%9F%E8%87%AA%E5%8A%A8%E5%88%B7%E5%85%A5R2%0A%E2%9C%85%20%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E9%83%A8%E7%BD%B2%0A%0A%E8%AE%A4%E7%9F%A5%E5%B7%AE%E6%89%93%E7%A0%B4%E5%85%A8%E6%B5%81%E7%A8%8B%F0%9F%91%87%0Ahttps%3A//github.com/sshkeda/minecraft-server-on-orange-cloud)**
+
+---
+
+
+---
+
+---
+
 ## 1. [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
 - **分类领域**: `🤖 AI & Agent Skills` | **语言**: `Rust` | ⭐ **2,417** (~2417 (7天内新建))
 - **官方介绍**: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.

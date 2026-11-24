@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 359,
+    "backlog_count": 368,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -530,13 +530,39 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Stop renting $10,000/mo cloud clusters just to run frontier models. The AI infra monopoly is crumbling.\n\nColibrì is peak engineer leverage: running massive hundreds-of-billions MoE models on the hardware you ALREADY own.\n\nHow? MoE only activates a tiny fraction of weights per token. Colibrì keeps that core in RAM and streams experts straight off your disk.\n\nBefore:\n❌ Burn $3k/mo on cloud H100 instances\n❌ Deal with CUDA dependency hell & Python bloat\n\nAfter:\n✅ 100% Pure C, single-file engine\n✅ Zero external dependencies\n✅ Runs frontier MoE (GLM, Mistral) on raw disk\n✅ Total data sovereignty on your local machine\n\nThis is how solo founders build empires without venture debt.\n\nCheck the code: https://github.com/JustVugg/colibri\n\n#OpenSource #AI #BuildInPublic #LocalLLM #Engineering"
+      },
+      {
+        "repo": "Graphify-Labs/graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "stars": 140147,
+        "stars_today": "660 stars today",
+        "heat_score": 66140147,
+        "scheduled_time": "2026-11-24 21:00:00 PST",
+        "iso_time": "2026-11-24T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most devs burn thousands of dollars context-stuffing messy codebases into LLMs just to get hallucinations back.\n\nGraphify just changed the game forever.\n\nIt takes your entire codebase, SQL schemas, docs, and even whiteboard screenshots, and turns them into a local, deterministic knowledge graph.\n\nKarpathy kept a /raw folder for years. This solves it:\n\n• 71.5x fewer tokens per query vs raw files\n• No vector DB hallucinations: 100% deterministic AST parsing\n• Full multimodal vision: extracts diagrams, PDFs & notes\n• Exports straight to interactive HTML & Obsidian vaults\n• Works instantly as a /graphify command in Claude Code & Cursor\n\nSolo builders are now running enterprise-grade software factories from a laptop.\n\n🔗 https://github.com/Graphify-Labs/graphify\n\n#DeveloperTools #ClaudeCode #AI #SoftwareEngineering #BuildInPublic"
+      },
+      {
+        "repo": "FlashML-org/FreeToken",
+        "url": "https://github.com/FlashML-org/FreeToken",
+        "stars": 16299,
+        "stars_today": "653 stars today",
+        "heat_score": 65316299,
+        "scheduled_time": "2026-11-25 09:00:00 PST",
+        "iso_time": "2026-11-25T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The cloud AI tax is officially dead. 🤯\n\nUntil today, serving 200B+ MoE models meant torching $5k/mo on AWS A100 clusters or bending the knee to closed API rate limits.\n\nThen FreeToken dropped.\n\nIt treats your consumer gaming rig—GPU, CPU, and host RAM—as a unified datacenter fabric. You can literally run 290B+ frontier models locally at interactive speeds:\n\n• Bandwidth-adaptive CPU-GPU co-execution\n• Edge-native MoE serving engine\n• Zero cloud dependency, infinite private context\n• Turn your desk into a self-hosted AI factory\n\nSolo builders are now out-shipping 50-person teams with consumer hardware.\n\nStar it before your competitors do: https://github.com/FlashML-org/FreeToken\n\n#OpenSource #AI #LocalLLM #BuildInPublic"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 355,
+    "backlog_count": 362,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -1455,6 +1481,86 @@
           "认知差就是最快的搞钱通道，当别人还在手画趋势线时，时代已经转向市场原生大模型了。\n\n趁着刚开源，建议立即Fork进个人武器库。\n\n#量化交易 #人工智能 #独立开发 #金融AI"
         ],
         "content": "普通散户还在盲目盯盘算指标，顶级的量化黑客已经在用金融领域专有Foundation Model自动捕获Alpha。\n\n这个认知差，今天被开源彻底砸碎了。\n\n刚冲上4.5万星的顶流神作 Kronos，把整个金融市场的交互动态当成一种独立“语言”进行大规模预训练。\n\n普通做法 vs 降维打击：\n❌ 傻傻拿通用LLM喂财报和新闻，充斥幻觉与无效噪音\n❌ 手写老旧技术指标，面对机构高频直接被割\n✅ Kronos 从底层学习跨资产价格博弈与市场微观结构\n✅ 像人类理解语法一样，原生解析震荡、突破与流动性枯竭\n✅ 提供完整权重与开箱即用的推理管道，单卡就能跑\n\n金融市场的认知红利稍纵即逝，谁先把基础模型接入交易流，谁就拥有十倍算力杠杆。\n\n趁还没被量化机构垄断，赶紧Star备用：\n👉 https://github.com/shiyu-coder/Kronos\n\n#量化交易 #金融AI #一人公司 #搞钱 #独立开发"
+      },
+      {
+        "repo": "lightpanda-io/browser",
+        "url": "https://github.com/lightpanda-io/browser",
+        "stars": 38535,
+        "stars_today": "626 stars today",
+        "heat_score": 62638535,
+        "scheduled_time": "2026-11-25 09:00:00 CST",
+        "iso_time": "2026-11-25T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人做 AI Agent 和爬虫还在用无头 Chrome，不仅把服务器内存吃崩，还白白交了几万块云账单。真正的高手已经在换代了：Lightpanda 用 Zig 从零写了一套极速无头浏览器，颠覆传统自动化架构。https://github.com/lightpanda-io/browser 🧵",
+          "传统无头 Chrome 根本不是为 AI 准备的。它带着几百兆臃肿的渲染管道和无用模块，跑几个实例就内存溢出。Lightpanda 砍掉了所有历史包袱，纯粹为了机器读取和智能体交互而生，极其精简高效。",
+          "性能差距有多残暴？在真实测试中，它的启动和抓取速度是 Chromium 的 9 倍，而内存占用竟然直接缩减了 16 倍！原本需要几十台顶配服务器的活，现在一台入门级机器就能硬扛。",
+          "门槛比你想象的还低。直接兼容现有自动化开发习惯，极简部署无依赖，不管是做自动化采集、大模型网页交互，还是一人公司出海搞钱，都能直接让你的云服务成本降到地板价。",
+          "2025年一人公司的核心壁垒就是工具杠杆。击碎认知差，省下来的每分钱都是纯利润。赶紧把项目 Star 起来换掉旧架构！\n\n#AI #独立开发 #出海搞钱 #开源"
+        ],
+        "content": "认知差就是真金白银。普通人做AI爬虫/Agent还在死磕Headless Chrome，每个月给AWS交上千刀账单，容器动不动就OOM崩溃。\n\n顶级的极客已经在用 Lightpanda 降维打击了。\n\n它不是改版Chromium，更不是换壳WebKit，而是用底层的 Zig 语言完全从零手写出来的超级无头浏览器！\n\n硬核实测对比：\n✅ 速度飙升 9 倍，Agent抓取网页瞬间完成\n✅ 内存占用狂降 16 倍，最便宜的轻量服务器轻松跑几百个实例\n✅ 砍掉所有无用渲染引擎，专为自动化与大模型设计\n\n一人公司搞钱的核心是“杠杆率”。当你用几块钱的机器跑出别人上万成本的吞吐量，你就在商业竞争里立于不败之地了。\n\n完全开源，别再当冤大头了：\nhttps://github.com/lightpanda-io/browser\n\n#AI #一人公司 #独立开发 #开源项目"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stars": 139339,
+        "stars_today": "617 stars today",
+        "heat_score": 61839339,
+        "scheduled_time": "2026-11-25 13:00:00 CST",
+        "iso_time": "2026-11-25T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "绝大多数自媒体人的死因：把生命浪费在剪辑里。今天开源社区13.9万星的神器 MoneyPrinterTurbo 彻底掀桌子，输入一个词直接生成完整高清短视频！🔗 https://github.com/harry0703/MoneyPrinterTurbo 🧵",
+          "普通人做视频：憋文案1天、找素材2小时、调字幕半小时，累死累活发一条还不火。而真正懂杠杆的操盘手，早就把整套流水线丢给AI自动跑了。",
+          "MoneyPrinterTurbo 能干什么？输入关键词，大模型自动写爆款脚本、智能检索素材、生成拟真人配音、打上动态字幕并合成高清成片，全流程零人工干预。",
+          "最爽的是零门槛：自带开箱即用的 WebUI 界面，点点鼠标就能出片；同时提供 API，直接支持你写脚本批量跑矩阵号，一个人就是一家MCN机构。",
+          "技术平权时代，别再用体力去拼工业级流水线。立刻去部署试试，把时间留给选选题和做商业化。转发收藏，开启你的一人视频工厂！\n\n#AI搞钱 #一人公司 #开源项目"
+        ],
+        "content": "绝大多数做自媒体的人，死因只有一个：把生命浪费在剪辑软件里。\n\n找素材2小时、配字幕半小时、憋文案1天，最后播放量不过500。\n而真正懂杠杆的操盘手，早就把流水线交给AI了。\n\n最近爆火破13.9万星的开源神器 MoneyPrinterTurbo，直接击碎制作壁垒：\n你只需要输入一个主题或关键词，剩下的它全包了！\n\n🔥 核心杀招：\n✅ 自动生成爆款脚本与分镜\n✅ 智能匹配高清视频/图片素材\n✅ 自动拟真配音 + 动效卡点字幕\n✅ 自带WebUI界面，不用写代码，开箱即用\n✅ 支持API批量跑，单人打造矩阵号工厂\n\n以前做矩阵要养一个剪辑团队，现在一台电脑加一个开源工具就是超级个体。认知的差距，从来不是你多能吃苦，而是你有没有用对杠杆。\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n#AI搞钱 #一人公司 #自动化 #搞钱 #独立开发"
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "stars": 45292,
+        "stars_today": "593 stars today",
+        "heat_score": 59345292,
+        "scheduled_time": "2026-11-25 17:00:00 CST",
+        "iso_time": "2026-11-25T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在给大模型充钱，黑客已经把全球免费算力当自来水用了！刚火爆的开源项目 FreeLLMAPI，把87家厂商全部聚合成一个API：https://github.com/tashfeenahmed/freellmapi 🧵",
+          "痛点太真实了：写个Agent做本地测试，一不小心几十刀账单就没了，还总撞限流报错。其实各大厂商的免费额度多到用不完，只是太分散没人整。",
+          "FreeLLMAPI 直接把1313个免费端点、每月101亿Token包揽下来。统一对外提供标准的 OpenAI /v1 接口，你现有的代码改个BASE_URL就能跑！",
+          "最强的是智能路由：当某家提供商遭遇Rate Limit，它会自动秒级切换到下一家，自动跟踪配额并加密存key，完全不用人工盯盘。",
+          "一人公司和独立开发者降本增效的终极神器，从此原型验证零成本。赶紧收藏去跑通属于你的无限算力：#独立开发 #AI工具 #开源"
+        ],
+        "content": "认知差瞬间为你省下几千块API账单！\n\n普通人做AI小玩具、做Agent测试，还在老老实实绑定信用卡，每月被扣几百刀，心惊肉跳生怕脚本跑飞超额。\n\n顶级黑客早已把各大厂商的“新手免额”薅成了水龙头。\n\n刚刚斩获4.5万星的开源神器【FreeLLMAPI】打破了所有壁垒：\n\n• 月供高达 101 亿免费 Token，覆盖 87 家主流提供商\n• 汇聚 1313 个模型端点，统一包装成标准 OpenAI `/v1` 接口\n• 智能路由：遇限流自动故障转移，永不中断\n• 本地加密密钥，全自动跟踪配额防被封\n\n一行代码无缝接入现存所有项目，个人实验零成本狂飙。这才是超级个体的绝对杠杆！\n\n项目地址：https://github.com/tashfeenahmed/freellmapi\n\n#独立开发 #AI工具 #开源项目 #出海"
+      },
+      {
+        "repo": "Tencent/LoopForge",
+        "url": "https://github.com/Tencent/LoopForge",
+        "stars": 3587,
+        "stars_today": "591 stars today",
+        "heat_score": 59103587,
+        "scheduled_time": "2026-11-25 21:00:00 CST",
+        "iso_time": "2026-11-25T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "很多程序员还在把 AI 当聊天窗口，腾讯已经开源了“AI 软件代工厂”！\n\nLoopForge 是一个能编排 Claude Code 和 Codex 的自托管工作流平台，直接把开发效率拉高十倍：https://github.com/Tencent/LoopForge 🧵",
+          "普通人的做法：肉身跟 AI 复制粘贴，改两个 bug 掉一把头发。\n\n高手的做法：用 LoopForge 搭建标准 SOP，让多个 Coding Agent 协同跑任务，从提需求到出 PR 全自动化，你只负责拍板验收。",
+          "最爽的是它的沙箱机制！\n\n以前不敢让终端 Agent 随便跑，生怕删库毁配置。\nLoopForge 把所有 Agent 关进隔离沙箱，跑脚本、装依赖全在沙箱内完成，彻底断绝环境污染和安全隐患。",
+          "不用担心门槛，项目支持 Docker 一键自托管部署，完全开源无捆绑，核心代码隐私全掌握在自己服务器里。\n\n一人公司直接拥有了一整个 7x24 小时开工的工程研发组。",
+          "信息差永远是最大的红利，会用 Agent 杠杆的人早就开始降维打击了。\n\n建议今晚就拉下来跑跑看，把你的第一条生产流水线搭起来！\n\n#独立开发 #AI编程 #开源项目 #超级个体"
+        ],
+        "content": "很多程序员还在把 AI 当聊天机器人，腾讯已经偷偷开源了一整套“AI 软件代工厂”！\n\n普通人的傻做法：\n开着网页跟 Claude 疯狂来回复制粘贴，出了 bug 头皮发麻，一个人干得比以前还累。\n\n顶级的十倍杠杆：\n直接用腾讯开源的 LoopForge，把 Coding Agent 变成流水线打工人！\n\n这就是一人公司的终极形态：\n1. 调度中心：把 Claude Code、Codex 统一编排，标准化 SOP 自动推进任务。\n2. 隔离沙箱：AI 在独立沙箱里跑测试、装依赖，彻底告别“AI 搞崩本地环境”。\n3. 审批闸门：关键变更必须人类 Confirm，只合并高质量代码，杜绝幻觉废料。\n4. 极速落地：完全开源，Docker 一键自建，你的代码隐私死死攥在自己手里。\n\n技术壁垒已经不存在了，未来只有会用 Agent 杠杆的超级个体和被时代淘汰的人。\n\n传送门：https://github.com/Tencent/LoopForge\n\n#独立开发 #AI编程 #搞钱 #开源项目 #超级个体"
       }
     ]
   }

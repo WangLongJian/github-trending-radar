@@ -518,10 +518,15 @@
         "heat_score": 70605821,
         "scheduled_time": "2026-11-24 17:00:00 PST",
         "iso_time": "2026-11-24T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most traders burn 3 hours a day scrolling Twitter, checking 15 tabs, and making emotional impulse trades.\n\nTop tech builders don't trade manually. They build automated decision engines.\n\nClaude Trading Skills just turned Claude Code into an elite personal trading assistant:\n\n❌ Before: Clunky stock screeners, endless tab switching, zero disciplined journaling\n✅ After: Ask Claude to run technical charting, macro calendar impact, and strict risk-check routines in seconds\n\nWhat it unlocks:\n• Automated equity screener & technical charts\n• Macro event impact breakdown\n• Disciplined trade planning & risk checklists\n• Zero AI slop — pure workflow leverage\n\n5.8k stars and exploding right now.\n\nFork it here: https://github.com/tradermonty/claude-trading-skills\n\n#AI #Trading #BuildInPublic #ClaudeCode"
+        "content": "Most traders burn 3 hours a day scrolling Twitter, checking 15 tabs, and making emotional impulse trades.\n\nTop tech builders don't trade manually. They build automated decision engines.\n\nClaude Trading Skills just turned Claude Code into an elite personal trading assistant:\n\n❌ Before: Clunky stock screeners, endless tab switching, zero disciplined journaling\n✅ After: Ask Claude to run technical charting, macro calendar impact, and strict risk-check routines in seconds\n\nWhat it unlocks:\n• Automated equity screener & technical charts\n• Macro event impact breakdown\n• Disciplined trade planning & risk checklists\n• Zero AI slop — pure workflow leverage\n\n5.8k stars and exploding right now.\n\nFork it here: https://github.com/tradermonty/claude-trading-skills\n\n#AI #Trading #BuildInPublic #ClaudeCode",
+        "thread_ids": [
+          "2125394128892760575"
+        ],
+        "tweet_url": "https://x.com/i/status/2125394128892760575",
+        "posted_at": "2026-11-25T01:00:24.488450+00:00"
       },
       {
         "repo": "JustVugg/colibri",
@@ -1475,7 +1480,7 @@
         "heat_score": 63045610,
         "scheduled_time": "2026-11-25 09:00:00 CST",
         "iso_time": "2026-11-25T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1485,7 +1490,16 @@
           "最爽的是个人开发者完全可用。\n\n不用你买几百万的量化终端，Kronos 提供了完整的权重、开源推理链与在线Demo。单张消费级显卡就能跑起来，一人量化团队的基建直接齐活。",
           "认知差就是最快的搞钱通道，当别人还在手画趋势线时，时代已经转向市场原生大模型了。\n\n趁着刚开源，建议立即Fork进个人武器库。\n\n#量化交易 #人工智能 #独立开发 #金融AI"
         ],
-        "content": "普通散户还在盲目盯盘算指标，顶级的量化黑客已经在用金融领域专有Foundation Model自动捕获Alpha。\n\n这个认知差，今天被开源彻底砸碎了。\n\n刚冲上4.5万星的顶流神作 Kronos，把整个金融市场的交互动态当成一种独立“语言”进行大规模预训练。\n\n普通做法 vs 降维打击：\n❌ 傻傻拿通用LLM喂财报和新闻，充斥幻觉与无效噪音\n❌ 手写老旧技术指标，面对机构高频直接被割\n✅ Kronos 从底层学习跨资产价格博弈与市场微观结构\n✅ 像人类理解语法一样，原生解析震荡、突破与流动性枯竭\n✅ 提供完整权重与开箱即用的推理管道，单卡就能跑\n\n金融市场的认知红利稍纵即逝，谁先把基础模型接入交易流，谁就拥有十倍算力杠杆。\n\n趁还没被量化机构垄断，赶紧Star备用：\n👉 https://github.com/shiyu-coder/Kronos\n\n#量化交易 #金融AI #一人公司 #搞钱 #独立开发"
+        "content": "普通散户还在盲目盯盘算指标，顶级的量化黑客已经在用金融领域专有Foundation Model自动捕获Alpha。\n\n这个认知差，今天被开源彻底砸碎了。\n\n刚冲上4.5万星的顶流神作 Kronos，把整个金融市场的交互动态当成一种独立“语言”进行大规模预训练。\n\n普通做法 vs 降维打击：\n❌ 傻傻拿通用LLM喂财报和新闻，充斥幻觉与无效噪音\n❌ 手写老旧技术指标，面对机构高频直接被割\n✅ Kronos 从底层学习跨资产价格博弈与市场微观结构\n✅ 像人类理解语法一样，原生解析震荡、突破与流动性枯竭\n✅ 提供完整权重与开箱即用的推理管道，单卡就能跑\n\n金融市场的认知红利稍纵即逝，谁先把基础模型接入交易流，谁就拥有十倍算力杠杆。\n\n趁还没被量化机构垄断，赶紧Star备用：\n👉 https://github.com/shiyu-coder/Kronos\n\n#量化交易 #金融AI #一人公司 #搞钱 #独立开发",
+        "thread_ids": [
+          "2125394177592799700",
+          "2125394233221927037",
+          "2125394281619960099",
+          "2125394330320076928",
+          "2125394380613980346"
+        ],
+        "tweet_url": "https://x.com/i/status/2125394177592799700",
+        "posted_at": "2026-11-25T01:01:24.285767+00:00"
       },
       {
         "repo": "lightpanda-io/browser",

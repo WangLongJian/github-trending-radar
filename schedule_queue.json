@@ -572,10 +572,15 @@
         "heat_score": 65316299,
         "scheduled_time": "2026-11-25 13:00:00 PST",
         "iso_time": "2026-11-25T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The cloud AI tax is officially dead. 🤯\n\nUntil today, serving 200B+ MoE models meant torching $5k/mo on AWS A100 clusters or bending the knee to closed API rate limits.\n\nThen FreeToken dropped.\n\nIt treats your consumer gaming rig—GPU, CPU, and host RAM—as a unified datacenter fabric. You can literally run 290B+ frontier models locally at interactive speeds:\n\n• Bandwidth-adaptive CPU-GPU co-execution\n• Edge-native MoE serving engine\n• Zero cloud dependency, infinite private context\n• Turn your desk into a self-hosted AI factory\n\nSolo builders are now out-shipping 50-person teams with consumer hardware.\n\nStar it before your competitors do: https://github.com/FlashML-org/FreeToken\n\n#OpenSource #AI #LocalLLM #BuildInPublic"
+        "content": "The cloud AI tax is officially dead. 🤯\n\nUntil today, serving 200B+ MoE models meant torching $5k/mo on AWS A100 clusters or bending the knee to closed API rate limits.\n\nThen FreeToken dropped.\n\nIt treats your consumer gaming rig—GPU, CPU, and host RAM—as a unified datacenter fabric. You can literally run 290B+ frontier models locally at interactive speeds:\n\n• Bandwidth-adaptive CPU-GPU co-execution\n• Edge-native MoE serving engine\n• Zero cloud dependency, infinite private context\n• Turn your desk into a self-hosted AI factory\n\nSolo builders are now out-shipping 50-person teams with consumer hardware.\n\nStar it before your competitors do: https://github.com/FlashML-org/FreeToken\n\n#OpenSource #AI #LocalLLM #BuildInPublic",
+        "thread_ids": [
+          "2125696112699023689"
+        ],
+        "tweet_url": "https://x.com/i/status/2125696112699023689",
+        "posted_at": "2026-11-25T21:00:23.417545+00:00"
       },
       {
         "repo": "Alishahryar1/free-claude-code",

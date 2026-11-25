@@ -536,10 +536,15 @@
         "heat_score": 67546789,
         "scheduled_time": "2026-11-24 21:00:00 PST",
         "iso_time": "2026-11-24T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop renting $10,000/mo cloud clusters just to run frontier models. The AI infra monopoly is crumbling.\n\nColibrì is peak engineer leverage: running massive hundreds-of-billions MoE models on the hardware you ALREADY own.\n\nHow? MoE only activates a tiny fraction of weights per token. Colibrì keeps that core in RAM and streams experts straight off your disk.\n\nBefore:\n❌ Burn $3k/mo on cloud H100 instances\n❌ Deal with CUDA dependency hell & Python bloat\n\nAfter:\n✅ 100% Pure C, single-file engine\n✅ Zero external dependencies\n✅ Runs frontier MoE (GLM, Mistral) on raw disk\n✅ Total data sovereignty on your local machine\n\nThis is how solo founders build empires without venture debt.\n\nCheck the code: https://github.com/JustVugg/colibri\n\n#OpenSource #AI #BuildInPublic #LocalLLM #Engineering"
+        "content": "Stop renting $10,000/mo cloud clusters just to run frontier models. The AI infra monopoly is crumbling.\n\nColibrì is peak engineer leverage: running massive hundreds-of-billions MoE models on the hardware you ALREADY own.\n\nHow? MoE only activates a tiny fraction of weights per token. Colibrì keeps that core in RAM and streams experts straight off your disk.\n\nBefore:\n❌ Burn $3k/mo on cloud H100 instances\n❌ Deal with CUDA dependency hell & Python bloat\n\nAfter:\n✅ 100% Pure C, single-file engine\n✅ Zero external dependencies\n✅ Runs frontier MoE (GLM, Mistral) on raw disk\n✅ Total data sovereignty on your local machine\n\nThis is how solo founders build empires without venture debt.\n\nCheck the code: https://github.com/JustVugg/colibri\n\n#OpenSource #AI #BuildInPublic #LocalLLM #Engineering",
+        "thread_ids": [
+          "2125454486609207706"
+        ],
+        "tweet_url": "https://x.com/i/status/2125454486609207706",
+        "posted_at": "2026-11-25T05:00:15.307942+00:00"
       },
       {
         "repo": "Graphify-Labs/graphify",
@@ -1509,7 +1514,7 @@
         "heat_score": 62638535,
         "scheduled_time": "2026-11-25 13:00:00 CST",
         "iso_time": "2026-11-25T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1519,7 +1524,16 @@
           "门槛比你想象的还低。直接兼容现有自动化开发习惯，极简部署无依赖，不管是做自动化采集、大模型网页交互，还是一人公司出海搞钱，都能直接让你的云服务成本降到地板价。",
           "2025年一人公司的核心壁垒就是工具杠杆。击碎认知差，省下来的每分钱都是纯利润。赶紧把项目 Star 起来换掉旧架构！\n\n#AI #独立开发 #出海搞钱 #开源"
         ],
-        "content": "认知差就是真金白银。普通人做AI爬虫/Agent还在死磕Headless Chrome，每个月给AWS交上千刀账单，容器动不动就OOM崩溃。\n\n顶级的极客已经在用 Lightpanda 降维打击了。\n\n它不是改版Chromium，更不是换壳WebKit，而是用底层的 Zig 语言完全从零手写出来的超级无头浏览器！\n\n硬核实测对比：\n✅ 速度飙升 9 倍，Agent抓取网页瞬间完成\n✅ 内存占用狂降 16 倍，最便宜的轻量服务器轻松跑几百个实例\n✅ 砍掉所有无用渲染引擎，专为自动化与大模型设计\n\n一人公司搞钱的核心是“杠杆率”。当你用几块钱的机器跑出别人上万成本的吞吐量，你就在商业竞争里立于不败之地了。\n\n完全开源，别再当冤大头了：\nhttps://github.com/lightpanda-io/browser\n\n#AI #一人公司 #独立开发 #开源项目"
+        "content": "认知差就是真金白银。普通人做AI爬虫/Agent还在死磕Headless Chrome，每个月给AWS交上千刀账单，容器动不动就OOM崩溃。\n\n顶级的极客已经在用 Lightpanda 降维打击了。\n\n它不是改版Chromium，更不是换壳WebKit，而是用底层的 Zig 语言完全从零手写出来的超级无头浏览器！\n\n硬核实测对比：\n✅ 速度飙升 9 倍，Agent抓取网页瞬间完成\n✅ 内存占用狂降 16 倍，最便宜的轻量服务器轻松跑几百个实例\n✅ 砍掉所有无用渲染引擎，专为自动化与大模型设计\n\n一人公司搞钱的核心是“杠杆率”。当你用几块钱的机器跑出别人上万成本的吞吐量，你就在商业竞争里立于不败之地了。\n\n完全开源，别再当冤大头了：\nhttps://github.com/lightpanda-io/browser\n\n#AI #一人公司 #独立开发 #开源项目",
+        "thread_ids": [
+          "2125454535808450847",
+          "2125454592741962061",
+          "2125454642020864052",
+          "2125454692276973682",
+          "2125454743283888217"
+        ],
+        "tweet_url": "https://x.com/i/status/2125454535808450847",
+        "posted_at": "2026-11-25T05:01:16.520090+00:00"
       },
       {
         "repo": "harry0703/MoneyPrinterTurbo",

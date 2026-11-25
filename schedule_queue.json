@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 368,
+    "backlog_count": 377,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -571,13 +571,52 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "The cloud AI tax is officially dead. 🤯\n\nUntil today, serving 200B+ MoE models meant torching $5k/mo on AWS A100 clusters or bending the knee to closed API rate limits.\n\nThen FreeToken dropped.\n\nIt treats your consumer gaming rig—GPU, CPU, and host RAM—as a unified datacenter fabric. You can literally run 290B+ frontier models locally at interactive speeds:\n\n• Bandwidth-adaptive CPU-GPU co-execution\n• Edge-native MoE serving engine\n• Zero cloud dependency, infinite private context\n• Turn your desk into a self-hosted AI factory\n\nSolo builders are now out-shipping 50-person teams with consumer hardware.\n\nStar it before your competitors do: https://github.com/FlashML-org/FreeToken\n\n#OpenSource #AI #LocalLLM #BuildInPublic"
+      },
+      {
+        "repo": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "stars": 68774,
+        "stars_today": "636 stars today",
+        "heat_score": 63668774,
+        "scheduled_time": "2026-11-25 17:00:00 PST",
+        "iso_time": "2026-11-25T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "The solo-developer leverage game just went completely parabolic.\n\nWhile most founders are burning $500–$2,000/mo on multi-agent subscriptions and token bills, the open-source community just dropped an absolute nuke.\n\nMeet free-claude-code (68k+ ⭐):\n\n❌ Before:\n- Gated IDE tools eating your runway\n- Switching between expensive Claude/Codex seats\n- Hitting strict rate limits mid-sprint\n\n✅ Today:\n- 1.3B+ free tokens aggregated across providers\n- Full support: Claude Code, Codex, VSCode & OpenCode\n- Multi-harness browser sessions & native voice support\n- Run seamlessly from Terminal, IDE, or mobile\n\nThis turns any disciplined solopreneur into a full-stack software factory with zero upfront burn.\n\n🔗 https://github.com/Alishahryar1/free-claude-code\n\n#DevTools #BuildInPublic #AI #OpenSource #SoloFounder"
+      },
+      {
+        "repo": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "stars": 45610,
+        "stars_today": "630 stars today",
+        "heat_score": 63045610,
+        "scheduled_time": "2026-11-25 21:00:00 PST",
+        "iso_time": "2026-11-25T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most quants guard their market models like state secrets.\n\nThen Kronos dropped. 45k+ stars and ripping through Tech Twitter for a reason.\n\nIt’s not another wrapper prompt engineering GPT-4 for stock tips. Kronos treats financial market data—tick sequences, order book dynamics, price action—as an actual native language.\n\nBefore: Spending 6 months writing fragile pipeline scripts and lagging TA indicators.\nNow: Zero-shot financial market intelligence straight from an open-weight foundation model.\n\nWhat it unlocks for solo builders & quants:\n✅ Foundation model pre-trained on pure market dynamics\n✅ Hugging Face checkpoints available right now\n✅ Extreme leverage for solo algorithmic trading desks\n✅ Live demo already running\n\nInstitutional-grade edge is officially decentralized.\n\nRepo: https://github.com/shiyu-coder/Kronos\n\n#FinTech #AI #Quant #MachineLearning #OpenSource"
+      },
+      {
+        "repo": "lightpanda-io/browser",
+        "url": "https://github.com/lightpanda-io/browser",
+        "stars": 38535,
+        "stars_today": "626 stars today",
+        "heat_score": 62638535,
+        "scheduled_time": "2026-11-26 09:00:00 PST",
+        "iso_time": "2026-11-26T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Running headless Chrome in production for AI agents is a total architectural crime.\n\nYou're spinning up 30GB of bloated browser code just to fetch a DOM tree. Your AWS bill explodes, instances crash with OOM errors, and your agents crawl at dial-up speeds.\n\nLightpanda just completely changed the game.\n\nIt’s NOT a Chromium fork. It’s NOT a WebKit patch. \nIt’s an entirely new headless browser engineered from scratch in Zig specifically for AI and automation.\n\nWhy this is pure developer leverage:\n• 16x lighter memory footprint (run 10x more agents on a single node)\n• 9x faster execution times\n• Sub-millisecond cold starts\n• Drops straight into your existing automation pipelines\n\nIf you're building automated scraping, agent workflows, or autonomous web operators, stop paying the Google tax.\n\nhttps://github.com/lightpanda-io/browser\n\n#DevTools #BuildInPublic #AIagents #ZigLang #Automation"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 362,
+    "backlog_count": 371,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -1603,6 +1642,66 @@
           "信息差永远是最大的红利，会用 Agent 杠杆的人早就开始降维打击了。\n\n建议今晚就拉下来跑跑看，把你的第一条生产流水线搭起来！\n\n#独立开发 #AI编程 #开源项目 #超级个体"
         ],
         "content": "很多程序员还在把 AI 当聊天机器人，腾讯已经偷偷开源了一整套“AI 软件代工厂”！\n\n普通人的傻做法：\n开着网页跟 Claude 疯狂来回复制粘贴，出了 bug 头皮发麻，一个人干得比以前还累。\n\n顶级的十倍杠杆：\n直接用腾讯开源的 LoopForge，把 Coding Agent 变成流水线打工人！\n\n这就是一人公司的终极形态：\n1. 调度中心：把 Claude Code、Codex 统一编排，标准化 SOP 自动推进任务。\n2. 隔离沙箱：AI 在独立沙箱里跑测试、装依赖，彻底告别“AI 搞崩本地环境”。\n3. 审批闸门：关键变更必须人类 Confirm，只合并高质量代码，杜绝幻觉废料。\n4. 极速落地：完全开源，Docker 一键自建，你的代码隐私死死攥在自己手里。\n\n技术壁垒已经不存在了，未来只有会用 Agent 杠杆的超级个体和被时代淘汰的人。\n\n传送门：https://github.com/Tencent/LoopForge\n\n#独立开发 #AI编程 #搞钱 #开源项目 #超级个体"
+      },
+      {
+        "repo": "experientiallabs/experiential",
+        "url": "https://github.com/experientiallabs/experiential",
+        "stars": 16624,
+        "stars_today": "589 stars today",
+        "heat_score": 58916624,
+        "scheduled_time": "2026-11-26 13:00:00 CST",
+        "iso_time": "2026-11-26T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通开发者还在给OpenAI疯狂交昂贵租金，顶级一人公司已经在用它把成本打掉80%！开源零差价AI网关 Experiential 爆火：https://github.com/experientiallabs/experiential 🧵",
+          "痛点太真实了：很多人的AI应用还没跑通商业闭环，每个月几千刀的Token费用先把自己压垮。把所有Agent请求都无脑喂给最贵的模型，完全是在当冤大头。",
+          "Experiential 就是解法：它用一个兼容 OpenAI 的统一接口，接管 1000+ 云端、本地及私有模型。按任务复杂度智能分流，简单任务切平价模型，直接死守预算上限。",
+          "最狠的降维打击是：它会从你真实的业务流量中自动学习，为你训练和蒸馏出完全属于你自己的特化专有模型。不再是大厂搬运工，而是把数据变资产。",
+          "上手极简，终端输入 pip install experiential 即可秒起本地网关，一人即可掌握超强杠杆。赶紧去标星自建：https://github.com/experientiallabs/experiential\n\n#独立开发 #AI创业 #开源项目"
+        ],
+        "content": "很多人做AI应用根本不是死在产品上，而是死在每个月巨额的Token账单上。\n\n普通人傻傻地所有Agent逻辑都硬上GPT-4，一个月烧掉大几千刀；而顶尖的一人公司早就在用开源智能路由把成本打掉80%。\n\n刚刚斩获1.6万星的 Experiential 彻底打破了这个信息差：\n它是完全开源、零差价的AI Gateway与智能路由。\n\n它帮你搞定三件暴利级的事：\n1️⃣ 统一聚合：1000+模型库和自建模型，仅用一条兼容OpenAI的API全搞定\n2️⃣ 智能降本：自动根据任务复杂度切模型，简单任务切平价模型，预算死死卡住\n3️⃣ 核心资产沉淀：自动基于你的真实调用流量，微调训练出专属于你的特化模型！\n\n从给大厂打工交租，到真正沉淀属于自己的模型壁垒。\n两行命令 pip install experiential 直接启动本地网关。\n\n开源地址：https://github.com/experientiallabs/experiential\n\n#独立开发 #一人公司 #AI创业 #出海 #搞钱"
+      },
+      {
+        "repo": "calesthio/OpenMontage",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "stars": 74087,
+        "stars_today": "583 stars today",
+        "heat_score": 58374087,
+        "scheduled_time": "2026-11-26 17:00:00 CST",
+        "iso_time": "2026-11-26T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "搞钱认知的残酷真相：普通人还在通宵手搓剪映，顶级一人公司已经在用 Agent 批量造片了。开源神器 OpenMontage 刚上线就引爆 GitHub，直接把你的 AI 助手变成全自动化影视工作室：https://github.com/calesthio/OpenMontage 🧵",
+          "痛点太真实了：普通创作者憋文案3小时、找素材半天、调轴对齐折腾一整晚，产出慢且质量全看玄学。而高手用 Agent 管线批量出片，效率差直接拉开百倍，这就是为什么你越努力越亏钱。",
+          "OpenMontage 到底有多硬核？内嵌 12 条工业级生产管线、100+ 专用工具，外加 700 多个专业制作知识库。最骚的是能直接丢进一个你喜欢的爆款视频，AI 自动逆向拆解其视听语言并批量复刻。",
+          "完全不需要你会专业后期。通过标准接口连接 Cursor、Claude 等代码助手，用自然语言指挥流水线。把精力从琐碎的剪切拼凑中解放出来，专注于选题和商业变现，彻底实现一人影视工业化。",
+          "技术平权时代，不要用战术上的勤奋掩盖认知上的懒惰。开源红利就在眼前，赶紧先去 GitHub 点个 Star 把项目跑起来，提前占领流量高地！\n\n#一人公司 #AI工具 #搞钱 #开源"
+        ],
+        "content": "搞钱认知的残酷真相：普通人还在手搓剪映，顶级一人公司已经在用 Agent 批量造片了。\n\n你为了做一条爆款视频：憋文案3小时、找素材半天、调时间轴通宵，最后播放量不过百。\n而高手直接把 AI 编程助手爆改成全自动影视工作室。\n\n刚在 GitHub 爆火的 OpenMontage 正在击碎这个认知差：\n\n🔥 降维打击的核心能力：\n- 12 条完整流水线：从脚本分镜、配音生成到智能特效全流程打通\n- 100+ 专用工具链集成，告别散装 AI 拼凑\n- 700+ 工业级视频制作知识库，彻底消灭 AI 塑料感\n- 支持“逆向拆解”：丢进去一个爆款视频，AI 自动学习并复刻其叙事套路\n\n完全开源，不需要你懂复杂的后期调色剪辑，只要你会敲提示词，一个人就是一家影视制作公司。\n\n技术红利窗口期极短，跑通的人已经在批量收割流量了：\nhttps://github.com/calesthio/OpenMontage\n\n#一人公司 #AI创业 #副业搞钱 #开源项目"
+      },
+      {
+        "repo": "anthropics/claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "stars": 20179,
+        "stars_today": "551 stars today",
+        "heat_score": 55120179,
+        "scheduled_time": "2026-11-26 21:00:00 CST",
+        "iso_time": "2026-11-26T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在调Prompt，顶级玩家已经用官方模板开软件公司了！Anthropic官方开源claude-quickstarts，把一人公司杠杆拉到极致，2万星神库直接抄作业：https://github.com/anthropics/claude-quickstarts 🧵",
+          "痛点对比太残酷了：普通人自己从零写工具链、缝合前端，折腾半个月还是个破玩具；高手直接拉官方工业级代码，5分钟配上API Key，当晚就能上线接单搞钱。",
+          "里面直接送3套生产级核武器：1. 自带完整知识库的智能客服；2. 能把财报直接画出交互图表的金融分析师；3. 让Claude直接接管鼠标键盘的Computer Use控制台。",
+          "门槛低到不可思议：不需要懂复杂的模型微调，只要有Claude API Key，git clone后直接跑，每一套都带现成UI和完整逻辑，改改logo就是你的SaaS。",
+          "技术壁垒正在彻底瓦解，拼的就是谁先利用顶级杠杆。赶紧去Star收藏，别等同行拿它赚到钱了才后知后觉！\n\n#AI破局 #一人公司 #独立开发 #Claude"
+        ],
+        "content": "认知差拉满的一天：当普通人还在为调一个Prompt发愁时，顶级开发者已经用官方脚手架搭出整个软件公司了。\n\nAnthropic 官方开源的 claude-quickstarts 狂揽 20,000+ Stars，500多单日暴涨，直接把一人公司的杠杆拉到极致！\n\n以前做AI项目：\n自己踩坑写调度、写工具链、缝合前端，折腾两周还是个玩具 Demo。\n\n现在有了官方工业级模板：\n✅ 客服Agent：自带完整知识库，开箱即用的AI售后系统\n✅ 金融数据分析师：自然语言对话即时生成交互图表\n✅ Computer Use Demo：直接让 Claude 接管电脑桌面执行任务\n\n零门槛：只需要一个 Claude API Key，本地 git clone 跑起来就能商业化上线。\n\n这才是真正的降维打击，普通人拉平技术鸿沟的最快途径。\n\n开源地址：https://github.com/anthropics/claude-quickstarts\n\n#AI破局 #独立开发 #一人公司 #Claude #GitHub"
       }
     ]
   }

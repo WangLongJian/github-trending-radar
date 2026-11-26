@@ -626,10 +626,15 @@
         "heat_score": 62638535,
         "scheduled_time": "2026-11-26 09:00:00 PST",
         "iso_time": "2026-11-26T09:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Running headless Chrome in production for AI agents is a total architectural crime.\n\nYou're spinning up 30GB of bloated browser code just to fetch a DOM tree. Your AWS bill explodes, instances crash with OOM errors, and your agents crawl at dial-up speeds.\n\nLightpanda just completely changed the game.\n\nIt’s NOT a Chromium fork. It’s NOT a WebKit patch. \nIt’s an entirely new headless browser engineered from scratch in Zig specifically for AI and automation.\n\nWhy this is pure developer leverage:\n• 16x lighter memory footprint (run 10x more agents on a single node)\n• 9x faster execution times\n• Sub-millisecond cold starts\n• Drops straight into your existing automation pipelines\n\nIf you're building automated scraping, agent workflows, or autonomous web operators, stop paying the Google tax.\n\nhttps://github.com/lightpanda-io/browser\n\n#DevTools #BuildInPublic #AIagents #ZigLang #Automation"
+        "content": "Running headless Chrome in production for AI agents is a total architectural crime.\n\nYou're spinning up 30GB of bloated browser code just to fetch a DOM tree. Your AWS bill explodes, instances crash with OOM errors, and your agents crawl at dial-up speeds.\n\nLightpanda just completely changed the game.\n\nIt’s NOT a Chromium fork. It’s NOT a WebKit patch. \nIt’s an entirely new headless browser engineered from scratch in Zig specifically for AI and automation.\n\nWhy this is pure developer leverage:\n• 16x lighter memory footprint (run 10x more agents on a single node)\n• 9x faster execution times\n• Sub-millisecond cold starts\n• Drops straight into your existing automation pipelines\n\nIf you're building automated scraping, agent workflows, or autonomous web operators, stop paying the Google tax.\n\nhttps://github.com/lightpanda-io/browser\n\n#DevTools #BuildInPublic #AIagents #ZigLang #Automation",
+        "thread_ids": [
+          "2125998094756241649"
+        ],
+        "tweet_url": "https://x.com/i/status/2125998094756241649",
+        "posted_at": "2026-11-26T17:00:21.524339+00:00"
       },
       {
         "repo": "harry0703/MoneyPrinterTurbo",

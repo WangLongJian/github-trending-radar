@@ -2883,8 +2883,29 @@
       "url": "https://github.com/olive527/steam-library-manager-windows",
       "source": "Search API (New Spikes)",
       "posted": false
+    },
+    "samuelgursky/davinci-resolve-mcp": {
+      "date": "2026-11-26",
+      "stars": 4378,
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "source": "Trending (Python)",
+      "posted": false
+    },
+    "avatarmanz/VIctory-7900XTX": {
+      "date": "2026-11-26",
+      "stars": 1352,
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "source": "Search API (New Spikes)",
+      "posted": false
+    },
+    "alesha-pro/llm.asm": {
+      "date": "2026-11-26",
+      "stars": 779,
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "source": "Search API (New Spikes)",
+      "posted": false
     }
   },
   "posted": {},
-  "last_run": "2026-11-25T09:39:37.258265"
+  "last_run": "2026-11-26T09:14:36.282176"
 }

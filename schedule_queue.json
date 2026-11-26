@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 377,
+    "backlog_count": 376,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -630,6 +630,58 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Running headless Chrome in production for AI agents is a total architectural crime.\n\nYou're spinning up 30GB of bloated browser code just to fetch a DOM tree. Your AWS bill explodes, instances crash with OOM errors, and your agents crawl at dial-up speeds.\n\nLightpanda just completely changed the game.\n\nIt’s NOT a Chromium fork. It’s NOT a WebKit patch. \nIt’s an entirely new headless browser engineered from scratch in Zig specifically for AI and automation.\n\nWhy this is pure developer leverage:\n• 16x lighter memory footprint (run 10x more agents on a single node)\n• 9x faster execution times\n• Sub-millisecond cold starts\n• Drops straight into your existing automation pipelines\n\nIf you're building automated scraping, agent workflows, or autonomous web operators, stop paying the Google tax.\n\nhttps://github.com/lightpanda-io/browser\n\n#DevTools #BuildInPublic #AIagents #ZigLang #Automation"
+      },
+      {
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stars": 139339,
+        "stars_today": "617 stars today",
+        "heat_score": 61839339,
+        "scheduled_time": "2026-11-26 13:00:00 PST",
+        "iso_time": "2026-11-26T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop spending 6 hours editing 45-second vertical videos.\n\nA solo founder just unlocked the ultimate leverage stack.\n\nMeet MoneyPrinterTurbo (139k+ ⭐ on GitHub):\nAn open-source automation pipeline that turns a single prompt into fully produced, HD short-form video in seconds.\n\nOld way:\n• Brainstorm hook (45m)\n• Script & storyboard (1h)\n• Scour stock footage (2h)\n• Voiceover + Subtitles (1h)\n• Render & export (30m)\n\nNew way with MoneyPrinterTurbo:\n✅ Type a topic or keyword\n✅ LLM drafts the script & beats\n✅ Auto-fetches matching video clips\n✅ Synthesizes natural AI voiceover\n✅ Auto-aligns dynamic subtitles & BGM\n✅ WebUI + REST API ready for mass automation\n\nThe 1-person software media empire is no longer theoretical. It's open source.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n#OpenSource #AI #Solopreneur #BuildInPublic"
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "stars": 45292,
+        "stars_today": "593 stars today",
+        "heat_score": 59345292,
+        "scheduled_time": "2026-11-26 17:00:00 PST",
+        "iso_time": "2026-11-26T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Solo founders are burning thousands on API bills that could literally be $0.\n\nHere’s the dirty secret: AI labs offer insane free tiers. Nobody aggregates them. Until now.\n\nMeet FreeLLMAPI:\n• 10.1 BILLION tokens/mo across 87 providers\n• 1,313 free endpoints behind a single standard /v1 URL\n• Automatic failover (never hit a rate limit wall again)\n• Smart router picks the fastest, smartest model dynamically\n• Fully encrypted keys with zero credential leak risk\n\nBefore: 12 API accounts, constant 429 errors, $400/mo credit card bleed.\nAfter: One endpoint. Unlimited zero-cost experimentation. Extreme solo leverage.\n\nDrop it into your Cursor, LangChain, or agent stack right now.\n\nStar it before it's taken down:\nhttps://github.com/tashfeenahmed/freellmapi\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering"
+      },
+      {
+        "repo": "Tencent/LoopForge",
+        "url": "https://github.com/Tencent/LoopForge",
+        "stars": 3587,
+        "stars_today": "591 stars today",
+        "heat_score": 59103587,
+        "scheduled_time": "2026-11-26 21:00:00 PST",
+        "iso_time": "2026-11-26T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Stop babysitting AI code. You don't need a 10-person dev team anymore—you need an autonomous software factory.\n\nTencent just open-sourced LoopForge, and it gives solo founders ridiculous leverage.\n\nBEFORE:\n- Endless copy-pasting from ChatGPT\n- Hallucinated imports breaking production\n- Manual code review fatigue\n\nAFTER (LoopForge):\n- Orchestrates Claude Code, Codex & CodeBuddy in parallel\n- Runs inside isolated, sandboxed Docker environments\n- Automated test loops with human approval gates\n- From issue directly to clean, merged code on GitHub\n\nIt's self-hosted, enterprise-tested, and MIT licensed. Absolute game-changer for 10x builders.\n\n🔗 https://github.com/Tencent/LoopForge\n\n#AI #Coding #DevTools #OpenSource #SoftwareEngineering"
+      },
+      {
+        "repo": "experientiallabs/experiential",
+        "url": "https://github.com/experientiallabs/experiential",
+        "stars": 16624,
+        "stars_today": "589 stars today",
+        "heat_score": 58916624,
+        "scheduled_time": "2026-11-27 09:00:00 PST",
+        "iso_time": "2026-11-27T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most AI founders are setting money on fire routing dumb prompts through expensive reasoning models.\n\nHere’s how high-leverage builders win in 2025: Experiential (just exploded to 16.6k stars with +589 today).\n\nIt’s a zero-markup, open-source AI gateway that turns your production traffic into extreme leverage:\n\n• Unified OpenAI-compatible API for 1000+ hosted, BYOK, & local models\n• Intelligent router that cuts latency & slashes 60%+ off API bills\n• Learns directly from user traffic to train a private model YOU own\n• Granular budget guards ($50 caps, user-level permission routing)\n\nBefore: Messy API keys, random rate limits, 5-figure cloud invoices.\nAfter: 1 clean gateway, self-optimizing pipelines, zero vendor lock-in.\n\nStart in 30s:\n`pip install experiential && exp`\n\nLink: https://github.com/experientiallabs/experiential\n\n#AI #OpenSource #BuildInPublic #Developers"
       }
     ]
   },
@@ -1750,6 +1802,66 @@
           "技术壁垒正在彻底瓦解，拼的就是谁先利用顶级杠杆。赶紧去Star收藏，别等同行拿它赚到钱了才后知后觉！\n\n#AI破局 #一人公司 #独立开发 #Claude"
         ],
         "content": "认知差拉满的一天：当普通人还在为调一个Prompt发愁时，顶级开发者已经用官方脚手架搭出整个软件公司了。\n\nAnthropic 官方开源的 claude-quickstarts 狂揽 20,000+ Stars，500多单日暴涨，直接把一人公司的杠杆拉到极致！\n\n以前做AI项目：\n自己踩坑写调度、写工具链、缝合前端，折腾两周还是个玩具 Demo。\n\n现在有了官方工业级模板：\n✅ 客服Agent：自带完整知识库，开箱即用的AI售后系统\n✅ 金融数据分析师：自然语言对话即时生成交互图表\n✅ Computer Use Demo：直接让 Claude 接管电脑桌面执行任务\n\n零门槛：只需要一个 Claude API Key，本地 git clone 跑起来就能商业化上线。\n\n这才是真正的降维打击，普通人拉平技术鸿沟的最快途径。\n\n开源地址：https://github.com/anthropics/claude-quickstarts\n\n#AI破局 #独立开发 #一人公司 #Claude #GitHub"
+      },
+      {
+        "repo": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "stars": 69296,
+        "stars_today": "506 stars today",
+        "heat_score": 50669296,
+        "scheduled_time": "2026-11-27 13:00:00 CST",
+        "iso_time": "2026-11-27T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人肉身盯盘看水文，高手早就用 AI 搭建免费私人研报团队了。开源神器 daily_stock_analysis：基于 LLM 的全自动多市场股票分析引擎，零成本定时推送，狂揽近7万星！🔗 https://github.com/ZhuLinsen/daily_stock_analysis 🧵",
+          "普通散户每天早起刷十几个群、几十篇自媒体，吃到的全是被过滤的二手杂音。信息差的本质从来不是谁看得多，而是谁能以最快速度过滤掉99%的市场垃圾情绪，只抓关键逻辑。",
+          "这个项目做到了极致轻量化与实用：自动对接美股、港股、A股行情，结合大模型对全网新闻做深度清洗与事实提炼，把干瘪的数据直接加工成结构化、可落地的早报决策看板。",
+          "最爽的是零成本！完全不需要昂贵的服务器，直接用 GitHub Actions 定时触发运行，每天准时推送到手机微信、飞书或 Telegram。会用 GitHub 就能白嫖整套投研流。",
+          "不要用你的精力去对抗机器，真正的技术杠杆就是把重复劳动外包给大模型。Star 收藏起来，用技术武装你的投资体系。\n\n#AI工具 #股票分析 #搞钱 #开源项目"
+        ],
+        "content": "普通散户搞投资：每天早起刷十几篇自媒体水文，几十个群里吃二手二手甚至被收割的消息，精神内耗拉满还在当接盘侠。\n\n技术派搞投资：直接用 AI 筑建信息护城河，让自动化管线全天候为你打工。\n\nGitHub 上狂揽近 70,000 星的开源项目 daily_stock_analysis 彻底击碎了金融投研的信息差：\n\n🔹 跨市场实时抓取：美股、港股、A股多源行情一网打尽\n🔹 噪音大过滤：LLM 智能提炼真正影响走势的新闻核心\n🔹 智能决策看板：自动生成结构化分析，告别情绪化交易\n🔹 极致白嫖成本：支持 Docker 一键部署，更能用 GitHub Actions 定时免服务器运行\n\n不需要买天价投顾服务，也不用天天熬夜盯盘。真正的技术杠杆，就是把繁杂的信息清洗丢给大模型，自己只专注高价值决策。\n\n🔗 源码地址：https://github.com/ZhuLinsen/daily_stock_analysis\n\n#AI工具 #搞钱 #量化投资 #开源项目 #股票分析 #独立开发"
+      },
+      {
+        "repo": "vorssaint/vorssaint-utils",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "stars": 32061,
+        "stars_today": "501 stars today",
+        "heat_score": 50132061,
+        "scheduled_time": "2026-11-27 17:00:00 CST",
+        "iso_time": "2026-11-27T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在给各种Mac小插件交订阅费，真正懂杠杆的人早就用开源工具干掉它们了。GitHub狂斩3.2万星的Vorssaint，一个菜单栏图标替代十几种付费工具：https://github.com/vorssaint/vorssaint-utils 🧵",
+          "Mac用户最头疼的痛点：剪贴板、分屏、系统监控各占一个图标，几十个插件每月扣你上百块订阅费，不仅钱包被掏空，后台常驻还把M系列芯片拖得发热掉电，完全本末倒置。",
+          "Vorssaint最狠的地方在于极端克制。它采用完全模块化设计，想要什么功能只激活对应的组件，不用的坚决不进内存。没有商业软件的花哨弹窗和强制更新，干脆利落。",
+          "门槛极低，专为现代macOS和Apple Silicon深度优化。零配置上手，不上传任何隐私数据，纯本地跑，彻底帮你把乱成一团的顶部菜单栏清理干净。",
+          "把省下来的订阅费和折腾时间用来搞业务，这才是真正的一人公司效率杠杆。赶紧去GitHub给这个良心开源项目点个Star备用吧！\n\n#Mac神器 #生产力工具 #开源 #独立开发"
+        ],
+        "content": "普通人还在为剪贴板、窗口分屏、状态监控每个月交几十块订阅费，真正懂杠杆的硬核玩家早就用开源搞定一切了。\n\nMac 上最恶心的就是满屏幕的菜单栏图标，每个月还要被各种“微型订阅”吸血上百元。电脑卡成PPT，电量掉得飞快。\n\nGitHub 上狂斩 3.2 万星的 Vorssaint 彻底砸了这帮软件的饭碗：\n一个极简菜单栏图标，直接干翻十几个收费 Mac 工具箱！\n\n它的降维打击在哪里？\n1. 模块化机制：绝不塞垃圾功能，用哪个开哪个，内存占用近乎为零。\n2. 纯粹私有：没有云端同步的后门，没有 AI 废话功能，纯本地极速跑。\n3. 原生支持：专为现代 Apple Silicon 调优，极其丝滑。\n\n极简、高效、把钱省在刀刃上，一人公司就要这种极致算力杠杆。\n\n仓库链接：https://github.com/vorssaint/vorssaint-utils\n\n#Mac神器 #独立开发 #生产力工具 #开源项目 #一人公司"
+      },
+      {
+        "repo": "nightly-labs/openbot",
+        "url": "https://github.com/nightly-labs/openbot",
+        "stars": 4257,
+        "stars_today": "485 stars today",
+        "heat_score": 48504257,
+        "scheduled_time": "2026-11-27 21:00:00 CST",
+        "iso_time": "2026-11-27T21:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "普通人还在网页端当AI的打字工具人，顶尖操盘手已经在本地指挥整支AI军团了。刚在GitHub爆火的 OpenBot，直接把一人公司的杠杆拉满！它是一个让Claude、Codex、Grok协同干活的本地桌面工作台：https://github.com/nightly-labs/openbot 🧵",
+          "痛点太真实了：以前你让Claude写完前端，又手动拷给GPT排查报错，自己成了最底层的搬运工。而在OpenBot里，每个Agent都有独立工作区，还能互相拉群发消息协作，真正实现AI接力跑完整个需求。",
+          "更狠的是执行力。它内置了浏览器控制与本地文件调度系统，给Agent赋予全权限后，它们能自主搜资料、跑命令、测UI、改代码，完全不需要你每走一步就点一次确认，真正做到后台挂机搞定交付。",
+          "几乎兼容市面上所有主流CLI：从Claude Code、Codex到Cursor、Devin、Grok一应俱全。本地优先设计，核心资产完全留在你的硬盘上，零数据泄露风险，上手门槛极低。",
+          "技术平权时代，拉开差距的从来不是代码敲得多快，而是你敢不敢用十倍杠杆重塑工作流。建议所有想做一人公司的开发者马上Star存下来跑跑看！#AI工具 #一人公司 #独立开发 #开源项目"
+        ],
+        "content": "认知差正在迅速拉开普通程序员和超级个体之间的距离。\n\n普通人还在网页端来回复制粘贴 prompt，而顶尖操盘手已经在本地调度一整个 AI 军团了。\n\n刚登上 GitHub 趋势榜的 OpenBot，彻底把一人公司的工程杠杆拉满了！它不是又一个平庸的套壳聊天器，而是一个为长驻 AI 队友打造的本地桌面工作台：\n\n以前：你教 Claude 写完，手动复制给 GPT 改 Bug，累成孙子；\n现在：Codex 做架构、Claude 敲代码、Grok 跑测试，多个 Agent 在本地自带的工作区里互相协作、发消息同步进度，甚至自己调用无头浏览器核对前端 UI。\n\n关键特性全拉满：\n• 支持 Claude Code、Devin CLI、Cursor、Grok 等数十种代理\n• Agent 之间能自主发起会话与文件流转\n• 本地优先架构，代码与数据绝不泄露\n• 全自动授权模式，抛弃繁琐的人工确认点选\n\n完全开源免费，Mac/PC 均可跑。立刻武装你的单人超级团队！\n\n🔗 https://github.com/nightly-labs/openbot\n\n#独立开发 #AI工具 #一人公司 #开源项目 #程序员副业"
       }
     ]
   }

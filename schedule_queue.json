@@ -644,10 +644,15 @@
         "heat_score": 61839339,
         "scheduled_time": "2026-11-26 13:00:00 PST",
         "iso_time": "2026-11-26T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop spending 6 hours editing 45-second vertical videos.\n\nA solo founder just unlocked the ultimate leverage stack.\n\nMeet MoneyPrinterTurbo (139k+ ⭐ on GitHub):\nAn open-source automation pipeline that turns a single prompt into fully produced, HD short-form video in seconds.\n\nOld way:\n• Brainstorm hook (45m)\n• Script & storyboard (1h)\n• Scour stock footage (2h)\n• Voiceover + Subtitles (1h)\n• Render & export (30m)\n\nNew way with MoneyPrinterTurbo:\n✅ Type a topic or keyword\n✅ LLM drafts the script & beats\n✅ Auto-fetches matching video clips\n✅ Synthesizes natural AI voiceover\n✅ Auto-aligns dynamic subtitles & BGM\n✅ WebUI + REST API ready for mass automation\n\nThe 1-person software media empire is no longer theoretical. It's open source.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n#OpenSource #AI #Solopreneur #BuildInPublic"
+        "content": "Stop spending 6 hours editing 45-second vertical videos.\n\nA solo founder just unlocked the ultimate leverage stack.\n\nMeet MoneyPrinterTurbo (139k+ ⭐ on GitHub):\nAn open-source automation pipeline that turns a single prompt into fully produced, HD short-form video in seconds.\n\nOld way:\n• Brainstorm hook (45m)\n• Script & storyboard (1h)\n• Scour stock footage (2h)\n• Voiceover + Subtitles (1h)\n• Render & export (30m)\n\nNew way with MoneyPrinterTurbo:\n✅ Type a topic or keyword\n✅ LLM drafts the script & beats\n✅ Auto-fetches matching video clips\n✅ Synthesizes natural AI voiceover\n✅ Auto-aligns dynamic subtitles & BGM\n✅ WebUI + REST API ready for mass automation\n\nThe 1-person software media empire is no longer theoretical. It's open source.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n#OpenSource #AI #Solopreneur #BuildInPublic",
+        "thread_ids": [
+          "2126058500493312275"
+        ],
+        "tweet_url": "https://x.com/i/status/2126058500493312275",
+        "posted_at": "2026-11-26T21:00:23.944202+00:00"
       },
       {
         "repo": "tashfeenahmed/freellmapi",

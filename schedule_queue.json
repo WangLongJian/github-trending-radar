@@ -590,10 +590,15 @@
         "heat_score": 63668774,
         "scheduled_time": "2026-11-25 17:00:00 PST",
         "iso_time": "2026-11-25T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "The solo-developer leverage game just went completely parabolic.\n\nWhile most founders are burning $500–$2,000/mo on multi-agent subscriptions and token bills, the open-source community just dropped an absolute nuke.\n\nMeet free-claude-code (68k+ ⭐):\n\n❌ Before:\n- Gated IDE tools eating your runway\n- Switching between expensive Claude/Codex seats\n- Hitting strict rate limits mid-sprint\n\n✅ Today:\n- 1.3B+ free tokens aggregated across providers\n- Full support: Claude Code, Codex, VSCode & OpenCode\n- Multi-harness browser sessions & native voice support\n- Run seamlessly from Terminal, IDE, or mobile\n\nThis turns any disciplined solopreneur into a full-stack software factory with zero upfront burn.\n\n🔗 https://github.com/Alishahryar1/free-claude-code\n\n#DevTools #BuildInPublic #AI #OpenSource #SoloFounder"
+        "content": "The solo-developer leverage game just went completely parabolic.\n\nWhile most founders are burning $500–$2,000/mo on multi-agent subscriptions and token bills, the open-source community just dropped an absolute nuke.\n\nMeet free-claude-code (68k+ ⭐):\n\n❌ Before:\n- Gated IDE tools eating your runway\n- Switching between expensive Claude/Codex seats\n- Hitting strict rate limits mid-sprint\n\n✅ Today:\n- 1.3B+ free tokens aggregated across providers\n- Full support: Claude Code, Codex, VSCode & OpenCode\n- Multi-harness browser sessions & native voice support\n- Run seamlessly from Terminal, IDE, or mobile\n\nThis turns any disciplined solopreneur into a full-stack software factory with zero upfront burn.\n\n🔗 https://github.com/Alishahryar1/free-claude-code\n\n#DevTools #BuildInPublic #AI #OpenSource #SoloFounder",
+        "thread_ids": [
+          "2125756479479443582"
+        ],
+        "tweet_url": "https://x.com/i/status/2125756479479443582",
+        "posted_at": "2026-11-26T01:00:15.993736+00:00"
       },
       {
         "repo": "shiyu-coder/Kronos",
@@ -1648,8 +1653,8 @@
         "stars": 3587,
         "stars_today": "591 stars today",
         "heat_score": 59103587,
-        "scheduled_time": "2026-11-26 09:00:00 CST",
-        "iso_time": "2026-11-26T09:00:00+08:00",
+        "scheduled_time": "2026-11-26 13:00:00 CST",
+        "iso_time": "2026-11-26T13:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -1660,7 +1665,9 @@
           "不用担心门槛，项目支持 Docker 一键自托管部署，完全开源无捆绑，核心代码隐私全掌握在自己服务器里。\n\n一人公司直接拥有了一整个 7x24 小时开工的工程研发组。",
           "信息差永远是最大的红利，会用 Agent 杠杆的人早就开始降维打击了。\n\n建议今晚就拉下来跑跑看，把你的第一条生产流水线搭起来！\n\n#独立开发 #AI编程 #开源项目 #超级个体"
         ],
-        "content": "很多程序员还在把 AI 当聊天机器人，腾讯已经偷偷开源了一整套“AI 软件代工厂”！\n\n普通人的傻做法：\n开着网页跟 Claude 疯狂来回复制粘贴，出了 bug 头皮发麻，一个人干得比以前还累。\n\n顶级的十倍杠杆：\n直接用腾讯开源的 LoopForge，把 Coding Agent 变成流水线打工人！\n\n这就是一人公司的终极形态：\n1. 调度中心：把 Claude Code、Codex 统一编排，标准化 SOP 自动推进任务。\n2. 隔离沙箱：AI 在独立沙箱里跑测试、装依赖，彻底告别“AI 搞崩本地环境”。\n3. 审批闸门：关键变更必须人类 Confirm，只合并高质量代码，杜绝幻觉废料。\n4. 极速落地：完全开源，Docker 一键自建，你的代码隐私死死攥在自己手里。\n\n技术壁垒已经不存在了，未来只有会用 Agent 杠杆的超级个体和被时代淘汰的人。\n\n传送门：https://github.com/Tencent/LoopForge\n\n#独立开发 #AI编程 #搞钱 #开源项目 #超级个体"
+        "content": "很多程序员还在把 AI 当聊天机器人，腾讯已经偷偷开源了一整套“AI 软件代工厂”！\n\n普通人的傻做法：\n开着网页跟 Claude 疯狂来回复制粘贴，出了 bug 头皮发麻，一个人干得比以前还累。\n\n顶级的十倍杠杆：\n直接用腾讯开源的 LoopForge，把 Coding Agent 变成流水线打工人！\n\n这就是一人公司的终极形态：\n1. 调度中心：把 Claude Code、Codex 统一编排，标准化 SOP 自动推进任务。\n2. 隔离沙箱：AI 在独立沙箱里跑测试、装依赖，彻底告别“AI 搞崩本地环境”。\n3. 审批闸门：关键变更必须人类 Confirm，只合并高质量代码，杜绝幻觉废料。\n4. 极速落地：完全开源，Docker 一键自建，你的代码隐私死死攥在自己手里。\n\n技术壁垒已经不存在了，未来只有会用 Agent 杠杆的超级个体和被时代淘汰的人。\n\n传送门：https://github.com/Tencent/LoopForge\n\n#独立开发 #AI编程 #搞钱 #开源项目 #超级个体",
+        "fail_count": 1,
+        "last_error_at": "2026-11-26T01:00:53.067506+00:00"
       },
       {
         "repo": "experientiallabs/experiential",
@@ -1668,8 +1675,8 @@
         "stars": 16624,
         "stars_today": "589 stars today",
         "heat_score": 58916624,
-        "scheduled_time": "2026-11-26 13:00:00 CST",
-        "iso_time": "2026-11-26T13:00:00+08:00",
+        "scheduled_time": "2026-11-26 17:00:00 CST",
+        "iso_time": "2026-11-26T17:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -1688,8 +1695,8 @@
         "stars": 74087,
         "stars_today": "583 stars today",
         "heat_score": 58374087,
-        "scheduled_time": "2026-11-26 17:00:00 CST",
-        "iso_time": "2026-11-26T17:00:00+08:00",
+        "scheduled_time": "2026-11-26 21:00:00 CST",
+        "iso_time": "2026-11-26T21:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
@@ -1708,8 +1715,8 @@
         "stars": 20179,
         "stars_today": "551 stars today",
         "heat_score": 55120179,
-        "scheduled_time": "2026-11-26 21:00:00 CST",
-        "iso_time": "2026-11-26T21:00:00+08:00",
+        "scheduled_time": "2026-11-27 09:00:00 CST",
+        "iso_time": "2026-11-27T09:00:00+08:00",
         "status": "pending",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",

@@ -1690,7 +1690,7 @@
         "heat_score": 58916624,
         "scheduled_time": "2026-11-26 17:00:00 CST",
         "iso_time": "2026-11-26T17:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1700,7 +1700,16 @@
           "最狠的降维打击是：它会从你真实的业务流量中自动学习，为你训练和蒸馏出完全属于你自己的特化专有模型。不再是大厂搬运工，而是把数据变资产。",
           "上手极简，终端输入 pip install experiential 即可秒起本地网关，一人即可掌握超强杠杆。赶紧去标星自建：https://github.com/experientiallabs/experiential\n\n#独立开发 #AI创业 #开源项目"
         ],
-        "content": "很多人做AI应用根本不是死在产品上，而是死在每个月巨额的Token账单上。\n\n普通人傻傻地所有Agent逻辑都硬上GPT-4，一个月烧掉大几千刀；而顶尖的一人公司早就在用开源智能路由把成本打掉80%。\n\n刚刚斩获1.6万星的 Experiential 彻底打破了这个信息差：\n它是完全开源、零差价的AI Gateway与智能路由。\n\n它帮你搞定三件暴利级的事：\n1️⃣ 统一聚合：1000+模型库和自建模型，仅用一条兼容OpenAI的API全搞定\n2️⃣ 智能降本：自动根据任务复杂度切模型，简单任务切平价模型，预算死死卡住\n3️⃣ 核心资产沉淀：自动基于你的真实调用流量，微调训练出专属于你的特化模型！\n\n从给大厂打工交租，到真正沉淀属于自己的模型壁垒。\n两行命令 pip install experiential 直接启动本地网关。\n\n开源地址：https://github.com/experientiallabs/experiential\n\n#独立开发 #一人公司 #AI创业 #出海 #搞钱"
+        "content": "很多人做AI应用根本不是死在产品上，而是死在每个月巨额的Token账单上。\n\n普通人傻傻地所有Agent逻辑都硬上GPT-4，一个月烧掉大几千刀；而顶尖的一人公司早就在用开源智能路由把成本打掉80%。\n\n刚刚斩获1.6万星的 Experiential 彻底打破了这个信息差：\n它是完全开源、零差价的AI Gateway与智能路由。\n\n它帮你搞定三件暴利级的事：\n1️⃣ 统一聚合：1000+模型库和自建模型，仅用一条兼容OpenAI的API全搞定\n2️⃣ 智能降本：自动根据任务复杂度切模型，简单任务切平价模型，预算死死卡住\n3️⃣ 核心资产沉淀：自动基于你的真实调用流量，微调训练出专属于你的特化模型！\n\n从给大厂打工交租，到真正沉淀属于自己的模型壁垒。\n两行命令 pip install experiential 直接启动本地网关。\n\n开源地址：https://github.com/experientiallabs/experiential\n\n#独立开发 #一人公司 #AI创业 #出海 #搞钱",
+        "thread_ids": [
+          "2125877272947363975",
+          "2125877326504415344",
+          "2125877374738895233",
+          "2125877424386974199",
+          "2125877475356135647"
+        ],
+        "tweet_url": "https://x.com/i/status/2125877272947363975",
+        "posted_at": "2026-11-26T09:01:02.884917+00:00"
       },
       {
         "repo": "calesthio/OpenMontage",

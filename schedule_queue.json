@@ -608,10 +608,15 @@
         "heat_score": 63045610,
         "scheduled_time": "2026-11-25 21:00:00 PST",
         "iso_time": "2026-11-25T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most quants guard their market models like state secrets.\n\nThen Kronos dropped. 45k+ stars and ripping through Tech Twitter for a reason.\n\nIt’s not another wrapper prompt engineering GPT-4 for stock tips. Kronos treats financial market data—tick sequences, order book dynamics, price action—as an actual native language.\n\nBefore: Spending 6 months writing fragile pipeline scripts and lagging TA indicators.\nNow: Zero-shot financial market intelligence straight from an open-weight foundation model.\n\nWhat it unlocks for solo builders & quants:\n✅ Foundation model pre-trained on pure market dynamics\n✅ Hugging Face checkpoints available right now\n✅ Extreme leverage for solo algorithmic trading desks\n✅ Live demo already running\n\nInstitutional-grade edge is officially decentralized.\n\nRepo: https://github.com/shiyu-coder/Kronos\n\n#FinTech #AI #Quant #MachineLearning #OpenSource"
+        "content": "Most quants guard their market models like state secrets.\n\nThen Kronos dropped. 45k+ stars and ripping through Tech Twitter for a reason.\n\nIt’s not another wrapper prompt engineering GPT-4 for stock tips. Kronos treats financial market data—tick sequences, order book dynamics, price action—as an actual native language.\n\nBefore: Spending 6 months writing fragile pipeline scripts and lagging TA indicators.\nNow: Zero-shot financial market intelligence straight from an open-weight foundation model.\n\nWhat it unlocks for solo builders & quants:\n✅ Foundation model pre-trained on pure market dynamics\n✅ Hugging Face checkpoints available right now\n✅ Extreme leverage for solo algorithmic trading desks\n✅ Live demo already running\n\nInstitutional-grade edge is officially decentralized.\n\nRepo: https://github.com/shiyu-coder/Kronos\n\n#FinTech #AI #Quant #MachineLearning #OpenSource",
+        "thread_ids": [
+          "2125816911753875731"
+        ],
+        "tweet_url": "https://x.com/i/status/2125816911753875731",
+        "posted_at": "2026-11-26T05:00:24.099270+00:00"
       },
       {
         "repo": "lightpanda-io/browser",
@@ -1655,7 +1660,7 @@
         "heat_score": 59103587,
         "scheduled_time": "2026-11-26 13:00:00 CST",
         "iso_time": "2026-11-26T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1667,7 +1672,15 @@
         ],
         "content": "很多程序员还在把 AI 当聊天机器人，腾讯已经偷偷开源了一整套“AI 软件代工厂”！\n\n普通人的傻做法：\n开着网页跟 Claude 疯狂来回复制粘贴，出了 bug 头皮发麻，一个人干得比以前还累。\n\n顶级的十倍杠杆：\n直接用腾讯开源的 LoopForge，把 Coding Agent 变成流水线打工人！\n\n这就是一人公司的终极形态：\n1. 调度中心：把 Claude Code、Codex 统一编排，标准化 SOP 自动推进任务。\n2. 隔离沙箱：AI 在独立沙箱里跑测试、装依赖，彻底告别“AI 搞崩本地环境”。\n3. 审批闸门：关键变更必须人类 Confirm，只合并高质量代码，杜绝幻觉废料。\n4. 极速落地：完全开源，Docker 一键自建，你的代码隐私死死攥在自己手里。\n\n技术壁垒已经不存在了，未来只有会用 Agent 杠杆的超级个体和被时代淘汰的人。\n\n传送门：https://github.com/Tencent/LoopForge\n\n#独立开发 #AI编程 #搞钱 #开源项目 #超级个体",
         "fail_count": 1,
-        "last_error_at": "2026-11-26T01:00:53.067506+00:00"
+        "thread_ids": [
+          "2125816966187544876",
+          "2125817022072385857",
+          "2125817071032513019",
+          "2125817122546958762",
+          "2125817172878660018"
+        ],
+        "tweet_url": "https://x.com/i/status/2125816966187544876",
+        "posted_at": "2026-11-26T05:01:26.361424+00:00"
       },
       {
         "repo": "experientiallabs/experiential",

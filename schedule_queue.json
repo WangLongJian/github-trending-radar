@@ -716,10 +716,15 @@
         "heat_score": 58374087,
         "scheduled_time": "2026-11-27 13:00:00 PST",
         "iso_time": "2026-11-27T13:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop paying $15,000 to production agencies for product launch videos.\n\nThe single biggest unlock for solopreneurs in 2025 just dropped, and it already has 74k+ stars.\n\nMeet OpenMontage — the world’s first open-source, agentic video production system.\n\nBefore:\n• 3 weeks of storyboarding\n• 4 different subscription tools\n• Endless back-and-forth video edits\n• Thousands wasted on mediocre launch clips\n\nNow (via Claude / Cursor / Copilot):\n✅ 12 automated production pipelines\n✅ 100+ production tools natively controlled by LLMs\n✅ 700+ domain knowledge & skill files built-in\n✅ Paste any viral video URL → Auto-recreate narrative & shots\n\nIt literally turns your AI coding assistant into a full-scale video studio. One engineer is now an entire Netflix tier crew.\n\nOpen-source leverage is insane.\n\n🔗 https://github.com/calesthio/OpenMontage\n\n#AI #OpenSource #SoloFounder #BuildInPublic #IndieHacker"
+        "content": "Stop paying $15,000 to production agencies for product launch videos.\n\nThe single biggest unlock for solopreneurs in 2025 just dropped, and it already has 74k+ stars.\n\nMeet OpenMontage — the world’s first open-source, agentic video production system.\n\nBefore:\n• 3 weeks of storyboarding\n• 4 different subscription tools\n• Endless back-and-forth video edits\n• Thousands wasted on mediocre launch clips\n\nNow (via Claude / Cursor / Copilot):\n✅ 12 automated production pipelines\n✅ 100+ production tools natively controlled by LLMs\n✅ 700+ domain knowledge & skill files built-in\n✅ Paste any viral video URL → Auto-recreate narrative & shots\n\nIt literally turns your AI coding assistant into a full-scale video studio. One engineer is now an entire Netflix tier crew.\n\nOpen-source leverage is insane.\n\n🔗 https://github.com/calesthio/OpenMontage\n\n#AI #OpenSource #SoloFounder #BuildInPublic #IndieHacker",
+        "thread_ids": [
+          "2126420881849332032"
+        ],
+        "tweet_url": "https://x.com/i/status/2126420881849332032",
+        "posted_at": "2026-11-27T21:00:25.181165+00:00"
       },
       {
         "repo": "anthropics/claude-quickstarts",

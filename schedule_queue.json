@@ -680,10 +680,15 @@
         "heat_score": 59103587,
         "scheduled_time": "2026-11-26 21:00:00 PST",
         "iso_time": "2026-11-26T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Stop babysitting AI code. You don't need a 10-person dev team anymore—you need an autonomous software factory.\n\nTencent just open-sourced LoopForge, and it gives solo founders ridiculous leverage.\n\nBEFORE:\n- Endless copy-pasting from ChatGPT\n- Hallucinated imports breaking production\n- Manual code review fatigue\n\nAFTER (LoopForge):\n- Orchestrates Claude Code, Codex & CodeBuddy in parallel\n- Runs inside isolated, sandboxed Docker environments\n- Automated test loops with human approval gates\n- From issue directly to clean, merged code on GitHub\n\nIt's self-hosted, enterprise-tested, and MIT licensed. Absolute game-changer for 10x builders.\n\n🔗 https://github.com/Tencent/LoopForge\n\n#AI #Coding #DevTools #OpenSource #SoftwareEngineering"
+        "content": "Stop babysitting AI code. You don't need a 10-person dev team anymore—you need an autonomous software factory.\n\nTencent just open-sourced LoopForge, and it gives solo founders ridiculous leverage.\n\nBEFORE:\n- Endless copy-pasting from ChatGPT\n- Hallucinated imports breaking production\n- Manual code review fatigue\n\nAFTER (LoopForge):\n- Orchestrates Claude Code, Codex & CodeBuddy in parallel\n- Runs inside isolated, sandboxed Docker environments\n- Automated test loops with human approval gates\n- From issue directly to clean, merged code on GitHub\n\nIt's self-hosted, enterprise-tested, and MIT licensed. Absolute game-changer for 10x builders.\n\n🔗 https://github.com/Tencent/LoopForge\n\n#AI #Coding #DevTools #OpenSource #SoftwareEngineering",
+        "thread_ids": [
+          "2126179287107797172"
+        ],
+        "tweet_url": "https://x.com/i/status/2126179287107797172",
+        "posted_at": "2026-11-27T05:00:21.653713+00:00"
       },
       {
         "repo": "experientiallabs/experiential",
@@ -1844,7 +1849,7 @@
         "heat_score": 50669296,
         "scheduled_time": "2026-11-27 13:00:00 CST",
         "iso_time": "2026-11-27T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1854,7 +1859,16 @@
           "最爽的是零成本！完全不需要昂贵的服务器，直接用 GitHub Actions 定时触发运行，每天准时推送到手机微信、飞书或 Telegram。会用 GitHub 就能白嫖整套投研流。",
           "不要用你的精力去对抗机器，真正的技术杠杆就是把重复劳动外包给大模型。Star 收藏起来，用技术武装你的投资体系。\n\n#AI工具 #股票分析 #搞钱 #开源项目"
         ],
-        "content": "普通散户搞投资：每天早起刷十几篇自媒体水文，几十个群里吃二手二手甚至被收割的消息，精神内耗拉满还在当接盘侠。\n\n技术派搞投资：直接用 AI 筑建信息护城河，让自动化管线全天候为你打工。\n\nGitHub 上狂揽近 70,000 星的开源项目 daily_stock_analysis 彻底击碎了金融投研的信息差：\n\n🔹 跨市场实时抓取：美股、港股、A股多源行情一网打尽\n🔹 噪音大过滤：LLM 智能提炼真正影响走势的新闻核心\n🔹 智能决策看板：自动生成结构化分析，告别情绪化交易\n🔹 极致白嫖成本：支持 Docker 一键部署，更能用 GitHub Actions 定时免服务器运行\n\n不需要买天价投顾服务，也不用天天熬夜盯盘。真正的技术杠杆，就是把繁杂的信息清洗丢给大模型，自己只专注高价值决策。\n\n🔗 源码地址：https://github.com/ZhuLinsen/daily_stock_analysis\n\n#AI工具 #搞钱 #量化投资 #开源项目 #股票分析 #独立开发"
+        "content": "普通散户搞投资：每天早起刷十几篇自媒体水文，几十个群里吃二手二手甚至被收割的消息，精神内耗拉满还在当接盘侠。\n\n技术派搞投资：直接用 AI 筑建信息护城河，让自动化管线全天候为你打工。\n\nGitHub 上狂揽近 70,000 星的开源项目 daily_stock_analysis 彻底击碎了金融投研的信息差：\n\n🔹 跨市场实时抓取：美股、港股、A股多源行情一网打尽\n🔹 噪音大过滤：LLM 智能提炼真正影响走势的新闻核心\n🔹 智能决策看板：自动生成结构化分析，告别情绪化交易\n🔹 极致白嫖成本：支持 Docker 一键部署，更能用 GitHub Actions 定时免服务器运行\n\n不需要买天价投顾服务，也不用天天熬夜盯盘。真正的技术杠杆，就是把繁杂的信息清洗丢给大模型，自己只专注高价值决策。\n\n🔗 源码地址：https://github.com/ZhuLinsen/daily_stock_analysis\n\n#AI工具 #搞钱 #量化投资 #开源项目 #股票分析 #独立开发",
+        "thread_ids": [
+          "2126179339079454774",
+          "2126179394599424322",
+          "2126179443962159220",
+          "2126179493396316184",
+          "2126179544252223661"
+        ],
+        "tweet_url": "https://x.com/i/status/2126179339079454774",
+        "posted_at": "2026-11-27T05:01:22.330133+00:00"
       },
       {
         "repo": "vorssaint/vorssaint-utils",

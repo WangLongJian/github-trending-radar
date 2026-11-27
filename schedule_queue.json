@@ -662,10 +662,15 @@
         "heat_score": 59345292,
         "scheduled_time": "2026-11-26 17:00:00 PST",
         "iso_time": "2026-11-26T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Solo founders are burning thousands on API bills that could literally be $0.\n\nHere’s the dirty secret: AI labs offer insane free tiers. Nobody aggregates them. Until now.\n\nMeet FreeLLMAPI:\n• 10.1 BILLION tokens/mo across 87 providers\n• 1,313 free endpoints behind a single standard /v1 URL\n• Automatic failover (never hit a rate limit wall again)\n• Smart router picks the fastest, smartest model dynamically\n• Fully encrypted keys with zero credential leak risk\n\nBefore: 12 API accounts, constant 429 errors, $400/mo credit card bleed.\nAfter: One endpoint. Unlimited zero-cost experimentation. Extreme solo leverage.\n\nDrop it into your Cursor, LangChain, or agent stack right now.\n\nStar it before it's taken down:\nhttps://github.com/tashfeenahmed/freellmapi\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering"
+        "content": "Solo founders are burning thousands on API bills that could literally be $0.\n\nHere’s the dirty secret: AI labs offer insane free tiers. Nobody aggregates them. Until now.\n\nMeet FreeLLMAPI:\n• 10.1 BILLION tokens/mo across 87 providers\n• 1,313 free endpoints behind a single standard /v1 URL\n• Automatic failover (never hit a rate limit wall again)\n• Smart router picks the fastest, smartest model dynamically\n• Fully encrypted keys with zero credential leak risk\n\nBefore: 12 API accounts, constant 429 errors, $400/mo credit card bleed.\nAfter: One endpoint. Unlimited zero-cost experimentation. Extreme solo leverage.\n\nDrop it into your Cursor, LangChain, or agent stack right now.\n\nStar it before it's taken down:\nhttps://github.com/tashfeenahmed/freellmapi\n\n#AI #BuildInPublic #OpenSource #SoftwareEngineering",
+        "thread_ids": [
+          "2126118864736186819"
+        ],
+        "tweet_url": "https://x.com/i/status/2126118864736186819",
+        "posted_at": "2026-11-27T01:00:15.373429+00:00"
       },
       {
         "repo": "Tencent/LoopForge",
@@ -1810,7 +1815,7 @@
         "heat_score": 55120179,
         "scheduled_time": "2026-11-27 09:00:00 CST",
         "iso_time": "2026-11-27T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -1820,7 +1825,16 @@
           "门槛低到不可思议：不需要懂复杂的模型微调，只要有Claude API Key，git clone后直接跑，每一套都带现成UI和完整逻辑，改改logo就是你的SaaS。",
           "技术壁垒正在彻底瓦解，拼的就是谁先利用顶级杠杆。赶紧去Star收藏，别等同行拿它赚到钱了才后知后觉！\n\n#AI破局 #一人公司 #独立开发 #Claude"
         ],
-        "content": "认知差拉满的一天：当普通人还在为调一个Prompt发愁时，顶级开发者已经用官方脚手架搭出整个软件公司了。\n\nAnthropic 官方开源的 claude-quickstarts 狂揽 20,000+ Stars，500多单日暴涨，直接把一人公司的杠杆拉到极致！\n\n以前做AI项目：\n自己踩坑写调度、写工具链、缝合前端，折腾两周还是个玩具 Demo。\n\n现在有了官方工业级模板：\n✅ 客服Agent：自带完整知识库，开箱即用的AI售后系统\n✅ 金融数据分析师：自然语言对话即时生成交互图表\n✅ Computer Use Demo：直接让 Claude 接管电脑桌面执行任务\n\n零门槛：只需要一个 Claude API Key，本地 git clone 跑起来就能商业化上线。\n\n这才是真正的降维打击，普通人拉平技术鸿沟的最快途径。\n\n开源地址：https://github.com/anthropics/claude-quickstarts\n\n#AI破局 #独立开发 #一人公司 #Claude #GitHub"
+        "content": "认知差拉满的一天：当普通人还在为调一个Prompt发愁时，顶级开发者已经用官方脚手架搭出整个软件公司了。\n\nAnthropic 官方开源的 claude-quickstarts 狂揽 20,000+ Stars，500多单日暴涨，直接把一人公司的杠杆拉到极致！\n\n以前做AI项目：\n自己踩坑写调度、写工具链、缝合前端，折腾两周还是个玩具 Demo。\n\n现在有了官方工业级模板：\n✅ 客服Agent：自带完整知识库，开箱即用的AI售后系统\n✅ 金融数据分析师：自然语言对话即时生成交互图表\n✅ Computer Use Demo：直接让 Claude 接管电脑桌面执行任务\n\n零门槛：只需要一个 Claude API Key，本地 git clone 跑起来就能商业化上线。\n\n这才是真正的降维打击，普通人拉平技术鸿沟的最快途径。\n\n开源地址：https://github.com/anthropics/claude-quickstarts\n\n#AI破局 #独立开发 #一人公司 #Claude #GitHub",
+        "thread_ids": [
+          "2126118909044830534",
+          "2126118956826247551",
+          "2126119002225479871",
+          "2126119047721005253",
+          "2126119092985995420"
+        ],
+        "tweet_url": "https://x.com/i/status/2126118909044830534",
+        "posted_at": "2026-11-27T01:01:09.397980+00:00"
       },
       {
         "repo": "ZhuLinsen/daily_stock_analysis",

@@ -752,10 +752,15 @@
         "heat_score": 50669296,
         "scheduled_time": "2026-11-27 21:00:00 PST",
         "iso_time": "2026-11-27T21:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most retail traders burn 2 hours every morning scrolling noisy feeds, panic-reading headlines, and missing actual setups.\n\nMeanwhile, engineers are quietly deploying private hedge-fund-grade AI analysts for ZERO dollars.\n\nMeet daily_stock_analysis (almost 70k stars on GitHub):\n\nIt connects LLMs with live multi-market feeds and runs completely on automated schedules via GitHub Actions or Docker.\n\nHere is your new edge:\n✅ Multi-market quote streaming (US, HK, A-shares)\n✅ Real-time news distillation (filters out raw AI slop)\n✅ Decision dashboards with visual buy/sell context\n✅ Push alerts directly to Telegram, Discord, or WeChat\n✅ 100% cost-free serverless execution\n\nExtreme leverage isn’t about working harder—it’s about replacing repetitive workflows with self-hosted autonomous agents.\n\nStop drowning in financial noise. Build your own analyst.\n\n🔗 https://github.com/ZhuLinsen/daily_stock_analysis\n\n#AI #OpenSource #Trading #BuildInPublic #FinTech"
+        "content": "Most retail traders burn 2 hours every morning scrolling noisy feeds, panic-reading headlines, and missing actual setups.\n\nMeanwhile, engineers are quietly deploying private hedge-fund-grade AI analysts for ZERO dollars.\n\nMeet daily_stock_analysis (almost 70k stars on GitHub):\n\nIt connects LLMs with live multi-market feeds and runs completely on automated schedules via GitHub Actions or Docker.\n\nHere is your new edge:\n✅ Multi-market quote streaming (US, HK, A-shares)\n✅ Real-time news distillation (filters out raw AI slop)\n✅ Decision dashboards with visual buy/sell context\n✅ Push alerts directly to Telegram, Discord, or WeChat\n✅ 100% cost-free serverless execution\n\nExtreme leverage isn’t about working harder—it’s about replacing repetitive workflows with self-hosted autonomous agents.\n\nStop drowning in financial noise. Build your own analyst.\n\n🔗 https://github.com/ZhuLinsen/daily_stock_analysis\n\n#AI #OpenSource #Trading #BuildInPublic #FinTech",
+        "thread_ids": [
+          "2126541671827681589"
+        ],
+        "tweet_url": "https://x.com/i/status/2126541671827681589",
+        "posted_at": "2026-11-28T05:00:20.972830+00:00"
       },
       {
         "repo": "vorssaint/vorssaint-utils",
@@ -2032,7 +2037,7 @@
         "heat_score": 46615397,
         "scheduled_time": "2026-11-28 13:00:00 CST",
         "iso_time": "2026-11-28T13:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -2042,7 +2047,16 @@
           "完全零学习门槛，几分钟就能无缝对接到你现有的 Cursor、Claude 等工作流中。\n不用改变你的AI工具，直接将“初级实习生”一键升级为严谨的“高级技术专家”。",
           "一人公司时代，最大的杠杆就是把工程标准教给AI，让它成为7x24小时交付的软件流水线。\n赶紧给你的AI编程搭子装上这套外脑！\n\n#AI编程 #独立开发 #开源项目 #一人公司"
         ],
-        "content": "很多人用AI写代码的现状：一通乱催，生成一堆跑不通的代码屎山，最后花3倍时间人肉擦屁股。💀\n\n你以为是AI不行？错，是你根本没给它立规矩！\n\n前谷歌工程总监 Addy Osmani 刚开源的这套 Agent Skills，彻底击碎了AI编程的认知差。它把百万年薪高级工程师的“工程纪律”直接封装成了AI专属技能包：\n\n普通人做法 vs 顶级10倍杠杆：\n❌ 扔个需求让AI直接写大项目 ➡️ 幻觉爆炸、逻辑崩塌、到处是坑\n✅ 用架构师指令约束AI ➡️ 先Spec出文档、再Plan拆原子、最后Build与Review\n\n核心指令打法：\n• /spec：没想清楚别写代码，先出清晰规格\n• /plan：将复杂逻辑拆解成不可分割的最小单元\n• /build：一次只做切片推进，杜绝一揽子失控\n• /review & /ship：自带质量卡点，直接达标生产级\n\n零门槛适配 Claude、Cursor 等主流工具，直接将你的一人公司生产力拉爆。别再当人肉修Bug机器了，快去把这套工业级规矩给AI装上！\n\n🔗 https://github.com/addyosmani/agent-skills\n\n#AI编程 #独立开发 #一人公司 #程序员提升 #开源神器"
+        "content": "很多人用AI写代码的现状：一通乱催，生成一堆跑不通的代码屎山，最后花3倍时间人肉擦屁股。💀\n\n你以为是AI不行？错，是你根本没给它立规矩！\n\n前谷歌工程总监 Addy Osmani 刚开源的这套 Agent Skills，彻底击碎了AI编程的认知差。它把百万年薪高级工程师的“工程纪律”直接封装成了AI专属技能包：\n\n普通人做法 vs 顶级10倍杠杆：\n❌ 扔个需求让AI直接写大项目 ➡️ 幻觉爆炸、逻辑崩塌、到处是坑\n✅ 用架构师指令约束AI ➡️ 先Spec出文档、再Plan拆原子、最后Build与Review\n\n核心指令打法：\n• /spec：没想清楚别写代码，先出清晰规格\n• /plan：将复杂逻辑拆解成不可分割的最小单元\n• /build：一次只做切片推进，杜绝一揽子失控\n• /review & /ship：自带质量卡点，直接达标生产级\n\n零门槛适配 Claude、Cursor 等主流工具，直接将你的一人公司生产力拉爆。别再当人肉修Bug机器了，快去把这套工业级规矩给AI装上！\n\n🔗 https://github.com/addyosmani/agent-skills\n\n#AI编程 #独立开发 #一人公司 #程序员提升 #开源神器",
+        "thread_ids": [
+          "2126541721056182273",
+          "2126541776349786206",
+          "2126541825372733876",
+          "2126541875020738758",
+          "2126541926812004848"
+        ],
+        "tweet_url": "https://x.com/i/status/2126541721056182273",
+        "posted_at": "2026-11-28T05:01:21.182452+00:00"
       },
       {
         "repo": "google-deepmind/mujoco",

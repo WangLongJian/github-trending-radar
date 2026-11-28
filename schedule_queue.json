@@ -734,10 +734,15 @@
         "heat_score": 55120179,
         "scheduled_time": "2026-11-27 17:00:00 PST",
         "iso_time": "2026-11-27T17:00:00-08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "Alpha John",
         "copy_source": "gemini_v2",
-        "content": "Most builders are wasting weeks writing boilerplate for AI apps that end up feeling like toy wrappers.\n\nAnthropic literally open-sourced the blueprint for full-stack autonomous leverage:\n\nclaude-quickstarts (20K+ ⭐, +550 today)\n\nInstead of debugging basic agent loops, you get deployable codebases out of the box:\n\n✅ Enterprise Customer Support with Knowledge Base\n✅ Financial Data Analyst with dynamic chart rendering\n✅ Computer Use Demo: autonomous OS interaction via native toolsets\n\nBefore: 3 weeks hacking tool-calling and prompt schemas.\nNow: Clone, plug in your Anthropic API key, ship today.\n\nThe solo-founder software factory isn't coming—it's already here.\n\n🔗 https://github.com/anthropics/claude-quickstarts\n\n#AI #BuildInPublic #Claude #Solopreneur #SoftwareEngineering"
+        "content": "Most builders are wasting weeks writing boilerplate for AI apps that end up feeling like toy wrappers.\n\nAnthropic literally open-sourced the blueprint for full-stack autonomous leverage:\n\nclaude-quickstarts (20K+ ⭐, +550 today)\n\nInstead of debugging basic agent loops, you get deployable codebases out of the box:\n\n✅ Enterprise Customer Support with Knowledge Base\n✅ Financial Data Analyst with dynamic chart rendering\n✅ Computer Use Demo: autonomous OS interaction via native toolsets\n\nBefore: 3 weeks hacking tool-calling and prompt schemas.\nNow: Clone, plug in your Anthropic API key, ship today.\n\nThe solo-founder software factory isn't coming—it's already here.\n\n🔗 https://github.com/anthropics/claude-quickstarts\n\n#AI #BuildInPublic #Claude #Solopreneur #SoftwareEngineering",
+        "thread_ids": [
+          "2126481253386051921"
+        ],
+        "tweet_url": "https://x.com/i/status/2126481253386051921",
+        "posted_at": "2026-11-28T01:00:16.000537+00:00"
       },
       {
         "repo": "ZhuLinsen/daily_stock_analysis",
@@ -1998,7 +2003,7 @@
         "heat_score": 48229060,
         "scheduled_time": "2026-11-28 09:00:00 CST",
         "iso_time": "2026-11-28T09:00:00+08:00",
-        "status": "pending",
+        "status": "posted",
         "account": "王坤PAS",
         "copy_source": "gemini_v2",
         "thread": [
@@ -2008,7 +2013,16 @@
           "上手门槛低到发指：不用复杂的鉴权配置，直接一行命令 docker compose up 瞬间拉起环境。省下买云服务的真金白银，直接装进自己的口袋当利润。",
           "不要把时间浪费在和收费云平台扯皮上，立刻把这套本地云架构加进你的启动模板。转发收藏，让身边的开发者朋友少交几万块学费！#独立开发 #一人公司 #开源项目 #出海"
         ],
-        "content": "很多独立开发者和初创团队都在犯这个蠢：在云上开一堆测试环境，月底收到几千刀账单才肉疼；或者用LocalStack，核心功能全被付费墙锁死。\n\n顶级的搞钱玩家早就学会了“零成本本地化研发”。\n\n刚冲上2.9万星的 Floci 直接把云厂商的底裤撕了：\n- 真正 100% 开源免费，永久不收过路费\n- 无需登录、无需Token、绝无付费功能门槛\n- 一行命令 `docker compose up`，直接在Mac上完整跑起云服务\n\n不用再为本地联调绑信用卡，也不用忍受臃肿的商业模拟器。一人公司想要极致杠杆，第一步就是干掉所有非必要的基础设施开销。\n\nGitHub直达：https://github.com/floci-io/floci\n\n#一人公司 #开源 #独立开发 #AWS #程序员"
+        "content": "很多独立开发者和初创团队都在犯这个蠢：在云上开一堆测试环境，月底收到几千刀账单才肉疼；或者用LocalStack，核心功能全被付费墙锁死。\n\n顶级的搞钱玩家早就学会了“零成本本地化研发”。\n\n刚冲上2.9万星的 Floci 直接把云厂商的底裤撕了：\n- 真正 100% 开源免费，永久不收过路费\n- 无需登录、无需Token、绝无付费功能门槛\n- 一行命令 `docker compose up`，直接在Mac上完整跑起云服务\n\n不用再为本地联调绑信用卡，也不用忍受臃肿的商业模拟器。一人公司想要极致杠杆，第一步就是干掉所有非必要的基础设施开销。\n\nGitHub直达：https://github.com/floci-io/floci\n\n#一人公司 #开源 #独立开发 #AWS #程序员",
+        "thread_ids": [
+          "2126481307178008840",
+          "2126481360261140633",
+          "2126481408952832496",
+          "2126481458529521668",
+          "2126481509548986874"
+        ],
+        "tweet_url": "https://x.com/i/status/2126481307178008840",
+        "posted_at": "2026-11-28T01:01:16.374204+00:00"
       },
       {
         "repo": "addyosmani/agent-skills",

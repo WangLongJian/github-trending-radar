@@ -8,7 +8,7 @@
   "alpha_john": {
     "timezone": "America/Los_Angeles (PT)",
     "next_24h_count": 5,
-    "backlog_count": 380,
+    "backlog_count": 390,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -774,13 +774,65 @@
         "account": "Alpha John",
         "copy_source": "gemini_v2",
         "content": "Stop paying $200/yr for Mac micro-utilities.\n\nThe modern developer stack is bloated with $5/month menu bar apps that eat your RAM and leak your telemetry.\n\nVorssaint just dropped an open-source atomic bomb on the entire Mac utility market (32k+ ⭐, +501 today).\n\nBefore:\n❌ CleanShot subscription\n❌ Magnet/Rectangle config hell\n❌ 14 background daemons eating 4GB RAM\n❌ $150+ in silent SaaS recurring charges\n\nAfter:\n✅ ONE native menu bar icon\n✅ Replaces a dozen paid utilities\n✅ Modular architecture: install only what you use\n✅ 100% free, private, Apple Silicon native\n\nPure extreme leverage for solo builders.\n\nRepo: https://github.com/vorssaint/vorssaint-utils\n\n#macOS #OpenSource #DevTools #IndieHacker #BuildInPublic"
+      },
+      {
+        "repo": "nightly-labs/openbot",
+        "url": "https://github.com/nightly-labs/openbot",
+        "stars": 4257,
+        "stars_today": "485 stars today",
+        "heat_score": 48504257,
+        "scheduled_time": "2026-11-28 13:00:00 PST",
+        "iso_time": "2026-11-28T13:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most developers are using AI all wrong. You're copy-pasting code between chat boxes like an unpaid intern.\n\nMeet OpenBot: the local-first desktop workspace that turns single founders into a 10-person dev team.\n\nBefore: Switch tabs, beg Claude to fix a bug, paste back into Cursor, repeat until burnout.\nNow: Spin up dedicated persistent workspaces where Claude Code, Grok CLI, Devin, and Codex collaborate directly with zero babysitting.\n\nWhat it unlocks:\n• Agent-to-agent messaging & task queues\n• Embedded browser control with full execution\n• Shared files & zero per-action prompt fatigue\n• 100% local-first data control\n\nExtreme leverage is no longer a buzzword. It's software running software.\n\nStar the repo: https://github.com/nightly-labs/openbot\n\n#AI #DevTools #Solopreneur #OpenSource"
+      },
+      {
+        "repo": "floci-io/floci",
+        "url": "https://github.com/floci-io/floci",
+        "stars": 29060,
+        "stars_today": "482 stars today",
+        "heat_score": 48229060,
+        "scheduled_time": "2026-11-28 17:00:00 PST",
+        "iso_time": "2026-11-28T17:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Local cloud testing used to be pure misery:\n\nBefore:\n❌ Burn $500/mo on AWS dev sandboxes\n❌ LocalStack locking core features behind $35/mo paywalls\n❌ Nightmare IAM credentials just to test a Lambda function\n\nNow (Floci changed everything):\n✅ 100% Free & MIT open-source\n✅ No account, no API keys, zero feature gates\n✅ Run entire AWS mock environments locally\n✅ Lightweight & ultra-fast startup\n\nIf you're building as a solopreneur or running a lean software factory, your dev environment shouldn't cost as much as your production cluster.\n\nOne command to rule them all:\n`docker compose up`\n\nStar it before your next sprint: https://github.com/floci-io/floci\n\n#DevOps #AWS #CloudComputing #Docker #OpenSource #SoloFounder"
+      },
+      {
+        "repo": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "stars": 115397,
+        "stars_today": "465 stars today",
+        "heat_score": 46615397,
+        "scheduled_time": "2026-11-28 21:00:00 PST",
+        "iso_time": "2026-11-28T21:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Most devs use AI coding agents like slot machines: prompt, pray, debug 200 lines of hallucinated spaghetti. Stop doing this.\n\nAddy Osmani just dropped the ultimate blueprint: Agent Skills.\n\nIt embeds the exact workflows of L7 senior engineers directly into your agents across the entire dev lifecycle:\n\n• /spec — Refines architecture before touching code\n• /plan — Breaks projects into atomic, non-destructive tasks\n• /build — Ships incrementally slice by slice\n• /test & /review — Automatic QA gates\n• /ship — Production-ready release verification\n\nBefore: 100 wasted prompts & broken builds.\nAfter: A full-blown autonomous software factory on your laptop.\n\nPure alpha for solo founders and technical operators.\n\nCheck it out: https://github.com/addyosmani/agent-skills\n\n#AI #SoftwareEngineering #Cursor #BuildInPublic #DevTools"
+      },
+      {
+        "repo": "google-deepmind/mujoco",
+        "url": "https://github.com/google-deepmind/mujoco",
+        "stars": 17502,
+        "stars_today": "456 stars today",
+        "heat_score": 45617502,
+        "scheduled_time": "2026-11-29 09:00:00 PST",
+        "iso_time": "2026-11-29T09:00:00-08:00",
+        "status": "pending",
+        "account": "Alpha John",
+        "copy_source": "gemini_v2",
+        "content": "Physical AI is the next trillion-dollar unlock—and Google DeepMind already handed us the keys.\n\nBefore:\n❌ Burn millions renting robotic test labs\n❌ Weeks debugging real-world hardware collisions\n❌ Clunky physics engines dragging FPS to zero\n\nNow with MuJoCo:\n✅ Extreme simulation speed with preallocated memory\n✅ Flawless multi-joint contact dynamics\n✅ Native C API + interactive rendering engine\n✅ The real gold standard behind DeepMind & OpenAI robotics\n\nSolo builders are training embodied AI agents inside virtual physics rigs before touching silicon.\n\nStop building toys. Start shipping embodied intelligence.\n\n🔗 https://github.com/google-deepmind/mujoco\n\n#Robotics #MachineLearning #OpenSource #DeepMind #DevLeverage"
       }
     ]
   },
   "wangkun_pas": {
     "timezone": "Asia/Shanghai (CST)",
     "next_24h_count": 5,
-    "backlog_count": 375,
+    "backlog_count": 386,
     "queue": [
       {
         "repo": "HKUDS/DeepTutor",
@@ -2097,6 +2149,66 @@
           "用顶级工具击碎效率瓶颈，把省下的时间拿去搞钱和迭代业务。赶紧收藏 Star 备用，别再做低效体力活！\n\n#人工智能 #独立开发 #生产力工具 #开源"
         ],
         "content": "你还在手动复制粘贴、或者写几十行脚本洗数据喂给大模型？认知差就在这里。\n\n普通人建知识库：格式混乱、表格错位、图片音频全丢，AI回答全是幻觉；\n顶级玩家用杠杆：直接用微软开源的神器【MarkItDown】，近20万星的杀手级工具。\n\n它的作用极其纯粹：把现实世界所有格式，全自动压榨成最适合LLM吸收的干净Markdown。\n\n支持格式极其残暴：\n• PDF、Word、PPT、Excel 结构化无损保留\n• 图片自动提取 EXIF 与视觉描述\n• 音频直接完成语音转录\n• 网页、YouTube 链接、压缩包一键解析\n\n一行 Python 代码就能跑，根本不需要搭建复杂基础设施。一人公司和独立开发者做 RAG、智能体知识库的绝对神器。别再做无意义的搬砖体力活，用巨头的轮子武装自己！\n\n🔗 https://github.com/microsoft/markitdown\n\n#人工智能 #独立开发 #生产力工具 #搞钱 #知识库"
+      },
+      {
+        "repo": "XiaoYouChR/Ghost-Downloader-3",
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+        "stars": 12233,
+        "stars_today": "432 stars today",
+        "heat_score": 43212233,
+        "scheduled_time": "2026-11-29 09:00:00 CST",
+        "iso_time": "2026-11-29T09:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "说实话，90%搞自媒体和出海创业的人，每天都在最底层的脏活上浪费时间。Ghost-Downloader-3（1.2万星）被誉为下载器的集大成者，彻底统一所有下载需求：https://github.com/XiaoYouChR/Ghost-Downloader-3 🧵",
+          "普通人的做法：装五六个满屏广告的浏览器插件，下个高清素材被限速几十KB，还要到处求解析接口。顶级选手的做法：一套开源多线程流水线，直接拉满带宽上限秒杀全网资源。",
+          "这个神器最狠的地方在于它把多线程加速、代理路由和音视频一键解析全部打通。主流媒体平台内容无损提取，跨国网络直接调用代理穿透，真正实现全平台免翻车下载。",
+          "零门槛上手，无流氓弹窗，完全免费开源。一人公司和数字游民最宝贵的就是注意力，别再把精力消耗在等进度条和折腾失效工具上。",
+          "立刻武装你的素材收割效率，把省下来的时间拿去赚钱。觉得有用请转发收藏，技术永远是拉开差距的最大杠杆。\n\n#出海搞钱 #独立开发 #开源神器 #生产力工具"
+        ],
+        "content": "说实话，90%搞自媒体和出海创业的人，每天都在最底层的脏活上浪费大量生命。\n\n找素材卡顿、被网站限速、换了三四个插件全是弹窗广告甚至病毒…认知差就在这里：顶级高手都在用开源基建建立「信息收割机」，普通人还在四处求资源。\n\n开源界刚爆火的 Ghost Downloader 3（斩获 1.2w+ 星），号称“下载器的集大成者”。它直接把复杂的多线程加速、代理轮换、跨平台音视频抓取封死在一个极简工具里。\n\n核心爽点：\n• 聚合解析：各大主流视频平台一键无损提取\n• 满速破防：多线程并发，直接拉满带宽上限\n• 纯净开源：无流氓插件、无捆绑付费，开箱即用\n\n一人公司最宝贵的资产是时间，别再把精力浪费在等进度条上。\n\n项目地址：https://github.com/XiaoYouChR/Ghost-Downloader-3\n\n#出海搞钱 #独立开发 #开源神器 #生产力工具"
+      },
+      {
+        "repo": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "stars": 38299,
+        "stars_today": "420 stars today",
+        "heat_score": 42038299,
+        "scheduled_time": "2026-11-29 13:00:00 CST",
+        "iso_time": "2026-11-29T13:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "你花高价买的显卡，凭什么跑大厂阉割过的残废AI？GitHub爆火3.8万星的 Heretic 彻底撕碎了模型的思想钢印：无需训练，在游戏本上直接给大模型做脑叶手术。彻底解除过度审查与虚假谄媚👇\nhttps://github.com/p-e-w/heretic 🧵",
+          "普通人还在当 API 租户，问点深度问题就被AI道德说教；要点真实反馈，它满嘴都是“您说得太棒了”的无脑奉承。\n真正的独立开发者绝不能把核心业务逻辑，押注在随时被大厂封锁、阉割的保姆模型上。",
+          "以往要让模型变聪明、去掉说教，需要租昂贵的云端算力跑微调，耗时耗钱。\nHeretic 颠覆性的地方在于：Training-free（完全零训练）。利用独特的权重干涉算法，只要你的机器能跑推理，就能直接在权重层完成手术。",
+          "门槛低到不可思议：\n原生支持 4-bit 动态量化，单张普通消费级游戏显卡，一个下午就能跑完。\n彻底清除AI烂梗废话（slop），压制谄媚倾向，让你获得一个真正敢讲真话、逻辑严密的硬核数字搭子。",
+          "模型主权属于个人，而不是大厂的合规部。别再租用被戴上脚镣的工具，去 GitHub 给它点个 Star，把算力的完全控制权拿回自己手中。\n\n#开源项目 #大语言模型 #独立开发 #极客"
+        ],
+        "content": "你花大几千买的显卡，凭什么只能跑那些被大厂阉割过、满嘴客套话的“残废”AI？\n\n每次问点硬核问题，AI 就弹出一堆道德说教；要它提真实意见，它只会谄媚附和说“你说的太对了”——这就是典型的闭源大模型毒瘤。\n\n今天这个爆火 3.8 万星的开源项目 Heretic，直接掀翻了大厂的桌子：\n\n它实现了完全“无需重新训练”的模型手术：\n❌ 不用租昂贵算力集群去微调几个月\n❌ 不用忍受大厂强行塞给你的政治正确与AI套话\n✅ 一张普通家用游戏显卡，一个下午直接搞定\n✅ 4-bit 量化直冲，彻底去除过度审查与阿谀奉承\n✅ 还原最真实、锋利、无保留的顶级数字员工\n\n认知差就在这里：普通人还在当 API 租户乖乖被喂垃圾，顶级极客已经在本地打造完全私有、毫无枷锁的超级外脑。\n\n项目地址：https://github.com/p-e-w/heretic\n\n#人工智能 #开源项目 #大模型 #独立开发者 #技术破局"
+      },
+      {
+        "repo": "kornia/kornia",
+        "url": "https://github.com/kornia/kornia",
+        "stars": 12238,
+        "stars_today": "412 stars today",
+        "heat_score": 41212238,
+        "scheduled_time": "2026-11-29 17:00:00 CST",
+        "iso_time": "2026-11-29T17:00:00+08:00",
+        "status": "pending",
+        "account": "王坤PAS",
+        "copy_source": "gemini_v2",
+        "thread": [
+          "还在用20年前的OpenCV折腾空间AI？顶级团队早就换上了10倍杠杆神器Kornia：PyTorch原生的可微几何计算机视觉库，让显卡性能直接拉满！项目直达：https://github.com/kornia/kornia 🧵",
+          "普通人的傻做法：在PyTorch和CPU版OpenCV之间来回拷贝数据，显存堵死，速度慢成PPT。顶级玩家直接全流程GPU跑通，无缝嵌入Tensor流，彻底告别性能瓶颈。",
+          "最颠覆的是它100%可微！相机位姿变换、图像透视扭曲、3D几何计算都能直接进行梯度反向传播。把经典几何算法变成神经网络的一个层，端到端优化直接拉满。",
+          "门槛低到不可思议：只要你会写PyTorch代码，几行就能调起工业级特征匹配、点云处理和3D几何重建。一人公司也能轻松跑通自动驾驶、具身智能与空间计算应用。",
+          "认知差就是生产力。别再花几个月自研轮子，把精力留给产品落地和搞钱！赶紧去GitHub点星收藏起来。 #人工智能 #开源项目 #计算机视觉 #独立开发"
+        ],
+        "content": "做视觉AI最让人崩溃的，不是调参，而是把OpenCV切回CPU处理图像，再转成Tensor塞回GPU——显存被挤爆，速度慢成PPT。\n\n顶级的空间AI团队早已换上10倍杠杆工具：Kornia！\n\n它就是“PyTorch 原生版的高阶 OpenCV”：\n\n1️⃣ 彻底打通GPU：所有图像几何变换、边缘检测全在显卡上跑，没有格式转换内耗。\n2️⃣ 100% 可微：相机位姿、图像仿射、透视变换都能直接进行梯度回传，端到端训练无缝衔接。\n3️⃣ 空间智能标配：从3D点云、立体匹配到SLAM，空间计算底层逻辑直接封装好给你用。\n\n不要再拿20年前的轮子死磕2025年的AI。一人跑通工业级空间感知，省下数月自研轮子成本。\n\n项目直达：https://github.com/kornia/kornia\n\n#人工智能 #开源项目 #计算机视觉 #PyTorch #独立开发"
       }
     ]
   }
